@@ -1,6 +1,6 @@
 {
 "date": "2026-06-11",
-"total": 130,
+"total": 131,
 "categories": {
 "AI": [
 {
@@ -79,6 +79,13 @@
 "link": "https://the-decoder.com/free-deezer-tool-lets-users-on-any-streaming-service-check-their-playlists-for-ai-music/",
 "summary": "Deezer now offers a free AI music detector that lets users on any major streaming platform check whether AI-generated songs are hiding in their playlists. The article Free Deezer tool lets users on any streaming service check their playlist…",
 "published": 1781194462.0
+},
+{
+"source": "HN AI 热门",
+"title": "Ask HN: How do you get into a flow state when using AI to code?",
+"link": "https://news.ycombinator.com/item?id=48492118",
+"summary": "Before agentic coding, I always prided myself on how long I could work in a flow state. I was really good at working deeply.Now, with slow agents like Claude, I find myself no longer working deeply.What are you all doing to stay focused? Co…",
+"published": 1781193385.0
 },
 {
 "source": "InfoQ 中国",

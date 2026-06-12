@@ -1,8 +1,22 @@
 {
 "date": "2026-06-12",
-"total": 31,
+"total": 37,
 "categories": {
 "AI": [
+{
+"source": "InfoQ 中国",
+"title": "打破向量检索的局限：RAG 混合检索实践",
+"link": "https://www.infoq.cn/article/QC1mkdEzZRL1FFpvfukC?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1781261376.0
+},
+{
+"source": "InfoQ 中国",
+"title": "身临其境 沉浸互动——大型赛事直播与互动实战指南",
+"link": "https://www.infoq.cn/minibook/wqj338Aub43YjjTYEDEx?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1781260985.0
+},
 {
 "source": "InfoQ 中国",
 "title": "Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）",
@@ -26,6 +40,34 @@
 }
 ],
 "科技": [
+{
+"source": "36氪",
+"title": "开悟世界模型在RoboTwin 2.0等具身智能评测中居首",
+"link": "https://36kr.com/newsflashes/3849612388570374?f=rss",
+"summary": "36氪获悉，近日，大晓机器人开悟世界模型（Kairos）同时在RoboTwin 2.0、LIBERO-Plus、WorldModelBench Robot、DreamGen等全球针对世界模型视频生成和状态预测的具身智能评测中均实现第一。该模型采用“多模态理解—生成—预测”一体化架构，已向全行业开源。",
+"published": 1781233693.0
+},
+{
+"source": "36氪",
+"title": "InterDigital与亚马逊达成新的视频服务和设备许可协议",
+"link": "https://36kr.com/newsflashes/3849602939753477?f=rss",
+"summary": "当地时间6月11日，InterDigital宣布与亚马逊已就一项专利许可协议达成一致，该协议涵盖亚马逊的服务和设备，包括Amazon Prime Video。双方已同意解决所有未决诉讼，并将进行具有约束力的仲裁，以确定新协议的最终条款。（界面）",
+"published": 1781233116.0
+},
+{
+"source": "36氪",
+"title": "晶核能源发布全球首款专为机器人场景定制的高性能固态电池",
+"link": "https://36kr.com/newsflashes/3849592681895176?f=rss",
+"summary": "36氪获悉，近日，上海FINE 2026未来产业新材料博览会启幕，晶核能源携全球首款专为机器人场景定制的高性能固态电池首发，并获 “2026固态电池领军金球奖”。",
+"published": 1781232490.0
+},
+{
+"source": "36氪",
+"title": "1至5月全国铁路完成固定资产投资2485亿元",
+"link": "https://36kr.com/newsflashes/3849585151726851?f=rss",
+"summary": "记者今天（12日）从国铁集团获悉，今年1至5月，全国铁路完成固定资产投资2485亿元，同比增长2.6%，一批重点建设项目加快推进。（央视新闻）",
+"published": 1781232031.0
+},
 {
 "source": "36氪",
 "title": "众擎机器人据悉将向港交所提交IPO申请",

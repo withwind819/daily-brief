@@ -1,0 +1,27 @@
+把项目推送到 GitHub —— 两种方式任选其一
+==================================================
+
+【方式 A：GitHub CLI（最省事，推荐）】
+1. 安装 GitHub CLI：https://cli.github.com
+2. 双击运行本目录下的 push_to_github.bat，按提示操作即可
+   （首次会让你在浏览器登录授权 GitHub）
+
+【方式 B：手动（不装 CLI）】
+1. 打开 https://github.com/new 创建一个新仓库
+   - 仓库名随意，例如 daily-brief
+   - 不要勾选 "Add a README"（本地已有）
+   - 创建后复制它给出的仓库地址，形如：
+     https://github.com/你的用户名/daily-brief.git
+2. 在本目录打开命令行（在地址栏输入 cmd 回车），依次执行：
+     git remote add origin https://github.com/你的用户名/daily-brief.git
+     git push -u origin main
+   （首次推送会弹出 GitHub 登录窗口，用浏览器授权即可）
+
+==================================================
+推送成功后，开启自动更新看板：
+1. 仓库 Settings -> Pages -> Source 选 "GitHub Actions"
+2. 仓库 Settings -> Actions -> General -> Workflow permissions
+   选 "Read and write permissions"
+3. Actions 页面点 "Run workflow" 跑一次
+4. 跑完在 Settings -> Pages 顶部看到网址，即你的看板地址
+之后每天早 7:00 自动更新。

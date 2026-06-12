@@ -1,0 +1,52 @@
+{
+"date": "2026-06-03",
+"total": 6,
+"categories": {
+"AI": [
+{
+"source": "OpenAI 博客",
+"title": "Introducing new capabilities to GPT-Rosalind",
+"link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+"summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+"published": 1780492500.0
+},
+{
+"source": "OpenAI 博客",
+"title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+"link": "https://openai.com/index/wasmer",
+"summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+"published": 1780488000.0
+},
+{
+"source": "OpenAI 博客",
+"title": "OpenAI public policy agenda",
+"link": "https://openai.com/index/public-policy-agenda",
+"summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+"published": 1780480800.0
+},
+{
+"source": "OpenAI 博客",
+"title": "A blueprint for democratic governance of frontier AI",
+"link": "https://openai.com/index/frontier-safety-blueprint",
+"summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+"published": 1780480800.0
+}
+],
+"创投": [
+{
+"source": "TechCrunch VC",
+"title": "Defense tech is flooded with money, but who’s built to last?",
+"link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+"summary": "Defense tech is red hot right now. Anduril and Mach Industries just doubled and quadrupled their valuations, respectively, and the U.S. government is proposing a 40% increase in defense budget. A wave of new startups is chasing those govern…",
+"published": 1780519901.0
+},
+{
+"source": "TechCrunch VC",
+"title": "Ross Fubini wrote Anduril’s first check. Here’s what he’s looking for in defense tech.",
+"link": "https://techcrunch.com/podcast/ross-fubini-wrote-andurils-first-check-heres-what-hes-looking-for-in-defense-tech/",
+"summary": "Defense tech is red hot right now. Anduril and Mach Industries just doubled and quadrupled their valuations, respectively, and the U.S. government is proposing a 40% increase in defense budget. A wave of new startups is chasing those govern…",
+"published": 1780512278.0
+}
+]
+}
+}

@@ -1,0 +1,96 @@
+{
+"date": "2026-06-08",
+"total": 12,
+"categories": {
+"AI": [
+{
+"source": "HN AI 热门",
+"title": "Apple bets cheaper AI will woo small developers",
+"link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+"summary": "Article URL: https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/ Comments URL: https://news.ycombinator.com/item?id=48452000 Points: 97 # Comments: 37",
+"published": 1780952520.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Confidential submission of draft S-1 to the SEC",
+"link": "https://openai.com/index/openai-submits-confidential-s-1",
+"summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+"published": 1780927200.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Built to benefit everyone: our plan",
+"link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+"summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+"published": 1780882200.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Introducing the OpenAI Economic Research Exchange",
+"link": "https://openai.com/index/economic-research-exchange",
+"summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+"published": 1780876800.0
+}
+],
+"科技": [
+{
+"source": "爱范儿",
+"title": "iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜",
+"link": "https://www.ifanr.com/1668385?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "苹果迟到的 AI 反攻，从 Siri 开始#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1780953616.0
+},
+{
+"source": "爱范儿",
+"title": "300 个 AI 和我的八块腹肌",
+"link": "https://www.ifanr.com/1668274?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "每天都能准点下班了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1780919192.0
+},
+{
+"source": "爱范儿",
+"title": "尊界 V800 内饰曝光！水晶壁灯上车，还有一台现磨咖啡机",
+"link": "https://www.ifanr.com/1668353?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "把开车的麻烦留给司机，把喝茶的体面留给后排。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1780915003.0
+},
+{
+"source": "爱范儿",
+"title": "苹果发布会最全预测：今晚你的 iPhone，会变成这个样子｜WWDC2026",
+"link": "https://www.ifanr.com/1668275?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "库克最后一舞#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1780911671.0
+},
+{
+"source": "爱范儿",
+"title": "对话 MiniMax 择因：Agent 终会超过人类，我们又将何去何从？",
+"link": "https://www.ifanr.com/1668337?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "山雨欲来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1780895728.0
+},
+{
+"source": "爱范儿",
+"title": "英伟达：带领 PC，重铸 PC｜硬哲学",
+"link": "https://www.ifanr.com/1668041?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "将人类从人类中解放出来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1780891184.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜苹果发布会限量礼品曝光/字节跳动：没有造车计划/谷歌每月花9.2亿美元向SpaceX租算力",
+"link": "https://www.ifanr.com/1668272?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 本田在华销量连续两个月接近腰斩 · 京东与腾讯据称将围绕 AI Agent 合作 · 全球首个预制算力中心底座在青岛投用#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1780879229.0
+}
+],
+"创投": [
+{
+"source": "Crunchbase",
+"title": "How Bigger ACVs Are Bringing Direct Sales Back To Vertical AI",
+"link": "https://news.crunchbase.com/ai/bigger-acvs-bring-direct-sales-vertical-ai-agarwal-defy/",
+"summary": "Successful vertical AI startups are increasingly using channels like private equity networks and industry conferences to drive distribution, recognizing that larger deal sizes require a fundamentally different go-to-market playbook than tra…",
+"published": 1780916427.0
+}
+]
+}
+}

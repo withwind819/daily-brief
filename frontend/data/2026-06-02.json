@@ -1,0 +1,59 @@
+{
+"date": "2026-06-02",
+"total": 7,
+"categories": {
+"AI": [
+{
+"source": "OpenAI 博客",
+"title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+"link": "https://openai.com/index/travelers",
+"summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+"published": 1780401600.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "Rehumanizing global health care with agentic AI",
+"link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+"summary": "The global health care sector is under increasing strain. Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a tol…",
+"published": 1780399414.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Codex for every role, tool, and workflow",
+"link": "https://openai.com/index/codex-for-every-role-tool-workflow",
+"summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+"published": 1780390800.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "How small businesses can leverage AI",
+"link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+"summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product developmen…",
+"published": 1780390800.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Advancing youth safety and opportunity through global leadership",
+"link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+"summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+"published": 1780383600.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Codex is becoming a productivity tool for everyone",
+"link": "https://openai.com/index/codex-for-knowledge-work",
+"summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+"published": 1780365600.0
+}
+],
+"创投": [
+{
+"source": "TechCrunch VC",
+"title": "Why VivaTech 2026 is the place to see Europe’s AI strategy take shape",
+"link": "https://techcrunch.com/2026/06/02/why-vivatech-2026-is-the-place-to-see-europes-ai-strategy-take-shape/",
+"summary": "TechCrunch is partnering with VivaTech 2026 to spotlight some of the most important conversations shaping the future of artificial intelligence. Join us in Paris June 17-20!",
+"published": 1780412700.0
+}
+]
+}
+}

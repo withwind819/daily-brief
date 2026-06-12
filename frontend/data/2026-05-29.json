@@ -1,0 +1,45 @@
+{
+"date": "2026-05-29",
+"total": 5,
+"categories": {
+"AI": [
+{
+"source": "OpenAI 博客",
+"title": "Boston Children’s uses AI to unlock new diagnoses",
+"link": "https://openai.com/index/boston-childrens-hospital",
+"summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+"published": 1780056000.0
+},
+{
+"source": "OpenAI 博客",
+"title": "How Braintrust turns customer requests into code with Codex",
+"link": "https://openai.com/index/braintrust",
+"summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+"published": 1780056000.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+"link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+"summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call…",
+"published": 1780048800.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Strengthening societal resilience with Rosalind Biodefense",
+"link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+"summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+"published": 1780023600.0
+}
+],
+"创投": [
+{
+"source": "TechCrunch VC",
+"title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+"link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+"summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+"published": 1780075633.0
+}
+]
+}
+}

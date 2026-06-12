@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日早报 · AI / 科技 / 创投</title>
+<style>
+  :root{
+    --bg:#f6f7f9; --card:#fff; --line:#e6e8eb; --text:#1c1e21;
+    --muted:#6b7280; --accent:#2563eb; --chip:#eef2ff; --chipText:#3730a3;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+    background:var(--bg);color:var(--text);line-height:1.6;padding:0 0 60px}
+  header{background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:10}
+  .wrap{max-width:840px;margin:0 auto;padding:0 20px}
+  .title{display:flex;align-items:center;gap:10px;padding:18px 0 12px}
+  .title h1{font-size:20px;font-weight:700}
+  .title .sub{color:var(--muted);font-size:13px}
+  .bar{display:flex;align-items:center;gap:10px;padding-bottom:14px;flex-wrap:wrap}
+  .datenav{display:flex;align-items:center;gap:6px}
+  button,select{font:inherit;cursor:pointer;border:1px solid var(--line);background:var(--card);
+    color:var(--text);border-radius:8px;padding:7px 12px;transition:.15s}
+  button:hover:not(:disabled){border-color:var(--accent);color:var(--accent)}
+  button:disabled{opacity:.4;cursor:not-allowed}
+  select{min-width:150px}
+  .cats{display:flex;gap:8px;margin-left:auto;flex-wrap:wrap}
+  .cat{border-radius:20px;padding:6px 14px;font-size:14px}
+  .cat.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+  main{max-width:840px;margin:22px auto 0;padding:0 20px}
+  .group{margin-bottom:26px}
+  .ghead{display:flex;align-items:baseline;gap:8px;margin-bottom:12px;
+    padding-bottom:8px;border-bottom:2px solid var(--line)}
+  .ghead h2{font-size:17px;font-weight:700}
+  .ghead .n{color:var(--muted);font-size:13px}
+  .item{background:var(--card);border:1px solid var(--line);border-radius:10px;
+    padding:14px 16px;margin-bottom:10px;transition:.15s}
+  .item:hover{box-shadow:0 2px 12px rgba(0,0,0,.06);border-color:#d1d5db}
+  .item a.t{font-size:15.5px;font-weight:600;color:var(--text);text-decoration:none;display:block}
+  .item a.t:hover{color:var(--accent)}
+  .meta{display:flex;gap:10px;align-items:center;margin-top:6px;font-size:12.5px;color:var(--muted)}
+  .chip{background:var(--chip);color:var(--chipText);border-radius:6px;padding:2px 8px;font-size:12px}
+  .sum{margin-top:8px;font-size:13.5px;color:#444}
+  .empty,.loading{text-align:center;color:var(--muted);padding:60px 0;font-size:15px}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="title">
+      <h1>📰 每日早报</h1>
+      <span class="sub">AI · 科技 · 创投</span>
+    </div>
+    <div class="bar">
+      <div class="datenav">
+        <button id="prev" title="前一天">‹</button>
+        <select id="dateSel"></select>
+        <button id="next" title="后一天">›</button>
+      </div>
+      <div class="cats" id="cats"></div>
+    </div>
+  </div>
+</header>
+<main id="main"><div class="loading">加载中…</div></main>
+
+<script>
+const CATS = ["全部","AI","科技","创投"];
+let dates = [];      // [{date,count}]
+let curDate = null;
+let curCat = "全部";
+let cache = {};      // date -> data
+
+const $ = s => document.querySelector(s);
+
+// 双模式取数：优先后端 API，失败回退静态 JSON（GitHub Pages）
+let MODE = null; // 'api' | 'static'
+async function getJSON(url){ const r = await fetch(url); if(!r.ok) throw new Error(r.status); return r.json(); }
+async function apiDates(){
+  if(MODE==='static') return getJSON('data/index.json');
+  try{ const d = await getJSON('/api/dates'); MODE='api'; return d; }
+  catch(e){ MODE='static'; return getJSON('data/index.json'); }
+}
+async function apiNews(date){
+  if(MODE==='static') return getJSON('data/'+date+'.json');
+  try{ return await getJSON('/api/news?date='+encodeURIComponent(date)); }
+  catch(e){ MODE='static'; return getJSON('data/'+date+'.json'); }
+}
+
+function fmtTime(ts){
+  if(!ts) return "";
+  const d = new Date(ts*1000);
+  const p = n => String(n).padStart(2,"0");
+  return `${p(d.getMonth()+1)}-${p(d.getDate())} ${p(d.getHours())}:${p(d.getMinutes())}`;
+}
+
+async function loadDates(){
+  dates = await apiDates();
+  const sel = $("#dateSel");
+  sel.innerHTML = dates.map(d=>`<option value="${d.date}">${d.date}（${d.count}）</option>`).join("");
+  if(dates.length){ curDate = dates[0].date; sel.value = curDate; }
+  renderCats();
+  await loadNews();
+}
+
+function renderCats(){
+  $("#cats").innerHTML = CATS.map(c =>
+    `<button class="cat ${c===curCat?'active':''}" data-c="${c}">${c}</button>`).join("");
+  document.querySelectorAll(".cat").forEach(b=>b.onclick=()=>{curCat=b.dataset.c;renderCats();render();});
+}
+
+async function loadNews(){
+  if(!curDate){ $("#main").innerHTML='<div class="empty">暂无数据，请先运行后端抓取脚本。</div>'; return; }
+  $("#main").innerHTML='<div class="loading">加载中…</div>';
+  if(!cache[curDate]){
+    cache[curDate] = await apiNews(curDate);
+  }
+  render();
+  syncNav();
+}
+
+function render(){
+  const data = cache[curDate];
+  if(!data || !data.categories || Object.keys(data.categories).length===0){
+    $("#main").innerHTML='<div class="empty">这一天没有消息。</div>'; return;
+  }
+  let html="";
+  for(const [cat, items] of Object.entries(data.categories)){
+    if(curCat!=="全部" && curCat!==cat) continue;
+    html += `<div class="group"><div class="ghead"><h2>${cat}</h2><span class="n">${items.length} 条</span></div>`;
+    for(const it of items){
+      html += `<div class="item">
+        <a class="t" href="${it.link}" target="_blank" rel="noopener">${it.title}</a>
+        <div class="meta"><span class="chip">${it.source}</span><span>${fmtTime(it.published)}</span></div>
+        ${it.summary?`<div class="sum">${it.summary}</div>`:""}
+      </div>`;
+    }
+    html += `</div>`;
+  }
+  $("#main").innerHTML = html || '<div class="empty">该分类下没有消息。</div>';
+}
+
+function syncNav(){
+  const i = dates.findIndex(d=>d.date===curDate);
+  $("#next").disabled = (i<=0);
+  $("#prev").disabled = (i<0 || i>=dates.length-1);
+}
+
+$("#dateSel").onchange = e => { curDate=e.target.value; loadNews(); };
+$("#prev").onclick = () => { const i=dates.findIndex(d=>d.date===curDate); if(i<dates.length-1){curDate=dates[i+1].date;$("#dateSel").value=curDate;loadNews();} };
+$("#next").onclick = () => { const i=dates.findIndex(d=>d.date===curDate); if(i>0){curDate=dates[i-1].date;$("#dateSel").value=curDate;loadNews();} };
+
+loadDates().catch(err=>{
+  $("#main").innerHTML='<div class="empty">加载失败：找不到数据。<br>本地请先运行后端，或部署时确认 data/ 目录已生成。</div>';
+});
+</script>
+</body>
+</html>

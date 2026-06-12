@@ -1,0 +1,278 @@
+{
+"date": "2026-06-10",
+"total": 38,
+"categories": {
+"AI": [
+{
+"source": "OpenAI 博客",
+"title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+"link": "https://openai.com/index/openai-on-oracle-cloud",
+"summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+"published": 1781121600.0
+},
+{
+"source": "The Decoder",
+"title": "Google's new open model DiffusionGemma generates text from noise instead of word by word",
+"link": "https://the-decoder.com/googles-new-open-model-diffusiongemma-generates-text-from-noise-instead-of-word-by-word/",
+"summary": "Google released DiffusionGemma, a 26-billion-parameter model that generates text not token by token but through diffusion, similar to how image AI turns noise into a picture. According to Nvidia, it hits about 1,000 tokens per second on a s…",
+"published": 1781119246.0
+},
+{
+"source": "HN AI 热门",
+"title": "Policy on the AI Exponential",
+"link": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+"summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential Comments URL: https://news.ycombinator.com/item?id=48480719 Points: 164 # Comments: 242",
+"published": 1781116564.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI's IPO slips as Altman tells staff to expect a public offering \"within the next year\"",
+"link": "https://the-decoder.com/openais-ipo-slips-as-altman-tells-staff-to-expect-a-public-offering-within-the-next-year/",
+"summary": "Sam Altman told employees he expects an OpenAI IPO \"within the next year,\" but a delay to 2027 is possible. He frames it as caution around self-improving AI, though Anthropic's stronger growth numbers and imminent IPO may be the real reason…",
+"published": 1781116020.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic study shows AI needs hours, not weeks, to build exploits from security patches",
+"link": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches/",
+"summary": "Anthropic's security team found that its Mythos Preview AI model can turn security patches for Firefox and the Windows kernel into working exploits within hours, for a few thousand dollars and no specialized knowledge. Eight complete attack…",
+"published": 1781113104.0
+},
+{
+"source": "HN AI 热门",
+"title": "Apache Burr: Build reliable AI agents and applications",
+"link": "https://burr.apache.org/",
+"summary": "Article URL: https://burr.apache.org/ Comments URL: https://news.ycombinator.com/item?id=48477400 Points: 243 # Comments: 113",
+"published": 1781103666.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI wants its biggest data center yet, and Nvidia would back the bill",
+"link": "https://the-decoder.com/openai-wants-its-biggest-data-center-yet-and-nvidia-would-back-the-bill/",
+"summary": "OpenAI is negotiating to lease a planned 10-gigawatt data center in Ohio that could be financially backed by Nvidia, according to The Information. The article OpenAI wants its biggest data center yet, and Nvidia would back the bill appeared…",
+"published": 1781099988.0
+},
+{
+"source": "HN AI 热门",
+"title": "A €0.01 bank transfer could compromise a banking AI agent",
+"link": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+"summary": "Article URL: https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/ Comments URL: https://news.ycombinator.com/item?id=48476136 Points: 204 # Comments: 195",
+"published": 1781098751.0
+},
+{
+"source": "OpenAI 博客",
+"title": "PRC-linked influence operations are targeting AI debates in the US",
+"link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+"summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+"published": 1781092800.0
+},
+{
+"source": "HN AI 热门",
+"title": "Rich Sutton on AI creativity and discovery",
+"link": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+"summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA Comments URL: https://news.ycombinator.com/item?id=48470581 Points: 207 # Comments: 123",
+"published": 1781058324.0
+},
+{
+"source": "HN AI 热门",
+"title": "German ruling declares Google liable for false answers in AI Overviews",
+"link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+"summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/ Comments URL: https://news.ycombinator.com/item?id=48470248 Points: 1004 # Comments: 534",
+"published": 1781055853.0
+},
+{
+"source": "OpenAI 博客",
+"title": "From data to decisions: how LSEG is scaling trusted AI",
+"link": "https://openai.com/index/lseg",
+"summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+"published": 1781049600.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "8点1氪丨世界杯门票遇冷，近18万张门票待转售；台积电释放涨价信号；但斌回应“被段永平拉黑”",
+"link": "https://36kr.com/p/3848000003953926?f=rss",
+"summary": "今日热点导览 花旗警告：金价或跌至3500美元 韩国股市再度熔断 何小鹏发内部信：本人亲自带队，最后200天冲刺机器人量产 伊朗宣布对所有船只关闭霍尔木兹海峡 SpaceX认购资金超2500亿美元 TOP 3 大新闻 2026世界杯门票遇冷，近18万张门票待转售 北京时间6月12日，2026年美加墨世界杯将举行揭幕战。目前，国际足联（FIFA）官方转售平台上挂牌出售的门票达17.6万张，主要集中在小组赛阶段。根据FIFA平台数据所做的价格与库存统计，不同球队之间的人气差异十分…",
+"published": 1781135300.0
+},
+{
+"source": "Solidot",
+"title": "人类习惯于左转逆时针行走",
+"link": "https://www.solidot.org/story?sid=84545",
+"summary": "研究人员在疫情期间进行了一系列实验，观察在保持安全距离的情况下多少人能共享同一空间。在回看视频时，他们注意到大多数人都逆时针方向行走。这一意外发现促使科学家展开了更多实验，发现人类总是倾向于逆时针行走。他们的研究报告发表在《Nature Communications》期刊上。科学家尚不清楚这种偏好的来源。男性和女性都存在该偏好行为，儿童中间更为明显。动物中间也有类似行为，如岩蚁（rock ants）探索未知巢穴时偏好左转。科学家怀疑与生物机械学有关，但确切机制仍然是个谜团。奥…",
+"published": 1781107872.0
+},
+{
+"source": "Solidot",
+"title": "FCC 计划在美国推行手机实名制",
+"link": "https://www.solidot.org/story?sid=84544",
+"summary": "美国联邦通信委员会(FCC)想要杀死匿名的一次性手机，计划通过法律强制要求电信公司存储手机用户的个人信息，相关个人信息包括政府颁发的身份识别号码和实际地址。此举引发了隐私倡导者和民权活动人士的担忧，认为美国在向专制国家看齐。FCC 给出的理由是打击诈骗，旨在阻止诈骗分子接入电信网络，“执法人员能更好地识别诈骗分子”。FCC 将这些措施比作银行为防止洗钱而收集的数据。",
+"published": 1781105944.0
+},
+{
+"source": "Solidot",
+"title": "npm v12 将不再自动执行依赖项",
+"link": "https://www.solidot.org/story?sid=84543",
+"summary": "在 Node.js 生态系统发生了一系列严重安全事件之后，npm 管理工具的下一个大版本 v12 将在安全方面进行重大调整：除非明确允许，npm install 不再自动执行依赖项的 preinstall、install、postinstall 脚本。来自 Git、文件和链接依赖项的准备脚本也会以同样的方式被阻止。npm v12 将于 2026 年 7 月推出。",
+"published": 1781103293.0
+},
+{
+"source": "Solidot",
+"title": "双星系统的化学构成差异揭示了行星被恒星吞噬的命运",
+"link": "https://www.solidot.org/story?sid=84542",
+"summary": "天文学家研究一个名为 HD 81809 的特殊双星系统时，发现两颗同时诞生的恒星拥有截然不同的化学组成。一般而言，双星诞生于同一个分子云，因此元素组成通常相当接近。但在 HD 81809 系统中，其中一颗恒星的铁含量明显偏低，而另一颗则拥有接近太阳的金属丰度，两颗恒星的铁元素含量相差约 3.7 倍，远超过一般双星演化模型能解释的范围。天文学家因此怀疑，其中一颗恒星可能曾吞噬自己的行星，改变了表面的化学组成。HD 81809 双星系统距离地球约 113 光年，由两颗类似太阳的 …",
+"published": 1781102008.0
+},
+{
+"source": "Solidot",
+"title": "半导体月销售额首次突破 1100 亿美元",
+"link": "https://www.solidot.org/story?sid=84541",
+"summary": "美国半导体行业协会（SIA）公布的数据显示，4 月全球半导体销售额同比增长 93.9% 达到 1104.8 亿美元。半导体销售额已连续 30 个月实现同比增长，环比增幅为 11%。除销量增长外，价格也显著上升。8GB DDR4 内存价格一年内涨至约 9 倍。三大内存厂商三星电子、SK 海力士和美光科技优先生产 AI 用内存产品，导致通用内存产品的供求关系趋于紧张。按区域来看，拉动销售额增长的是美国和亚洲。",
+"published": 1781100858.0
+},
+{
+"source": "36氪",
+"title": "雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线",
+"link": "https://36kr.com/p/3847339087140104?f=rss",
+"summary": "2026年6月，上海敬华艺术空间被布置成一间“奇想实验室”。瑞士高级制表品牌Ulysse Nardin雅典表在此举办“奇想无界，创造无境”2026新品品鉴会，将全新[Super] Freak奇想超级腕表、与中国当代艺术家刘人岛合作的鎏金系列《名扬四海》联名腕表，以及多枚代表性时计一并陈列。 对这家1846年诞生于瑞士勒洛克的独立制表商而言，这是一个被精心挑选的时间点——品牌创立180周年，恰逢其标志性的FREAK奇想系列问世25周年。 在全球奢侈品消费整体承压、中国高端钟表市…",
+"published": 1781098514.0
+},
+{
+"source": "Solidot",
+"title": "德国法庭裁决 Google 要对 AI Overviews 内容承担责任",
+"link": "https://www.solidot.org/story?sid=84540",
+"summary": "德国慕尼黑地区法庭裁决，Google 要对 AI Overviews 内容承担责任，因为 AI Overviews 是 Google 自己的内容，并非搜索结果列表。本案的原告是两家慕尼黑出版商，他们指控 Google 的 AI Overviews 错误将其与诈骗、订阅陷阱等不正当商业行为关联起来，他们向 Google 发去了禁止通知函(cease-and-desist letter)，但搜索巨人未正确回应。法院认为，Google 的 AI Overviews 与传统搜索结果不…",
+"published": 1781088829.0
+},
+{
+"source": "少数派",
+"title": "线下活动｜周日到广州来，给你一张过去的 CD",
+"link": "https://sspai.com/post/110911",
+"summary": "故事的开端今年因为和飞傲合作多功能便携CD音箱一体机BeatBox，我们对CD以及CD文化的了解也加深了不少，也因此认识不少真正的CD、唱片收藏大佬，谢江川川哥就是其中一位。川哥是一家唱片店的老板，从 ...查看全文",
+"published": 1781083800.0
+},
+{
+"source": "Solidot",
+"title": "比亚迪一年 200 次 OTA，次数远超竞争对手",
+"link": "https://www.solidot.org/story?sid=84538",
+"summary": "威尔森的数据显示，2025 年比亚迪针对自身“海洋”和“王朝”系列车型实际进行了 200 次软件更新（Over the Air 或 OTA），在汽车企业中次数最多。特斯拉在中国国内更新软件的次数为 16 次，丰田为 8 次，大众为 5 次。比亚迪之所以能够频繁更新软件，是因为 OTA 所需要的半导体、作为通信基础的操作系统、实际运行的硬件全部自主开发。相关负责人表示：“只要是自主设计，就可以迅速且准确地实现更新”。在价格竞争加剧导致中国国内销量下滑的背景下，比亚迪的目的是通过…",
+"published": 1781079793.0
+},
+{
+"source": "Solidot",
+"title": "Starlink 硬件从一次性付费转向月租",
+"link": "https://www.solidot.org/story?sid=84537",
+"summary": "Starlink 硬件从一次性付费转向 10 美元月租费。Starlink 硬件包括一个接收卫星信号的终端和一个放在家中的路由器。该费用不包含在网络服务费中。Starlink 的 100Mbps 套餐每月收费 55 美元，200Mbps 套餐每月收费 85 美元，400Mbps 的 Max 套餐每月收费 130 美元。Starlink 还提供专业安装服务，一次性收费 199 美元，Max 套餐用户免收安装费。",
+"published": 1781079260.0
+},
+{
+"source": "Solidot",
+"title": "Google Chrome 准备移除对 Manifest V2 的支持，杀死 uBlock Origin",
+"link": "https://www.solidot.org/story?sid=84536",
+"summary": "Google Chrome 准备完全移除对 Manifest V2 的支持，彻底杀死 uBlock Origin。Chrome 将只支持 Manifest v3 扩展，开发者声称 Chrome 默认禁用 Manifest V2 扩展已有一年多时间，继续支持相关功能存在技术上的挑战，Chrome 未来发布的版本将逐步移除 Manifest V2 相关功能，最终彻底将其移除：Chromium 150 移除 ExtensionManifestV2Disabled 选项，Chromi…",
+"published": 1781077171.0
+},
+{
+"source": "Solidot",
+"title": "NASA 公布了 Artemis III 任务宇航员名单",
+"link": "https://www.solidot.org/story?sid=84535",
+"summary": "NASA 公布了 Artemis III 任务的四名宇航员名单，他们都是男性且都有军事背景：NASA 宇航员 Randy Bresnik（担任指令长），Andre Douglas 和 Frank Rubio（任务专家），以及 ESA 宇航员 Luca Parmitano（飞行员）。Artemis 登月任务目前共执行了两次，第一次是无人绕月飞行，第二次是载人绕月飞行，第三次也就是 Artemis III 计划最早于 2027 年夏季执行，仍然是一次载人绕月飞行，第四次任务计划在…",
+"published": 1781075006.0
+},
+{
+"source": "少数派",
+"title": "又是一年 618：可以直接抄作业的护肤搭配清单",
+"link": "https://sspai.com/post/110614",
+"summary": "直接从搭配开始，为不同肤质、不同诉求的人群提供具体的产品搭配建议。查看全文",
+"published": 1781074800.0
+},
+{
+"source": "爱范儿",
+"title": "实测Claude史上最强模型Fable 5，普通人慎用",
+"link": "https://www.ifanr.com/1668542?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "AI 终于数清了 6 根手指#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1781073077.0
+},
+{
+"source": "少数派",
+"title": "告别阅读焦虑：一份硬核科学阅读指南",
+"link": "https://sspai.com/post/110557",
+"summary": "阅读是个熟练功夫。查看全文",
+"published": 1781062144.0
+},
+{
+"source": "少数派",
+"title": "这些人用实测，给麦金獭钢化膜交了份真实答卷",
+"link": "https://sspai.com/post/110868",
+"summary": "编注：挑选钢化膜向来讲究贴合自身机型与使用习惯，优劣好坏仅凭介绍难以定论。麦金獭钢化膜上线已有一段时日，少数派编辑部汇总大量真实买家反馈，内容拆分为「用户体验」、「进阶体验」两部分，帮大家选购前摸清产 ...查看全文",
+"published": 1781060400.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜微信朋友圈搜索全面开放/Claude发布「Mythos级」模型/王传福：比亚迪5年后规模要做到全球第一",
+"link": "https://www.ifanr.com/1668544?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 苹果详解第三代基础模型，端侧 200 亿参数模型采用稀疏激活 · 微信 AI 生态开放接入，滴滴、美的等首批完成适配 · 国家安全部提示「AI 中转站」数据风险#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1781054661.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Oracle’s AI investments spook investors despite impressive earnings and revenue beats",
+"link": "https://siliconangle.com/2026/06/10/oracles-ai-investments-spook-investors-despite-another-impressive-earnings-revenue-beat/",
+"summary": "Shares of Oracle Corp. fell 9% in late trading today even though it surpassed Wall Street’s expectations on earnings and revenue and raised its profit forecast for the next financial year. The problem: The database and cloud infrastructure …",
+"published": 1781134987.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Microsoft patches record 200-plus vulnerabilities as AI accelerates bug discovery",
+"link": "https://siliconangle.com/2026/06/10/microsoft-patches-record-200-plus-vulnerabilities-ai-accelerates-bug-discovery/",
+"summary": "Microsoft Corp. has patched more than 200 security vulnerabilities, the most the company has ever fixed in a single Patch Tuesday, as researchers say artificial intelligence bug-hunting is the reason the number keeps climbing. The previous …",
+"published": 1781132402.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Neura Robotics to raise up to $1.4B from Nvidia-backed consortium",
+"link": "https://siliconangle.com/2026/06/10/neura-robotics-raise-1-4b-nvidia-backed-consortium/",
+"summary": "Automation startup Neura Robotics GmbH is raising a funding round worth up to $1.4 billion from a group of prominent investors. The company detailed today that the consortium includes Amazon.com Inc., Nvidia Corp., Qualcomm Technologies Inc…",
+"published": 1781131778.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Securing the AI workforce: Zscaler’s zero-trust play for agentic AI",
+"link": "https://siliconangle.com/2026/06/10/securing-ai-workforce-zscalers-zero-trust-play-agentic-ai/",
+"summary": "Since Zscaler Inc.‘s launch, the company’s mission has been to disrupt traditional access and security with its Zero Trust platform. At its user event, Zenith Live, in Las Vegas, the company made its case for what its next act would look li…",
+"published": 1781130689.0
+},
+{
+"source": "Crunchbase",
+"title": "The Crunchbase Tech Layoffs Tracker",
+"link": "https://news.crunchbase.com/startups/tech-layoffs/",
+"summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
+"published": 1781113530.0
+},
+{
+"source": "TechCrunch VC",
+"title": "Why enterprise AI will be a major focus at VivaTech 2026",
+"link": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
+"summary": "While Silicon Valley continues pushing aggressively into large language models and consumer-facing AI products, many European companies are focused on applying AI to complex systems already embedded into everyday life.",
+"published": 1781104560.0
+},
+{
+"source": "EU-Startups",
+"title": "Romanian eCommerce startup Naratix raises €1 million to accelerate market growth",
+"link": "https://www.eu-startups.com/2026/06/romanian-ecommerce-startup-naratix-raises-e1-million-to-accelerate-growth/",
+"summary": "Bucharest-based Naratix, a Romanian startup building critical infrastructure for global eCommerce companies, announces the closing of a €1 million Seed round support the company in accelerating its growth and entering new markets. The round…",
+"published": 1781104491.0
+},
+{
+"source": "Crunchbase",
+"title": "Sector Snapshot: Semiconductor Startup Funding Still Running Hot",
+"link": "https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda/",
+"summary": "The semiconductor startup space continues to sizzle. So far in 2026, investors have poured around $10 billion into seed through pre-IPO rounds for companies in Crunchbase’s semiconductor category.",
+"published": 1781089239.0
+}
+]
+}
+}

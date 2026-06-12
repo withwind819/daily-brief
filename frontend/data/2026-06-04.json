@@ -1,0 +1,59 @@
+{
+"date": "2026-06-04",
+"total": 7,
+"categories": {
+"AI": [
+{
+"source": "OpenAI 博客",
+"title": "How Endava is redesigning software delivery around AI agents",
+"link": "https://openai.com/index/endava-frontiers",
+"summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+"published": 1780574400.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "How courts are coping with a flood of AI-generated lawsuits",
+"link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+"summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or t…",
+"published": 1780570218.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Dreaming: Better memory for a more helpful ChatGPT",
+"link": "https://openai.com/index/chatgpt-memory-dreaming",
+"summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+"published": 1780563600.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Biodefense in the Intelligence Age",
+"link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+"summary": "An action plan for AI-powered biological resilience",
+"published": 1780531200.0
+}
+],
+"创投": [
+{
+"source": "TechCrunch VC",
+"title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+"link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+"summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technol…",
+"published": 1780608600.0
+},
+{
+"source": "TechCrunch VC",
+"title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
+"link": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
+"summary": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget.",
+"published": 1780606538.0
+},
+{
+"source": "TechCrunch VC",
+"title": "Benchmark raises its first-ever growth fund as part of $2B capital haul",
+"link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
+"summary": "The legendary Silicon Valley VC firm abandons its more than 20-year tradition of keeping its funds to about $425 million.",
+"published": 1780545135.0
+}
+]
+}
+}

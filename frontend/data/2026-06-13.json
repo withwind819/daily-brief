@@ -1,8 +1,523 @@
 {
 "date": "2026-06-13",
-"total": 1,
+"total": 74,
 "categories": {
+"AI": [
+{
+"source": "HN AI 热门",
+"title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+"link": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+"summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 170 # Comments: 64",
+"published": 1781380495.0
+},
+{
+"source": "The Decoder",
+"title": "New AI model called \"Count Anything\" does exactly what it says, and that's harder than it sounds",
+"link": "https://the-decoder.com/new-ai-model-called-count-anything-does-exactly-what-it-says-and-thats-harder-than-it-sounds/",
+"summary": "\"Count Anything\" is intended to be the first AI model capable of counting objects in any type of image, from crowds to cell samples under a microscope, using nothing more than a text prompt. In a comparative test, it cuts the error rate in …",
+"published": 1781370019.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI coding at home without going broke",
+"link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+"summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 216 # Comments: 196",
+"published": 1781369103.0
+},
+{
+"source": "The Decoder",
+"title": "Microsoft CEO Satya Nadella admits he's a token-maxer, too: \"It's addictive\"",
+"link": "https://the-decoder.com/microsoft-ceo-satya-nadella-admits-hes-a-token-maxer-too-its-addictive/",
+"summary": "Microsoft CEO Satya Nadella is warning against \"token-maxing,\" throwing the most powerful AI models at every problem. Frontier models shouldn't be wasted on everyday tasks, he says. The marginal cost of productivity gains has to match the t…",
+"published": 1781355829.0
+},
+{
+"source": "量子位",
+"title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+"link": "https://www.qbitai.com/2026/06/435483.html",
+"summary": "模型参数量只有1B",
+"published": 1781354430.0
+},
+{
+"source": "The Decoder",
+"title": "Google Research's Gemini-SQL2 tops text-to-SQL benchmarks by a wide margin",
+"link": "https://the-decoder.com/google-researchs-gemini-sql2-tops-text-to-sql-benchmarks-by-a-wide-margin/",
+"summary": "Google Research's Gemini-SQL2 turns natural language into executable SQL queries. Built on Gemini 3.1 Pro, it tops the BIRD benchmark at 80.04 percent accuracy, well ahead of OpenAI and Anthropic. Google says the technology could improve na…",
+"published": 1781353931.0
+},
+{
+"source": "The Decoder",
+"title": "Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file",
+"link": "https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/",
+"summary": "Microsoft and three Chinese universities have developed SkillOpt, a method that optimizes instruction documents for AI agents using principles from traditional model training. A simple Markdown file is enough to boost GPT-5.5 by about 23 po…",
+"published": 1781353239.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+"link": "https://github.com/tensorzero/tensorzero",
+"summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 233 # Comments: 151",
+"published": 1781352647.0
+},
+{
+"source": "The Decoder",
+"title": "Claude Fable 5 outpaces GPT-5.5 by 13 points on FrontierMath's toughest problems",
+"link": "https://the-decoder.com/claude-fable-5-outpaces-gpt-5-5-by-13-points-on-frontiermaths-toughest-problems/",
+"summary": "Anthropic's Claude Fable 5 hits 88 percent accuracy on the hardest FrontierMath tier, a massive jump from Opus 4.5, which sat below 10 percent in early 2026. OpenAI's GPT-5.5 reaches about 75 percent on the same tier. The pace of improvemen…",
+"published": 1781345786.0
+},
+{
+"source": "InfoQ 中国",
+"title": "面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
+"link": "https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1781344800.0
+},
+{
+"source": "InfoQ 中国",
+"title": "AI驱动的网络钓鱼：技术演变与实施方式",
+"link": "https://www.infoq.cn/article/U140AaPLg0t5dXxE8x7q?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1781344800.0
+},
+{
+"source": "The Decoder",
+"title": "Meta shifts from \"tokenmaxxing\" to token managing as internal AI costs reportedly hit billions",
+"link": "https://the-decoder.com/meta-shifts-from-tokenmaxxing-to-token-managing-as-internal-ai-costs-reportedly-hit-billions/",
+"summary": "An internal memo to 6,000 employees reveals Meta is heading toward billions in AI costs from internal use alone. Starting in 2027, budgets, allocations, and a central dashboard called \"AI Gateway\" will govern token consumption. CTO Andrew B…",
+"published": 1781344168.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+"link": "https://github.com/Paca-AI/paca",
+"summary": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other. It is fully customizable with custom views, f…",
+"published": 1781343865.0
+},
+{
+"source": "InfoQ 中国",
+"title": "分析的未来是多模态的，一切都关乎 Vibe ｜ 技术趋势",
+"link": "https://www.infoq.cn/article/v3lCjatWKZaTu7DhgoLq?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1781341200.0
+},
+{
+"source": "The Decoder",
+"title": "Open model Kimi K2.7 Code undercuts GPT-5.5 and Claude by up to 12x on price per token",
+"link": "https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/",
+"summary": "Moonshot AI has released Kimi K2.7 Code, an open-weights model with one trillion parameters built for programming. It still trails GPT-5.5 and Claude Opus 4.8 in coding benchmarks but costs a fraction of the price. So the key question isn't…",
+"published": 1781339921.0
+},
+{
+"source": "量子位",
+"title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+"link": "https://www.qbitai.com/2026/06/435455.html",
+"summary": "一起构建下一代物理世界的智能系统",
+"published": 1781338267.0
+},
+{
+"source": "The Decoder",
+"title": "US government forces Anthropic to disable Claude Fable 5 and Mythos 5 for all customers worldwide",
+"link": "https://the-decoder.com/us-government-forces-anthropic-to-disable-claude-fable-5-and-mythos-5-for-all-customers-worldwide/",
+"summary": "The US government has ordered Anthropic to shut down global access to Fable 5 and Mythos 5, citing alleged jailbreak risks. Anthropic is complying but pushing back publicly: the vulnerabilities are minor and exist in competing models like G…",
+"published": 1781336444.0
+},
+{
+"source": "量子位",
+"title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+"link": "https://www.qbitai.com/2026/06/435394.html",
+"summary": "",
+"published": 1781327953.0
+},
+{
+"source": "量子位",
+"title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+"link": "https://www.qbitai.com/2026/06/435339.html",
+"summary": "马斯克成人类历史首位万亿美金富豪",
+"published": 1781323519.0
+},
+{
+"source": "HN AI 热门",
+"title": "Open source AI must win",
+"link": "https://opensourceaimustwin.com/?share=v2",
+"summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1504 # Comments: 463",
+"published": 1781316864.0
+}
+],
+"科技": [
+{
+"source": "The Verge",
+"title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+"link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+"summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the…",
+"published": 1781386766.0
+},
+{
+"source": "TechCrunch",
+"title": "KPMG pulls report on AI usage due to apparent hallucinations",
+"link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+"summary": "Once again, AI proves to be an unreliable source of information about AI.",
+"published": 1781383351.0
+},
+{
+"source": "The Verge",
+"title": "X-Men ’97 has what Master of the Universe is missing",
+"link": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
+"summary": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and the second season o…",
+"published": 1781380800.0
+},
+{
+"source": "TechCrunch",
+"title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+"link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+"summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+"published": 1781377901.0
+},
+{
+"source": "The Verge",
+"title": "Sealed Super Mario Bros. sells for a record $3 million",
+"link": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
+"summary": "A copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. Tha…",
+"published": 1781375841.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI faces investigation from state attorneys general",
+"link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+"summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+"published": 1781369238.0
+},
+{
+"source": "The Verge",
+"title": "Microsoft hasn’t ruled out spinning off Xbox",
+"link": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+"summary": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, …",
+"published": 1781368187.0
+},
+{
+"source": "TechCrunch",
+"title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+"link": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+"summary": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But ea…",
+"published": 1781366400.0
+},
+{
+"source": "The Verge",
+"title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
+"link": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
+"summary": "If you’re planning on traveling anytime soon, Bose’s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the folda…",
+"published": 1781366400.0
+},
+{
+"source": "Solidot",
+"title": "为什么轨道数据中心比硅谷认为的更困难？",
+"link": "https://www.solidot.org/story?sid=84571",
+"summary": "黄仁勋在英伟达 GTC 大会上宣布，“太空计算，最后的疆界，已经到来。”轨道数据中心正从科幻走向现实：SpaceX、Google 以及初创公司 Starcloud 都宣布要建轨道数据中心星座，这些星座由数以千计的卫星构成，卫星搭载了 AI GPU，使用光链路互联，通过微波链路与地面通信。支持者宣传的太空计算优势包括：丰富的太阳能、免费的冷却系统，以及免受地震、洪水和抗议等地面干扰。但如果你仔细审视背后的物理原理，会发现轨道数据中心比硅谷认为的困难得多。免费冷却可能是最大的误解…",
+"published": 1781364140.0
+},
+{
+"source": "The Verge",
+"title": "My first 24 hours with Siri AI on the Mac",
+"link": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+"summary": "I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least got me slightly rethinking things. I'm …",
+"published": 1781362800.0
+},
+{
+"source": "Solidot",
+"title": "社会不平等与生物衰老加速相关",
+"link": "https://www.solidot.org/story?sid=84570",
+"summary": "马普人类发展研究所和哥伦比亚大学的研究发现，贫困和种族歧视等社会不平等与表观遗传时钟测量的生物衰老加速相关。研究揭示，处于社会劣势的人群表现出更快的生物衰老速度。社会不平等从生命早期就开始影响生物衰老：在社会经济地位较低的家庭中长大的儿童已表现出更快的生物衰老迹象。而在弱势家庭中长大的成年人，即使是在数十年后，其生物衰老速度也往往更快。对美国的研究发现，黑人的生物衰老速度快于白人。拉丁裔和白人之间也存在差异，但幅度比较小。",
+"published": 1781361298.0
+},
+{
+"source": "The Verge",
+"title": "Never Post’s Mike Rugnetta on the creative process and the value of reliable power",
+"link": "https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire",
+"summary": "Mike Rugnetta is a writer, podcast host, producer, audio engineer, educator, musician, sound designer, and father. In short, the man wears a lot of hats. He's the cocreator and host of the award-winning Never Post, an absolutely must-listen…",
+"published": 1781359200.0
+},
+{
+"source": "Solidot",
+"title": "Google 起诉涉嫌 AI 诈骗的中国组织",
+"link": "https://www.solidot.org/story?sid=84569",
+"summary": "Google 起诉了了一家提供“诈骗即服务”的中国组织 Outsider Enterprise。该组织在 Telegram 上运营，向想要搞诈骗活动的人提供一整套模板，如使用 Google Gemini 创建模仿 Google、YouTube，以及纽约 E-ZPass 等政府机构网站的教程。Android 用户收到的逾 250 万条诈骗短信与 Outsider Enterprise 相关，其中约 5.5 万条短信发生在上月的两周内。Google 追踪到 9000 个虚假网站和…",
+"published": 1781357916.0
+},
+{
+"source": "The Verge",
+"title": "My yard is dying, so I made an app for that",
+"link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+"summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But …",
+"published": 1781355600.0
+},
+{
+"source": "Solidot",
+"title": "因美政府命令 Anthropic 下线 Fable 5 和 Mythos 5 模型",
+"link": "https://www.solidot.org/story?sid=84568",
+"summary": "Anthropic 周五发表声明，它收到美国政府的命令，政府以国家安全理由下令禁止外国公民访问其最先进的 AI 模型。该指令适用于所有外国公民，无论他们是身处美国境内还是境外，Anthropic 的外籍员工也包含在内。为确保合格，它只能对所有用户暂停访问 Fable 5 和 Mythos 5 模型。Anthropic 其它模型的访问不受影响。亚马逊云服务 AWS 周五晚间表示，Anthropic 已要求其禁止“所有地区所有用户”对相关模型的访问。Anthropic 公司的多位…",
+"published": 1781355466.0
+},
+{
+"source": "The Verge",
+"title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+"link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+"summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet thos…",
+"published": 1781355349.0
+},
+{
+"source": "36氪",
+"title": "鲸鸿动能赋能鸿蒙开发者商业增长，2026年应用媒体收益同比增长37%",
+"link": "https://36kr.com/newsflashes/3851525064217856?f=rss",
+"summary": "HDC 2026期间，鲸鸿动能披露了广告联盟开发者收益最新数据：2026年应用媒体收益同比增长37%，游戏媒体收益同比增长69%，元服务媒体收益实现19倍增长。鲸鸿动能通过聚合SDK、统一投放平台及价值共创模式，让开发者在获得可持续收益的同时，为用户提供更少打扰、更优体验的广告服务，这已成为鸿蒙生态持续扩大的重要因素。",
+"published": 1781354266.0
+},
+{
+"source": "36氪",
+"title": "SpaceX业务呈现“一极盈利、两极亏损”格局",
+"link": "https://36kr.com/newsflashes/3851534097896712?f=rss",
+"summary": "SpaceX上市首个交易日，进入市场流通的股份仅占总股本的4.2%，筹码供不应求，认购热情高涨，股价短期冲高并不意外。但公司市销率已超过112倍，远超特斯拉的15倍和芯片巨头英伟达的近20倍。简单来讲，SpaceX的业务呈现“一极盈利、两极亏损”的格局。星链是当之无愧的“现金牛”。据招股书披露，这项卫星互联网业务去年营收达113.9亿美元，占SpaceX总营收的61%，截至2025年底已服务超1000万用户。火箭发射业务凭借复用技术在全球商业火箭发射市场占据约80%份额，但去…",
+"published": 1781353135.0
+},
+{
+"source": "36氪",
+"title": "鲸鸿动能系统拆解“主动式营销”框架，助广告主实现确定性增长",
+"link": "https://36kr.com/newsflashes/3851524397536515?f=rss",
+"summary": "在HDC 2026鸿蒙生态商业化峰会及面向多行业的系列分论坛上，鲸鸿动能围绕主动式营销框架展开系统拆解，该框架通过数据科学洞察广告主痛点，聚合全场景生态资源，构建AI加持的行业及客户解决方案，实现广告主的确定性增长，已在汽车、金融、文旅、快消、大健康等五大行业形成差异化解决方案。",
+"published": 1781352599.0
+},
+{
+"source": "The Verge",
+"title": "Echo Isle is a pint-sized adventure inspired by classic Zelda",
+"link": "https://www.theverge.com/games/947136/echo-isle-review-pc",
+"summary": "Echo Isle is heavily inspired by The Legend of Zelda, and it's not afraid to show it: The retro graphics bear a striking resemblance to Link's Awakening, the main character wears a blue tunic and wields a sword, and he navigates dungeons to…",
+"published": 1781352000.0
+},
+{
+"source": "36氪",
+"title": "吉利控股董事长李书福：集中资源做强吉利汽车上市公司",
+"link": "https://36kr.com/newsflashes/3851548249412869?f=rss",
+"summary": "6月13日，在2026年中国汽车重庆论坛上，吉利控股集团董事长李书福发表视频演讲时称，接下来将有序关停并转吉利汽车集团有限公司相关冗余主体，集中优势资源做强吉利汽车控股有限公司核心上市平台，从而构建治理架构更加清晰、权责更加明确、运转高效、全球合规的现代企业运营体系，让“一个吉利”从战略共识，全面转化为体系优势、治理优势、全球生存能力优势，为集中精力做强做大“一个吉利”创造良好的治理环境。近期，吉利汽车增长势头强劲，成为年初至今股价涨幅最大的港股汽车股。",
+"published": 1781351849.0
+},
+{
+"source": "36氪",
+"title": "A股投资者已超2.5亿",
+"link": "https://36kr.com/newsflashes/3851531714680072?f=rss",
+"summary": "中国证券登记结算有限责任公司6月12日发布了2025年年度报告。报告显示，2025年全年新增投资者1386.95万，其中新增自然人投资者1382.84万。2025年期末投资者数为25067.29万，比上年增加5.86%。中国结算解释称，期末投资者数量指持有未注销、未休眠的A股、B股账户的一码通账户数量。截至2025年末，中国结算登记存管的沪深证券交易所的证券总市值为137.80万亿元、北京证券交易所的证券总市值为8694.42亿元、全国股份转让系统的证券总市值为19780.2…",
+"published": 1781351732.0
+},
+{
+"source": "36氪",
+"title": "雷军：小米汽车高度重视测试工作，目前整个测试团队有800多人",
+"link": "https://36kr.com/newsflashes/3851530936521728?f=rss",
+"summary": "36氪获悉，小米创办人、董事长兼CEO雷军在微博发文称，小米汽车高度重视测试工作，测试投入、规模巨大。目前，整个测试团队有800多人，其中45%以上，都是超过10年经验的专家。这支团队已经在300多个城市，累计完成超过3500万公里的测试。",
+"published": 1781351147.0
+},
+{
+"source": "36氪",
+"title": "HDC 2026：鲸鸿动能2025年广告主数增长200%，助力开发者与合作伙伴可持续增长",
+"link": "https://36kr.com/newsflashes/3851524018001154?f=rss",
+"summary": "HDC 2026期间，鸿蒙生态商业化峰会公布最新数据：搭载HarmonyOS 6的终端设备已达6600万台，鸿蒙注册开发者数量达1100万。依托鸿蒙生态的商业化土壤，鲸鸿动能通过数据科学、全域分发及聚合SDK等核心能力，助力开发者和合作伙伴实现可持续增长。鲸鸿动能已接入全球第三方媒体10.7万+，2025年广告主数增长200%。",
+"published": 1781350370.0
+},
+{
+"source": "TechCrunch",
+"title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+"link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+"summary": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
+"published": 1781348400.0
+},
+{
+"source": "36氪",
+"title": "“木头姐”买入逾4亿美元SpaceX股票",
+"link": "https://36kr.com/newsflashes/3851373053056005?f=rss",
+"summary": "“木头姐”旗下ARK方舟基金于6月12日（周五）公布了当日交易记录，显示出了投资策略的重大转变。最引人注目的操作是，旗下多只ETF合计买入3,291,184股SpaceX的股票，交易总额高达444,309,840美元，表明该基金对太空技术领域的兴趣日益浓厚。与此同时，方舟大幅减持AMD，通过ARKQ、ARKW和ARKX三只ETF共卖出80,536股，交易总值为39,337,809美元，延续了对AMD持仓的削减趋势。（新浪财经）",
+"published": 1781342948.0
+},
+{
+"source": "36氪",
+"title": "江丰电子：公司生产的先端存储芯片用高纯300mm硅靶已批量供货",
+"link": "https://36kr.com/newsflashes/3851370635334919?f=rss",
+"summary": "36氪获悉，江丰电子在互动平台表示，公司是全球少数几家同时具备技术领先优势与规模化供应能力的高纯金属溅射靶材制造商。公司生产的先端存储芯片用高纯300mm硅靶已批量供货，超高纯钨靶、铜锰合金靶等高端品类已应用于先进存储芯片制造中，目前只有公司及头部跨国企业掌握了生产上述产品的核心技术。",
+"published": 1781341957.0
+},
+{
+"source": "36氪",
+"title": "首尔禁止中小学生戴AI眼镜参加期末考试",
+"link": "https://36kr.com/newsflashes/3851265277220103?f=rss",
+"summary": "韩国首都首尔市教育厅12日说，已于前一日向该市中小学校及辖区教育部门下发通知，禁止考生戴AI智能眼镜参加期末考试。据韩国《中央日报》报道，首尔市教育厅担心学生利用AI眼镜在期末考试中作弊，因此将其列入考场违禁物品清单。这份通知要求学校提前告知学生及家长，如携带这类眼镜进入考场，将一律按作弊处理。 （新华社）",
+"published": 1781340993.0
+},
+{
+"source": "36氪",
+"title": "近六成美国人认为到2050年美国重要性将减弱",
+"link": "https://36kr.com/newsflashes/3851267747664897?f=rss",
+"summary": "美国皮尤研究中心12日发布的一项民意调查显示，在美国独立250周年之际，美国民众普遍情绪悲观，约58%受访者认为到2050年美国在全球的重要性将减弱。这项民调结果显示，多数美国人对美国在2050年前的发展前景持消极看法：其中三分之二的受访者认为美国的政治将愈加分裂，56%认为美国的居住环境将更加危险，55%预判美国经济将走弱，54%担心美国政府系统运行将恶化。（新华社）",
+"published": 1781339919.0
+},
+{
+"source": "36氪",
+"title": "曼联，要被卖了",
+"link": "https://36kr.com/p/3851350342325504?f=rss",
+"summary": "图片来源：视觉中国 作者/余梦莹 报道/投资界PEdaily 史上最盛大世界杯正在上演。 48支球队、39天、104场比赛，总奖金飙升至8.71亿美元。梅西、C罗、莫德里奇“最后一舞”，哈兰德、姆巴佩、亚马尔崛起，诸神之战拉开帷幕。 赛场之外，一家老牌足球豪门却站在了十字路口——彭博社消息，掌控英超球队曼联超20年的格雷泽家族内部，近期正在讨论出售事宜。 绰号“红魔”，这是英格兰足球史上最富盛名的豪门。最初只是铁路工人组建的业余球队，2005年被美国格雷泽家族全面控股。历经辉…",
+"published": 1781339841.0
+},
+{
+"source": "36氪",
+"title": "国家网信办就《金融信息服务数据分类分级指南》答记者问",
+"link": "https://36kr.com/newsflashes/3851332613870856?f=rss",
+"summary": "36氪获悉，国家互联网信息办公室有关负责同志就《指南》回答了记者提问。当前，金融信息服务有序发展，金融信息服务领域数据规模扩大、流动频繁，亟需分类分级规范管理。为落实法律法规要求，国家互联网信息办公室、中国人民银行等六部门制定印发《指南》，旨在为金融信息服务机构开展数据分类分级工作提供系统性、针对性、可操作性的指引，规范金融信息服务数据处理活动，提升数据安全水平，促进数据依法合理有效利用。在数据分类方面，《指南》按照金融信息服务数据的业务属性进行分类，其中一级分类为业务数据、…",
+"published": 1781338687.0
+},
+{
+"source": "36氪",
+"title": "《金融信息服务数据分类分级指南》印发",
+"link": "https://36kr.com/newsflashes/3851331950728194?f=rss",
+"summary": "36氪获悉，为指导金融信息服务机构开展数据分类分级和重要数据识别工作，提升金融信息服务数据安全水平，依据《中华人民共和国网络安全法》、《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》、《网络数据安全管理条例》、《金融信息服务管理规定》等法律法规规章和政策规定，国家互联网信息办公室、中国人民银行、国家金融监督管理总局、中国证券监督管理委员会、国家统计局、国家外汇管理局制定了《金融信息服务数据分类分级指南》。",
+"published": 1781338647.0
+},
+{
+"source": "36氪",
+"title": "讯灵智能与腾讯云达成战略合作",
+"link": "https://36kr.com/newsflashes/3851266881344521?f=rss",
+"summary": "36氪获悉，据腾讯云消息，近日，深圳市讯灵智能技术科技有限公司与腾讯云计算（北京）有限责任公司正式签署战略合作协议。双方将围绕技术底座共建、AI营销一体化方案、智能办公协同、行业生态与标准建设四大领域展开深度协作。",
+"published": 1781338210.0
+},
+{
+"source": "36氪",
+"title": "科大讯飞发布星火多模态大模型X2-VL",
+"link": "https://36kr.com/newsflashes/3851320295166976?f=rss",
+"summary": "36氪获悉，据无锡发布，6月11日，在锡举行的2026长三角机器人及自动化展览会暨无锡具身智能机器人产业链伙伴大会上，科大讯飞发布星火多模态大模型X2-VL。这款国产多模态大模型，将为无锡具身智能产业搭载硬核“AI大脑”。",
+"published": 1781337935.0
+},
+{
+"source": "36氪",
+"title": "云南铜业：今年以来硫酸销售价格持续处于高位",
+"link": "https://36kr.com/newsflashes/3851282943792133?f=rss",
+"summary": "36氪获悉，云南铜业近日接受机构调研时表示，根据公司2026年度生产计划，硫酸全年计划产量为576万吨。2026年一季度，硫酸产量按计划有序推进。价格方面，硫酸作为铜冶炼的副产品，其售价受区域市场供需、运输条件及行业景气度等多重因素影响。今年以来，受下游需求旺盛、部分产区供应偏紧等影响，硫酸销售价格持续处于高位。公司紧抓市场机遇，合理安排生产与销售，实现了对经营业绩的积极贡献。同时，公司将持续关注价格变化，动态优化产销节奏。",
+"published": 1781337210.0
+},
+{
+"source": "36氪",
+"title": "美格智能：存储芯片价格上涨成本在合理、有序向下游客户传导",
+"link": "https://36kr.com/newsflashes/3851282375971842?f=rss",
+"summary": "36氪获悉，美格智能6月11日接受机构调研时表示，公司目前存货金额较大，其中很大部分是存储芯片备货。在存储芯片涨价早期，公司根据研发项目、订单情况，及对存储芯片行情预测，为保证客户订单顺利交付，进行了较大金额的战略备货，对后续产品利润有正面影响。存储芯片价格上涨成本，我们在合理、有序向下游客户传导，比如车载产品、海外运营商5G产品等，都进行了价格调整。",
+"published": 1781336757.0
+},
+{
+"source": "36氪",
+"title": "智谱：GLM-5.2将面向GLM Coding Plan全量用户开放",
+"link": "https://36kr.com/newsflashes/3851264775804160?f=rss",
+"summary": "36氪获悉，据智谱消息，今晚5:21，GLM-5.2将面向GLM Coding Plan全量用户开放，覆盖Lite/Pro/Max/团队版。GLM-5.2 API将于下周上线，模型下周正式开源，遵循MIT协议。",
+"published": 1781335804.0
+},
+{
+"source": "36氪",
+"title": "H&M重组全球架构，大中华区降级",
+"link": "https://36kr.com/newsflashes/3851272011813896?f=rss",
+"summary": "36氪独家获悉，瑞典快时尚巨头H&M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。大中华区在这轮调整中降级为26个销售市场之一，归属新成立的亚太洲级事业部（Continent Asia Pacific）管理。原大中华区总裁司懿德（Saed El-Achkar）将出任该事业部董事总经理（Managing Director），任命预计在6月25日集团半年报发布前后正式对外…",
+"published": 1781334989.0
+},
+{
+"source": "36氪",
+"title": "长安“天枢领航”亮相重庆车展，长安启源Q06将全系搭载",
+"link": "https://36kr.com/newsflashes/3851261695022083?f=rss",
+"summary": "36氪获悉，6月13日，中国长安汽车携旗下阿维塔、深蓝汽车、长安启源等全系品牌和长安自研的辅助驾驶系统——长安“天枢领航”亮相第二十八届重庆国际汽车展览会。据了解，长安“天枢领航”Pro版，全系标配激光雷达，在夜间、隧道等弱光场景下比人眼提前2秒识别障碍物，配合全球领先的中央环网架构——SDA平台，系统响应再快150毫秒。长安启源Q06将全系搭载长安“天枢领航”，并于下半年正式上市。",
+"published": 1781334895.0
+},
+{
+"source": "36氪",
+"title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+"link": "https://36kr.com/p/3846972367866119?f=rss",
+"summary": "在AI浪潮重塑全球产业逻辑的当下，传统留学路径所依赖的学历溢价与信息差正在系统性失效，大量高薪专业的基础性任务面临被AI批量化替代的风险。70/80后家长遭遇教育投资回报率骤降，05后年轻一代则陷入人机协同时代“何以确立自身不可替代价值”的身份焦虑。面对旧共识瓦解、新航线未明的历史性分水岭，36氪研究院与新通教育联合发布《AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑》。白皮书基于新通三十年积累的百万级家庭服务数据及36氪研究院对2030年全球新兴产业集群的前瞻…",
+"published": 1781330400.0
+},
+{
+"source": "36氪",
+"title": "“宁王系”，排队 IPO",
+"link": "https://36kr.com/p/3851106394117383?f=rss",
+"summary": "越来越多CVC在路上 作者 | 冯晓亭 编辑 | 吾人 来源 | 融中财经 宁德时代，又出手了。 近日，中恒电气发布关于控股股东签署《战略投资合作框架协议》事项的进展公告。公告显示，公司控股股东杭州中恒科技投资有限公司（简称“中恒科技投资”）引进宁德时代新能源科技股份有限公司（简称“宁德时代”）的战略投资事宜正在有序推进中，宁德时代拟以40.9985882353亿元（约“41亿元”）认购中恒科技投资新增注册资本。 中恒电气表示，自《战略投资合作框架协议》签署后，各方基于框架协…",
+"published": 1781326743.0
+},
+{
+"source": "TechCrunch",
+"title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+"link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+"summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+"published": 1781324059.0
+},
+{
+"source": "36氪",
+"title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
+"link": "https://36kr.com/p/3851073239372809?f=rss",
+"summary": "飞向宇宙、浩瀚无垠 作者｜曹思颀 编辑｜靖宇 6 月 12 日，在 SpaceX 正式挂牌当天，马斯克选择前往得州的星舰基地，和数百名员工一起，远程敲响了纳斯达克的开市钟。 在现场，他用熟悉的那股自嘲范儿说：「如果当年有人告诉我会有今天，我大概率觉得那个人嗑嗨了。因为当时我自己都认为这家公司会黄。」 这一天，SpaceX 正式登陆纳斯达克，发行价 135 美元，募资约 750 亿美元；开盘即涨，盘中一度冲过 176 美元，市值短暂站上 2 万亿美元。 从 2002 年因为买不…",
+"published": 1781323699.0
+},
+{
+"source": "爱范儿",
+"title": "2026 年，AI 长出了四个轮子，驶向物理世界",
+"link": "https://www.ifanr.com/1668845?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "车不再是拼凑出来的机械，而是从 AI 里长出来的载体。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1781323204.0
+},
+{
+"source": "36氪",
+"title": "突发！Anthropic全球停用Claude 5",
+"link": "https://36kr.com/p/3851015329027336?f=rss",
+"summary": "究竟为何，Anthropic突然下线了地表最强Claude？ 【导读】上线72小时，最强Claude Fable 5被一纸禁令全球下架，连Anthropic自家外籍员工都不许碰。 太突然了！ 就在刚刚，Anthropic官宣—— 全球禁用外籍人士对Claude Fable 5和Mythos 5的所有访问权限。 无论是在美国境内还是境外，就连Anthropic的外籍员工，全都不可用。 上线才3天的Claude Fable 5，一瞬间就没了。 全球禁用外籍人士对Claude Fa…",
+"published": 1781319616.0
+},
+{
+"source": "少数派",
+"title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
+"link": "https://sspai.com/post/110973",
+"summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。查看全文",
+"published": 1781318232.0
+},
+{
+"source": "TechCrunch",
+"title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+"link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+"summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+"published": 1781317590.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜SpaceX上市首日暴涨/苹果高管：Siri不想做用户的情感伴侣/华为余承东：要带盘古大模型从中国第一走向世界第一",
+"link": "https://www.ifanr.com/1668871?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 胖东来：公司从未有任何降薪决定 · OpenAI 允许 Codex 用户「囤」重置机会：额度耗尽时自己决定何时刷新 · MiMo 负责人罗福莉：MiMo Code 由 5 人用 14 天 vibe-coding 完成#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1781313380.0
+},
+{
+"source": "36氪",
+"title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
+"link": "https://36kr.com/p/3850904887268611?f=rss",
+"summary": "硬氪获悉，中科电墨近日完成数千万元Pre-A轮融资，由西安龙鼎投资独家投资。本轮融资将主要用于车规级电致变色产线建设、核心材料研发迭代以及汽车领域市场拓展。 伴随新能源汽车向智能化、舒适化方向升级，汽车玻璃正从传统结构件逐步演变为集隔热、防晒、隐私保护和交互体验于一体的功能件。尤其是全景天幕快速普及后，调光玻璃开始成为车企提升产品差异化的重要配置之一。 目前市场主流调光技术主要包括PDLC（液晶调光）、SPD（悬浮粒子调光）以及EC（电致变色）三种路线。PDLC和SPD主要依…",
+"published": 1781312650.0
+},
+{
+"source": "36氪",
+"title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+"link": "https://36kr.com/p/3850902095336449?f=rss",
+"summary": "6月12日晚，SpaceX以史上最大估值完成IPO，股价冲高至176美元，截至目前市值已经突破2万亿美元。 马斯克成为历史上第一位万亿美元身价的富豪。 马斯克在得克萨斯“星际基地”（Starbase）敲钟 其实在SpaceX敲钟之前，大洋彼岸的行业水温早已接近沸腾。 过去半年，商业航天成为国内一级市场最热的赛道之一。投资人排队约见创始人，地方政府争抢项目落地，一些过去很少关注航天的基金，也开始研究火箭、卫星和星座。“头部项目现在整个市场有几百家机构在跟，根本聊不上。”一位长期…",
+"published": 1781312538.0
+},
+{
+"source": "36氪",
+"title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+"link": "https://36kr.com/p/3850898430989577?f=rss",
+"summary": "今日热点导览 Kimi与一国有银行合作，全球首张AI原生信用卡开放预约 韩美半导体将使用500亿韩元投资于SpaceX SK海力士回应本月发生第二起火灾 杭州小龙虾降价超50% 金价连跌，批发商集中补货 TOP3大新闻 SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍 当地时间6月12日，万众瞩目的太空探索公司SpaceX于在纳斯达克交易所完成了上市。SpaceX是有史以来规模最大的IPO，发行价定为135美元，对应市值达1.77万亿美元。该股开盘价150美元，午盘涨…",
+"published": 1781312484.0
+}
+],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Mozilla Data Collective seeks to build AI’s data economy around trust",
+"link": "https://siliconangle.com/2026/06/13/mozilla-data-collective-seeks-build-ais-data-economy-around-trust/",
+"summary": "Generative artificial intelligence has a data problem. For years, the typical approach to building gen AI models has been to gather as much data as possible by scraping vast swaths of the internet, training at an enormous scale and dealing …",
+"published": 1781378595.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Mistral reportedly seeking $3.5B funding round amid physics AI push",

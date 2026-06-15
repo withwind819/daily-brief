@@ -1,0 +1,369 @@
+{
+"date": "2026-06-14",
+"total": 51,
+"categories": {
+"AI": [
+{
+"source": "The Decoder",
+"title": "Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner",
+"link": "https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/",
+"summary": "Mirage, a video world model from Microsoft Research and several universities, stores scene information directly in latent space instead of pixel-based point clouds. That slashes compute time and graphics memory while keeping scenes spatiall…",
+"published": 1781445497.0
+},
+{
+"source": "The Decoder",
+"title": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents",
+"link": "https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/",
+"summary": "Google Cloud's new Open Knowledge Format (OKF) standardizes scattered organizational knowledge as Markdown files with YAML frontmatter, making it portable and usable for AI agents. The minimalist spec formalizes a pattern Andrej Karpathy re…",
+"published": 1781443792.0
+},
+{
+"source": "InfoQ 中国",
+"title": "蚂蚁数科企业级 AGI 研发体系重塑实战｜AICon上海",
+"link": "https://www.infoq.cn/article/k890EiwhdA4ISuOu8IhH?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1781431200.0
+},
+{
+"source": "InfoQ 中国",
+"title": "OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock",
+"link": "https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1781431200.0
+},
+{
+"source": "The Decoder",
+"title": "KPMG fabricated AI case studies in a report designed to sell clients on AI adoption",
+"link": "https://the-decoder.com/kpmg-fabricated-ai-case-studies-in-a-report-designed-to-sell-clients-on-ai-adoption/",
+"summary": "KPMG published a report on AI in business that contained fabricated case studies involving UBS, the NHS, and other organizations. GPTZero CEO Edward Tian, who helped uncover the errors, warns of \"secondary hallucinations,\" flawed claims fro…",
+"published": 1781430037.0
+},
+{
+"source": "The Decoder",
+"title": "AI coding agents find the right file but miss the exact lines that matter, study shows",
+"link": "https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/",
+"summary": "AI coding agents like Claude Code or Codex reliably find the right file but miss most of the critical lines within it. The new SWE-Explore benchmark is the first to test code search separately from the actual repair, and it shows that witho…",
+"published": 1781427287.0
+},
+{
+"source": "The Decoder",
+"title": "Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model",
+"link": "https://the-decoder.com/amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model/",
+"summary": "Amazon CEO Andy Jassy and executives from other tech companies reportedly warned the Trump administration about security vulnerabilities in Anthropic's Fable model, even though Amazon is one of Anthropic's largest investors. Within hours, t…",
+"published": 1781426102.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
+"link": "https://36kr.com/p/3853670570743040?f=rss",
+"summary": "今日热点导览 加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀 A股10家退市公司波及超25万股民 SK海力士去年新增员工超2000人 H&M重组全球架构，大中华区降级 世界杯期间英格兰队装备遭窃，大部分已被追回 TOP 3 大新闻 诺奖得主称马斯克是庞氏骗局，SpaceX上市让普通投资者被迫买单 据当地时间6月12日，诺贝尔经济学奖得主保罗·克鲁格曼发文“Elon Musk， Human Ponzi Scheme”，称世界首富埃隆·马斯克是庞氏骗局。 克鲁…",
+"published": 1781481468.0
+},
+{
+"source": "36氪",
+"title": "华泰证券：政策首提2030年新能源重卡目标，利好国内动力电池及绿氢产业链",
+"link": "https://36kr.com/newsflashes/3853670728209666?f=rss",
+"summary": "36氪获悉，华泰证券研报称，近日，交通运输部、国家发展改革委等十一部门联合印发《推动新能源重卡规模化应用实施方案》（以下简称《方案》），明确提出到2030年，新能源重卡销量渗透率达到40%，保有量突破160万辆，占比达到约20%。华泰证券认为，《方案》文件是国内首次针对重卡这一高能耗、高电池量细分领域提出全国性量化目标，并将充换电等基础设施建设纳入整体规划，实现多场景、多技术协同推进，利好国内动力电池及绿氢产业链。",
+"published": 1781481395.0
+},
+{
+"source": "36氪",
+"title": "年内公募机构162名高管发生变动",
+"link": "https://36kr.com/newsflashes/3853663643325441?f=rss",
+"summary": "公募基金行业高管变动再添新例。6月12日晚间，交银施罗德基金发布高管变更公告称，自6月12日起，公司原董事长张宏良因临近法定退休年龄，按内部制度要求，退出一线管理岗位，公司总经理袁庆伟代为履行董事长（法定代表人）职责。今年以来，公募基金行业频现高管更迭，董事长、总经理等核心岗位密集调整。Wind数据显示，截至6月14日，年内已有72家公募机构发生高管变更，合计涉及162人。（证券日报）",
+"published": 1781481235.0
+},
+{
+"source": "36氪",
+"title": "点心债年内发行量同比增超50%",
+"link": "https://36kr.com/newsflashes/3853662907831557?f=rss",
+"summary": "今年以来，作为离岸人民币债券的代表产品的点心债持续火热。Wind数据显示，截至6月14日，年内点心债发行量达7596.18亿元，同比增长50.37%。（证券日报）",
+"published": 1781480917.0
+},
+{
+"source": "36氪",
+"title": "“10元基”数量破百只，存在三大类投资策略",
+"link": "https://36kr.com/newsflashes/3853661705196545?f=rss",
+"summary": "近期，关于科技与传统行业能否迎来风格切换，已然成为市场热议的焦点。目前，在市场的分歧与博弈中，全市场复权单位净值突破10元的主动权益基金数量悄然站上百只大关。这些历经牛熊淬炼的“10元基”，不仅是长期复利的最佳注脚，更因其迥异的投资策略，呈现出三种经典的赚钱方式，可为投资者在风格轮换中筛选长跑基金提供参考。在101只“10元基”中，有一类基金普遍保持低换手率、稳定股票仓位，业绩增长依托深度个股挖掘，而非短期交易博弈，易方达平稳增长、富国天惠精选成长A是该类型的典型代表。还有一…",
+"published": 1781480844.0
+},
+{
+"source": "36氪",
+"title": "三星集团成立能源业务特别工作组",
+"link": "https://36kr.com/newsflashes/3853660937163781?f=rss",
+"summary": "三星集团已组建高管特别工作组，探讨将能源领域作为未来新业务板块，并协调三星旗下各���公司间的合作事宜。韩国《每日经济新闻》援引三星一位未具名高级管理人员的话报道了这一消息。该特别工作组还计划在能源领域寻找并购目标。三星电子、三星 SDS、三星 SDI、三星物产、三星工程建设及三星重工的高管将参与该特别工作组。特别工作组正研究整个能源行业价值链，涵盖能源供需、建设项目合同、发电、电网、核电站及人工智能数据中心等领域。（新浪财经）",
+"published": 1781480797.0
+},
+{
+"source": "36氪",
+"title": "公募加速布局量化“固收+”，知名量化基金经理相继入局",
+"link": "https://36kr.com/newsflashes/3853660123632902?f=rss",
+"summary": "近期权益市场波动加剧，尤其是AI、半导体等科技板块频繁出现高位震荡与快速轮动，令投资者对权益投资的信心受挫。在此背景下，资金开始重新审视风险与收益的平衡点，那些能够在控制回撤的同时还能提供长期稳健回报的产品，正获得越来越多关注。值得注意的是，今年以来，在“固收+”这一赛道，量化策略异军突起，凭借纪律化投资、多资产分散和系统化风控等优势，成为新增长点。据统计，目前全市场量化“固收+”产品规模已约1800亿元，头部基金公司纷纷布局，知名量化基金经理相继入局。展望后市，在低利率环境…",
+"published": 1781480747.0
+},
+{
+"source": "36氪",
+"title": "相关风险事项清除，7家公司集中“摘帽”",
+"link": "https://36kr.com/newsflashes/3853645953815554?f=rss",
+"summary": "随着风险事项的逐一清除，多家A股公司股票迎来“摘帽”时刻（含撤销“*ST”和“ST”，下同）。Wind数据显示，6月15日和16日，将有7家公司的股票正式“摘帽”。其中，*ST海源、*ST威尔于6月15日复牌并撤销“*ST”；*ST兰黄、*ST立航、*ST原尚、ST联创和ST名家汇等5家公司股票将于6月15日停牌一天，自6月16日起复牌并撤销“*ST”或“ST”。（上证报）",
+"published": 1781480658.0
+},
+{
+"source": "36氪",
+"title": "美伊确认达成协议，国际油价显著下跌",
+"link": "https://36kr.com/newsflashes/3853658602034184?f=rss",
+"summary": "由于美国和伊朗确认达成协议及霍尔木兹海峡预计很快重新开放，国际原油期货14日在开始新一周交易后价格显著走低。截至美东时间14日下午6时15分，纽约商品交易所7月交货的轻质原油期货价格最低降至每桶80.25美元，跌幅达5.45%；8月交货的伦敦布伦特原油期货价格一度跌至每桶83.51美元，跌幅为4.37%。（央视新闻）",
+"published": 1781480654.0
+},
+{
+"source": "36氪",
+"title": "华泰证券：预计美联储6月会议维持利率不变",
+"link": "https://36kr.com/newsflashes/3853657440867592?f=rss",
+"summary": "36氪获悉，华泰证券研报称，北京时间6月18日（周四）凌晨美联储将公布6月议息会议决定，考虑到美联储内部对加息仍有分歧，预计美联储6月会议维持利率不变，取消声明中的宽松倾向，但强调未来利率走势取决于后续数据；同时，预计美联储还将下调2026年增长预测、上调2026年通胀与中性利率预测，点阵图指引将由2026—2027年各降息1次转为维持利率不变。此外，本次将是沃什作为美联储主席的“首秀”，关注沃什对利率前景、缩表、联储改革等的表态。",
+"published": 1781480584.0
+},
+{
+"source": "36氪",
+"title": "新发火爆与基金限购并行，公募求解规模业绩平衡难题",
+"link": "https://36kr.com/newsflashes/3853643375875072?f=rss",
+"summary": "近期，A股市场科技主线持续演绎，公募基金则出现了看似矛盾的现象：一方面，强烈的赚钱效应点燃基金发行市场，年内新发权益基金爆款频出，科技主题产品时常“一日售罄”；另一方面，以科技主题为代表的绩优基金频频限购，将汹涌而来的资金拒之门外。这种上新与限购并存的现象，折射出公募基金在科技行情进入短期高位之际，需要再度面对规模与业绩再平衡的难题。有公募分析人士指出，这需要公募基金、代销渠道等机构在面对短期利润诱惑时保持一定的克制力——公募基金要有限购的勇气，把规模控制在基金经理的能力圈里…",
+"published": 1781480561.0
+},
+{
+"source": "36氪",
+"title": "年内216只公募基金宣布提前结束募集",
+"link": "https://36kr.com/newsflashes/3853642697774086?f=rss",
+"summary": "近日，多只基金宣布提前结束募集（简称“结募”）。Wind数据显示，截至6月14日（按公告日期计），今年以来宣布提前结募的公募基金已达216只，同比增长约29%。其中，被动指数型基金和偏股混合型基金数量居前，分别为71只、41只，在年内宣布提前结募的基金中占比分别为32.87%、18.98%。此外，宣布提前结募的公募FOF和二级债基数量也较多，分别为35只和32只。（证券日报）",
+"published": 1781480400.0
+},
+{
+"source": "36氪",
+"title": "包容性改革全链条护航，资本市场加力支持科技创新",
+"link": "https://36kr.com/newsflashes/3853640571458822?f=rss",
+"summary": "硬科技企业扎堆登陆A股，是经济结构转型升级与制度持续优化的直观写照。今年以来，资本市场以前所未有的力度加码支持科技创新：从上市标准的精准适配，到IPO预先审阅等机制创新，再到耐心资本生态的持续构建——资本市场正变得愈发“懂”科技，加速成长为培育新质生产力的核心引擎。一个更包容、更具活力的资本市场，将全链条护航新质生产力拔节生长。（中证报）",
+"published": 1781480330.0
+},
+{
+"source": "36氪",
+"title": "北交所公司调研热度攀升，新能源与医药赛道受关注",
+"link": "https://36kr.com/newsflashes/3853639504303360?f=rss",
+"summary": "2026年5月以来，北交所上市公司迎来机构调研密集期。Wind数据显示，截至6月14日，共有40家北交所上市公司接受机构调研，除券商依旧是调研主力军外，公募基金以及保险资管等长线资金也积极参与，挖掘高潜力细分龙头。多家新能源、生物医药、高端制造、新材料等赛道公司在调研中披露了最新业务进展、产能建设规划及对行业周期判断。（中证报）",
+"published": 1781480085.0
+},
+{
+"source": "36氪",
+"title": "海外市场需求持续。业内预计铝产业有望迎来新一轮景气周期",
+"link": "https://36kr.com/newsflashes/3853637916972289?f=rss",
+"summary": "经过一年多持续上行，2026年6月，LME（伦敦金属交易所）3月期铝价格盘中最高触及3787.5美元/吨，创下近4年新高；国内期货市场沪铝也表现坚挺，主力合约价格在24000元/吨关口反复震荡。受全球下游消费需求持续扩张、中东地缘冲突等因素影响，国内铝产品出口持续放量，有效填补全球供应缺口，同时，内外盘价差走阔也打开了铝企盈利空间。据海关总署统计，2026年1—4月我国未锻轧铝及铝材累计出口205.3万吨，同比增长8.9%；其中4月出口59.8万吨，同比增长15.4%，创下近…",
+"published": 1781479927.0
+},
+{
+"source": "36氪",
+"title": "高能同步辐射光源计划年内正式运行",
+"link": "https://36kr.com/newsflashes/3853637219931398?f=rss",
+"summary": "中国科学院高能物理研究所副所长、高能同步辐射光源（HEPS）常务副总指挥董宇辉6月13日表示，高能同步辐射光源自2025年12月试运行，截至2026年4月底，已支持近300个研究课题，吸引1000余名来访用户，计划今年内通过国家验收后正式运行。（科技日报）",
+"published": 1781479764.0
+},
+{
+"source": "36氪",
+"title": "首批商业不动产REITs本周上市交易，机构投资者持有份额占比超90%",
+"link": "https://36kr.com/newsflashes/3853635429750016?f=rss",
+"summary": "近日，首批4只商业不动产REITs确定将于6月18日正式挂牌交易。最新披露的持有人数据显示，机构投资者持有份额占比超90%，其中不仅包括券商、私募等传统机构，还出现了国新资管、中国保险投资基金等代表性“长线资金”。有机构对记者表示，随着首批产品发行落地，REITs二级市场有望迎来阶段性估值修复窗口。后续走势取决于长线增量资金入市及相关配套政策的推进情况，重点关注两大关键节点：一是险资入市增持商业不动产REITs的时点；二是首批REITs指数基金获批落地的时点。行业乐观预期，7…",
+"published": 1781479655.0
+},
+{
+"source": "36氪",
+"title": "“恐慌性抛售”来得有点快，原油期货净多头寸较峰值已腰斩",
+"link": "https://36kr.com/newsflashes/3853634098205705?f=rss",
+"summary": "近期，随着中东局势有所缓和，原油期货市场也出现了明显反应。从美元净多头寸的规模变动来看，长线配置资金正在退场，持续流出原油期货市场。布伦特原油市场最新数据显示，上周净多头寸减少4.4万手，这一规模可以用“恐慌性抛售”来形容。过去2个多月内，布伦特原油期货净多头寸已经从3月底的峰值回落约22万手，降幅超过50%。尽管原油期货价格大幅下行，但原油基本面依然趋紧，全球库存消耗速度仍在加快，供应缺口并不小。美国能源信息署（EIA）预计，6—7月布伦特现货均价将达105美元/桶，较同期…",
+"published": 1781479515.0
+},
+{
+"source": "36氪",
+"title": "月内153只债基合计分红超45亿元",
+"link": "https://36kr.com/newsflashes/3853636279047431?f=rss",
+"summary": "近期，多只债券型基金密集分红，涉及中短债基金、纯债基金、政策性金融债指数基金以及定期开放债基等多种产品。Wind数据显示，截至6月14日，月内共有153只债券型基金实施分红，合计分红45.72亿元；年内共有1162只债券型基金实施分红1520次，合计分红384.69亿元。（证券日报）",
+"published": 1781479292.0
+},
+{
+"source": "36氪",
+"title": "新型有机分子实现超窄带发光",
+"link": "https://36kr.com/newsflashes/3853623619441668?f=rss",
+"summary": "日本京都大学研究团队开发出一种新型有机发光分子，在无需激光强激发的情况下，实现了接近单色光的超窄带发光，突破了长期以来“自发辐射必然产生宽光谱”的传统认知，为开发具有更高色彩纯度的新一代有机发光二极管（OLED）提供了全新设计思路，有望提升OLED色彩纯度。相关研究发表于新一期《自然》。（科技日报）",
+"published": 1781479235.0
+},
+{
+"source": "36氪",
+"title": "由激光写入的磁存储材料切换数据提速千倍",
+"link": "https://36kr.com/newsflashes/3853623109866496?f=rss",
+"summary": "据最新一期《应用物理快报》报道，日本量子科学技术研究开发机构研究团队开发出可由激光直接写入的新型磁性存储材料，其数据切换速度可达传统电流驱动磁存储器的约1000倍，有望用于未来AI芯片和高速信息系统，同时可降低数据中心能耗。（科技日报）",
+"published": 1781479024.0
+},
+{
+"source": "TechCrunch",
+"title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+"link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
+"summary": "JPMorgan can't be pleased by any of this.",
+"published": 1781474134.0
+},
+{
+"source": "The Verge",
+"title": "The FBI built a small town to simulate cyberattacks",
+"link": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
+"summary": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire to…",
+"published": 1781469341.0
+},
+{
+"source": "TechCrunch",
+"title": "UK may ban social media for children under 16",
+"link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
+"summary": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.",
+"published": 1781468220.0
+},
+{
+"source": "The Verge",
+"title": "China may have accessed Mythos",
+"link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+"summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had …",
+"published": 1781461675.0
+},
+{
+"source": "TechCrunch",
+"title": "As AI companies race to go public, who else is along for the ride?",
+"link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+"summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+"published": 1781455089.0
+},
+{
+"source": "The Verge",
+"title": "Conclave is the sound of a NYC summer block party",
+"link": "https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review",
+"summary": "I have this vivid memory of walking to pick up my oldest from school in June of 2022. For a variety of reasons, I was in a very bad place mentally. And to make matters worse, it was brutally hot. I was depressed, angry with the world, sunbu…",
+"published": 1781454600.0
+},
+{
+"source": "Solidot",
+"title": "本田思域容易遭到“邪恶女佣攻击”",
+"link": "https://www.solidot.org/story?sid=84576",
+"summary": "邪恶女佣攻击（Evil maid attack）是对无人值守设备的一种攻击方式，具有物理访问权限的攻击者，用某种无法检测的手段对设备进行更改，以便后续访问该设备或设备中的数据。本田思域也很容易面临类似的攻击，比如邪恶的酒店代客泊车员。研究人员发现，本田汽车使用的 Android 软件包使用了公开 AOSP 测试密钥进行签名，只要能物理访问汽车的 USB 接口，就可以刷入任意软件包，执行任意代码。",
+"published": 1781453749.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+"link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
+"summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+"published": 1781453100.0
+},
+{
+"source": "The Verge",
+"title": "How to watch most of the World Cup matches with free trials",
+"link": "https://www.theverge.com/gadgets/948871/world-cup-streaming-free-trial-deal-sale",
+"summary": "Hoping to catch some World Cup matches while spending as little money as possible? You have a few options for finding a few days of free streaming, although you may choose to eventually pony up some money. That, or get creative by combining…",
+"published": 1781452800.0
+},
+{
+"source": "Solidot",
+"title": "科学家再生受损膝关节软骨逆转关节炎",
+"link": "https://www.solidot.org/story?sid=84575",
+"summary": "骨关节炎是最常见的关节炎类型，美国有五分之一成年人患有骨关节炎。它会逐渐破坏关节软骨，导致疼痛、僵硬和肿胀。现有疗法主要是缓解疼痛，病情严重则需进行关节置换手术。尚无药物能减缓、阻止或逆转关节炎。名为 15-PGDH 的蛋白质与软骨的衰老相关，研究人员对比了年轻和年长小鼠的软骨，发现 15-PGDH 的水平随年龄增长翻了一番。研究人员测试了一种能阻断 15-PGDH 活性的小分子药物，发现它能修复年长小鼠受损的膝关节软骨，预防严重关节损伤后关节炎的发生。人体组织测试也表现出了…",
+"published": 1781452000.0
+},
+{
+"source": "Solidot",
+"title": "印度工人训练将会替代他们的 AI 机器人",
+"link": "https://www.solidot.org/story?sid=84574",
+"summary": "家庭主妇 Nagireddy Sriramyachandra 头上绑着智能手机，拍摄自己切芒果的视频，以训练 AI 机器人在未来能做家务。她每录制一小时视频能赚到 250 卢比。看似普普通通的视频对科技巨头而言却弥足珍贵，能帮助机器学习如何在现实世界里像人一样行动。这位 25 岁的年轻女性是印度越来越多的 AI 训练大军成员之一。她说只是做家务谁会每小时给你 250 卢比？她表示自己未来也许会拥有一台机器人。她通过专门的应用将拍摄的视频发送给一家 AI 数据公司，该公司在印度…",
+"published": 1781448791.0
+},
+{
+"source": "Solidot",
+"title": "研究发现果糖相比葡萄糖发送了较弱的饱腹信号",
+"link": "https://www.solidot.org/story?sid=84573",
+"summary": "研究人员发现，果糖和葡萄糖虽然热量相同，但它们的肠脑信号通路不同，这种差异可能影响我们对食物和饮料的偏好。研究人员通过小鼠实验发现了一条果糖与大脑沟通的专用肠脑信号通路，发现果糖抑制饥饿相关神经元活性的效果远不如葡萄糖。现代饮食富含果糖，被普遍认为推动了肥胖率持续上升。对小鼠神经活动的观察发现，果糖会引起肠道激素 PYY 水平升高，PYY 通过迷走神经适度抑制 AgRP 神经元活动。AgRP 神经元是大脑负责驱动饥饿感的关键细胞，阻断该信号通路能消除果糖的影响。葡萄糖不依赖于…",
+"published": 1781447637.0
+},
+{
+"source": "TechCrunch",
+"title": "The new Sonos Play has become my go-to desk and kitchen speaker",
+"link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
+"summary": "The new Sonos Play can act as a portable speaker inside and outside your home.",
+"published": 1781445600.0
+},
+{
+"source": "Solidot",
+"title": "英国警官被控使用 AI 伪造证据",
+"link": "https://www.solidot.org/story?sid=84572",
+"summary": "英国警方对一名涉嫌在多个案件使用 AI 伪造证据的警官展开刑事调查。由于调查正在进行之中，警方没有披露更多信息。德比郡警方表示，这名警官已被调离一线岗位，等待调查结果。该警官被指控妨碍司法公正，尚未被逮捕。这是英国首例警官在刑事案件中被控滥用 AI 技术。",
+"published": 1781445078.0
+},
+{
+"source": "The Verge",
+"title": "The impossible dream of the universal remote",
+"link": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history",
+"summary": "You don't really ever have to explain why a universal remote is a good idea. You have a bunch of stuff that needs controlling; this thing controls them all. Many companies have set out to build a product worthy of this idea, and one product…",
+"published": 1781444527.0
+},
+{
+"source": "爱范儿",
+"title": "HDC 2026 深度解构：鸿蒙全面向 Agent 架构演进，小艺做了这三件事",
+"link": "https://www.ifanr.com/1668931?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "为什么小艺更聪明、更懂我、更能办成事了？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1781438450.0
+},
+{
+"source": "The Verge",
+"title": "Solid-state batteries still aren’t ready, but gels are",
+"link": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
+"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET…",
+"published": 1781438400.0
+},
+{
+"source": "36氪",
+"title": "增长停滞两年后，H&M重组全球架构，大中华区降级｜独家",
+"link": "https://36kr.com/p/3850942780838912?f=rss",
+"summary": "文｜贺哲馨 编辑｜乔芊 36氪独家获悉，瑞典快时尚巨头H&M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。 大中华区在这轮调整中降级为26个销售市场之一，归属新成立的亚太洲级事业部（Continent Asia Pacific）管理。原大中华区总裁司懿德（Saed El-Achkar）将出任该事业部董事总经理（Managing Director），任命预计在6月25日…",
+"published": 1781415522.0
+},
+{
+"source": "TechCrunch",
+"title": "As Anthropic suspends access to new models, India debates its AI future",
+"link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+"summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+"published": 1781406000.0
+},
+{
+"source": "少数派",
+"title": "TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验",
+"link": "https://sspai.com/post/110761",
+"summary": "一代上的好几处优势这次依然保持得不错。查看全文",
+"published": 1781406000.0
+},
+{
+"source": "36氪",
+"title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+"link": "https://36kr.com/p/3851572421432324?f=rss",
+"summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。 SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入点，自主研发了睡眠安抚机器人MoYa。该产品融合机器人技术、神经科学与心理学，采用无摄像头设计…",
+"published": 1781400600.0
+},
+{
+"source": "TechCrunch",
+"title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+"link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+"summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+"published": 1781395429.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "10 best practices for optimizing generative and agentic AI costs",
+"link": "https://siliconangle.com/2026/06/14/10-best-practices-optimizing-generative-agentic-ai-costs/",
+"summary": "As enterprises scale initiatives, the cost of developing, deploying and operating generative artificial intelligence models rises significantly. The shift toward AI agents can further increase costs becausse of poor architecture, limited op…",
+"published": 1781461860.0
+}
+]
+}
+}

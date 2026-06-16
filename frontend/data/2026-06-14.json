@@ -1,8 +1,43 @@
 {
 "date": "2026-06-14",
-"total": 51,
+"total": 57,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "AI is code – and can't be prompted into being smarter",
+"link": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+"summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.ycombinator.com/item?id=48532178 Points: 155 # Comments: 138",
+"published": 1781468274.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Introducing the OpenAI Partner Network",
+"link": "https://openai.com/index/introducing-openai-partner-network",
+"summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+"published": 1781456400.0
+},
+{
+"source": "HN AI 热门",
+"title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+"link": "https://github.com/nex-agi/Nex-N2/issues/4",
+"summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 394 # Comments: 212",
+"published": 1781451451.0
+},
+{
+"source": "HN AI 热门",
+"title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
+"link": "https://github.com/DietrichGebert/ponytail",
+"summary": "Article URL: https://github.com/DietrichGebert/ponytail Comments URL: https://news.ycombinator.com/item?id=48527946 Points: 85 # Comments: 11",
+"published": 1781449697.0
+},
+{
+"source": "HN AI 热门",
+"title": "Not everyone is using AI for everything",
+"link": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+"summary": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they Comments URL: https://news.ycombinator.com/item?id=48527700 Points: 495 # Comments: 535",
+"published": 1781448269.0
+},
 {
 "source": "The Decoder",
 "title": "Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner",
@@ -200,6 +235,13 @@
 "link": "https://36kr.com/newsflashes/3853623109866496?f=rss",
 "summary": "据最新一期《应用物理快报》报道，日本量子科学技术研究开发机构研究团队开发出可由激光直接写入的新型磁性存储材料，其数据切换速度可达传统电流驱动磁存储器的约1000倍，有望用于未来AI芯片和高速信息系统，同时可降低数据中心能耗。（科技日报）",
 "published": 1781479024.0
+},
+{
+"source": "少数派",
+"title": "派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线",
+"link": "https://sspai.com/post/111045",
+"summary": "Fable 5 和 Mythos 5 模型因美国商务部禁令下线SpaceX 挂牌，市值达 2.1 万亿美元《广告引证内容执法指南》出台华为推出 HarmonyOS 7英伟达开始接受中国客户下单 Vera CPU大疆与影石在美互诉专利侵权看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+"published": 1781478575.0
 },
 {
 "source": "TechCrunch",

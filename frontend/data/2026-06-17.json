@@ -1,8 +1,15 @@
 {
 "date": "2026-06-17",
-"total": 149,
+"total": 150,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+"link": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+"summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas... Comments URL: https://news.ycombinator.com/item?id=48575451 Points: 90 # Comments: 115",
+"published": 1781724122.0
+},
 {
 "source": "InfoQ 中国",
 "title": "轻装上阵，能力不减：TDSQL 基础版的“小而美”之道 | 腾讯云数据库 DBTalk",

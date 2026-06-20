@@ -1,0 +1,362 @@
+{
+"date": "2026-06-20",
+"total": 50,
+"categories": {
+"AI": [
+{
+"source": "The Decoder",
+"title": "The EU doesn't really know what a deepfake is, and that's becoming a problem for retail",
+"link": "https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/",
+"summary": "Eurocommerce, the trade association behind Amazon, H&M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules. The argument: an AI-generated living room image used to sell a sofa isn't a deepfake. Zalando alone say…",
+"published": 1781975858.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI's Codex can now watch you work once and repeat the task forever",
+"link": "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/",
+"summary": "OpenAI has released the \"Record & Replay\" feature for its Codex app on macOS: users demonstrate a workflow once, Codex converts it into a reusable \"skill,\" and then repeats it on its own. The feature isn't available yet in the EU, the UK, o…",
+"published": 1781961308.0
+},
+{
+"source": "The Decoder",
+"title": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust",
+"link": "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/",
+"summary": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is building massive amounts of debt-financed physical infrastructure rather than lightwe…",
+"published": 1781958417.0
+},
+{
+"source": "量子位",
+"title": "英伟达开始搞机器人自己研究机器人那套了…",
+"link": "https://www.qbitai.com/2026/06/437041.html",
+"summary": "为了让你烧token，英伟达已经卷到机器人身上了",
+"published": 1781957180.0
+},
+{
+"source": "量子位",
+"title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+"link": "https://www.qbitai.com/2026/06/437023.html",
+"summary": "全球最聪明的人之一，成了AI最狂热的布道者",
+"published": 1781956617.0
+},
+{
+"source": "量子位",
+"title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+"link": "https://www.qbitai.com/2026/06/436996.html",
+"summary": "速度快7倍，成本只有Veo 3的1/2000",
+"published": 1781952155.0
+},
+{
+"source": "InfoQ 中国",
+"title": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
+"link": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1781949600.0
+},
+{
+"source": "The Decoder",
+"title": "Data2Story turns a CSV file into a verified interactive news article using seven AI agents",
+"link": "https://the-decoder.com/data2story-turns-a-csv-file-into-a-verified-interactive-news-article-using-seven-ai-agents/",
+"summary": "Seven AI agents work together like a newsroom. The \"Data Journalist Agent\" from Oxford and Stanford turns a CSV file into a finished interactive article with graphics, web research, and verifiable source links for 93 percent of all statemen…",
+"published": 1781949115.0
+},
+{
+"source": "量子位",
+"title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+"link": "https://www.qbitai.com/2026/06/436980.html",
+"summary": "Gemini 3.5 Pro呢？",
+"published": 1781948538.0
+},
+{
+"source": "量子位",
+"title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+"link": "https://www.qbitai.com/2026/06/436966.html",
+"summary": "抢人最猛的Meta，似乎先从内部裂开了",
+"published": 1781948191.0
+},
+{
+"source": "The Decoder",
+"title": "ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls",
+"link": "https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/",
+"summary": "OpenAI is upgrading ChatGPT's scheduling feature. A new \"Scheduled\" page in the sidebar puts all active tasks in one place, letting users view, pause, edit, or delete them. Research tasks search the web and connected apps, sending alerts on…",
+"published": 1781945059.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI tripled revenue to $5.7 billion in Q1 but burned through $3.7 billion to get there",
+"link": "https://the-decoder.com/openai-tripled-revenue-to-5-7-billion-in-q1-but-burned-through-3-7-billion-to-get-there/",
+"summary": "In the first quarter of 2026, OpenAI pulled in $5.7 billion in revenue and burned through about $3.7 billion, both figures tripled year over year. Stock-based compensation alone ate up over $2.3 billion. With $73 billion in reserves, OpenAI…",
+"published": 1781942527.0
+}
+],
+"科技": [
+{
+"source": "TechCrunch",
+"title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+"link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+"summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+"published": 1781987549.0
+},
+{
+"source": "TechCrunch",
+"title": "In the Weights is your new AI-centric vanity search",
+"link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+"summary": "So ... what's your In the Weights score?",
+"published": 1781984471.0
+},
+{
+"source": "The Verge",
+"title": "The Atlantic created a searchable database of the music used to train AI",
+"link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+"summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two …",
+"published": 1781981208.0
+},
+{
+"source": "TechCrunch",
+"title": "Founders Fund’s outlier bet on humanely killed fish",
+"link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+"summary": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+"published": 1781979962.0
+},
+{
+"source": "TechCrunch",
+"title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+"link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+"summary": "Jumper isn't the only big name leaving Google DeepMind.",
+"published": 1781973597.0
+},
+{
+"source": "The Verge",
+"title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+"link": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+"summary": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the \"Dark…",
+"published": 1781968800.0
+},
+{
+"source": "Solidot",
+"title": "软银将其持有的波士顿动力剩余股份全部出售给现代汽车",
+"link": "https://www.solidot.org/story?sid=84631",
+"summary": "2020 年 12 月现代汽车以 8.8 亿美元从软银手中收购波士顿动力 80% 的控股权，该交易对波士顿动力的估值为 11 亿美元。收购协议包含了一项卖出期权，允许软银在未来某个时候将剩余股份出售给现代汽车。现在软银行使了卖出期权，以 3.25 亿美元将其持有的剩余股份出售给现代汽车。波士顿动力已有逾三十年历史，但其机器人的商业化一直进展缓慢。四足机器人 Spot 是首个取得商业成功的产品，而其人形机器人 Atlas 要证明其商业价值仍然面临重重困难。",
+"published": 1781968349.0
+},
+{
+"source": "TechCrunch",
+"title": "Every new iOS 27 feature that’s worth knowing about",
+"link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+"summary": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
+"published": 1781967600.0
+},
+{
+"source": "Solidot",
+"title": "AI 使用是否会导致技能退化？",
+"link": "https://www.solidot.org/story?sid=84630",
+"summary": "随着越来越多的专业人士开始在工作中依赖 AI 工具，他们来之不易的技能会不会逐渐退化？此种担忧不无道理。有证据表明，AI 驱动的技能退化现象正在医学、计算机科学等领域发生。研究人员正探讨如何在 AI 时代保留重要的人类专业知识。一项针对波兰内窥镜医生的研究表明，AI 工具会迅速削弱人类的能力。这些医生在其职业生涯至少进行 2000 例结肠镜检查。研究人员让他们使用一套 AI 系统，能实时分析结肠镜图像，标记名为腺瘤的肠道癌前期病变。一旦医生开始使用该系统，每当系统不可用时，他…",
+"published": 1781966610.0
+},
+{
+"source": "Solidot",
+"title": "挪威限制小学生使用 AI",
+"link": "https://www.solidot.org/story?sid=84629",
+"summary": "挪威首相 Jonas Gahr Stoere 周五表示，挪威将限制小学生使用生成式 AI 工具。他表示，使用 AI 会增加儿童跳过重要教育阶段的风险。儿童在学校里最重要的是学会阅读、写作和数学。挪威政府表示，6-13 岁或一至七年级学生不应使用 AI；14-16 岁初中生可在教师指导下谨慎使用 AI 工具，17-19 岁高中学生应学习如何正确使用 AI 以便为未来的学习和工作做好准备。挪威政府还表示将立法为课堂使用更多书籍提供资金以扭转平板电脑普及的趋势。新标准将从 8 月下…",
+"published": 1781964669.0
+},
+{
+"source": "The Verge",
+"title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
+"link": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
+"summary": "From its opening minutes, Moves of the Diamond Hand is upfront about what it offers: You're going to have a lot of strange conversations, and you're going to roll a lot of dice. Get on board with this proposition, and the reward is one of t…",
+"published": 1781964000.0
+},
+{
+"source": "The Verge",
+"title": "Toy Story has the right take on tech",
+"link": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+"summary": "Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read all the old editions at the Installer homepage.) This week, I…",
+"published": 1781956800.0
+},
+{
+"source": "36氪",
+"title": "特朗普：不再将Anthropic视为国家安全威胁",
+"link": "https://36kr.com/newsflashes/3861259140764678?f=rss",
+"summary": "在6月19日发布的《阿克西奥斯秀》（《Axios Show》）访谈节目中，美国总统特朗普表示，他已经不再将美国人工智能公司安特罗匹克（Anthropic）视为国家安全威胁。 （财联社）",
+"published": 1781948982.0
+},
+{
+"source": "36氪",
+"title": "挪威将禁止小学生使用生成式人工智能",
+"link": "https://36kr.com/newsflashes/3861257682129921?f=rss",
+"summary": "挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的方案，6到13岁的小学生原则上不得使用人工智能工具；14到16岁的初中生可在教师的严密监管下谨慎使用此类工具。17到19岁的高中生应学习如何恰当地使用人工智能工具，以便为后续的高等教育和未来的职场环境做好准备。（央视新闻）",
+"published": 1781947848.0
+},
+{
+"source": "36氪",
+"title": "新型量子传感器可探测引力波和暗物质",
+"link": "https://36kr.com/newsflashes/3861211883607305?f=rss",
+"summary": "英国《自然》杂志日前发布的一项新研究结果显示，一种新型量子传感器能有效消除背景噪声对测量精度的影响，可用于搜寻此前技术难以探测的微弱信号，有助于解开超大质量黑洞形成之谜。牵头这项研究的英国帝国理工学院发布新闻公报表示，了解宇宙的组成成分以及发现新的引力波源需要测量极微弱的信号。原子干涉仪利用原子物质波的干涉进行测量，但测量所需使用的激光脉冲本身具有噪声，可能会淹没信号，导致无法获得有意义的数据。 (新华社)",
+"published": 1781946357.0
+},
+{
+"source": "36氪",
+"title": "中国在商用光纤端部构建了一种三维光纤微镊 输出力是传统光镊的十万倍以上",
+"link": "https://36kr.com/newsflashes/3861209206740228?f=rss",
+"summary": "近日，从安徽大学获悉，该校光电信息获取与防护技术全国重点实验室青年教师潘登与中国科学技术大学团队合作，提出了面向纤基集成器件的飞秒激光复合制造方法，在商用光纤端部构建了一种三维光纤微镊，实现了微米尺度目标的高精度、低损伤与可编程三维操控。研究成果日前发表于国际期刊《自然》。研究团队构建的三维光纤微镊输出力是传统光镊的十万倍以上，能够实现微米尺度目标的精准操控和复杂微结构的精确装配。（科技日报）",
+"published": 1781944973.0
+},
+{
+"source": "36氪",
+"title": "马斯克已行使了其2018年特斯拉CEO薪酬方案的全部权利 获得了3.04亿股股票",
+"link": "https://36kr.com/newsflashes/3861257361626112?f=rss",
+"summary": "根据美国证券交易委员会（SEC）的一份新文件，马斯克已行使了其2018年特斯拉CEO薪酬方案的全部权利，获得了3.04亿股股票，账面收益约为1160亿美元（约合人民币7800亿元）。不过，上述股票将被锁定至2028年。届时，马斯克才能出售这些股票。（财联社）",
+"published": 1781944446.0
+},
+{
+"source": "36氪",
+"title": "张雪称自己创业时比李书福幸福",
+"link": "https://36kr.com/newsflashes/3861205226787840?f=rss",
+"summary": "近日，在央视财经《对话》节目录制现场，张雪直言比李书福“幸福”，他口中的“幸福”，是中国制造一步步攒出来的底气。李书福说：“当时我们造汽车，确实啥也没有。虽然啥也没有，但力量在风中回荡。有些事情定下来以后，只要认准一个方向、坚定一个信念、凝聚一股力量，最终完成一个使命。”张雪说：“我比李总幸福的地方在于，当我创业的时候，我国工业制造的高度，已经完全不是同日而语了。”（央视财经）",
+"published": 1781943686.0
+},
+{
+"source": "36氪",
+"title": "6月20日全国铁路预计发送旅客1224万人次",
+"link": "https://36kr.com/newsflashes/3861040294941699?f=rss",
+"summary": "从中国国家铁路集团有限公司获悉， 6月20日端午节假期第2天，预计发送旅客1224万人次，计划加开旅客列车598列。6月19日，全国铁路发送旅客1936.8万人次，运输安全平稳有序。（澎湃新闻）",
+"published": 1781942455.0
+},
+{
+"source": "36氪",
+"title": "上交所拟完善股票期权组合策略业务，推出单边平仓功能",
+"link": "https://36kr.com/newsflashes/3861199831700744?f=rss",
+"summary": "近日，记者从业内获悉，为进一步提升期权投资者资金使用效率、降低交易成本、促进期权市场健康发展，上交所发布股票期权组合策略单边平仓业务方案，拟在现有组合策略业务基础上推出单边平仓功能。上交所自2019年推出股票期权组合策略业务以来，该业务在优化保证金占用、丰富投资者策略运用方面发挥了积极作用。此次推出的单边平仓功能，允许对投资者组合策略中的义务仓单独进行买入平仓操作，从而先解除组合再各自平仓，进一步简化了交易流程。（中证网）",
+"published": 1781941849.0
+},
+{
+"source": "36氪",
+"title": "英国拟强制Meta、YouTube等平台推送更多本地新闻内容",
+"link": "https://36kr.com/newsflashes/3861056590222342?f=rss",
+"summary": "多位接近谈判的匿名人士报道，英国政府计划强制YouTube、Meta等社交媒体平台提升本地新闻内容的曝光权重。政府预计最早于本月就相关规则展开公众咨询，要求BBC、ITV、Channel 4等公共服务广播机构增加新闻内容供给。相关规则也可能延伸至全国性及区域性报纸。细节仍在最终敲定中。 （财联社）",
+"published": 1781940784.0
+},
+{
+"source": "36氪",
+"title": "曹德旺谈内卷：我从来不怕竞争，优秀的企业需要强有力的对手",
+"link": "https://36kr.com/newsflashes/3861038141527303?f=rss",
+"summary": "在福耀科技大学商学中心近日举办的一场企业家培训营上，面对中小企业如何应对市场内卷的提问，曹德旺直截了当地说：“先把内卷两个字改掉，改成竞争，心态就平衡了。”“我从来不怕竞争。一个优秀的企业，恰恰需要强有力的对手。如果没有对手跟你竞争，你自己也很难进步。所以不要把它理解成内卷。打赢对手，说明你做得更好；打输给对手，就说明自己还有差距，那就继续努力，把它打赢回来。”（澎湃新闻）",
+"published": 1781939281.0
+},
+{
+"source": "The Verge",
+"title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
+"link": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
+"summary": "I can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot. As the name indi…",
+"published": 1781938800.0
+},
+{
+"source": "36氪",
+"title": "晋江文学城就部分用户充值未到账致歉：已全部处理完毕",
+"link": "https://36kr.com/newsflashes/3861016431449092?f=rss",
+"summary": "6月20日，@晋江文学城客小服 发布公告称，“尊敬的iOS用户，发生在2026年6月20日00：00-05：00期间，通过iOS充值渠道充值后未到账的订单，截止到2026年6月20日10：00技术已全部处理完毕，期间反馈充值未到账的友友，可移步账号余额做下确认，因此给大家带来不好的体验，深表歉意。”（界面新闻）",
+"published": 1781937954.0
+},
+{
+"source": "36氪",
+"title": "端午假期首日 港珠澳大桥珠海公路口岸迎来出入境客流车流高峰",
+"link": "https://36kr.com/newsflashes/3861028290024448?f=rss",
+"summary": "端午节假期首日，港珠澳大桥珠海公路口岸迎来客流车流高峰。据珠海边检总站港珠澳大桥边检站数据，6月19日，经港珠澳大桥珠海公路口岸出入境旅客超过10.1万人次，车辆超过1.9万辆次，两项数据均处历史同期高位水平。（第一财经）",
+"published": 1781936241.0
+},
+{
+"source": "36氪",
+"title": "金饰克价年内大跌近450元",
+"link": "https://36kr.com/newsflashes/3861023152444681?f=rss",
+"summary": "6月20日，国际金价继续走弱。截至周五（6月19日）纽约尾盘，现货黄金价格下跌0.79%，报4154.78美元/盎司；黄金期货价格下跌1.72%，报4172.9美元/盎司。受国际金价调整影响，国内多家品牌足金饰品价格下跌至约1260元/克，和年内高点相比下跌近450元。（央视财经）",
+"published": 1781934647.0
+},
+{
+"source": "36氪",
+"title": "理想i6第15万台量产车下线",
+"link": "https://36kr.com/newsflashes/3861020174767109?f=rss",
+"summary": "36氪获悉，6月20日，理想汽车宣布，理想i6第15万台量产车下线。据了解，理想i6于2025年9月26日上市，售价24.98万元起。",
+"published": 1781933248.0
+},
+{
+"source": "爱范儿",
+"title": "诺奖得主转投Anthropic，谷歌48小时连失两大牛，内部信仰崩塌？",
+"link": "https://www.ifanr.com/1669460?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "大公司在 AI 时代会成为过去式#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1781933130.0
+},
+{
+"source": "36氪",
+"title": "抖音商城618数据：超12万商家直播成交额同比增长翻倍",
+"link": "https://36kr.com/newsflashes/3861055337157637?f=rss",
+"summary": "36氪获悉，6月19日，《2026年抖音商城618数据报告》发布，数据显示，今年618期间，超过12万商家直播成交额同比增长翻倍，超57万达人成交额翻倍增长，粉丝量在100万以下的中小达人贡献了超过80%的达人带货成交额。在首次参与618大促的新商家中，近3万家成交额突破百万元。",
+"published": 1781932115.0
+},
+{
+"source": "36氪",
+"title": "陕西：前五月经济平稳向好 工业生产稳定增长",
+"link": "https://36kr.com/newsflashes/3860916355601415?f=rss",
+"summary": "6月18日，陕西省统计局发布前5月经济运行情况：前5月，全省工业生产稳定增长，投资结构不断优化，消费市场保持增长，经济运行延续平稳向好发展态势。全省规模以上工业增加值同比增长4.9%。重点行业支撑有力，煤炭开采和洗选业增加值同比增长11.9%，化学原料和化学制品制造业增加值同比增长10.9%，石油和天然气开采业增加值同比增长7.7%，铁路、船舶、航空航天和其他运输设备制造业增加值同比增长18.2%。投资结构不断优化，工业投资持续增长，全省工业投资同比增长2.8%。消费市场保持…",
+"published": 1781930734.0
+},
+{
+"source": "36氪",
+"title": "2026暑期档电影票房破10亿",
+"link": "https://36kr.com/newsflashes/3861026532742148?f=rss",
+"summary": "据网络平台数据，截至目前，2026年暑期档电影总票房（含预售）突破10亿元。（央视新闻）",
+"published": 1781930547.0
+},
+{
+"source": "36氪",
+"title": "盛吉盛先进半导体产品孵化与制造中心项目落地无锡",
+"link": "https://36kr.com/newsflashes/3860911711294725?f=rss",
+"summary": "36氪获悉，据“无锡发布”微信公众号消息，6月17日，盛吉盛先进半导体产品孵化与制造中心项目正式签约，落地惠山高新区洛社镇。盛吉盛将在惠山先进制造产业园内建设先进产品孵化中心，一期面积约为6000平方米，先期导入两款先进12英寸薄膜沉积设备，规模量产后实现年产值1.5亿元以上。",
+"published": 1781929850.0
+},
+{
+"source": "36氪",
+"title": "大连坤达完成数千万元A轮融资",
+"link": "https://36kr.com/newsflashes/3860909169366019?f=rss",
+"summary": "据大桉资本消息，大连坤达自动化有限公司已于2026年5月完成数千万元人民币A轮融资，本轮融资由泰州永鑫融堰创业投资合伙企业投资。大桉资本担任本轮融资独家财务顾问及政府落地顾问。（新浪财经）",
+"published": 1781928601.0
+},
+{
+"source": "36氪",
+"title": "美联储释放“鹰派”信号 本周金价微涨银价大跌",
+"link": "https://36kr.com/newsflashes/3860905883178248?f=rss",
+"summary": "受美元走强等因素推动，国际金价和银价周五下跌。纽约商品交易所8月交割的黄金期货价格尾盘跌幅超过1.7%；7月交割的白银期货价格下跌超2%。因纽商所提前结束交易，纽约黄金和白银期货当天没有收盘价。本周来看，由于美联储释放强于预期的“鹰派”信号，美元指数显著走强，令无息资产承压，纽约商品交易所黄金期货主力合约价格本周小幅上涨0.17%；纽约商品交易所白银期货主力合约价格本周下跌2.43%。由于白银兼具金融与工业双重属性，在美联储加息预期升温和全球工业需求走弱的双重打击下，银价跌幅…",
+"published": 1781927559.0
+},
+{
+"source": "TechCrunch",
+"title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+"link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+"summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
+"published": 1781916464.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "AI, user data and the asymmetry of understanding",
+"link": "https://siliconangle.com/2026/06/20/ai-user-data-asymmetry-understanding/",
+"summary": "Every time users belatedly discover that an artificial intelligence feature has been drawing on their data in ways they did not fully grasp, the reaction is often an instinctive sense of violation – of trust, consent and privacy. Accusation…",
+"published": 1781972010.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Agentic AI’s challenge is getting agents to act like a team, not a crowd",
+"link": "https://siliconangle.com/2026/06/20/agentic-ais-challenge-getting-agents-act-like-team-not-crowd/",
+"summary": "Adding more artificial intelligence agents to the workflow doesn’t make an enterprise smarter. In fact, it can make operations harder to manage. The problem is not the capabilities of individual agents but how well they work together. Many …",
+"published": 1781971607.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Mississippi Department of Revenue balances cloud modernization with security-first AI adoption",
+"link": "https://siliconangle.com/2026/06/20/government-ai-adoption-pureaccelerate/",
+"summary": "Public sector organizations are increasingly rethinking how they manage critical infrastructure as demands for always-on digital services and greater operational efficiency continue to grow. As government AI adoption accelerates alongside a…",
+"published": 1781930680.0
+}
+]
+}
+}

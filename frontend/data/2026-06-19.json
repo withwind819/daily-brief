@@ -1,6 +1,6 @@
 {
 "date": "2026-06-19",
-"total": 83,
+"total": 85,
 "categories": {
 "AI": [
 {
@@ -37,6 +37,20 @@
 "link": "https://the-decoder.com/amazon-drops-its-openai-drama-film-after-signing-a-50-billion-deal-with-sam-altmans-company/",
 "summary": "Amazon MGM Studios has dropped \"Artificial,\" the nearly finished OpenAI film directed by Luca Guadagnino with Andrew Garfield as Sam Altman. Amazon struck a $50 billion partnership with OpenAI in February. According to an insider, both Altm…",
 "published": 1781889273.0
+},
+{
+"source": "HN AI 热门",
+"title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+"link": "https://arrowtsx.dev/bigger-models/",
+"summary": "Article URL: https://arrowtsx.dev/bigger-models/ Comments URL: https://news.ycombinator.com/item?id=48600167 Points: 551 # Comments: 285",
+"published": 1781885485.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI Engineer Claims to Have Cracked Linear A",
+"link": "https://aiclambake.com/clamtakes/linear-a/",
+"summary": "Article URL: https://aiclambake.com/clamtakes/linear-a/ Comments URL: https://news.ycombinator.com/item?id=48600107 Points: 442 # Comments: 176",
+"published": 1781885082.0
 },
 {
 "source": "HN AI 热门",

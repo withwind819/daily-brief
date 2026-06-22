@@ -1,0 +1,311 @@
+{
+"date": "2026-06-21",
+"total": 43,
+"categories": {
+"AI": [
+{
+"source": "OpenAI 博客",
+"title": "Samsung Electronics brings ChatGPT and Codex to employees",
+"link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+"summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+"published": 1782082800.0
+},
+{
+"source": "HN AI 热门",
+"title": "Apertus – Open Foundation Model for Sovereign AI",
+"link": "https://apertvs.ai/",
+"summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 130 # Comments: 37",
+"published": 1782077383.0
+},
+{
+"source": "The Decoder",
+"title": "AI is inflating student grades, and the effect points to outsourced work, not better learning",
+"link": "https://the-decoder.com/ai-is-inflating-student-grades-and-the-effect-points-to-outsourced-work-not-better-learning/",
+"summary": "A UC Berkeley study of more than 500,000 grades found that courses heavy on writing and coding saw grades jump after ChatGPT launched. The effect shows up mainly in homework, a sign that AI is replacing student work rather than improving le…",
+"published": 1782043306.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+"link": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1782036000.0
+},
+{
+"source": "The Decoder",
+"title": "Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do",
+"link": "https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/",
+"summary": "At a Stanford talk, Sam Altman defended LLM scaling and hit back at skeptics, saying a whole generation of researchers slowed the field by underestimating what scaling could do. He cited OpenAI's recent disproof of a mathematical conjecture…",
+"published": 1782033121.0
+},
+{
+"source": "The Decoder",
+"title": "AWS says AI agents lack business context and security, launches two services to patch the gaps",
+"link": "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/",
+"summary": "At its summit in New York, AWS unveiled two new services. Continuum automatically detects, prioritizes, and fixes code vulnerabilities. Context builds a knowledge graph from corporate data to give AI agents the business context they need. B…",
+"published": 1782030341.0
+},
+{
+"source": "HN AI 热门",
+"title": "The 100k whys of AI",
+"link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+"summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 164 # Comments: 98",
+"published": 1782020721.0
+},
+{
+"source": "HN AI 热门",
+"title": "Building reliable agentic AI systems",
+"link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+"summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 177 # Comments: 46",
+"published": 1782016119.0
+},
+{
+"source": "HN AI 热门",
+"title": "When I reject AI code even if it works",
+"link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+"summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 217 # Comments: 151",
+"published": 1782003493.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "美联储7月维持利率不变的概率为61.5%",
+"link": "https://36kr.com/newsflashes/3863570612540418?f=rss",
+"summary": "据CME“美联储观察”，美联储7月维持利率不变的概率为61.5%，累计加息25个基点的概率为38.5%。 美联储到9月维持利率不变的概率为24.9%，累计加息25个基点的概率为52.2%，累计加息50个基点的概率为22.9%。（界面）",
+"published": 1782086286.0
+},
+{
+"source": "36氪",
+"title": "新政带动改善型需求入市，一线城市楼市持续回暖",
+"link": "https://36kr.com/newsflashes/3863569924560137?f=rss",
+"summary": "端午前后，在北京、深圳、上海实地走访发现，新房和二手房热门楼盘的带看量和成交量回暖，改善型住房需求加快释放。专家认为，在政策支持、房价趋稳的背景下，一线城市楼市迎来边际改善，市场风向标意义凸显，有助于提振全国购房信心，后续市场修复力度及长效性仍有待观察。（中证网）",
+"published": 1782086183.0
+},
+{
+"source": "36氪",
+"title": "实探端午假期深圳水贝黄金消费：金价回落释放刚需，批发商迅速补货",
+"link": "https://36kr.com/newsflashes/3863567462241283?f=rss",
+"summary": "最近，黄金价格持续调整。走访深圳水贝市场和多家品牌金饰门店了解到，今年“618”叠加端午假期，黄金消费有所升温，但部分消费者仍处于“买涨不买跌”的观望状态，选择分批小额配置，上游批发商则抓住价格窗口集中完成全品类补货。“往年6月本是金饰销售传统淡季，但今年价格高位回落之后，婚庆类刚需订单明显回暖，整体销售额比5月还涨了5%。”水贝金展广场的一位金饰店铺负责人表示。（证券时报）",
+"published": 1782086038.0
+},
+{
+"source": "36氪",
+"title": "外资巨头年中投资展望出炉，A股AI板块被视为“价值洼地”",
+"link": "https://36kr.com/newsflashes/3863566715196672?f=rss",
+"summary": "近日，贝莱德、富达国际、景顺等全球资管巨头密集举办2026年年中投资展望会，研判下半年投资风向。在外资巨头的投资展望会上，AI毫无悬念地继续占据议题核心，被普遍视为当前全球市场最具确定性的结构性投资机会。与此同时，“中国”也成为被频频提及的关键词。凭借估值优势与商业化落地的巨大潜力，A股AI板块被共同定位为全球科技竞赛中难得的“价值洼地”。（上证报）",
+"published": 1782085875.0
+},
+{
+"source": "36氪",
+"title": "碳酸锂期货及期权将迎境外交易者，国际化迈出关键一步",
+"link": "https://36kr.com/newsflashes/3863564050240515?f=rss",
+"summary": "我国新能源产业链核心期货品种的国际化进程，再迎重要突破。近日，广州期货交易所（简称“广期所”）发布公告称，将于北京时间7月3日9时起正式引入境外交易者参与碳酸锂期货及期权交易。继此前引入合格境外投资者（QFI）参与交易后，碳酸锂成为我国期货市场对外开放的又一重要载体，标志着我国在全球新能源材料领域的价格影响力正进一步提升。值得一提的是，受市场对大型锂矿复产预期升温的影响，上周四碳酸锂期货主力合约大跌6.58%，市场多空博弈明显加剧。（证券时报）",
+"published": 1782085772.0
+},
+{
+"source": "36氪",
+"title": "鲟龙科技���拟全球发售1633.29万股H股，发售价75.50港元",
+"link": "https://36kr.com/newsflashes/3863561602946307?f=rss",
+"summary": "36氪获悉，鲟龙科技在港交所公告，公司拟全球发售16,332,900股H股，香港发售股份1,633,300股H股，国际发售股份14,699,600股H股，另有15%的超额配股权；发售价为每股75.50港元；预期股份将于2026年6月30日开始在香港联交所买卖。",
+"published": 1782085443.0
+},
+{
+"source": "36氪",
+"title": "A股科技板块有望与全球AI科技行情形成共振，机构：资金或持续向高景气方向缩圈",
+"link": "https://36kr.com/newsflashes/3863539977295104?f=rss",
+"summary": "端午节前四个交易日，A股震荡上行，创业板指与科创50指数双双创下历史新高，科技板块表现出明显的相对优势。与此同时，传统价值板块持续回调，市场风格分化进一步加剧。展望后市，券商策略研报认为，外部扰动因素阶段性落地后，市场不确定性显著下降，行情有望继续向纵深演绎，结构上或逐步呈现扩散特征。后续，A股行情结构性分化，资金持续向高景气方向缩圈的特征仍将延续。（上证报）",
+"published": 1782085073.0
+},
+{
+"source": "36氪",
+"title": "中信建投：国产模型加速迭代，算力景气度持续",
+"link": "https://36kr.com/newsflashes/3863099932464386?f=rss",
+"summary": "36氪获悉，中信建投研报称，国内模型持续迭代，GLM-5.2、Kimi K2.7 Code强化1M上下文、长程Agent、Agentic Coding和真实工程交付能力，推动国产模型从通用问答转向开发者工具和企业级工作流。Kimi补强国际化运营能力，DeepSeek融资强化头部模型产业化预期，微信AI灰度测试则显示AI入口正从独立App走向超级应用生态，有望提升模型调用频次和推理token消耗。海外方面，Anthropic收入、大客户数和融资规模继续上修，企业工作流和Agen…",
+"published": 1782084855.0
+},
+{
+"source": "36氪",
+"title": "年内2297家上市公司合计分红派现近7000亿元",
+"link": "https://36kr.com/newsflashes/3863511868232962?f=rss",
+"summary": "A股市场正迎来年度分红的集中落地高峰。数据显示，截至6月21日，沪深两市已有2297家上市公司完成2025年度现金分红，累计派发金额达6972.65亿元。 （证券日报）",
+"published": 1782084671.0
+},
+{
+"source": "36氪",
+"title": "私募备案高位分化，两类权益策略潜力可观",
+"link": "https://36kr.com/newsflashes/3863511055143939?f=rss",
+"summary": "今年以来，A股市场震荡走强，以AI为代表的科技主线显现强劲的赚钱效应。这股暖流直接传导至产品发行端，证券私募行业的新产品备案表现出显著的高热态势。然而，总量的繁荣之下，行业竞争格局正在重塑。当头部机构凭借稳健收益大举跑马圈地时，不少中小机构的产品募资不尽如人意。股票策略与多资产策略成为今年新产品发行的两大主力军，多位业内人士表示，这两类策略下半年的新产品增长潜力预计较为可观。（中证网）",
+"published": 1782084508.0
+},
+{
+"source": "36氪",
+"title": "*ST海利收监管函后紧急删改三大核心条款",
+"link": "https://36kr.com/newsflashes/3863099513934850?f=rss",
+"summary": "6月21日晚，*ST海利回复上交所监管函，针对控股子公司9360万元收购泽尔顿公司60%股权事项，紧急签署补充协议。标的公司估值增值率高达352%，但业绩承诺却低于2025年水平。且其海外销售占比90%，超七成依赖间接出口，客户信息不透明。公司称业绩承诺合理，同时删改原协议部分条款以保障利益。（每经网）",
+"published": 1782084398.0
+},
+{
+"source": "36氪",
+"title": "2026端午档创影史最高场次纪录",
+"link": "https://36kr.com/newsflashes/3863098297881600?f=rss",
+"summary": "36氪获悉，据灯塔专业版数据，截至6月21日21时，2026年端午档票房3.94亿，总人次1063.7万，总场次145.4万，创中国影史端午档场次最高纪录。2026年端午档票房TOP5影片《玩具总动员5》《给阿嬷的情书》《抓特务》《火遮眼》《我看见两朵一样的云》。",
+"published": 1782084277.0
+},
+{
+"source": "36氪",
+"title": "国产TGV玻璃基板正加速走向量产",
+"link": "https://36kr.com/newsflashes/3863095161148678?f=rss",
+"summary": "当前，TGV玻璃基板赛道正迎来从技术验证向小批量量产过渡的关键节点。记者在采访中了解到，国内多家头部企业的产线筹备工作已全面铺开。国内中试产线正加速跑通验证，头部企业纷纷加码布局、抢占先机。根据国际市场研究机构预测，到2030年，全球先进封装市场规模将逼近800亿美元。从底层材料的突围，到跨界工艺的打通，国产TGV玻璃基板正加速走向量产。（央视财经）",
+"published": 1782084028.0
+},
+{
+"source": "36氪",
+"title": "中信建投：继续看好AI算力作为本轮行情中长期核心主线的后续表现",
+"link": "https://36kr.com/newsflashes/3863094039680258?f=rss",
+"summary": "36氪获悉，中信建投研报称，市场短期呈现强劲反弹行情，但反弹完成后A股或将进入震荡期。继续看好AI算力作为本轮行情中长期核心主线的后续表现。陆家嘴金融论坛等国内政策红利有望继续推动双创板块上涨，预计创业板和科创板将继续保持强势。而估值高企和交易结构可能成为后续科技主线阶段性切换的主要原因。重点关注AI算力、工业金属、石化、机械、新能源等，逢低布局：银行、非银、公用事业、煤炭等。",
+"published": 1782083838.0
+},
+{
+"source": "36氪",
+"title": "截至6月20日，2026年消费品以旧换新惠及1.36亿人次",
+"link": "https://36kr.com/newsflashes/3863089480537345?f=rss",
+"summary": "从商务部了解到，今年端午假期，全国消费市场运行平稳，生活必需品货足价稳。商务部商务大数据显示，今年端午假期前两天，商务部重点监测的78个步行街及商圈客流量、营业额分别同比增长4.0%、3.5%。消费品以旧换新也在带动相关商品销售增长。截至6月20日，2026年消费品以旧换新惠及1.36亿人次，带动销售额超1万亿元。其中，汽车以旧换新销售342.8万台，带动销售额5552.4亿元。家电以旧换新、数码和智能购新产品销售13289.5万台，带动销售额4516.3亿元。（央视新闻）",
+"published": 1782083700.0
+},
+{
+"source": "36氪",
+"title": "瑞典时隔40多年再建反应堆，北欧核电迎复苏潮",
+"link": "https://36kr.com/newsflashes/3863092201559304?f=rss",
+"summary": "瑞典最大电力企业瓦滕法尔集团近日宣布，已选定英国罗尔斯-罗伊斯公司在瑞典西南部建造3座小型模块化反应堆，将在时隔40多年后再次建造核反应堆。这个北欧国家自1980年决定逐步淘汰核电以来，已将现有12座核反应堆关停一半，但本届政府重新鼓励核电开发。包括瑞典在内，北欧国家近年面对能源供应链冲击，为追求稳定、清洁的电力来源而出现核电开发复苏潮。（新华社）",
+"published": 1782083485.0
+},
+{
+"source": "36氪",
+"title": "供应链公司：已向苹果首款折叠屏iPhone小批量供货",
+"link": "https://36kr.com/newsflashes/3863091111334914?f=rss",
+"summary": "日前，从一家苹果供应链公司获悉，该公司已于近期开始向首款折叠屏iPhone小批量供货。按照公司收到的目标指引，该款产品将于9月发布。近日，有消息称苹果首款折叠屏iPhone已从原定的2026年秋季推迟至2027年初上市发售。对此，一位苹果供应链公司人士表示，截至目前，其得到的目标指引是，首款折叠屏iPhone将于2026年秋季发布。对于首款折叠屏iPhone具体发布时间，截至记者发稿，苹果方面暂无公开回应。（中证报）",
+"published": 1782083300.0
+},
+{
+"source": "36氪",
+"title": "深交所将迎来史上最大规模IPO",
+"link": "https://36kr.com/newsflashes/3863090608461061?f=rss",
+"summary": "6月22日，华润新能源将迎来新股申购。公司本次发行价10.11元/股，网上申购上限63.2万股，顶格申购需配深市市值632万元，在今年以来上市的主板新股中排名第一，预计将有较高中签率。华润新能源是中国华润旗下主营风光发电投资运营的核心平台，也是我国主要的新能源发电企业之一。公司本次公开发行股份数量为21.07亿股，占发行后公司总股本的比例约为16.20%，预计募集资金总额为245亿元，将刷新深交所IPO融资纪录，超越2020年上市的金龙鱼（约139亿元），成为深交所史上最大规…",
+"published": 1782083088.0
+},
+{
+"source": "The Verge",
+"title": "Bose thinks it can be a media company for some reason",
+"link": "https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company",
+"summary": "The history books are littered with the corpses of corporate record labels started by companies that had no business being in the music industry. Bose thinks it can be the exception to the rule. It thinks it can be Red Bull. And, while Bose…",
+"published": 1782068030.0
+},
+{
+"source": "TechCrunch",
+"title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+"link": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+"summary": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.",
+"published": 1782066871.0
+},
+{
+"source": "The Verge",
+"title": "Cold Court’s debut EP is an infectious, glitchy genre mashup",
+"link": "https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review",
+"summary": "Cold Court is a brother-sister duo from Philly that seems to love nothing more than shoving all of their influences together in a messy soup that at least superficially resembles the hyperpop you've come to expect from acts like 100 Gecs. B…",
+"published": 1782061233.0
+},
+{
+"source": "TechCrunch",
+"title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+"link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+"summary": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
+"published": 1782059700.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
+"link": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
+"summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+"published": 1782057900.0
+},
+{
+"source": "Solidot",
+"title": "芬兰图书馆提供缝纫机借用服务",
+"link": "https://www.solidot.org/story?sid=84636",
+"summary": "芬兰图书馆不只是提供图书借阅，而是维系重要的社会功能。其它国家的公共图书馆在消失，而芬兰还在新建图书馆。美国在 2008-2019 年间关闭了 766 家公共图书馆，英国在 2016-2023 年间逾 180 家图书馆关闭或转交给志愿团体运营。芬兰人口约 560 万，有逾 700 家图书馆，除了借阅图书，图书馆出借的最大物品是空间：可免费预定房间用于会面、学习、进行政治讨论或创作音乐。赫尔辛基市中心的 Oodi 图书馆在 2019 年被评为全球最佳新建图书馆，它提供了缝纫机、…",
+"published": 1782057455.0
+},
+{
+"source": "TechCrunch",
+"title": "When the Trump administration cracks down on Anthropic, who benefits?",
+"link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+"summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+"published": 1782055697.0
+},
+{
+"source": "TechCrunch",
+"title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+"link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+"summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+"published": 1782052828.0
+},
+{
+"source": "The Verge",
+"title": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
+"link": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+"summary": "According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 deceptive clips and talked to creators who, despit…",
+"published": 1782051586.0
+},
+{
+"source": "Solidot",
+"title": "Google reCAPTCHA 系统引入手势验证",
+"link": "https://www.solidot.org/story?sid=84635",
+"summary": "Google 将要求用户在摄像头前挥手以证明自己是人类而不是机器人。它提供的区分机器人和人类检测服务 reCAPTCHA 引入了手势验证。Google 表示，在手势验证期间它会分析用户在执行各种操作或手势时的一段或多段手部视频，系统会处理视频以提取手部关键点的坐标数据，其中包括 21 个指关节关键点坐标。Google 声称，视频绝不会与用户的身份相关联，并且会在验证流程结束后删除。系统绝不会录制音频。",
+"published": 1782048436.0
+},
+{
+"source": "The Verge",
+"title": "How Roomba started a robot revolution",
+"link": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
+"summary": "If you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, until its battery died or its (way too smal…",
+"published": 1782044941.0
+},
+{
+"source": "The Verge",
+"title": "Electric air taxis are stuck in the courtroom",
+"link": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
+"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes on…",
+"published": 1782043200.0
+},
+{
+"source": "The Verge",
+"title": "Sony’s Xperia 1 VIII is still a phone for the fans",
+"link": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+"summary": "The Xperia 1 VIII marks an attempt at a step change for Sony's flagship phone line. Not only has it had an aesthetic overhaul, but Sony has also revamped the camera system, dropping the continuous optical zoom telephoto that's defined the l…",
+"published": 1782039600.0
+},
+{
+"source": "Solidot",
+"title": "疑似黑客劫持短信预警系统在巴西各地发送警报短信",
+"link": "https://www.solidot.org/story?sid=84634",
+"summary": "巴西政府称周六上午巴西多州的手机收到了一条未经授权的“极端”类别警报短信，其中包含文字 misantropi4。该单词将葡萄牙语 misantropia 的最后一个字母 a 替换为 4，这是黑客常用的做法。misantropia 的意思是厌恶人类。巴西的紧急短信系统类似美国的 AMBER Alert，允许政府官员直接向特定地理区域内的移动设备发送紧急短信。巴西政府表示其 National Civil Defense 警报平台已经下线，它认为这是一次黑客攻击，正对此展开调查。",
+"published": 1782038288.0
+},
+{
+"source": "Solidot",
+"title": "德国 2025 年人口出现下降",
+"link": "https://www.solidot.org/story?sid=84633",
+"summary": "德国联邦统计局的数据显示，尽管有大量移民补充，2025 年德国人口同比仍减少了约 11 万人，这是自 2020 年以来首次出现年度人口下降。德国去年的净移民数量为 23.5 万，但这不足以抵消死亡人数超过出生人数的缺口，2025 年德国死亡人数比出生人数多出 35.2 万人。截至 2025 年底，德国人口为 8350 万，即去年人口降幅约为 0.13%。德国上一次出现年度人口萎缩是在 2020 年，当时新冠疫情期间实施的严格旅行限制导致移民数量急剧下降。去年德国出生率也创下历…",
+"published": 1782036670.0
+},
+{
+"source": "少数派",
+"title": "AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发",
+"link": "https://sspai.com/post/110972",
+"summary": "Agent 和人一样离不开闭环。查看全文",
+"published": 1782009010.0
+}
+]
+}
+}

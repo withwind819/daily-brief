@@ -1,6 +1,6 @@
 {
 "date": "2026-06-20",
-"total": 50,
+"total": 51,
 "categories": {
 "AI": [
 {
@@ -37,6 +37,13 @@
 "link": "https://www.qbitai.com/2026/06/437023.html",
 "summary": "全球最聪明的人之一，成了AI最狂热的布道者",
 "published": 1781956617.0
+},
+{
+"source": "HN AI 热门",
+"title": "Temporary Cloudflare accounts for AI agents",
+"link": "https://blog.cloudflare.com/temporary-accounts/",
+"summary": "Article URL: https://blog.cloudflare.com/temporary-accounts/ Comments URL: https://news.ycombinator.com/item?id=48608394 Points: 241 # Comments: 141",
+"published": 1781954345.0
 },
 {
 "source": "量子位",

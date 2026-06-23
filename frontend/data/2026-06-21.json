@@ -1,6 +1,6 @@
 {
 "date": "2026-06-21",
-"total": 43,
+"total": 47,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,13 @@
 "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
 "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
 "published": 1782082800.0
+},
+{
+"source": "HN AI 热门",
+"title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+"link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+"summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions Comments URL: https://news.ycombinator.com/item?id=48623434 Points: 203 # Comments: 44",
+"published": 1782082523.0
 },
 {
 "source": "HN AI 热门",
@@ -51,6 +58,13 @@
 "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
 "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 164 # Comments: 98",
 "published": 1782020721.0
+},
+{
+"source": "HN AI 热门",
+"title": "Don’t use AI to write things that you present as your own work",
+"link": "https://www.satisfice.com/blog/archives/488148",
+"summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 104 # Comments: 98",
+"published": 1782017446.0
 },
 {
 "source": "HN AI 热门",
@@ -172,6 +186,13 @@
 "link": "https://36kr.com/newsflashes/3863089480537345?f=rss",
 "summary": "从商务部了解到，今年端午假期，全国消费市场运行平稳，生活必需品货足价稳。商务部商务大数据显示，今年端午假期前两天，商务部重点监测的78个步行街及商圈客流量、营业额分别同比增长4.0%、3.5%。消费品以旧换新也在带动相关商品销售增长。截至6月20日，2026年消费品以旧换新惠及1.36亿人次，带动销售额超1万亿元。其中，汽车以旧换新销售342.8万台，带动销售额5552.4亿元。家电以旧换新、数码和智能购新产品销售13289.5万台，带动销售额4516.3亿元。（央视新闻）",
 "published": 1782083700.0
+},
+{
+"source": "少数派",
+"title": "派早报：英特尔将为苹果代工芯片",
+"link": "https://sspai.com/post/111343",
+"summary": "英特尔将为苹果代工芯片库克称 iPhone 涨价不可避免美国科技公司政策转向，限制员工 AI 成本Modos 推出开源 13.3 寸彩色墨水屏Manus 原投资人计划将其原价购回CMF 已取消今年发布计划看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+"published": 1782083612.0
 },
 {
 "source": "36氪",
@@ -298,6 +319,13 @@
 "link": "https://www.solidot.org/story?sid=84633",
 "summary": "德国联邦统计局的数据显示，尽管有大量移民补充，2025 年德国人口同比仍减少了约 11 万人，这是自 2020 年以来首次出现年度人口下降。德国去年的净移民数量为 23.5 万，但这不足以抵消死亡人数超过出生人数的缺口，2025 年德国死亡人数比出生人数多出 35.2 万人。截至 2025 年底，德国人口为 8350 万，即去年人口降幅约为 0.13%。德国上一次出现年度人口萎缩是在 2020 年，当时新冠疫情期间实施的严格旅行限制导致移民数量急剧下降。去年德国出生率也创下历…",
 "published": 1782036670.0
+},
+{
+"source": "Solidot",
+"title": "俄罗斯导弹预警卫星 COSMOS 2546 被指干扰欧洲 GPS",
+"link": "https://www.solidot.org/story?sid=84632",
+"summary": "Tom 写道： 2024年“弹性导航和授时基金会”创始人Dana A. Goward接到了一位匿名英国研究人员的电话，对方称他已经观察到了来自太空的 GPS 干扰现象，他查阅了 GNSS 地面参考站的数据，注意到 GPS 信号强度出现明显下降的情况，每次持续时间都不到十秒钟，但北欧很大一片区域的站点都记录到了这些事件。这位研究人员同意让基金会分享其的发现。得克萨斯大学奥斯汀分校Todd Humphreys及其学生Zach Clements分析2019年1月至2026年4月的地…",
+"published": 1782036281.0
 },
 {
 "source": "少数派",

@@ -1,8 +1,15 @@
 {
 "date": "2026-06-22",
-"total": 126,
+"total": 128,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
+"link": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+"summary": "Article URL: https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6 Comments URL: https://news.ycombinator.com/item?id=48636632 Points: 106 # Comments: 25",
+"published": 1782164602.0
+},
 {
 "source": "InfoQ 中国",
 "title": "Netflix如何实时绘制数千个微服务的拓扑图",
@@ -156,6 +163,13 @@
 "link": "https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/",
 "summary": "Japanese AI startup Sakana AI is launching Fugu, a system that coordinates multiple AI models on the fly to compete with leaders like Anthropic's Fable 5. The approach also aims to cut dependence on any single AI provider. The article Sakan…",
 "published": 1782116339.0
+},
+{
+"source": "量子位",
+"title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
+"link": "https://www.qbitai.com/2026/06/437317.html",
+"summary": "",
+"published": 1782113407.0
 },
 {
 "source": "OpenAI 博客",

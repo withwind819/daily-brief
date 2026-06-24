@@ -1,6 +1,6 @@
 {
 "date": "2026-06-23",
-"total": 145,
+"total": 147,
 "categories": {
 "AI": [
 {
@@ -236,6 +236,13 @@
 }
 ],
 "科技": [
+{
+"source": "少数派",
+"title": "派早报：新款理想 L8 换代上市、Meta 发布 Meta Glasses 智能眼镜等",
+"link": "https://sspai.com/post/111438",
+"summary": "Cloudflare 联合主流浏览器厂商推进 PACT 协议，腾讯推出 TenPayGo 等。查看全文",
+"published": 1782258572.0
+},
 {
 "source": "36氪",
 "title": "港股新股市场火热态势延续，上半年“吸金”有望超2000亿港元",
@@ -777,6 +784,13 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Nvidia bets on agentic AI to turbocharge biotech discovery",
+"link": "https://siliconangle.com/2026/06/23/nvidia-bets-agentic-ai-turbocharge-biotech-discovery/",
+"summary": "Artificial intelligence played a prominent role at this week’s Bio International Convention in San Diego, the largest biotech event with vendors spanning the full ecosystem of companies in this industry. Today in a special address, Kimberly…",
+"published": 1782258748.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Shares of AI chipmaker Cerebras sink following first earnings report since going public",

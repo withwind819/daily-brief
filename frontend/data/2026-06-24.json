@@ -1,14 +1,28 @@
 {
 "date": "2026-06-24",
-"total": 124,
+"total": 126,
 "categories": {
 "AI": [
+{
+"source": "量子位",
+"title": "世界模型混战，Momenta率先冲刺IPO",
+"link": "https://www.qbitai.com/2026/06/438179.html",
+"summary": "AI司机收入3年涨42倍",
+"published": 1782343228.0
+},
 {
 "source": "The Decoder",
 "title": "OpenAI says ChatGPT Instant now better understands what users actually want",
 "link": "https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/",
 "summary": "OpenAI is updating GPT-5.5 Instant, its most-used ChatGPT model. The update targets conversation quality, with better intent recognition, improved context across multiple turns, and more reliable handling of complex, multi-condition prompts…",
 "published": 1782330863.0
+},
+{
+"source": "HN AI 热门",
+"title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+"link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+"summary": "Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/ Comments URL: https://news.ycombinator.com/item?id=48664814 Points: 745 # Comments: 1201",
+"published": 1782330481.0
 },
 {
 "source": "InfoQ 中国",

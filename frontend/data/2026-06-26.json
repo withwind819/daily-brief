@@ -1,8 +1,22 @@
 {
 "date": "2026-06-26",
-"total": 129,
+"total": 131,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+"link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+"summary": "https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a... Comments URL: https://news.ycombinator.com/item?id=48692995 Points: 540 # Comments: 740",
+"published": 1782514108.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI in mathematics is forcing big questions",
+"link": "https://spectrum.ieee.org/ai-in-mathematics",
+"summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics Comments URL: https://news.ycombinator.com/item?id=48692883 Points: 196 # Comments: 169",
+"published": 1782513411.0
+},
 {
 "source": "InfoQ 中国",
 "title": "像玩剧本杀一样，玩好 Agentic AI",

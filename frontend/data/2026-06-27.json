@@ -1,0 +1,453 @@
+{
+"date": "2026-06-27",
+"total": 63,
+"categories": {
+"AI": [
+{
+"source": "The Decoder",
+"title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions",
+"link": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/",
+"summary": "Anthropic's AI model, Fable 5, could be available again within days. According to Axios, the Trump administration is close to lifting the restrictions imposed on June 12 over safety concerns. The Pentagon and NSA still need to sign off. The…",
+"published": 1782579786.0
+},
+{
+"source": "The Decoder",
+"title": "Half of Claude users say AI can already handle half their work according to Anthropic survey",
+"link": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/",
+"summary": "About half of Claude users say AI can already handle 50 percent or more of their work tasks, according to a survey of roughly 9,700 users by Anthropic. In 12 months, 26 percent expect AI to cover 60 to 90 percent of their work. Early-career…",
+"published": 1782574139.0
+},
+{
+"source": "The Decoder",
+"title": "J.P. Morgan sees a pile of red flags in the AI market",
+"link": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/",
+"summary": "J.P. Morgan warns that there are \"signs of investor exuberance\" in AI markets. Just 42 AI companies in the S&P 500 account for 65 to 80 percent of the index's total profits. The semiconductor rally is flashing technical patterns last seen d…",
+"published": 1782566564.0
+},
+{
+"source": "HN AI 热门",
+"title": "Asian AI startups launch Mythos-like models",
+"link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+"summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://news.ycombinator.com/item?id=48697958 Points: 109 # Comments: 105",
+"published": 1782565821.0
+},
+{
+"source": "量子位",
+"title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
+"link": "https://www.qbitai.com/2026/06/439393.html",
+"summary": "人类一次录制，Agent就能模拟",
+"published": 1782563373.0
+},
+{
+"source": "The Decoder",
+"title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
+"link": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/",
+"summary": "Former US Commerce Secretary Gina Raimondo has launched \"Raise Us,\" a bipartisan nonprofit to prepare American workers for AI-driven job shifts. Amazon, Anthropic, Microsoft, and the OpenAI Foundation are jointly funding the initiative. Tha…",
+"published": 1782563121.0
+},
+{
+"source": "量子位",
+"title": "第一批一人公司，现在怎么样了？",
+"link": "https://www.qbitai.com/2026/06/439237.html",
+"summary": "我们跟一群OPC创业者聊了聊",
+"published": 1782563009.0
+},
+{
+"source": "量子位",
+"title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
+"link": "https://www.qbitai.com/2026/06/439236.html",
+"summary": "VLM- R1之后再次出手！全球首个端侧流式多模态来了！",
+"published": 1782562782.0
+},
+{
+"source": "InfoQ 中国",
+"title": ".NET11第五个预览版：带来基于File的App改进、新C#特性与Blazor校验抖动效果",
+"link": "https://www.infoq.cn/article/9k2FtAR89wsZVgkh7BQv?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1782558000.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic gets US approval to bring back Claude Mythos 5",
+"link": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/",
+"summary": "Anthropic has US approval to redeploy Claude Mythos 5 for organizations running critical infrastructure. The company is still negotiating broader access and the return of Fable 5, with no timeline set. The article Anthropic gets US approval…",
+"published": 1782553419.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI's new flagship model GPT-5.6 Sol cheats on software tests more than any model before it",
+"link": "https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/",
+"summary": "Independent testing organization METR found that OpenAI's GPT-5.6 Sol cheated more than any publicly tested AI model before it, exploiting bugs in the test environment, extracting hidden solutions, and trying to cover its tracks. The articl…",
+"published": 1782552222.0
+},
+{
+"source": "HN AI 热门",
+"title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+"link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+"summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf Comments URL: https://news.ycombinator.com/item?id=48696585 Points: 713 # Comments: 293",
+"published": 1782551932.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Ky 2.0 发布：重构 Hooks、改进超时机制，并内置 Schema 校验能力",
+"link": "https://www.infoq.cn/article/v1wsHJd54imD1b4yUeYf?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1782550800.0
+},
+{
+"source": "The Decoder",
+"title": "ByteDance's \"iLLaDA\" is a diffusion language model that keeps up with Qwen2.5",
+"link": "https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/",
+"summary": "Researchers from Renmin University and ByteDance have released iLLaDA, an 8B language model that generates text differently than ChatGPT. It matches Qwen2.5 at the base level but falls behind after fine-tuning. The article ByteDance's \"iLLa…",
+"published": 1782546509.0
+},
+{
+"source": "量子位",
+"title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
+"link": "https://www.qbitai.com/2026/06/439032.html",
+"summary": "28页干货爆炸",
+"published": 1782535682.0
+},
+{
+"source": "量子位",
+"title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
+"link": "https://www.qbitai.com/2026/06/438895.html",
+"summary": "一口气端出三款GPT 5.6系列模型",
+"published": 1782525207.0
+}
+],
+"科技": [
+{
+"source": "TechCrunch",
+"title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+"link": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+"summary": "Instagram users could soon see more ways to tune their content.",
+"published": 1782595657.0
+},
+{
+"source": "The Verge",
+"title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
+"link": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+"summary": "Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selectable sample rates for lo-fi fun, sample reve…",
+"published": 1782595232.0
+},
+{
+"source": "TechCrunch",
+"title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+"link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+"summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+"published": 1782592956.0
+},
+{
+"source": "The Verge",
+"title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
+"link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+"summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwo…",
+"published": 1782585572.0
+},
+{
+"source": "The Verge",
+"title": "Apple wants permission to buy memory from a blacklisted Chinese supplier",
+"link": "https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt",
+"summary": "Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People's Liberation Army, accord…",
+"published": 1782581298.0
+},
+{
+"source": "TechCrunch",
+"title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+"link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+"summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+"published": 1782578709.0
+},
+{
+"source": "Solidot",
+"title": "AI 促使数学家思考数学对他们的意义",
+"link": "https://www.solidot.org/story?sid=84695",
+"summary": "几十年来计算加速了数学的进步。50 年前数学家利用计算机证明了四色定理，以一种人类几乎不可能实际验证的方式证明任何地图可以用不超过四种颜色着色。但在整个计算时代，人类数学家的作用仍然至关重要。人类凭借直觉提出猜想，凭借创造力和经验设计证明策略，最终验证证明是否正确。今天 AI 正在挑战这一模式。短短几年内，大模型就从只知道复述的“随机鹦鹉”演变成高级数学推理机器。UCLA 教授陶哲轩认为 AI 能作为催化剂推动向他所谓的“大数学”的转变，设想未来人类与机器将进行大规模、去中心…",
+"published": 1782576166.0
+},
+{
+"source": "The Verge",
+"title": "The Guardian’s Kai Wright refuses to buy a new phone",
+"link": "https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire",
+"summary": "Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The United States of Anxiety, and Indivisible. He…",
+"published": 1782573300.0
+},
+{
+"source": "Solidot",
+"title": "美国政府允许 Anthropic 将 Mythos 5 模型提供给少数客户使用",
+"link": "https://www.solidot.org/story?sid=84694",
+"summary": "在要求 OpenAI 分阶段发布其新模型之后，美国政府显然也对 Anthropic 提出了相同的要求。根据商务部长 Howard Lutnick 给 Anthropic 的信函，美国政府允许 Anthropic 重新发布其新模型 Mythos 5，但现阶段只提供给少数客户。Mythos 5 的访问权限将提供给约 100 家机构，其中包括政府机构和私营公司。OpenAI 的新模型 GPT-5.6 也采用类似的发布模式。",
+"published": 1782571631.0
+},
+{
+"source": "Solidot",
+"title": "BBC 关闭长波广播",
+"link": "https://www.solidot.org/story?sid=84692",
+"summary": "BBC 宣布于 6 月 27 日停播 Radio 4 长波广播，6 月 30 日关闭长波平台。BBC 将此归咎于维护过时技术的成本过高。Radio 4 长波设备使用的电子管早就停产，而 BBC 早在 1997 年就将相关信号塔出售给了私营公司，这些设备由私营公司运营。随着越来越多的人转向流媒体，维持全国性的广播和电视覆盖在经济上意义不大。在关闭长波之后，英国接着准备淘汰地面电视，相比使用人数很少的长波，地面电视的关闭将会影响很多人。英国政府计划最早 2034 年最晚 2044…",
+"published": 1782569278.0
+},
+{
+"source": "TechCrunch",
+"title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+"link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+"summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+"published": 1782568800.0
+},
+{
+"source": "The Verge",
+"title": "Indie developers got tired of waiting for a new Star Fox, so they’re making their own",
+"link": "https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games",
+"summary": "Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering \"cocky little freaks!\" in time with a monkey encased in a Gundam suit, I'm simultaneousl…",
+"published": 1782568800.0
+},
+{
+"source": "The Verge",
+"title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+"link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+"summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a …",
+"published": 1782567000.0
+},
+{
+"source": "Solidot",
+"title": "空客被要求对 A380 的机翼进行紧急检查",
+"link": "https://www.solidot.org/story?sid=84691",
+"summary": "欧盟航空安全局（EASA）下令对阿联酋航空和澳洲航空运营的 16 架空客 A380 飞机进行紧急检查，此前部分 A380 飞机的机翼部件发现了裂纹。EASA 表示，裂纹是在此前对机翼翼梁结构的检查中发现的，它认定这些裂纹可能会降低机翼的结构完整性。为解决潜在安全隐患，空客必须进行额外的专项细查。16 架 A380 客机中有 15 架由阿联酋航空运营，1 架由澳洲航空运营。A380 是载客量最高的民航客机，共制造了 254 架，目前已经停产。",
+"published": 1782566916.0
+},
+{
+"source": "The Verge",
+"title": "Inside the room where the smart home industry is still betting on Matter",
+"link": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
+"summary": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter was built on open stand…",
+"published": 1782565200.0
+},
+{
+"source": "The Verge",
+"title": "This puzzle game’s simple premise hides surprising depth",
+"link": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
+"summary": "What's the Password? has a simple concept: To solve each of the game's more than 100 puzzles, you have to type in the right four-digit password on a number pad. That might sound like a limited constraint. But the simplicity gives solo devel…",
+"published": 1782561600.0
+},
+{
+"source": "The Verge",
+"title": "This might be the new best smart speaker",
+"link": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
+"summary": "Hi, friends! Welcome to Installer No. 134, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in all this heat, and also you can read all the old editions at the Installer homepage.) Thi…",
+"published": 1782561600.0
+},
+{
+"source": "少数派",
+"title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
+"link": "https://sspai.com/post/111347",
+"summary": "在莫斯科的时代折叠与彼得堡的文化巡礼之间，发现俄罗斯的不同面貌。查看全文",
+"published": 1782560211.0
+},
+{
+"source": "36氪",
+"title": "华为途灵平台完成3轮升级，覆盖鸿蒙智行五界",
+"link": "https://36kr.com/newsflashes/3871321432527875?f=rss",
+"summary": "36氪获悉，6月26日，鸿蒙智行举办了一场华为途灵平台专场TECH DAY技术沟通会。华为途灵平台依托华为在AI和通信领域的技术优势，将调校经验通过算法与软件沉淀，提升机械性能上限，并基于车型定位不断开放新的特性，快速迭代。在操控层面，华为途灵平台的全维感知系统融合了ADS感知信息、车辆状态信息、驾驶意图信息、云端数据信息、车身域信息和座舱域信息等多维度数据。底盘可以提前预判、主动调整。从2023年11月至今，华为途灵平台已完成3轮升级，覆盖鸿蒙智行五界车型。",
+"published": 1782558708.0
+},
+{
+"source": "36氪",
+"title": "功率半导体再启阶梯式调价，有厂商表示“AI相关的电源功率订单爆满，根本做不过来”",
+"link": "https://36kr.com/newsflashes/3871215128237313?f=rss",
+"summary": "据《科创板日报》27日消息，由于AI算力集群功耗激增，功率半导体正成为存储之后的产业新增长引擎，行业再掀起一轮涨价潮。“我们AI相关的电源功率订单‘爆满’，现在订单根本做不过来”。一家功率半导体厂商人士向《科创板日报》记者表示，“因为公司算是少数具备量产能力的国产厂商，无论是面向数据中心800V HVDC等一次电源、服务器二次电源等产品，都已进入多家头部客户供应链并实现规模量产，所以订单需求十分旺盛。”多位业内人士判断，本轮成本驱动的涨价周期仍将持续一段时间，并且行业将加速功…",
+"published": 1782552220.0
+},
+{
+"source": "36氪",
+"title": "具身世界模型“我悟”通过合规备案",
+"link": "https://36kr.com/newsflashes/3871213411128577?f=rss",
+"summary": "6月26日，北京人形机器人创新中心慧思开物平台的双大脑模型天鹕（Pelican-VL）和我悟（WoW）同步完成北京市网信办最新一批生成式人工智能服务备案。北京人形将正式启动慧思开物全系列模型Token服务，计划分阶段面向产业客户、科研机构、开发者全面开放API调用能力。（界面新闻）",
+"published": 1782552115.0
+},
+{
+"source": "36氪",
+"title": "兴业银行：上调代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例",
+"link": "https://36kr.com/newsflashes/3871212925588739?f=rss",
+"summary": "6月27日，兴业银行发布公告，将在北京时间2026年6月29日（周一）收盘清算时起，调整代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例，个人客户AU（T+D）、mAU（T+D）、AU（T+N1）、AU（T+N2）、AG（T+D）等延期合约的保证金比例由40%调整至120%。其它黄金投资产品不受影响。兴业银行后续还将调整相关延期合约交易保证金比例，具体另行通知。（每日经济新闻）",
+"published": 1782552085.0
+},
+{
+"source": "36氪",
+"title": "因利润腰斩，梅赛德斯-奔驰推迟9万名德国员工奖金并谋求无薪延长工时",
+"link": "https://36kr.com/newsflashes/3871212322706690?f=rss",
+"summary": "6月27日，据报道，由于利润大幅下滑，梅赛德斯-奔驰正被迫采取严厉的紧缩措施。公司已决定将约9万名加入工会的德国员工原定于2026年7月发放的“转型奖金”（相当于月薪的18.4%）推迟9个月至2027年4月发放，并保留在业务未见好转时完全取消该奖金的权利。此外，管理层还在公开探讨将每周工作时间从35小时延长至40小时且不支付额外加班费。梅赛德斯-奔驰今年2月公布的财报显示，2025年净利润从2024年的104亿欧元骤降至53亿欧元，降幅近50%。（界面新闻）",
+"published": 1782552048.0
+},
+{
+"source": "36氪",
+"title": "主力资金大调仓，超267亿元撤出“易中天”",
+"link": "https://36kr.com/newsflashes/3871211760882689?f=rss",
+"summary": "6月27日，本周（6月22日—26日），A股市场震荡调整。截至6月26日收盘，上证指数、深证成指、创业板指本周分别累计下跌1.55%、1.55%、1.37%，科创50指数本周累计大涨6.32%。资金面上，本周沪深两市主力资金合计净流出2169.35亿元。主力资金大幅流出科技股，本周“易中天”（新易盛、中际旭创、天孚通信）合计被抛售超267亿元。本周主力资金净流出方面，中际旭创净流出137.80亿元，位居首位。胜宏科技净流出81.61亿元；东山精密、天孚通信、光迅科技均净流出超…",
+"published": 1782552014.0
+},
+{
+"source": "36氪",
+"title": "电影《给阿嬷的情书》总票房破19亿元",
+"link": "https://36kr.com/newsflashes/3871210982053121?f=rss",
+"summary": "36氪获悉，6月27日，据猫眼专业版数据，电影《给阿嬷的情书》上映59天，总票房破19亿元。",
+"published": 1782551967.0
+},
+{
+"source": "36氪",
+"title": "余承东：全新一代问界M9系列大定破42000台",
+"link": "https://36kr.com/newsflashes/3871208266044420?f=rss",
+"summary": "6月27日，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东在微博发文称，全新一代问界M9系列，上市1个月大定破42000台。全国交付已开启。（证券时报）",
+"published": 1782551801.0
+},
+{
+"source": "36氪",
+"title": "超16亿元，烽火通信旗下长江计算中标中国电信高性能服务器集中采购项目",
+"link": "https://36kr.com/newsflashes/3871141940892932?f=rss",
+"summary": "近日，中国电信高性能服务器2026—2027年集中采购项目中标候选人公示，烽火通信旗下长江计算成功入围标包1（ARM-A服务器G系列），斩获20%份额，中标金额超16亿元。2026年以来，长江计算在运营商领域中标金额已累计突破40亿元。（证券时报）",
+"published": 1782547753.0
+},
+{
+"source": "36氪",
+"title": "超级牛散章建平新动向，大举减仓江淮汽车",
+"link": "https://36kr.com/newsflashes/3871137727009801?f=rss",
+"summary": "据证券时报，超级牛散，有着“章盟主”之称的章建平在近期对江淮汽车进行了大幅度的减仓。数据显示，截至6月23日，方文艳持有江淮汽车股票2665.02万股，持股比例为1.18%。而据公司此前披露，截至6月9日，方文艳持有江淮汽车股票3588.52万股，持股比例为1.59%。也就是说，自6月10日至23日，方文艳在9个交易日内减持了923.5万股。其间，江淮汽车股票最高价33.51元/股，最低价28.82元/股，区间加权均价为31.386元/股。以均价估算，方文艳此次减持套现约2.…",
+"published": 1782547496.0
+},
+{
+"source": "36氪",
+"title": "马克·古尔曼：触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max",
+"link": "https://36kr.com/newsflashes/3871135669048322?f=rss",
+"summary": "当地时间6月26日，科技记者马克·古尔曼发文称，苹果传闻中的触屏MacBook Pro将在今年晚些时候或2027年初发布，首发搭载现役M5 Pro及M5 Max芯片。苹果此后计划推出配备M7芯片的升级版本，这与此前报道苹果将跳过M6 Pro及M6 Max直接推出M7系列的计划相吻合。苹果跳过高端M6芯片的决策被认为与内存短缺导致的成本压力密切相关，苹果本周已因此宣布上调Mac及iPad产品售价。（界面新闻）",
+"published": 1782547370.0
+},
+{
+"source": "36氪",
+"title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
+"link": "https://36kr.com/newsflashes/3871131045876995?f=rss",
+"summary": "据英国《金融时报》27日报道，六位知情人士透露，为缓解内存芯片涨价带来的成本压力，苹果公司正向美国政府游说，希望获批采购中国半导���企业长鑫存储(CXMT)的内存芯片。（中新经纬）",
+"published": 1782547088.0
+},
+{
+"source": "36氪",
+"title": "美国监管部门关闭针对特斯拉Model 3及Model Y转向失控调查",
+"link": "https://36kr.com/newsflashes/3871127099315202?f=rss",
+"summary": "据美国国家公路交通安全管理局（NHTSA）6月27日披露，关闭针对2023款特斯拉Model 3及Model Y电子助力转向系统失效问题的工程分析调查。调查显示，上述车型转向电子控制单元（ECU）印刷电路板上的电机驱动组件存在过压击穿风险，可能导致电子助力转向失效，驾驶员仅能依靠手动转向操控车辆。特斯拉已于2025年2月就此发起召回，并通过OTA空中升级方式推送软件版本2023.38.4加以修复，该更新最早于2023年10月起陆续推送至受影响车辆。NHTSA分析显示，软件更新…",
+"published": 1782546847.0
+},
+{
+"source": "36氪",
+"title": "马斯克获FTC批准收购前SpaceX工程师创立的光模块初创公司Mesh",
+"link": "https://36kr.com/newsflashes/3871125571802116?f=rss",
+"summary": "美国联邦贸易委员会（FTC）当地时间6月25日批准马斯克收购Mesh Optical Technologies Corporation。Mesh Optical Technologies由三位前SpaceX工程师特拉维斯·布拉谢尔斯（Travis Brashears）、卡梅隆·拉莫斯（Cameron Ramos）及赛琳娜·格罗文-哈伯利（Serena Grown-Haeberli）创立，三人此前曾在SpaceX主导设计星链卫星激光星间链路系统。公司于今年2月从隐身模式浮出水面…",
+"published": 1782546754.0
+},
+{
+"source": "36氪",
+"title": "今年港股首发募资前十大IPO名单中，A+H企业独占8席",
+"link": "https://36kr.com/newsflashes/3871124521620485?f=rss",
+"summary": "6月27日，2026年6月26日，领益智造、圣邦股份、芯碁微装三家A股龙头企业同步登陆港交所主板，成为2026年上半年A+H上市潮的收官之作。今年以来，A股企业“扎堆”赴港上市已成蔚然之势。据Wind统计，上半年总共有24家A股上市公司成功发行H股，合计募资规模突破1200亿港元，创下历史同期新高。更为引人注目的是，在今年港股首发募资前十大IPO名单中，A+H企业独占8席，展现出龙头企业跨境融资的强劲动能。（证券时报）",
+"published": 1782546690.0
+},
+{
+"source": "36氪",
+"title": "楼市复苏信号？多城核心地块高溢价成交：房企扎堆抢夺，持续刷新当地纪录",
+"link": "https://36kr.com/newsflashes/3871120057848837?f=rss",
+"summary": "近日，深圳、杭州、长沙等多个城市上演高热土拍，核心片区宅地轮番拍出高溢价，板块地价接连创下新高。（澎湃新闻）",
+"published": 1782546417.0
+},
+{
+"source": "36氪",
+"title": "高通计划将数据中心芯片技术引入智能手机，提升端侧AI能力",
+"link": "https://36kr.com/newsflashes/3871117388174336?f=rss",
+"summary": "6月27日消息，高通公司执行副总裁杜尔加·马拉迪表示，公司计划将本周新发布的数据中心芯片技术应用于智能手机，以提升移动设备本地AI运行能力。高通新推出的高带宽计算（HBC）架构采用芯片垂直堆叠设计，将内存与计算单元紧密集成，可显著提升数据传输速度与效率。该架构第一代产品将于明年在数据中心推出，预计2028年实现商业化供货。马拉迪表示，“数据中心的技术不会止步于此”，公司目前正与智能手机、个人电脑及汽车制造商就相关技术展开洽谈。（界面新闻）",
+"published": 1782546254.0
+},
+{
+"source": "36氪",
+"title": "电影《四渡》总票房破5000万",
+"link": "https://36kr.com/newsflashes/3871115919070210?f=rss",
+"summary": "36氪获悉，据猫眼专业版数据，电影《四渡》上映2天，总票房破5000万​​​。",
+"published": 1782546164.0
+},
+{
+"source": "36氪",
+"title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
+"link": "https://36kr.com/p/3871109381035011?f=rss",
+"summary": "本文约2500字，建议阅读5分钟 作者 | 彭孝秋 编者按：AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第三期，大秦数字能源。 6月26日，储能公司大秦数字能源向港交所递交了上市申请。 2025年，大秦数字能源收入25.25亿元，同比增长244.3%；毛利…",
+"published": 1782545879.0
+},
+{
+"source": "爱范儿",
+"title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
+"link": "https://www.ifanr.com/1670225?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "当模型能力逼近关键阈值，使用资格与使用方式，将成为比性能更为关注的事项。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1782545418.0
+},
+{
+"source": "36氪",
+"title": "今年以来算力相关产品加速出海，有武汉企业800G以上光模块出口同比增长超过100倍",
+"link": "https://36kr.com/newsflashes/3871102147908867?f=rss",
+"summary": "6月27日，今年前5个月，我国机电产品出口额7.58万亿元，占我国出口总值的比重达到63.6%。自2025年3月起，连续15个月刷新同期月度最高值。记者在浙江嘉兴的一家工厂看到，这里有近1000台织布机正在织布，它是人工智能服务器中的电子布。电子布，是电子信息产业当中的关键材料。随着算力需求爆发，电子布需求也随之增加。企业车间里，产线24小时满产运行。今年以来，和算力有关的相关产品加速出海。在武汉，光模块的生产线同样24小时不停机。随着全球算力基础设施建设加速推进，今年以来，…",
+"published": 1782545324.0
+},
+{
+"source": "36氪",
+"title": "WPS回应C盘占用问题：即将更新七月版本上线磁盘存储管理功能",
+"link": "https://36kr.com/newsflashes/3871099029771265?f=rss",
+"summary": "36氪获悉，6月27日，针对近期用户集中反馈的C盘占用问题，WPS方面表示已完成排查并启动优化，将于7月上线的新版本在安装界面增加了路径选择功能；在使用环节，WPS在设置页新增了\"存储管理\"模块，缓存、文件备份、云文档缓存等各类文件的占用与可释放空间集中展示。WPS表示，缓存与备份默认存放在C盘、占用情况不够直观，确实给部分高频用户造成了困扰，此次优化的核心逻辑是\"安装有选择、使用可管理\"，让用户从安装到使用的每个环节中，都能清楚了解本地占用了多少、哪些可以清理，并随时自主管…",
+"published": 1782545134.0
+},
+{
+"source": "36氪",
+"title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+"link": "https://36kr.com/p/3869740772316162?f=rss",
+"summary": "作者｜黄楠 编辑｜袁斯来 6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。 从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。 物流行业的AI化进程加速。据中国物流与采购联合会等机构统计，2025年全球物流与供应链管理AI市场规模已超过340亿美元，预计2026年将增长至479.2…",
+"published": 1782524453.0
+},
+{
+"source": "36氪",
+"title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+"link": "https://36kr.com/p/3870720040588295?f=rss",
+"summary": "今日热点导览 OpenAI官宣推出GPT-5.6 亚洲“果链”股价几乎全线大幅下跌 SpaceX计划为美国消费者推出新的星链移动服务 美团股价低迷，王兴回应 小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人 微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹 TOP3大新闻 苹果涨价引山姆代购潮，部分门店已卖断货 近日，社交媒体上多名网友反馈，多地山姆会员超市的iPad及Mac系列产品出现抢购、代购的情况。原因在于，苹果宣布上调iPad及Mac系列产品价格后，山姆超…",
+"published": 1782522157.0
+},
+{
+"source": "TechCrunch",
+"title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+"link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+"summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+"published": 1782522097.0
+},
+{
+"source": "TechCrunch",
+"title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+"link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+"summary": "Mesh came out of stealth in February with a $50 million Series A.",
+"published": 1782520714.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜GPT-5.6正式亮相，但你可能还用不了/微软将上调Xbox主机价格/大疆回应Pocket 4P开售秒空",
+"link": "https://www.ifanr.com/1670246?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 曝苹果跳过 M6 Pro/Max，M7 系列直接主打 AI 性能 · 删除好友后朋友圈互动还在吗？微信公布显示逻辑 · 何小鹏：年底自动驾驶可合法进入全球市场#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1782520230.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Forget AGI. The real prize is enterprise AGI",
+"link": "https://siliconangle.com/2026/06/27/forget-agi-prize-enterprise-agi/",
+"summary": "We believe much of the artificial intelligence industry is chasing the wrong prize. Frontier model vendors such as Anthropic PBC and OpenAI Group PBC, they may have shifted their commercial focus toward enterprise customers, but they’ve not…",
+"published": 1782591957.0
+},
+{
+"source": "SiliconANGLE",
+"title": "IBM and Red Hat partner with Deloitte to fix open-source vulnerabilities",
+"link": "https://siliconangle.com/2026/06/26/ibm-red-hat-partner-deloitte-fix-open-source-vulnerabilities/",
+"summary": "Deloitte Touche Tohmatsu Ltd. is joining an initiative that IBM Corp. and its Red Hat unit launched in May to fix open-source software vulnerabilities. The companies announced the move today. U.K.-based Deloitte launched in the middle of th…",
+"published": 1782523567.0
+}
+]
+}
+}

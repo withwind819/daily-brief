@@ -1,0 +1,425 @@
+{
+"date": "2026-06-28",
+"total": 59,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据",
+"link": "https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1782655200.0
+},
+{
+"source": "量子位",
+"title": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
+"link": "https://www.qbitai.com/2026/06/439603.html",
+"summary": "杀进一众大厂中间",
+"published": 1782654950.0
+},
+{
+"source": "The Decoder",
+"title": "AI won't become a real coworker until it stops answering and starts finishing tasks",
+"link": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/",
+"summary": "A survey paper by Tencent and several Chinese universities traces the path from chatbot to \"digital colleague.\" AI systems won't become reliable coworkers, the researchers argue, until they finish entire tasks in persistent work environment…",
+"published": 1782651100.0
+},
+{
+"source": "The Decoder",
+"title": "Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test",
+"link": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/",
+"summary": "Coinbase CEO Brian Armstrong is switching his company to Chinese AI models like GLM 5.2 and Kimi 2.7. An automated routing system picks the best model for each request based on task and price, and better caching pushed the hit rate from 5 t…",
+"published": 1782648878.0
+},
+{
+"source": "InfoQ 中国",
+"title": "苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
+"link": "https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1782644760.0
+},
+{
+"source": "The Decoder",
+"title": "Only three AI models finished above starting capital in a 500-day startup survival test",
+"link": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/",
+"summary": "Researchers at Princeton University built CEO-Bench, a test where AI agents have to run a fictional software company for 500 simulated days. Most current models go broke, and a simple rule-based heuristic with no AI beats nearly all of them…",
+"published": 1782641773.0
+},
+{
+"source": "The Decoder",
+"title": "Chinese cybersecurity firm builds AI tools to rival Mythos and frames the race as cyber-nuclear deterrence",
+"link": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/",
+"summary": "360 founder Zhou Hongyi presents two AI security tools designed to compete with Anthropic's Mythos. One has already flagged 3,432 vulnerabilities. Zhou admits Chinese models trail Western ones by 20 to 30 percent, but compares Mythos to \"cy…",
+"published": 1782639018.0
+},
+{
+"source": "InfoQ 中国",
+"title": "GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全",
+"link": "https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1782637200.0
+},
+{
+"source": "量子位",
+"title": "梁文锋署名的DSpark，看懂这10个点就够了！",
+"link": "https://www.qbitai.com/2026/06/439548.html",
+"summary": "精髓在于极强的系统工程",
+"published": 1782633964.0
+},
+{
+"source": "量子位",
+"title": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站",
+"link": "https://www.qbitai.com/2026/06/439515.html",
+"summary": "GitHub 20k Star",
+"published": 1782633382.0
+},
+{
+"source": "The Decoder",
+"title": "Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't",
+"link": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/",
+"summary": "Sina Weibo's VibeThinker-3B has just three billion parameters but matches models like DeepSeek V3.2 and Kimi K2.5 on math and coding benchmarks. Those models are up to 333 times larger. The secret isn't size but multi-stage post-training. T…",
+"published": 1782632681.0
+},
+{
+"source": "量子位",
+"title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
+"link": "https://www.qbitai.com/2026/06/439464.html",
+"summary": "",
+"published": 1782626657.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "首批商业不动产REITs挂牌上市，银行理财资金成为重要买方力量",
+"link": "https://36kr.com/newsflashes/3873488170406915?f=rss",
+"summary": "银行理财紧抓首批商业不动产REITs投资机遇。近日，首批商业不动产证券投资基金（REITs）在上交所集体挂牌上市，标志着我国公募REITs市场实现从基础设施到商业不动产的业态突破。仅隔数日，监管集中批复第二批6单封闭式商业不动产REITs，覆盖京沪深及大湾区商圈，国资、央企、外资多元主体同台，“小步快跑、常态化供给”的信号进一步明确。在这轮扩容浪潮中，工银理财、中邮理财等多家理财公司相继宣布参与首批商业不动产REITs投资。银行理财资金正加快配置公募REITs资产，逐步成长为…",
+"published": 1782690955.0
+},
+{
+"source": "36氪",
+"title": "“买券商等于买一篮子打折科技股”交易逻辑发酵，券商股上演价值重估行情",
+"link": "https://36kr.com/newsflashes/3873485722703111?f=rss",
+"summary": "近期，A股券商板块告别前期沉寂，盘面异动频发，资金关注度持续攀升。6月22日券商板块迎来异动，行业指数单日大涨超过7%，场内掀起个股涨停潮。随后多个交易日资金持续加码，长江证券、华安证券等标的更是走出连板行情。盘面最关键的变化在于，打破了过往“券商拉升，科技回调”的存量资金跷跷板效应，证券与硬科技双线共振走强。“买券商等于买一篮子打折科技股”的交易逻辑在市场上快速发酵。长久以来，券商仅以“牛市旗手”的行情弹性被资金关注，如今却凭借投行跟投、股权直投手握大量硬科技企业股权，叠加…",
+"published": 1782690806.0
+},
+{
+"source": "36氪",
+"title": "日本5月零售额同比增长5.3%",
+"link": "https://36kr.com/newsflashes/3873484798579975?f=rss",
+"summary": "日本经济产业省6月29日公布数据显示，日本5月零售额同比增长5.3%，环比增长1.9%。（界面）",
+"published": 1782690749.0
+},
+{
+"source": "36氪",
+"title": "上涨支撑因素松动，黄金下半年面临“压力测试”",
+"link": "https://36kr.com/newsflashes/3873484323705862?f=rss",
+"summary": "站在2026年年中，国际、国内金价较1月历史高点已累计回撤近30%，呈现极罕见的高位剧烈调整。展望后市，业内人士表示，黄金的价格走势是该资产与股市、利率、油价之间多重关系博弈的结果，金价的短期预测变得愈发困难。分析人士认为，投资者应谨防黄金的“去美元化”叙事在当前市场环境下被滥用，警惕以“长期慢变量”的叙事为依据，指导“短期快变量”的交易。这次下跌犹如一场“压力测试”，让市场关注点重新回到企业基本面。（上证报）",
+"published": 1782690720.0
+},
+{
+"source": "36氪",
+"title": "中信建投：光棒扩产潮无需过度担忧",
+"link": "https://36kr.com/newsflashes/3873483081143553?f=rss",
+"summary": "36氪获悉，中信建投证券研报指出，光棒及光纤扩产潮来袭。今年以来，光纤价格大幅上涨，投资回报率显著提升，推动亨通光电、远东股份、通鼎互联、合盛硅业、大族激光等启动光棒扩产计划。研报认为，AI的发展对光纤的需求拉动明显，目前行业依然供不应求。虽然多家公司计划扩产，但一是多数公司过往光棒制造经验较少，是否可以如期扩产仍需观察，二是即使如期扩产，但大部分产能释放要在明年下半年或者更晚，因此对于今年，甚至明年的行业供需格局影响不大，而且AI的需求也可能更为强劲，因此短期内无需过度担忧…",
+"published": 1782690645.0
+},
+{
+"source": "36氪",
+"title": "多只“老登”新基延长募集期，抢占潜在风格切换先机却响应冷淡",
+"link": "https://36kr.com/newsflashes/3873482749744130?f=rss",
+"summary": "近日，多只聚焦食品消费、金融等传统“核心资产”（业内称之“老登”）的新发基金频频延长募集期，部分产品甚至半个月内两次延长募集期，最终仅勉强跨过2亿元成立门槛。在AI科技行情高位震荡的背景下，基金公司逆势布局“老登”资产，背后折射出复杂的矛盾心态：一方面，全品类大型公募为抢占潜在风格切换先机，不得不提前卡位；另一方面，市场低迷导致资金响应冷淡，新基金即便勉强成立，后续能否做大仍存悬念。有业内人士指出，与存量基金相比，新发基金更易“讲故事”，但行情何时到来尚不确定，“老登”资产的…",
+"published": 1782690624.0
+},
+{
+"source": "36氪",
+"title": "马斯克宣布Grok 4.5开启SpaceX与特斯拉内部私测，性能或超越Opus",
+"link": "https://36kr.com/newsflashes/3873481579746561?f=rss",
+"summary": "马斯克当地时间6月28日发文称，旗下最新一代大语言模型Grok 4.5已正式在SpaceX和特斯拉内部开启私测。据马斯克透露，Grok 4.5基于1.5万亿参数的V9基础模型打造，并在补充训练中特别加入了热门AI编程工具Cursor的数据。早期的评测结果显示，该模型的性能已经接近、甚至可能超越了Anthropic的旗舰模型Claude Opus。目前，强化学习（RL）仍在持续显著地优化该模型，其配套的“Grok Build”测试基准也在日趋完善。此外，马斯克还表示，Space…",
+"published": 1782690553.0
+},
+{
+"source": "36氪",
+"title": "公募基金“中考”即将收官，业绩有望创出历史最佳纪录",
+"link": "https://36kr.com/newsflashes/3873480712016898?f=rss",
+"summary": "还有两个交易日，今年公募基金“中考”即将收官。目前来看，上半年基金的业绩有望创出历史最佳纪录。今年以来，A股走出极致结构性行情，AI算力等高景气赛道持续走出独立行情，主动权益基金收益格局显著分化，呈现出“近科技则强、远科技则弱”的特征。重仓科技赛道的基金净值大幅飙升，翻倍基金数量超过百只、最高收益率约175%均有望创出基金“中考”最高纪录。值得注意的是，参考历史案例，基金上半年若有超高收益，下半年想要延续上半年的优秀业绩，将面临波动压力，且收益增厚空间有限。（证券时报）",
+"published": 1782690500.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨两大存储巨头今日发布大规模投资计划；江淮汽车股价腰斩，章建平9日套现近3亿元；Anthropic Fable 5有望很快恢复访问",
+"link": "https://36kr.com/p/3873476968272902?f=rss",
+"summary": "今日热点导览 《给阿嬷的情书》总票房已突破19亿元 梁文锋署名，DeepSeek发布最新论文 WPS回应C盘占用问题，即将更新七月版本上线磁盘存储管理功能 触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max 美国监管部门关闭针对特斯拉Model 3及Model Y转向失控调查 TOP 3大新闻 韩国将于6月29日宣布三星、SK集团的多个大型项目 韩国将于6月29日宣布“三大工程”计划，韩国总统李在明将与政府各部门、三星电子和SK的官员会面，并发布政策…",
+"published": 1782690279.0
+},
+{
+"source": "36氪",
+"title": "华泰证券A股策略：波动期均衡布局",
+"link": "https://36kr.com/newsflashes/3873474917094402?f=rss",
+"summary": "36氪获悉，华泰证券发布A股策略研报称，上周A股科技波动率明显放大，三条线索交叉验证目前或位于阶段性整固。其一，外部坐标上，韩股目前或进入“加仓弹药收敛、强平抬头”阶段，尾部风险有所累积；其二，产业趋势上，苹果涨价引发利润分配的担忧，但Anthropic的ARR等高频指标显示AI需求仍在高位，且考虑到苹果涨价冲击的是存储下游偏边缘的消费电子需求，不必过度担忧；其三，短期美国PCE走高与季末基金风格回归或带来扰动，但油价回落已使外部压制边际松动，关注第二季度财报季方向。配置上，…",
+"published": 1782690146.0
+},
+{
+"source": "36氪",
+"title": "6月份A股公司密集分红，派现总额近5700亿元",
+"link": "https://36kr.com/newsflashes/3873473518015745?f=rss",
+"summary": "截至6月28日记者发稿，Wind数据显示，以除权除息日为基准，6月份已实施和即将实施2025年度分红方案的上市公司超过1700家，累计派发现金红利总额达5690亿元。业内人士认为，A股公司近期集中兑现对股东的回报，分红节奏之密集、规模之可观，折射出上市公司整体经营回稳、现金流充裕的积极态势。数据显示，6月29日至7月3日，超200家公司即将实施2025年度分红方案，预计合计派现金额超800亿元，投资者有望在二季度收官之际收获一份实实在在的“现金礼包”。（中证报）",
+"published": 1782690061.0
+},
+{
+"source": "36氪",
+"title": "华泰证券：大宗化工景气修复可期，电子化学品受益AI与国产替代",
+"link": "https://36kr.com/newsflashes/3873471130752004?f=rss",
+"summary": "36氪获悉，华泰证券研报认为，中东地缘冲突加剧全球油气供需扰动，阶段性推升油价并带动库存去化，但高油价下需求破坏亦逐步显现，后续伴随供应约束边际缓解，油价中枢或逐步回归均衡。大宗化工方面，2025年下半年以来化工行业资本开支增速已出现明显转向，叠加“反内卷”“碳双控”等政策推动存量优化，以及海外落后产能退出，行业产能周期拐点逐步明确。电子化学品方面，AI算力、先进制程、先进封装及国产替代共同拉动半导体材料需求，海外供给扰动亦有望带动部分电子特气及关键材料景气上行。",
+"published": 1782689915.0
+},
+{
+"source": "36氪",
+"title": "AI短剧成为行业主流，流量成本持续走高",
+"link": "https://36kr.com/newsflashes/3873468605764873?f=rss",
+"summary": "依托飞速进步的视频生成模型和高效的智能制作工具，国内短剧产业正迅速“AI化”。一个显著标志是，AI短剧如今已成为行业绝对主流。行业权威研究机构DataEye剧查查向记者提供的数据显示，今年一季度国内全行业上线短剧约12.8万部，其中AI短剧占比超95%。AI短剧产能大爆发的另一面是行业流量竞争日益加剧，流量成本持续走高。“AI短剧制作端成本大概下降了90%，但流量成本同比上涨了超过100%，与此同时，收益端下滑了50%以上。”DataEye剧查查副总裁林启文向记者表示。（证券…",
+"published": 1782689761.0
+},
+{
+"source": "36氪",
+"title": "信用卡App退场，行业迎来经营模式重构",
+"link": "https://36kr.com/newsflashes/3873467931988993?f=rss",
+"summary": "6月30日，中国银行信用卡App“缤纷生活”将全面停止服务，相关功能迁移至“中国银行”App。过去几年间，在优化成本的考量下，中小银行纷纷放弃开发信用卡独立App，将其功能合并至手机银行App中，国有大行、股份行、中小银行亦陆续关停线下异地分中心。线上整合、线下关停，国内信用卡行业正告别粗放扩张周期，迎来经营模式重构。（证券时报）",
+"published": 1782689720.0
+},
+{
+"source": "36氪",
+"title": "世界海拔最低超深特稠油油田累计产量突破千万吨",
+"link": "https://36kr.com/newsflashes/3873464046998786?f=rss",
+"summary": "记者今天（29日）从中国石油了解到，位于新疆吐鲁番火焰山下，世界海拔最低超深特稠油油田——鲁克沁油田累计产油量突破1000万吨。超深特稠油，是指埋藏在地下数千米、黏度高达常规原油百倍以上、常温下状如黑泥几乎无流动性的极端难采石油资源。（央视新闻）",
+"published": 1782689483.0
+},
+{
+"source": "36氪",
+"title": "万亿发债潮叠加评级上调，券商大力融资谋转型",
+"link": "https://36kr.com/newsflashes/3873456484242437?f=rss",
+"summary": "Choice数据显示，截至6月26日，年内已有61家券商累计发行521只债券，总发行规模超过1.22万亿元，较去年同期的5274.98亿元同比增长超过131%。券商融资迎来集中窗口期，年内发债规模已突破万亿元大关，头部机构优势持续放大。与此同时，多家券商次级债信用评级获得上调，行业资本实力、经营质量获得市场认可。在业务升级和并购整合的多重驱动下，拓宽资本补充渠道已成为券商稳健经营、扩张发展的核心抓手。（上证报）",
+"published": 1782689021.0
+},
+{
+"source": "36氪",
+"title": "国际清算银行警告全球经济面临多重压力",
+"link": "https://36kr.com/newsflashes/3873454892782849?f=rss",
+"summary": "总部设于瑞士巴塞尔的国际清算银行当地时间28日发布报告称，当前全球经济增长面临多重压力，包括人工智能热潮或难持续、金融体系存在脆弱性、公共财政紧张以及通胀上行等。报告还说，霍尔木兹海峡的“历史性关闭”引发能源及其他原材料供应危机，对全球经济前景构成新的威胁。尽管地缘政治紧张局势有所缓解且油价大幅下跌，但此次冲击造成的影响可能持续存在。（央视新闻）",
+"published": 1782688924.0
+},
+{
+"source": "36氪",
+"title": "调查：美联储7月维持利率不变的概率为69.5%",
+"link": "https://36kr.com/newsflashes/3873453606098183?f=rss",
+"summary": "据CME“美联储观察”：美联储7月维持利率不变的概率为69.5%，累计加息25个基点的概率为30.5%。美联储到9月维持利率不变的概率为40.4%，累计加息25个基点的概率为46.9%，累计加息50个基点的概率为12.8%。（界面）",
+"published": 1782688846.0
+},
+{
+"source": "36氪",
+"title": "7家车企完成首轮强制ESG信披，精细化提质转型成为改进方向",
+"link": "https://36kr.com/newsflashes/3873447994938373?f=rss",
+"summary": "2026年是A股可持续发展报告强制披露元年，沪深北交易所划定首批强制披露主体需于4月30日前完成2025年度可持续发展报告发布。比亚迪、上汽集团、长安汽车、长城汽车、广汽集团、赛力斯、江淮汽车7家符合强制披露条件的整车企业全部按期提交报告。根据车企发布的可持续发展报告，汽车行业虽搭建起基础ESG披露框架，但量化指标缺失、环境合规披露失真、循环经济数据单薄等短板集中暴露，距离精细化、标准化高质量披露ESG信息仍存在明显差距。（中证报）",
+"published": 1782688503.0
+},
+{
+"source": "36氪",
+"title": "三星与SK集团未来十年的总投资或高达2000万亿韩元",
+"link": "https://36kr.com/newsflashes/3873442797425927?f=rss",
+"summary": "据报道，三星与SK集团将于周一晚些时候在韩国总统府公布投资方案，两家企业未来十年的总投资规模最高或达2000万亿韩元（折合1.3万亿美元）。将重点布局半导体、AI算力数据中心与物理AI领域。（财联社）",
+"published": 1782688186.0
+},
+{
+"source": "36氪",
+"title": "新技术可直接检测生命体系中量子作用力",
+"link": "https://36kr.com/newsflashes/3873438028043527?f=rss",
+"summary": "长期以来，科学家知道药物与蛋白质相互作用受量子作用力驱动，却始终无法在生物中直接检测，只能依靠计算模型推断。如今，这种局面有望改变。据新一期《科学进展》杂志报道，美国得克萨斯农工大学研究人员开发出一种新型激光技术，可直接检测生命体系中的量子作用力，不仅能实时观察蛋白质内部的微观变化，还能预测药物与蛋白质的结合能力，为加速新药研发提供了全新工具。（科技日报）",
+"published": 1782687895.0
+},
+{
+"source": "The Verge",
+"title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+"link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+"summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more gen…",
+"published": 1782682971.0
+},
+{
+"source": "TechCrunch",
+"title": "California law targeting loud streaming ads takes effect on July 1",
+"link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+"summary": "Streaming ads might be getting a lot quieter.",
+"published": 1782682454.0
+},
+{
+"source": "The Verge",
+"title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+"link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+"summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and mar…",
+"published": 1782678456.0
+},
+{
+"source": "TechCrunch",
+"title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+"link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+"summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+"published": 1782673539.0
+},
+{
+"source": "The Verge",
+"title": "China claims the world’s fastest supercomputer",
+"link": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
+"summary": "Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking. That's despite strict limits on what high…",
+"published": 1782667259.0
+},
+{
+"source": "TechCrunch",
+"title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
+"link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+"summary": "Has Silicon Valley been building the wrong things?",
+"published": 1782666196.0
+},
+{
+"source": "The Verge",
+"title": "The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece",
+"link": "https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review",
+"summary": "I'm sure we're all familiar with Dark Crystal, so we know that Jim Henson can be weird and tackle slightly more mature subject matter. But there is little in his oeuvre that is quite as mind-bending as the Muppetless The Cube. This 1969 tel…",
+"published": 1782664200.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Mobility: All eyes on Tesla FSD",
+"link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+"summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+"published": 1782662700.0
+},
+{
+"source": "TechCrunch",
+"title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+"link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+"summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+"published": 1782658800.0
+},
+{
+"source": "Solidot",
+"title": "科学家再次尝试编辑人类胚胎",
+"link": "https://www.solidot.org/story?sid=84699",
+"summary": "继哥伦比亚大学 Dieter Egli 团队之后，第二个科研团队报告称，利用高精度基因编辑技术改造了人类胚胎 DNA。多名科研人员表示，该实验的成功，让关于胚胎基因编辑的伦理讨论变得更加紧迫。这一次英国剑桥大学的 Kathy Niakan 带领研究人员使用单碱基编辑技术敲除了编码 NANOG 蛋白的基因。实验所用的精子、卵子与胚胎均来自科研捐献，胚胎仅培养约 1 周时间。经过编辑的胚胎无法形成完整外胚层，也就是未来发育成人体各类组织的细胞团；但胚胎仍能分化出胎盘、卵黄囊等胚胎…",
+"published": 1782658409.0
+},
+{
+"source": "Solidot",
+"title": "马克斯普朗克的两篇论文被撤稿",
+"link": "https://www.solidot.org/story?sid=84698",
+"summary": "1918 年诺贝尔物理学家得主马克斯普朗克（Max Planck）的两篇论文在 2011 年被撤下。两篇论文于 1940 年代发表在德国期刊《Naturwissenschaften》上，如今隶属于 Springer Nature 集团，《Naturwissenschaften》撤稿的理由是侵犯版权。马克斯普朗克的做法是一稿多发，在以前很常见，但如今被认为“自我剽窃”会引发版权纠纷。魁北克大学物理史学家 Yves Gingras 和科学史学家 Mahdi Khelfaoui 对…",
+"published": 1782657677.0
+},
+{
+"source": "The Verge",
+"title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+"link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+"summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera…",
+"published": 1782655926.0
+},
+{
+"source": "TechCrunch",
+"title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+"link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+"summary": "For some people, the ice in a beverage is almost as important as the drink itself. That’s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro. This $500 premium smart home gadget is a…",
+"published": 1782655200.0
+},
+{
+"source": "Solidot",
+"title": "法国本周的热浪超过对 2050 年的可怕想象",
+"link": "https://www.solidot.org/story?sid=84697",
+"summary": "2014 年世界气象组织 (WMO) 协调组织了一场活动，其中包括预测 2050 年的天气。法国主持人 ïvelyne Dhéliat 的预测是到 2050 年该国最高气温将达到 43 摄氏度。本周法国的热浪将这一预测提前 24 年实现，且超过了预测。法国周三 43 个地点有 19 个地点超过了对 2050 年的预测，最高气温高达 44.3 摄氏度。法国 1947 年以来的热浪半数发生在 2010 年之后。法国气象局表示，到 2100 年热浪可能会持续两个月。随着地球暖化，极…",
+"published": 1782652716.0
+},
+{
+"source": "Solidot",
+"title": "韩国计划训练所有军人熟练操作无人机",
+"link": "https://www.solidot.org/story?sid=84696",
+"summary": "韩国计划训练所有军人像使用枪支一样熟练操作无人机。国防部长官安圭伯表示，目标是通过训练士兵像使用“第二件个人武器”一样使用无人机，让无人机成为所有部队的“通用作战工具”。韩国还计划为军事单位配备更多廉价且可消耗的无人机，用于侦察和打击任务，部署更多反无人机激光武器和微波武器。很多国家都在效仿乌克兰训练和装备无人机，韩国并非个例。乌克兰利用无人机和军用机器人弥补其在战场上与俄罗斯庞大军力对抗的劣势。韩国国防部今年将首先向军人提供 1.1 万架训练无人机，目标是到 2029 年部…",
+"published": 1782648384.0
+},
+{
+"source": "The Verge",
+"title": "Nest’s quest to fix your thermostat",
+"link": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
+"summary": "The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then rides off into the sunset to enjoy the rest of …",
+"published": 1782648164.0
+},
+{
+"source": "The Verge",
+"title": "Ad-free streaming is a luxury now",
+"link": "https://www.theverge.com/column/958379/streaming-industry-ads",
+"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepba…",
+"published": 1782648000.0
+},
+{
+"source": "爱范儿",
+"title": "29.99 万元起，全新猛士 M817 上市：把智能、越野和家庭出行放进一台车里",
+"link": "https://www.ifanr.com/1670283?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "开着这车通勤也挺拉风的。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1782633041.0
+},
+{
+"source": "少数派",
+"title": "兜兜转转四款笔记软件，我终于为思考找到了安身之所",
+"link": "https://sspai.com/post/110935",
+"summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+"published": 1782630012.0
+},
+{
+"source": "The Verge",
+"title": "TMD’s keyless bike lock is a $280 solution to a $60 problem",
+"link": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
+"summary": "I've seen lots of so-called \"smart\" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's nothing wholly unique about the TMD Chain L…",
+"published": 1782630000.0
+},
+{
+"source": "爱范儿",
+"title": "底盘也开始「算」了：华为途灵平台到底在解决什么？",
+"link": "https://www.ifanr.com/1670250?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "你的车越来越「主动」了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1782627260.0
+},
+{
+"source": "爱范儿",
+"title": "DeepSeeK 突然发布 DSpark，让 AI 的回答不再「挤牙膏」",
+"link": "https://www.ifanr.com/1670249?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "大模型的尽头，是复杂的系统工程问题#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1782624734.0
+},
+{
+"source": "TechCrunch",
+"title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+"link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+"summary": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
+"published": 1782622800.0
+},
+{
+"source": "36氪",
+"title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
+"link": "https://36kr.com/p/3867976058803459?f=rss",
+"summary": "文｜贺哲馨 编辑｜乔芊 Judy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The List的一次特卖活动时。提交申请后的第三天，她依旧没有收到邀请消息。“我还以为填完资料就能进去。”她说。 按照平台规则，特卖活动需要邀请码才能进入。如果迟迟没有通过，则需要邀请两位好友注册，才能获得进入候补名单的机会。至于最终能否收到邀请码，没人说得清楚。 “有点像抽签，也有点像开盲盒。”Judy笑着说，“明明我是才是买家，结果搞得像在申请什么私人会员俱乐部。越进不去，越想…",
+"published": 1782607028.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Don’t surrender data control in pursuit of intelligence",
+"link": "https://siliconangle.com/2026/06/28/dont-surrender-data-control-pursuit-intelligence/",
+"summary": "With organizations reorganizing themselves to put artificial intelligence at the center, we’ve seen a shift from information being valuable to being a means of achieving intelligence, which is far more important. But what happens to organiz…",
+"published": 1782656140.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Geopolitical tension highlights the need for risk intelligence",
+"link": "https://siliconangle.com/2026/06/28/geopolitical-tension-highlights-need-risk-intelligence/",
+"summary": "Within hours of the first U.S.-Israel strikes against Iran in February 2026, hacktivists went to work launching massive distributed denial-of-service attacks. Both pro- and anti-Iranian groups targeted oil and gas providers, telecommunicati…",
+"published": 1782656089.0
+}
+]
+}
+}

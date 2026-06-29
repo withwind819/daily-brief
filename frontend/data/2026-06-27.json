@@ -1,8 +1,15 @@
 {
 "date": "2026-06-27",
-"total": 63,
+"total": 64,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Everyone feared AI taking over; the real danger is AI serving just the few",
+"link": "https://news.ycombinator.com/item?id=48701615",
+"summary": "Everyone feared AI would enslave humanity; but it looks like the real fight is stopping governments and Big Tech from enslaving AI for the benefit of the few.Amid the newly announced \"regulation\" of OpenAI's frontier models, I believe the f…",
+"published": 1782593281.0
+},
 {
 "source": "The Decoder",
 "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions",

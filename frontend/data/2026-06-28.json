@@ -1,8 +1,36 @@
 {
 "date": "2026-06-28",
-"total": 59,
+"total": 68,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "We need tech news sources which exclude AI",
+"link": "https://news.ycombinator.com/item?id=48713041",
+"summary": "Its now clear that we need to preserve tech press for non AI related things. Techmeme for example is now completely overrun with AI stories.HN is getting closer to that every day.If AI kickback deals, phony new model ratings, high RAM price…",
+"published": 1782690590.0
+},
+{
+"source": "OpenAI 博客",
+"title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+"link": "https://openai.com/index/hp-frontier-partnership",
+"summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+"published": 1782666000.0
+},
+{
+"source": "HN AI 热门",
+"title": "Professor denounces mass AI fraud on an exam at Brown",
+"link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+"summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html Comments URL: https://news.ycombinator.com/item?id=48708991 Points: 525 # Comments: 688",
+"published": 1782664872.0
+},
+{
+"source": "HN AI 热门",
+"title": "Reflections on software engineering in the age of AI",
+"link": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+"summary": "Article URL: https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/ Comments URL: https://news.ycombinator.com/item?id=48708721 Points: 103 # Comments: 97",
+"published": 1782663458.0
+},
 {
 "source": "InfoQ 中国",
 "title": "Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据",
@@ -16,6 +44,13 @@
 "link": "https://www.qbitai.com/2026/06/439603.html",
 "summary": "杀进一众大厂中间",
 "published": 1782654950.0
+},
+{
+"source": "HN AI 热门",
+"title": "Google limits Meta's use of its Gemini AI models",
+"link": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+"summary": "Article URL: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html Comments URL: https://news.ycombinator.com/item?id=48707103 Points: 158 # Comments: 72",
+"published": 1782653406.0
 },
 {
 "source": "The Decoder",
@@ -86,6 +121,27 @@
 "link": "https://www.qbitai.com/2026/06/439464.html",
 "summary": "",
 "published": 1782626657.0
+},
+{
+"source": "HN AI 热门",
+"title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+"link": "https://github.com/itsthelore/wayfinder-router",
+"summary": "Article URL: https://github.com/itsthelore/wayfinder-router Comments URL: https://news.ycombinator.com/item?id=48704373 Points: 121 # Comments: 55",
+"published": 1782621078.0
+},
+{
+"source": "HN AI 热门",
+"title": "Ford hired AI and sacked humans. It backfired badly",
+"link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+"summary": "Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html Comments URL: https://news.ycombinator.com/item?id=48703968 Points: 239 # Comments: 4",
+"published": 1782616153.0
+},
+{
+"source": "HN AI 热门",
+"title": "The best response to AI slop and online noise is from Robin Williams",
+"link": "https://jayacunzo.com/blog/your-move-chief",
+"summary": "Article URL: https://jayacunzo.com/blog/your-move-chief Comments URL: https://news.ycombinator.com/item?id=48703452 Points: 399 # Comments: 219",
+"published": 1782610090.0
 }
 ],
 "科技": [
@@ -221,6 +277,13 @@
 "link": "https://36kr.com/newsflashes/3873447994938373?f=rss",
 "summary": "2026年是A股可持续发展报告强制披露元年，沪深北交易所划定首批强制披露主体需于4月30日前完成2025年度可持续发展报告发布。比亚迪、上汽集团、长安汽车、长城汽车、广汽集团、赛力斯、江淮汽车7家符合强制披露条件的整车企业全部按期提交报告。根据车企发布的可持续发展报告，汽车行业虽搭建起基础ESG披露框架，但量化指标缺失、环境合规披露失真、循环经济数据单薄等短板集中暴露，距离精细化、标准化高质量披露ESG信息仍存在明显差距。（中证报）",
 "published": 1782688503.0
+},
+{
+"source": "少数派",
+"title": "派早报：微软改口称 8GB 足够运行 Windows 11",
+"link": "https://sspai.com/post/111639",
+"summary": "微软改口称 8GB 足够运行 Windows 11OpenAI 发布 GPT 5.6，称需美国政府批准提供对象Notion Mail 宣布关闭央视报道网络测评乱象苹果、奥迪前员工推出豪华电瓶车俄罗斯主流应用被苹果下架，克宫呼吁改用 Android看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+"published": 1782688423.0
 },
 {
 "source": "36氪",

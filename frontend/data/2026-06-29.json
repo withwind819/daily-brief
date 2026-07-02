@@ -1,6 +1,6 @@
 {
 "date": "2026-06-29",
-"total": 131,
+"total": 133,
 "categories": {
 "AI": [
 {
@@ -116,6 +116,13 @@
 "published": 1782745742.0
 },
 {
+"source": "HN AI 热门",
+"title": "Working With AI: A concrete example",
+"link": "https://htmx.org/essays/working-with-ai/",
+"summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 191 # Comments: 72",
+"published": 1782744821.0
+},
+{
 "source": "InfoQ 中国",
 "title": "单台服务器、1C2G，也能部署数据库？",
 "link": "https://www.infoq.cn/video/dQHICMH3wg9NVbgluWh3?utm_source=rss&utm_medium=article",
@@ -149,6 +156,13 @@
 "link": "https://tidal.com/ai-policy",
 "summary": "Article URL: https://tidal.com/ai-policy Comments URL: https://news.ycombinator.com/item?id=48718840 Points: 288 # Comments: 313",
 "published": 1782738543.0
+},
+{
+"source": "InfoQ 中国",
+"title": "有奖共建｜跑过数百万台服务器的AI运维系统开源了！提PR/报Bug/写体验，通通有奖",
+"link": "https://xie.infoq.cn/article/bc3d416caccb50b6dc6044c04?utm_source=rss&utm_medium=article",
+"summary": "AI Agent能否代替运维工程师，接管服务器排障？点击查看原文>",
+"published": 1782738082.0
 },
 {
 "source": "The Decoder",

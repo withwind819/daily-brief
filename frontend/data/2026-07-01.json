@@ -1,8 +1,15 @@
 {
 "date": "2026-07-01",
-"total": 130,
+"total": 131,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Meta caps internal AI token spending",
+"link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+"summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/ Comments URL: https://news.ycombinator.com/item?id=48754713 Points: 146 # Comments: 144",
+"published": 1782950328.0
+},
 {
 "source": "The Decoder",
 "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",

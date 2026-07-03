@@ -1,0 +1,691 @@
+{
+"date": "2026-07-03",
+"total": 97,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始",
+"link": "https://www.infoq.cn/article/GEkEm7rkUJfF8bdwTuBt?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1783106830.0
+},
+{
+"source": "The Decoder",
+"title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents",
+"link": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
+"summary": "Microsoft reportedly plans to merge its consumer and enterprise Copilot apps into a single app in August. Rarely used features like Copilot Podcasts are getting cut, and new AI agents called \"AutoPilot\" will handle tasks in the background f…",
+"published": 1783106680.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Agent 上岗之后，企业如何治理硅基团队？",
+"link": "https://www.infoq.cn/article/pNFHkLos3FoDNm8cQsyt?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1783105398.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从 Coding 到 Anything，Agent 正在重写工作流",
+"link": "https://www.infoq.cn/article/yM8ms1eDlrY7wvF3SXtY?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1783104056.0
+},
+{
+"source": "InfoQ 中国",
+"title": "拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
+"link": "https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1783101600.0
+},
+{
+"source": "The Decoder",
+"title": "Claude Code's complicated China problem involves bans on both sides of the Pacific",
+"link": "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/",
+"summary": "Anthropic is trying to block Chinese companies like ByteDance and Ant Financial from accessing Claude Code, but they're getting around the restrictions through VPNs and overseas subsidiaries. Alibaba, meanwhile, has banned its own employees…",
+"published": 1783098693.0
+},
+{
+"source": "The Decoder",
+"title": "Security vulnerability reports have exploded since AI models started hunting for bugs",
+"link": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/",
+"summary": "Epoch AI reports a sharp rise in security vulnerability reports. In June 2026, 21 organizations reported about 1,500 high-severity and critical CVEs, more than 3.5 times the previous monthly record. The surge lines up with the launch of AI-…",
+"published": 1783097387.0
+},
+{
+"source": "The Decoder",
+"title": "UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do",
+"link": "https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/",
+"summary": "In a study covering seven benchmarks, the UK's AI Security Institute shows that standard AI evaluations systematically underestimate agent capabilities by capping the compute budget. On software engineering tasks, success rates jumped about…",
+"published": 1783095284.0
+},
+{
+"source": "InfoQ 中国",
+"title": "大晓机器人首席科学家陶大程：世界模型的使命不是完整复制世界，而是精准支撑行动",
+"link": "https://www.infoq.cn/article/tZe66KJ12UsjrqpeSiaA?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1783091835.0
+},
+{
+"source": "量子位",
+"title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+"link": "https://www.qbitai.com/2026/07/442746.html",
+"summary": "四年前LeCun提出JEPA时，大概不会想到，这套架构有一天会被用来理解：一颗细胞。",
+"published": 1783088918.0
+},
+{
+"source": "量子位",
+"title": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
+"link": "https://www.qbitai.com/2026/07/442567.html",
+"summary": "单词数r也是风险问题？！",
+"published": 1783081057.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从生成到交付，音视频 Agent 要有生产级开发套件",
+"link": "https://www.infoq.cn/article/qA1Ucwbw3KZy5yIgCrVo?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1783079305.0
+},
+{
+"source": "The Decoder",
+"title": "GPT and Claude failed Bridgewater's finance tests because the right answers were never public",
+"link": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/",
+"summary": "Bridgewater and Thinking Machines Lab—the startup from former OpenAI CTO Mira Murati—have fine-tuned a Qwen3-235B model for financial tasks. According to their own testing, the model hits 84.7 percent accuracy, beating Gemini, Claude, and G…",
+"published": 1783077402.0
+},
+{
+"source": "The Decoder",
+"title": "Meta's AI agent push is moving slower than Zuckerberg planned",
+"link": "https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/",
+"summary": "Mark Zuckerberg admitted to weaknesses in the company's restructuring during an internal town hall. The AI agents Meta reorganized around are progressing slower than planned, Zuckerberg said. His AI chief, meanwhile, painted a rosier pictur…",
+"published": 1783076722.0
+},
+{
+"source": "The Decoder",
+"title": "Tesla caps employee AI spending at $200 per week",
+"link": "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/",
+"summary": "Tesla caps employee AI spending at $200 per week, according to an internal memo reported by The Information. The article Tesla caps employee AI spending at $200 per week appeared first on The Decoder.",
+"published": 1783076211.0
+},
+{
+"source": "量子位",
+"title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
+"link": "https://www.qbitai.com/2026/07/442531.html",
+"summary": "",
+"published": 1783075578.0
+},
+{
+"source": "量子位",
+"title": "比亚迪6月销量超40万，年内销量记录再度刷新",
+"link": "https://www.qbitai.com/2026/07/442517.html",
+"summary": "",
+"published": 1783074523.0
+},
+{
+"source": "量子位",
+"title": "比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”",
+"link": "https://www.qbitai.com/2026/07/442503.html",
+"summary": "",
+"published": 1783074396.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Java 实时系统扩容：事件驱动设计的隐性权衡",
+"link": "https://www.infoq.cn/article/dbZRhCUeEqX4WdboztyG?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1783070469.0
+},
+{
+"source": "The Decoder",
+"title": "Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO",
+"link": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/",
+"summary": "Kuaishou has raised about $2 billion from investors for its AI video division, Kling. The article Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO appeared first on The Decoder.",
+"published": 1783068796.0
+},
+{
+"source": "量子位",
+"title": "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
+"link": "https://www.qbitai.com/2026/07/442224.html",
+"summary": "创业30年，6次低谷",
+"published": 1783064444.0
+},
+{
+"source": "量子位",
+"title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+"link": "https://www.qbitai.com/2026/07/442452.html",
+"summary": "超越人类超导体发现100年效率",
+"published": 1783064158.0
+},
+{
+"source": "量子位",
+"title": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
+"link": "https://www.qbitai.com/2026/07/442447.html",
+"summary": "",
+"published": 1783062747.0
+},
+{
+"source": "量子位",
+"title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
+"link": "https://www.qbitai.com/2026/07/442311.html",
+"summary": "第三方测评超越OpenAI最强旗舰GPT-5.6 Sol",
+"published": 1783056246.0
+},
+{
+"source": "量子位",
+"title": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+"link": "https://www.qbitai.com/2026/07/442167.html",
+"summary": "7月17-7月20",
+"published": 1783049779.0
+}
+],
+"科技": [
+{
+"source": "TechCrunch",
+"title": "The only AI glossary you’ll need this year",
+"link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+"summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+"published": 1783113600.0
+},
+{
+"source": "TechCrunch",
+"title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+"link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+"summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+"published": 1783104180.0
+},
+{
+"source": "TechCrunch",
+"title": "The Dune keypad device can be your meeting controller and more",
+"link": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+"summary": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.",
+"published": 1783103310.0
+},
+{
+"source": "The Verge",
+"title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
+"link": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
+"summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple storage configurati…",
+"published": 1783100035.0
+},
+{
+"source": "TechCrunch",
+"title": "Chevy built an all-American EV truck — why is nobody buying it?",
+"link": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
+"summary": "The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better.",
+"published": 1783096200.0
+},
+{
+"source": "Solidot",
+"title": "现代生活可能与人类大脑不匹配",
+"link": "https://www.solidot.org/story?sid=84754",
+"summary": "人类大脑演化适应了一个充满熟人、直接威胁以及小型社交群体的世界。但今天世界变化速度远超人类演化适应的速度。这种不匹配或能解释解释人类所经历的压力、孤独和持续攀比心理。新加坡研究人员在《Behavioral Sciences》期刊上发表论文，探讨了如何从演化角度理解压力、竞争和孤独。在熟人小群体中形成的行之有效的反应，在现代生活中显得格格不入，甚至令人难以承受。这种演化上的不匹配在社交媒体时代尤其显著。论文合作者 Jose Yong 博士称，竞争不是新鲜事，但现代生活让它无处不…",
+"published": 1783095477.0
+},
+{
+"source": "The Verge",
+"title": "While you’re watching the World Cup, the feds may be watching you",
+"link": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
+"summary": "It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of people who live in the cities hosting them - may…",
+"published": 1783090800.0
+},
+{
+"source": "Solidot",
+"title": "NASA 发射探测器拯救坠落中的 Swift 天文台",
+"link": "https://www.solidot.org/story?sid=84753",
+"summary": "2004 年发射的 Neil Gehrels Swift 天文台设计监测宇宙中的伽马射线暴，它最初的运行轨道高度约 600 公里，但由于大气阻力其轨道高度已衰减至约 400 公里。2024 年太阳极大期间的太阳活动导致了地球大气膨胀，加速了轨道衰减。如果不进行拯救，Swift 天文台将于 2026 年底不受控重返大气层。Swift 天文台本身没有推进系统。去年 9 月 NASA 授予 Katalyst Space Technologies 一份 3000 万美元的合同，用于开…",
+"published": 1783090562.0
+},
+{
+"source": "The Verge",
+"title": "This slim camera has a transparent LCD screen for a viewfinder",
+"link": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
+"summary": "Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while influencers are scrambling to find aging Cano…",
+"published": 1783090298.0
+},
+{
+"source": "The Verge",
+"title": "I finally got my Trump phone",
+"link": "https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions",
+"summary": "Where's the Trump phone? We're going to keep talking about it every week. One year on, our phones have finally arrived. 12 months, 16 days, 21 hours, and 54 minutes after I first heard about Trump Mobile's T1 Phone 8002 (gold version), I'm …",
+"published": 1783089671.0
+},
+{
+"source": "Solidot",
+"title": "蜂后会将农药负担转移给蜂卵",
+"link": "https://www.solidot.org/story?sid=84752",
+"summary": "蜜蜂是重要的授粉昆虫，但其数量在世界各地都出现了下降，原因可能与农药有关。发表在《Current Biology》期刊上的一项研究在实验室条件下跟踪了农药在一个小型蜂群中的流动。研究发现，工蜂最初通过食物过滤和在蜂巢中沉积将食物中的农药水平降低 95%，但到第 10 天过滤效率下降至 86%；蜂后体内的农药含量显著低于工蜂，但随着时间的推移，蜂后会在卵巢中积累农药并将其转移到正在发育的蜂卵；蜂后的存在会改变整个蜂群的化学物质分布，工蜂会集中接触农药，增加蜂蜡中农药的沉积。",
+"published": 1783088787.0
+},
+{
+"source": "The Verge",
+"title": "Hydration isn’t complicated: Just drink water",
+"link": "https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave",
+"summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Europe is melting, the e…",
+"published": 1783087200.0
+},
+{
+"source": "The Verge",
+"title": "Anthropic wants to develop its own drugs",
+"link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+"summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthrop…",
+"published": 1783087012.0
+},
+{
+"source": "The Verge",
+"title": "Jon Prosser responds to Apple lawsuit by blaming the other guy",
+"link": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
+"summary": "YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser denied that he \"planned or participated in any conspiracy or co…",
+"published": 1783084355.0
+},
+{
+"source": "The Verge",
+"title": "The Verge’s annual summer ‘in’ and ‘out’ list",
+"link": "https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list",
+"summary": "In the AI slop-loaded, algorithm-powered modern reality, trends come and go - and the tech industry is no different. For the last few years, The Verge staff has compiled a selection of things that are IN for summer and OUT for summer - and …",
+"published": 1783083600.0
+},
+{
+"source": "36氪",
+"title": "深水海纳：控股股东等终止公司控制权变更事项",
+"link": "https://36kr.com/newsflashes/3879918674505988?f=rss",
+"summary": "36氪获悉，深水海纳公告，控股股东、实际控制人李海波及其一致行动人西藏海纳博创、相关股东方安义深水与茂名发展集团于2026年7月3日签署《终止协议》，各方就终止股权转让及控制权变更事宜协商达成一致意见。",
+"published": 1783083442.0
+},
+{
+"source": "36氪",
+"title": "小鹏集团与神州租车达成全场景合作，批量交付1300台新能源车",
+"link": "https://36kr.com/newsflashes/3879911238463493?f=rss",
+"summary": "36氪获悉，据小鹏汽车，7月3日，小鹏×神州租车全场景合作暨车辆交付仪式在北京举行。小鹏集团董事长、CEO何小鹏与神州租车董事长于洪飞共同出席活动，见证双方全场景合作协议签署及1300台新能源车辆批量交付。至今，神州租车累计采购小鹏新能源车已超5000台，并规划未来一年内至少再采购5000台，双方合作将持续深化。",
+"published": 1783082988.0
+},
+{
+"source": "36氪",
+"title": "云南能投：拟投资建设丽江市宁蒗县100MW/400MWh全钒液流独立共享储能项目",
+"link": "https://36kr.com/newsflashes/3879902125076741?f=rss",
+"summary": "36氪获悉，云南能投公告，公司被确定为“丽江市宁蒗县100MW/400MWh全钒液流独立共享储能项目社会投资人公开优选”的中选单位，该项目规划建设容量为100MW/400MWh。",
+"published": 1783082432.0
+},
+{
+"source": "36氪",
+"title": "雪祺电气：股东拟协议转让12.65%公司股份",
+"link": "https://36kr.com/newsflashes/3879894366646532?f=rss",
+"summary": "36氪获悉，雪祺电气公告，股东志道投资于7月3日与刘翔签署了《股份转让协议》，志道投资拟将其持有的公司2314.99万股（占公司总股本比例的12.6481%）通过协议转让的方式转让给刘翔，转让价格为12.8元/股，转让总价款为2.96亿元。",
+"published": 1783081958.0
+},
+{
+"source": "36氪",
+"title": "400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线",
+"link": "https://36kr.com/p/3879807100023040?f=rss",
+"summary": "文｜胡香赟 编辑｜海若镜 2026年6月底，西班牙瓦尔德希伯伦大学医院（Vall d’Hebron University Hospital）宣布完成欧洲首例单孔机器人儿科肾输尿管切除术。 瓦尔德希伯伦大学医院是西班牙规模最大的综合医院之一，年接诊量过百万人次，在整个欧洲医疗系统内，这家医院对前沿医疗技术、产品的探索都称得上“先锋”。此前，世界首例供体来自安乐死患者的面部移植手术就在这里完成。 本次，医院方面对36氪表示，支持完成这场“有里程碑意义的儿科手术”的核心设备，来自中…",
+"published": 1783081710.0
+},
+{
+"source": "36氪",
+"title": "市场监管总局发布多项宇航领域国家标准",
+"link": "https://36kr.com/newsflashes/3879886976954372?f=rss",
+"summary": "记者今天了解到，市场监管总局近日批准发布《平板式堆叠卫星星箭机械接口要求》《全球卫星导航系统（GNSS）定位增强中心要求》等多项宇航领域国家标准。（央视新闻）",
+"published": 1783081507.0
+},
+{
+"source": "36氪",
+"title": "国家电影局、市场监管总局联合印发《关于促进电影院多样化经营的通知》",
+"link": "https://36kr.com/newsflashes/3879884098384137?f=rss",
+"summary": "为贯彻落实党的二十届四中全会精神，以新需求引领新供给，以新供给创造新需求，进一步激发电影院经营活力，将电影院打造成为集观影、社交、娱乐、消费于一体的综合性文化体验空间，促进电影院文化繁荣，近日，国家电影局、市场监管总局联合印发《关于促进电影院多样化经营 繁荣发展电影院文化的通知》。《通知》围绕繁荣发展电影院文化，推动电影院业态创新、模式创新、服务创新等，提出三方面10条举措。（央视新闻）",
+"published": 1783081332.0
+},
+{
+"source": "36氪",
+"title": "上交所上市委：沈鼓集团首发获通过",
+"link": "https://36kr.com/newsflashes/3879883414827272?f=rss",
+"summary": "36氪获悉，上交所上市委公告，沈鼓集团股份有限公司（简称“沈鼓集团”）首发获通过。",
+"published": 1783081290.0
+},
+{
+"source": "36氪",
+"title": "天赐材料：拟终止年产24.3万吨锂电及含氟新材料项目",
+"link": "https://36kr.com/newsflashes/3879874936795145?f=rss",
+"summary": "36氪获悉，天赐材料公告，2023年下半年开始，电解液行业头部厂商及新进入者集中扩产，叠加下游需求不及预期导致电解液行业产能供需错配，行业竞争加剧，电解液市场价格持续下降，板块盈利受到挤压，考虑电解液产能未完��消化，同时氟化工行业市场环境发生变化，公司拟终止南通天赐年产24.3万吨锂电及含氟新材料项目的投资建设。",
+"published": 1783080772.0
+},
+{
+"source": "36氪",
+"title": "深交所就修订《深圳证券交易所上市公司证券发行上市审核规则》公开征求意见",
+"link": "https://36kr.com/newsflashes/3879864486162432?f=rss",
+"summary": "36氪获悉，深交所就修订《深圳证券交易所上市公司证券发行上市审核规则》公开征求意见。主要修订内容包括，适应性调整相关条款和表述。根据《注册管理办法》等上位规则修改情况，充分发挥日常监管与发行监管合力；将简易程序再融资由上市公司年度股东会授权调整为上市公司股东会授权，提高简易程序灵活性。优化不得适用简易程序的负面情形。优化简易程序适用范围，明确本次发行上市申请的保荐人或者保荐代表人、证券服务机构或者相关签字人员最近一年因同类业务受到中国证监会行政处罚或者受到证券交易所公开谴责及…",
+"published": 1783080135.0
+},
+{
+"source": "36氪",
+"title": "深交所：拟完善锁价定增制度，增加上市公司向特定对象发行股票的储架发行制度",
+"link": "https://36kr.com/newsflashes/3879862355980546?f=rss",
+"summary": "36氪获悉，深交所就修订《深圳证券交易所上市公司证券发行与承销业务实施细则》公开征求意见。主要修订内容包括，完善锁价定增制度。为了进一步规范发行对象认购行为、明确市场预期，规定对于董事会提前确定部分发行对象的，要求该部分发行对象提前明确拟认购的资金上限和下限、认购数量及发行价格确定原则。增加上市公司向特定对象发行股票的储架发行制度。为便利上市公司抓住市场时机实施融资，同时平滑发行规模，降低大额融资对市场的冲击，《再融资办法》规定信息披露工作规范程度较高的上市公司，在向特定对象…",
+"published": 1783080005.0
+},
+{
+"source": "The Verge",
+"title": "Apple TV is hitting its stride",
+"link": "https://www.theverge.com/entertainment/960985/apple-tv-hits-2026",
+"summary": "Since its inception, Apple TV, née Apple TV Plus, has built a reputation on quality over quantity. It has far fewer shows and movies than the likes of Netflix or Disney Plus, but generally speaking, the projects it does put out are quite go…",
+"published": 1783080000.0
+},
+{
+"source": "36氪",
+"title": "上交所：拟优化适用简易程序定增的授权要求",
+"link": "https://36kr.com/newsflashes/3879859822096392?f=rss",
+"summary": "36氪获悉，上海证券交易所修订了《上海证券交易所上市公司证券发行与承销业务实施细则（征求意见稿）》。现向社会公开征求意见。主要修订内容包括，优化适用简易程序定增的授权要求。为提高简易程序灵活性，增加临时股东会授权机制，将简易程序融资由年度股东会授权修改为股东会授权，与《再融资注册办法》保持一致。",
+"published": 1783079850.0
+},
+{
+"source": "36氪",
+"title": "生数科技正式发布Vidu S1实时交互模型",
+"link": "https://36kr.com/newsflashes/3879857819201798?f=rss",
+"summary": "36氪获悉，生数科技正式发布Vidu S1实时交互模型，提供实时可交互的新一代视频生成能力，模型支持实时视频通话和语音控制视频走向。同时，Vidu S1支持540P（960x540）高清分辨率、25FPS帧率（最高支持42FPS），可基于真人、动漫、萌宠等任意初始形象及个性化音色，快速创建专属交互角色。",
+"published": 1783079728.0
+},
+{
+"source": "The Verge",
+"title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+"link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+"summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans…",
+"published": 1783079350.0
+},
+{
+"source": "36氪",
+"title": "东方财富：出资2亿元参与投资私募基金",
+"link": "https://36kr.com/newsflashes/3879839015940359?f=rss",
+"summary": "36氪获悉，东方财富公告，公司以自有资金出资2亿元参与投资由上海云锋新创投资管理有限公司作为管理人、上海麒鹏投资管理有限公司作为普通合伙人的上海云锋元创私募基金中心（有限合伙），该基金目标认缴出资总额30亿元，主要对硬科技、新兴技术等重点领域以及将受益于或赋能前述领域的相关领域内的投资项目进行价值投资。",
+"published": 1783078580.0
+},
+{
+"source": "36氪",
+"title": "证监会征求意见：简化上市公司向控股股东定增条件",
+"link": "https://36kr.com/newsflashes/3879828216295424?f=rss",
+"summary": "36氪获悉，中国证监会对《上市公司证券发行注册管理办法》《北京证券交易所上市公司证券发行注册管理办法》以及配套规则进行修改。现向社会公开征求意见。其中提到，简化上市公司向控股股东定增条件。支持运行规范、不存在严重失信行为的实际控制人、控股股东参与上市公司定增，发挥控股股东对上市公司的支持作用，帮助上市公司长期持续稳定发展。同时，将此类发行限售期延长至36个月，发挥市场机制约束作用。",
+"published": 1783077921.0
+},
+{
+"source": "36氪",
+"title": "证监会征求意见：优化小额快速再融资制度",
+"link": "https://36kr.com/newsflashes/3879827120222471?f=rss",
+"summary": "36氪获悉，中国证监会对《上市公司证券发行注册管理办法》《北京证券交易所上市公司证券发行注册管理办法》以及配套规则进行修改。现向社会公开征求意见。其中提到，优化小额快速再融资制度，在拟融资规模不超过净资产20%的前提下，沪深交易所上市公司小额快速融资上限从3亿元提升至6亿元，净资产超过100亿元的特大型企业小额快速融资上限提升至10亿元；北交所上市公司小额快速融资上限从1亿元提升至2亿元。同时，将小额快速再融资由上市公司年度股东会授权修改为上市公司股东会授权，提高融资灵活性。",
+"published": 1783077854.0
+},
+{
+"source": "36氪",
+"title": "证监会征求意见：建立再融资定向增发储架发行制度",
+"link": "https://36kr.com/newsflashes/3879826153861376?f=rss",
+"summary": "36氪获悉，中国证监会对《上市公司证券发行注册管理办法》《北京证券交易所上市公司证券发行注册管理办法》以及配套规则进行修改。现向社会公开征求意见。其中提到，建立再融资定向增发储架发行制度。信息披露工作规范程度较高的上市公司申请竞价定增的，可采取一次注册、多次发行方式，更好适应双边市场特征，便利上市公司迅速抓住市场时机实施融资，引导其理性融资、有序融资，减少一次性大额融资对市场的扰动。",
+"published": 1783077795.0
+},
+{
+"source": "36氪",
+"title": "鹏鼎控股：拟定增募资不超96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
+"link": "https://36kr.com/newsflashes/3879823039901697?f=rss",
+"summary": "36氪获悉，鹏鼎控股公告，公司拟向特定对象发行股票募资不超过96亿元，扣除发行费用后用于庆鼎AI服务器和高速光模块高密度互连积层板项目。",
+"published": 1783077605.0
+},
+{
+"source": "36氪",
+"title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
+"link": "https://36kr.com/p/3879814941437956?f=rss",
+"summary": "本文约2700字，建议阅读6分钟 作者 | 彭孝秋 编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第七期，硅基流动。 Q2的最后一天，硅基流动向港交所递交了上市申请，此次IPO是以18C未商业化公司身份申报。联席保荐人为华泰与海通国际。 如果你在AI开发者圈…",
+"published": 1783077152.0
+},
+{
+"source": "36氪",
+"title": "韩国拟打造“韩版星链”",
+"link": "https://36kr.com/newsflashes/3879815486025993?f=rss",
+"summary": "据韩联社3日报道，韩国政府决定在2035年前建成由数百颗卫星组成的低轨卫星通信网络。韩国宇宙航空厅厅长吴泰锡表示，低轨卫星通信网络是维护国家安全与通信主权的核心基础设施，也是支撑6G时代的国家战略基础设施，其构建有助于加强韩国卫星和运载火箭研发和制造能力。此外，他还介绍了将在2030年提前实现月球着陆的计划。（新华社）",
+"published": 1783077144.0
+},
+{
+"source": "36氪",
+"title": "江波龙：上半年净利润预计为92亿元—110亿元，同比增62204%—74394%",
+"link": "https://36kr.com/newsflashes/3879808871182342?f=rss",
+"summary": "36氪获悉，江波龙公告，预计2026年上半年归属于上市公司股东的净利润为92亿元—110亿元，同比增长62204.03%—74393.95%。报告期内，受下游需求增加以及全球存储晶圆产能总体增长有限的影响，全球半导体存储产业景气，为公司创造了良好的外部环境。同时，公司与多家全球主要存储晶圆原厂顺利续签晶圆供应协议（LTA或MOU），保障了存储晶圆的供应，为未来的长远发展夯实了资源基础。",
+"published": 1783076740.0
+},
+{
+"source": "36氪",
+"title": "上交所：本周对中船特气、长盈通、昀冢科技等异常波动股票进行重点监控",
+"link": "https://36kr.com/newsflashes/3879803767844872?f=rss",
+"summary": "36氪获悉，据上交所发布，2026年6月29日至2026年7月3日，上交所对366起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对中船特气、长盈通、昀冢科技等异常波动股票以及财通福鑫LOF、全球芯片LOF等溢价较高的基金进行重点监控，对29起上市公司重大事项等进行��项核查，向证监会上报涉嫌违法违规案件线索2起。",
+"published": 1783076429.0
+},
+{
+"source": "36氪",
+"title": "氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实",
+"link": "https://36kr.com/p/3879796756754694?f=rss",
+"summary": "大公司： 德银：Meta云业务或打开千亿美元级AI投入变现通道，2027年收入最高增300亿美元 针对Meta拟向外部客户出售AI算力及模型访问权限的消息，德意志银行认为，这并不意味着Meta削弱前沿模型或“超级智能”布局，而更可能是将较旧、非核心或阶段性闲置的算力对外变现，同时保留最新一代芯片用于内部训练。此举有望把市场对Meta“高资本开支、收入回报有限”的担忧，转向对其新增高利润收入选择权的重估。按德银测算，Meta到2027年底AI相关算力可能达到8至11.5GW，其…",
+"published": 1783076145.0
+},
+{
+"source": "36氪",
+"title": "理想组织再动刀：去中间环节，整车和智驾产品回归研发｜36氪独家",
+"link": "https://36kr.com/p/3877919172047111?f=rss",
+"summary": "图源视觉中国 文｜肖漫编辑｜李勤、杨轩 “回归创业状态”，去年李想说出这个目标后，理想汽车还在进行组织和流程精简。 36氪汽车从多位知情人士处获悉，理想即将围绕产品决策流程进行新一轮组织架构调整，计划将产品部的部分关键职能拆分，并入研发部门。 从群组关系来看，理想汽车产品部由范皓宇负责，包含电动本体、空间智能、自动驾驶终端产品、交互设计、平台运营、App与官网等。 了解调整动向的人士向36氪汽车透露，目前调整主要针对电动本体和自动驾驶等核心产品定义团队，其中已经明确的是，产品…",
+"published": 1783075512.0
+},
+{
+"source": "Solidot",
+"title": "阿里巴巴禁止员工使用 Claude Code",
+"link": "https://www.solidot.org/story?sid=84751",
+"summary": "阿里巴巴因担心后门禁止员工在工作中使用 Anthropic 的 Claude Code，它要求员工使用自家的编程平台 Qoder。尽管 Anthropic 限制了中国用户和实体的访问，但 Claude Code 在中国程序员中间仍然非常受欢迎。Anthropic 上个月指控阿里巴巴蒸馏了其模型，几天前它的 Claude Code 被发现包含了检测用户是否来自中国的代码。",
+"published": 1783072773.0
+},
+{
+"source": "少数派",
+"title": "住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路",
+"link": "https://sspai.com/prime/story/how-to-design-a-rental-living-room",
+"summary": "前文回顾：租房常见问题与我的改造原则从有光的地方开始动手打造能好好放松的卧室只要你的房子还有分区可言，那正常情况下就一定有一个可以称之为客厅的区域。在第一篇文章中我已经提到，对我们很多人来说，客厅可能 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+"published": 1783071873.0
+},
+{
+"source": "爱范儿",
+"title": "对话乐享科技 CEO 郭人杰：具身智能有希望诞生苹果级别的公司，我们有机会成为这家丨多样性公司",
+"link": "https://www.ifanr.com/1670916?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "家里要来新成员了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1783071609.0
+},
+{
+"source": "少数派",
+"title": "本周看什么 | 最近值得一看的 11 部作品",
+"link": "https://sspai.com/post/111917",
+"summary": "📅本周新预告《奥德赛》终极预告7月1日，克里斯托弗·诺兰导演新作《奥德赛》发布了终极预告，北美7月17日、中国内地8月14日上映。马特·达蒙、汤姆·霍兰德、安妮·海瑟薇、赞达亚、露皮塔·尼永奥、罗伯特 ...查看全文",
+"published": 1783071348.0
+},
+{
+"source": "Solidot",
+"title": "Valve 开源 Steam Machine 的电子墨水屏",
+"link": "https://www.solidot.org/story?sid=84750",
+"summary": "Valve 不会为 Steam Machine 游戏机提供正面的电子墨水屏，但它开源了相关技术，允许任何人自己动手为 Steam Machine 安装墨水屏。相关文件在 MIT 许可证下发布在 GitLab。Valve 将该项目称之为 Inkterfac，用户需要准备： 1 x Adafruit ESP32 Feather with 2MB PSRAM. 1 x Adafruit eInk Breakout Friend. 1 x Adafruit 5.83\" Monochr…",
+"published": 1783071294.0
+},
+{
+"source": "爱范儿",
+"title": "奕境汽车发布了「天穹智盾」安全架构，把安全问题都想全了",
+"link": "https://www.ifanr.com/1670884?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "安全不止于被动安全和主动安全。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1783066114.0
+},
+{
+"source": "Solidot",
+"title": "阿里巴巴与美国达成和解将支付 6 亿美元",
+"link": "https://www.solidot.org/story?sid=84749",
+"summary": "美国司法部表示，因未能阻止商家进口和销售违法药物，阿里巴巴集团及蚂蚁集团子公司将支付 6 亿美元，目前已就此达成和解协议。美国司法部不会起诉两家公司。阿里巴巴在 2016 年 1 月至 2024 年 12 月期间，未能防止商家通过阿里运营的电商平台向美国进口和销售违法化学物质、药品以及假药制造设备。蚂蚁子公司 AUS 则在 2020 年 1 月至 2023 年 12 月期间提供了支付服务。销售的违法商品达到 8 万笔，交易总额超过 2 亿美元。阿里巴巴将被没收 2 亿美元，A…",
+"published": 1783065478.0
+},
+{
+"source": "Solidot",
+"title": "日本最高法院裁决 AI 不能被列为专利申请的发明人",
+"link": "https://www.solidot.org/story?sid=84748",
+"summary": "日本最高法院驳回了一位美国工程师要求将 AI 列为专利申请发明人的上诉。日本最高法院维持了下级法院的判决，即根据专利法，专利申请的发明人必须是“自然人”。原告于 2020 年提交了一份专利申请，发明人是原告创建的 DABUS AI。专利局要求原告提供自然人的姓名作为发明人。原告拒绝提供，因此该申请被驳回。日本最高法院表示，专利法并未预见到 AI 的快速发展，而关于是否应授予 AI 发明专利权的问题“鉴于其对社会的影响，需要进行讨论”。",
+"published": 1783063867.0
+},
+{
+"source": "Solidot",
+"title": "代糖会扰乱肠道健康和新陈代谢",
+"link": "https://www.solidot.org/story?sid=84747",
+"summary": "越来越多的研究表明，人工甜味剂和非营养性甜味剂可能会扰乱新陈代谢。代糖在食品中已经无处不在。根据发表在《Current Atherosclerosis Reports》期刊上的一篇综述和荟萃分析，研究人员发现相比水或安慰剂等非热量对照组，人工甜味剂和低热量甜味剂会导致空腹胰岛素水平升高，糖化血红蛋白（HbA1c，长期血糖控制的标志物）升高，显示出胰岛素敏感性恶化的趋势。研究人员表示，一种解释与肠道微生物群有关。非营养性甜味剂会通过肠道与这些微生物直接接触，研究表明它会改变肠道…",
+"published": 1783062573.0
+},
+{
+"source": "少数派",
+"title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
+"link": "https://sspai.com/post/111405",
+"summary": "敬「少许的牺牲是必要的」。查看全文",
+"published": 1783062000.0
+},
+{
+"source": "Solidot",
+"title": "苹果寻求从长鑫和长江存储采购内存",
+"link": "https://www.solidot.org/story?sid=84746",
+"summary": "内存价格危机正迫使美国硬件制造商违背政府意愿尝试与中国内存制造商达成交易。苹果正与长鑫存储和长江存储谈判采购内存，以缓解全球内存短缺的影响。两家中国公司都被五角大楼列入了 1260H 名单，该黑名单并不具有法律上的禁止交易效力。但如果同时被列入美国商务部的实体清单，美国公司与之交易会受到限制，这正是苹果寻求阻止的。苹果可能会尝试仅在销往中国的苹果设备中使用中国内存芯片，以此限制负面影响。",
+"published": 1783059966.0
+},
+{
+"source": "爱范儿",
+"title": "两场地震，和你口袋里的「地震仪」",
+"link": "https://www.ifanr.com/1670541?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "每个人都是行走的地震仪#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1783058632.0
+},
+{
+"source": "TechCrunch",
+"title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+"link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+"summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
+"published": 1783055100.0
+},
+{
+"source": "少数派",
+"title": "这四个工作习惯，或许也能帮你找到掌控感",
+"link": "https://sspai.com/post/111708",
+"summary": "无论你追求的是更高的职位、更自由的时间、还是某种更纯粹的成就感，有一件事大概是共通的：那就是尽量让自己的人生，少一点完全依赖运气的成分，多一点可被掌控、可被验证的路径。查看全文",
+"published": 1783047600.0
+},
+{
+"source": "36氪",
+"title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
+"link": "https://36kr.com/p/3877990989819909?f=rss",
+"summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真格基金跟投。 成立不到两年时间，OMOWAY已获得数轮融资。截至目前，其股东阵容包含红杉、真格、Monolith、中金等头部财务投资机构，还包括Lochpine Capital、星航资本（小鹏系基金）…",
+"published": 1783045571.0
+},
+{
+"source": "36氪",
+"title": "36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投",
+"link": "https://36kr.com/p/3879274157928449?f=rss",
+"summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，厦门启航氢能技术有限公司（以下简称“启航氢能”）近日完成新一轮融资，本轮由厦门高新投领投，融资资金将主要用于电氢耦合关键装备及离网制氢相关核心技术的持续研发投入与产品迭代升级。 启航氢能成立于2024年4月，技术起源于嘉庚创新实验室电氢耦合研究团队。公司专注于电氢耦合技术及应用场景的装备研发、生产与销售，核心团队在电力电子技术、智能电网与电化学等领域拥有近20年研究积累。嘉庚创新实验室是福建省政府设立的省级高水平科研平台之一，其氢…",
+"published": 1783044150.0
+},
+{
+"source": "少数派",
+"title": "派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等",
+"link": "https://sspai.com/post/111898",
+"summary": "Apple「隐藏邮件地址」功能存在隐私漏洞，System76 推出 Linux 轻薄本 Lemur Pro 等。查看全文",
+"published": 1783039536.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+"link": "https://36kr.com/p/3879158039834629?f=rss",
+"summary": "今日热点导览 苹果拟于今明两年推出至少五款新iPhone AI版支付宝开放公测，上线72项办事技能 特朗普回应“利用职位牟利”：股市在涨，大家都在赚钱 LV起诉茉莉奶白，茉莉奶白被判赔1030万元 6月赴日航班取消1488个 安克创新港股上市首日破发 TOP3大新闻 证监会同意宇树科技科创板IPO注册 7月2日，证监会网站显示，同意宇树科技首次公开发行股票注册。这意味着，全球首家在IPO前实现人形机器人规模化盈利的企业正式拿到A股“入场券”，将成为A股“人形机器人第一股”。 …",
+"published": 1783037198.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜曝苹果计划生产1000万台折叠iPhone/任天堂回应全员涨薪10%传闻/华为鸿蒙6终端设备突破7000万",
+"link": "https://www.ifanr.com/1670862?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· Counterpoint：预计苹果首款折叠屏手机将贡献 29% 面板采购份额 · SK 海力士计划投资约 514 亿美元新建 NAND 工厂 · 奇瑞发布犀牛电池安全保障计划，承诺因电池热失控损毁赔付新车#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1783037166.0
+},
+{
+"source": "TechCrunch",
+"title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+"link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+"summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.",
+"published": 1783036800.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Chipmakers urge White House to avoid broad memory market interventions",
+"link": "https://siliconangle.com/2026/07/03/chipmakers-urge-white-house-avoid-broad-memory-market-interventions/",
+"summary": "A chip industry association has urged the White House not to make major changes to the way the memory market is regulated. The group, SEMI, represents most of the world’s major semiconductor equipment and materials companies as well as chip…",
+"published": 1783120951.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Meta to release new AI model with advanced coding capabilities ‘soon’",
+"link": "https://siliconangle.com/2026/07/03/meta-release-new-ai-model-advanced-coding-capabilities-soon/",
+"summary": "Meta Platforms Inc. is gearing up to release a new version of its flagship Muse Spark artificial intelligence model. Alexandr Wang, the company’s chief AI officer, wrote on X today that the update will roll out “soon.” The announcement came…",
+"published": 1783113092.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Luxonis raises $14M to develop the vision layer for intelligent automation",
+"link": "https://siliconangle.com/2026/07/03/luxonis-raises-14m-develop-vision-layer-intelligent-automation/",
+"summary": "Denver-based Luxonis Holding Corp. announced Thursday it raised $14 million in early-stage funding to transform industrial automation with cameras and machine vision, providing a perception layer for robotics and automated systems to unders…",
+"published": 1783092642.0
+},
+{
+"source": "EU-Startups",
+"title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (June 29-July 03)",
+"link": "https://www.eu-startups.com/2026/07/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-june-29-july-03/",
+"summary": "This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrest…",
+"published": 1783090873.0
+},
+{
+"source": "SiliconANGLE",
+"title": "OpenAI offers feds a stake, Anthropic gets out of AI model jail and Meta wants to be a neocloud",
+"link": "https://siliconangle.com/2026/07/03/openai-offers-feds-stake-anthropic-gets-ai-model-jail-meta-wants-neocloud/",
+"summary": "OpenAI reportedly has floated giving the U.S. government a 5% stake in the company, perhaps the start of a series of such stakes in other AI companies as well. This no doubt has traditional anti-industrial-policy Republicans, all apparently…",
+"published": 1783087231.0
+},
+{
+"source": "EU-Startups",
+"title": "Espoo-based IQM goes public on Nasdaq in European quantum first with €127 million in PIPE financing",
+"link": "https://www.eu-startups.com/2026/07/espoo-based-iqm-goes-public-on-nasdaq-in-european-quantum-first-with-e127-million-in-pipe-financing/",
+"summary": "Espoo-based quantum computing company IQM Quantum Computers has become publicly traded, raising €127 million ($146 million) in PIPE financing as part of its move onto the public markets in both the U.S. and Finland. The PIPE financing, a pr…",
+"published": 1783079191.0
+},
+{
+"source": "EU-Startups",
+"title": "London’s geoSurge raises €10 million to help brands understand AI-generated outputs",
+"link": "https://www.eu-startups.com/2026/07/londons-geosurge-raises-e10-million-to-help-brands-understand-ai-generated-outputs/",
+"summary": "geoSurge, a British DeepTech AI company helping brands shape how they are represented inside generative AI systems, announced a €10 million ($12 million) Seed round to expand its global research and engineering teams, invest in AI infrastru…",
+"published": 1783075847.0
+},
+{
+"source": "EU-Startups",
+"title": "Why legal literacy is becoming startup currency",
+"link": "https://www.eu-startups.com/2026/07/why-legal-literacy-is-becoming-startup-currency/",
+"summary": "For most of the last decade, legal has been the thing founders put off. You raise a round, you sign a stack of documents you half-read, and you tell yourself you’ll “sort the legal stuff out properly” once you can afford a lawyer. Legal sit…",
+"published": 1783068570.0
+},
+{
+"source": "EU-Startups",
+"title": "Danish climate VC Climentum Capital launches Fund II with €60 million first close",
+"link": "https://www.eu-startups.com/2026/07/danish-climate-vc-climentum-capital-launches-fund-ii-with-e60-million-first-close/",
+"summary": "Copenhagen-based Climentum Capital has reached the first close of its second fund at €60 million, matching the full size of its first fund as it continues backing European climate HardTech companies aiming to strengthen the continent’s indu…",
+"published": 1783066111.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Mark Zuckerberg says Meta’s agentic AI efforts aren’t progressing as fast as he had hoped",
+"link": "https://siliconangle.com/2026/07/02/mark-zuckerberg-says-metas-agentic-ai-efforts-arent-progressing-fast-hed-hoped/",
+"summary": "Meta Platforms Inc. Chief Executive Mark Zuckerberg told employees at an internal town hall meeting that the company’s work on artificial intelligence agents hasn’t progressed as quickly as he had hoped. It’s a rare admission from the found…",
+"published": 1783044827.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Anthropic reportedly in talks with Samsung to manufacture custom AI chip",
+"link": "https://siliconangle.com/2026/07/02/anthropic-reportedly-talks-samsung-manufacture-custom-ai-chip/",
+"summary": "Anthropic PBC is reportedly in talks with Samsung Electronics Co. to produce a custom artificial intelligence chip. The Information today cited sources as saying that the discussions are in an early stage. According to the publication, Anth…",
+"published": 1783040208.0
+}
+]
+}
+}

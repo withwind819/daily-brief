@@ -1,8 +1,15 @@
 {
 "date": "2026-07-02",
-"total": 141,
+"total": 144,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Protect your right to run local AI",
+"link": "https://righttointelligence.org/",
+"summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 537 # Comments: 191",
+"published": 1783036443.0
+},
 {
 "source": "InfoQ 中国",
 "title": "一人公司创业，如何找对方法论、选准装备库？",
@@ -16,6 +23,20 @@
 "link": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/",
 "summary": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate AI into core processes with measurable ROI, not more experimentation. Microsoft…",
 "published": 1783019909.0
+},
+{
+"source": "HN AI 热门",
+"title": "The short leash AI coding method for beating Fable",
+"link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+"summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 194 # Comments: 242",
+"published": 1783019517.0
+},
+{
+"source": "HN AI 热门",
+"title": "Claude-real-video － any LLM can watch a video",
+"link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+"summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 162 # Comments: 54",
+"published": 1783019412.0
 },
 {
 "source": "InfoQ 中国",

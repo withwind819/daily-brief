@@ -1,0 +1,376 @@
+{
+"date": "2026-07-04",
+"total": 52,
+"categories": {
+"AI": [
+{
+"source": "HN AI 热门",
+"title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+"link": "https://github.com/openai/codex/issues/30364",
+"summary": "Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 103 # Comments: 22",
+"published": 1783201869.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI has torched the market for junior programmers",
+"link": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+"summary": "Article URL: https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/ Comments URL: https://news.ycombinator.com/item?id=48788361 Points: 84 # Comments: 156",
+"published": 1783194608.0
+},
+{
+"source": "The Decoder",
+"title": "Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%",
+"link": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/",
+"summary": "The open-source tool pxpipe converts long text prompts for Claude Code into compact PNGs, exploiting the fact that Anthropic charges for images by pixel size, not text content. Developer Steven Chong reports cost savings of 59 to 70 percent…",
+"published": 1783188693.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first",
+"link": "https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/",
+"summary": "Anthropic developer Thariq Shihipar argues that with Claude's new model, Fable 5, the bottleneck is no longer the model itself but the user's blind spots. He describes techniques like blindspot passes and structured interviews that programm…",
+"published": 1783168671.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore",
+"link": "https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/",
+"summary": "Greg Brockman admits ChatGPT's plugins, heavily marketed in 2023, failed \"because the models weren't ready.\" Instead of app extensions, he sees the future in an invisible, context-aware agent. But OpenAI's own Codex is still light-years fro…",
+"published": 1783158801.0
+},
+{
+"source": "The Decoder",
+"title": "A 26,000-student study shows AI's hidden learning cost takes two full years to surface",
+"link": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/",
+"summary": "A study of more than 26,000 Chinese students found that AI users finished homework faster and scored higher but performed up to 24 percent worse on exams. The full impact on entrance exam results took about two years to show up, meaning sho…",
+"published": 1783156121.0
+},
+{
+"source": "InfoQ 中国",
+"title": "苹果首次将私有云计算平台扩展至谷歌云",
+"link": "https://www.infoq.cn/article/UoJtxVXj0d1QT1ftyjtd?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1783155600.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable",
+"link": "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/",
+"summary": "Anthropic is launching its own drug development program for neglected diseases that the pharmaceutical industry considers unprofitable. Novartis CEO Vas Narasimhan thinks AI could cut development time from twelve years to seven or eight and…",
+"published": 1783152678.0
+},
+{
+"source": "The Decoder",
+"title": "Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code",
+"link": "https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/",
+"summary": "Mistral AI released Leanstral 1.5, an open-source model for formal verification in Lean 4. Beyond math, the model found five previously unknown bugs while scanning 57 open-source repositories. The article Mistral's open-source Leanstral 1.5…",
+"published": 1783149167.0
+},
+{
+"source": "量子位",
+"title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+"link": "https://www.qbitai.com/2026/07/442958.html",
+"summary": "",
+"published": 1783144341.0
+}
+],
+"科技": [
+{
+"source": "TechCrunch",
+"title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+"link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+"summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+"published": 1783198525.0
+},
+{
+"source": "The Verge",
+"title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+"link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+"summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space …",
+"published": 1783191987.0
+},
+{
+"source": "TechCrunch",
+"title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+"link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+"summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+"published": 1783188005.0
+},
+{
+"source": "TechCrunch",
+"title": "Alibaba reportedly bans employees from using Claude Code",
+"link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+"summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+"published": 1783182728.0
+},
+{
+"source": "Solidot",
+"title": "火星岩石发现大量碳，来源未知",
+"link": "https://www.solidot.org/story?sid=84757",
+"summary": "NASA 漫游车在火星上发现的有机碳绝大多数都是在岩石的内部，需要通过钻或磨才能暴露。现在火星漫游车毅力号在河道 Neretva Vallis 附近的岩石表面发现了复杂大分子碳，这是至今在火星上发现的最浅的有机物。如果地球上发现类似的大量大分子碳，通常表明它们来自生物。但对于火星岩石上发现的大量碳，则难以识别其来源，除非将其带到地球进行仔细研究。研究人员表示这些分子碳也可能源于非生物过程。它们是否是古代火星生命的遗迹，还有待未来回答。",
+"published": 1783182383.0
+},
+{
+"source": "The Verge",
+"title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
+"link": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
+"summary": "The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. The deletion was suspiciously timed, following Republican outrage over Mayor Zohran Mamdani ask…",
+"published": 1783181946.0
+},
+{
+"source": "The Verge",
+"title": "Matic’s robot vacuum is getting a $250 price hike in September",
+"link": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
+"summary": "The Matic is our favorite robot vacuum by a pretty comfortable margin. If you’ve been thinking about buying one, you may want to plan on doing it sooner than later. The company will raise its price by $250 on September 9th, going from $1,24…",
+"published": 1783180800.0
+},
+{
+"source": "TechCrunch",
+"title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+"link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+"summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+"published": 1783180292.0
+},
+{
+"source": "Solidot",
+"title": "仙女座发现新卫星星系",
+"link": "https://www.solidot.org/story?sid=84756",
+"summary": "天文学家在距离地球约 250 万光年的仙女座星系附近，发现了一个新的超暗矮星系，命名为仙女座 XXXVI（Andromeda XXXVI，其中 XXXVI 为罗马数字 36），代表它是目前正式命名的第 36 个仙女座卫星星系。研究显示，它可能是迄今在仙女座星系周围发现最暗淡的卫星星系之一。这个星系年龄约达 125 亿年。仙女座星系是距离银河系最近的巨大螺旋星系，周围环绕着许多受到重力束缚的矮卫星星系，因此被视为研究星系形成的天然实验室。目前理论预测，仙女座可能拥有多达约 90…",
+"published": 1783178794.0
+},
+{
+"source": "The Verge",
+"title": "Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard",
+"link": "https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview",
+"summary": "Erick the Architect is a founding member of, and the primary producer for, the legendary Flatbush Zombies. He's toured the world, performed on Kimmel and Fallon, played Coachella, and collaborated with everyone from Joey Bada$$ and the Rza …",
+"published": 1783177200.0
+},
+{
+"source": "The Verge",
+"title": "Hey number pad lovers, this is a keyboard we can finally agree on",
+"link": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
+"summary": "I know a vocal group of people who swear by the number pad on their keyboard. And yet, for years I haven't cared about using one - until I put my hands on the Epomaker RT98. It's a mechanical keyboard with a charming retro aesthetic, a fun …",
+"published": 1783173600.0
+},
+{
+"source": "The Verge",
+"title": "The square-ish phone that I wanted to love",
+"link": "https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on",
+"summary": "The Ikko MindOne Pro is delightfully small. I keep calling it a square phone, which isn't quite right; the screen is square, but the phone itself is slightly rectangular. The camera flips up so you can use it for selfies - you can even open…",
+"published": 1783170000.0
+},
+{
+"source": "The Verge",
+"title": "The fanfiction community is at war with AI — and itself",
+"link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+"summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad di…",
+"published": 1783166400.0
+},
+{
+"source": "36氪",
+"title": "总投资15亿元，常州三大项目正式签约",
+"link": "https://36kr.com/newsflashes/3881144991854594?f=rss",
+"summary": "据常州发布，近日，常州三大用地项目成功签约，分别为：高端新型装饰材料智能研发生产项目、精密机床核心组件生产基地项目、塑编产装一体化智能制造项目。项目总投资超15亿元，用地约130亩，达产后预计年新增工业产值超17亿元。（人民财讯）",
+"published": 1783158848.0
+},
+{
+"source": "36氪",
+"title": "德国大陆集团 ：将向孤星基金出售康迪泰克集团业务板块",
+"link": "https://36kr.com/newsflashes/3881124772704258?f=rss",
+"summary": "德国大陆集团 ：将向孤星基金出售康迪泰克集团（Contitech Group���业务板块。本次交易企业价值为40亿欧元，此外最高可获得基于业绩表现的2.5亿欧元额外对价。出售康迪泰克后，集团将专注于核心轮胎业务。该交易尚待监管部门批准，有望在2026年底前完成（新浪财经）",
+"published": 1783157806.0
+},
+{
+"source": "36氪",
+"title": "广州白云国际机场口岸外籍客流占比突破四成创历史新高",
+"link": "https://36kr.com/newsflashes/3881081194901508?f=rss",
+"summary": "广州出入境边防检查总站4日发布消息，截至3日，广州白云国际机场口岸今年入出境外国人超390万人次，同比增长34%，占口岸出入境人员总量41%以上，数量与占比均创下历史新高。整体而言，该口岸出入境人员已超1000万人次，同比增长19.6%，较2025年提前34天突破千万大关。（财联社）",
+"published": 1783156230.0
+},
+{
+"source": "36氪",
+"title": "今年我国快递业务量已超1000亿件",
+"link": "https://36kr.com/newsflashes/3881076577366272?f=rss",
+"summary": "36氪获悉，国家邮政局监测数据显示，截至6月30日，今年我国快递业务量已超1000亿件，比2025年达到千亿件提前了9天。邮政快递业发展的韧性，折射出我国消费市场平稳增长、经济发展稳中有进的良好态势。",
+"published": 1783154935.0
+},
+{
+"source": "36氪",
+"title": "具身智能公司光象科技累计完成数亿元天使轮融资",
+"link": "https://36kr.com/newsflashes/3881013448683785?f=rss",
+"summary": "近日，光象科技宣布完成累计数亿元天使轮融资，最新一轮融资由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、See Fund、亿宸资本、上市公司行云科技等头部财投与头部产投深度参与，老股东零一创投、L2F光源创业者基金等持续加注。据悉，本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人产品的商业化交付。（每日经济新闻）",
+"published": 1783153548.0
+},
+{
+"source": "36氪",
+"title": "宁德时代与北京绿交所等签署战略合作协议",
+"link": "https://36kr.com/newsflashes/3881011627258116?f=rss",
+"summary": "近日，宁德时代与北京绿色交易所、宁德交投集团、宁波亿衡碳签署战略合作协议。其中，宁德时代与北京绿交所将围绕碳减排方法学开发、供应链绿色金融创新以及国际绿色规则对接进行深度合作，助力产业高质量发展。（人民财讯）",
+"published": 1783152423.0
+},
+{
+"source": "少数派",
+"title": "[送码] 聆听用户建议，1Capture 新增多项实用截图功能",
+"link": "https://sspai.com/post/111645",
+"summary": "各位少数派的朋友好，距离上一次在少数派介绍1Capture已经过去一年。过去这段时间里，我们开发的这款Mac截图与录屏工具继续做了多轮更新，也根据用户反馈补齐了一些更适合团队协作和产品展示的功能。市场 ...查看全文",
+"published": 1783151748.0
+},
+{
+"source": "36氪",
+"title": "规范引导情感陪伴人形机器人健康发展 两���会联合倡议",
+"link": "https://36kr.com/newsflashes/3881009011945473?f=rss",
+"summary": "中国人形机器人百人会和中国机械工业联合会今天联合发布关于规范和引导情感陪伴人形机器人发展的倡议，提倡共同践行科技向善、推动机器人产业健康发展。 记者了解到，当前，我国人形机器人产业加速创新发展，正逐步融入工业、特种和服务等各类场景。近期，包括“情感陪伴人形机器人”等产品陆续对外发布，人形机器人正走进家庭、走向生活。 倡议提出，行业应坚守服务人类福祉的初心，把安全伦理规范要求融入产品设计、研发、广告宣传、应用全过程。加强个人信息保护，筑牢用户隐私安全防线。强化质量管理，保障产品…",
+"published": 1783151116.0
+},
+{
+"source": "36氪",
+"title": "业内首个AI-eSIM产业协同平台成立",
+"link": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+"summary": "36氪获悉，据人民邮电报，7月3日，在中国信息通信业发展高层论坛上，由中国移动发起的业内首个AI-eSIM产业协同平台——“中国通信企业协会AI-eSIM专业委员会”（以下简称：专委会）正式成立，中国移动物联网公司担任主任单位，天翼物联、联通华盛、火山引擎、腾讯云、观安信息等担任副主任单位。据介绍，专委会汇聚了运营商、芯片设计、算法研究、安全服务及模型应用等领域的头部企业40余家。",
+"published": 1783149631.0
+},
+{
+"source": "The Verge",
+"title": "Qi fan fan",
+"link": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
+"summary": "Despite my initial skepticism, I'm now sold on wireless Qi chargers that add integrated fans to keep your phone cool while charging. I figured they'd be too loud, or too weak, or too gimmicky, but I'm a convert after spending a week with th…",
+"published": 1783148400.0
+},
+{
+"source": "36氪",
+"title": "瀚银科技被罚没近7445万元",
+"link": "https://36kr.com/newsflashes/3880929825681409?f=rss",
+"summary": "7月3日，中国人民银行上海市分行披露的行政处罚决定信息公示表显示，上海瀚银信息技术有限公司（下称“瀚银科技”）被没收违法所得65919976.99元，并处罚款853万元，涉及的违法行为类型包括：违反清算管理规定；违反商户管理规定。同时，瀚银科技责任人施某锋对瀚银科技违反清算管理规定的违法行为负有直接责任，被处以罚款34万元。（界面新闻）",
+"published": 1783148232.0
+},
+{
+"source": "36氪",
+"title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
+"link": "https://36kr.com/newsflashes/3880931591254019?f=rss",
+"summary": "根据中国科学院科技论文预发布平台ChinaXiv最新公示论文，华为半导体负责人何庭波于7月3日发布《面向多层级电子系统的时间缩微理论》（业内也称“韬定律”）V2版本。相比较5月25日发布的V1版本，新版论文在原有理论框架基础上，补充了大量工程落地细节、实测量化数据与产品演进路线，进一步完善了以时间常数τ为核心的后摩尔时代缩放理论体系。在工程落地方面，V2版本深度阐释核心技术LogicFolding的齿比（gearratio）概念，在混合键合间距接近顶层金属布线尺寸时，3D设计…",
+"published": 1783146937.0
+},
+{
+"source": "36氪",
+"title": "暑运前三天 全国铁路累计发送旅客超3800万人次",
+"link": "https://36kr.com/newsflashes/3880925561466889?f=rss",
+"summary": "铁路暑运自7月1日启动，来自国铁集团的最新数据显示，暑运前三天，也就是7月1日至3日，全国铁路已累计发送旅客3819.9万人次。今明两天是暑运开启后的第一个周末，预计热门旅游城市和研学线路客流将迎来攀升。暑运期间，全国铁路预计发送旅客10.1亿人次，铁路部门加大运能投放，提升站车服务品质。（央视网）",
+"published": 1783145453.0
+},
+{
+"source": "Solidot",
+"title": "全球极端热应激现象加剧",
+"link": "https://www.solidot.org/story?sid=84755",
+"summary": "发表在《Nature Climate Change》期刊上的一项研究显示，全球极端热应激现象加剧。相比 1970 年代，当前多出约 10 亿人要至少扛过一天“极端热应激”，也就是通用热气候指数（UTCI）≥46℃的日子。研究人员分析了 1950-2024 年共 75 年的全球热应激数据集，把白天、夜间，还有昼夜连着的那段时间分开算。结论不复杂：无论哪个时段，热应激现象在频率、强度、持续时间上全线走高，而夜里跑得比白天还快。自 1970 年代以来，从全球平均来看，每年最热的十个…",
+"published": 1783144969.0
+},
+{
+"source": "36氪",
+"title": "6月海湾地区原油出口激增",
+"link": "https://36kr.com/newsflashes/3880828194041858?f=rss",
+"summary": "随着中东局势趋于缓和以及霍尔木兹海峡航运逐步恢复，中东海湾地区原油出口6月大幅回升，日均出口量突破1000万桶，但仍明显低于冲突前水平。 3日市场服务机构克普勒的数据显示，6月沙特阿拉伯、阿拉伯联合酋长国、科威特、伊拉克和伊朗五国原油及凝析油日均出口量增至1007万桶，较5月增加逾350万桶。 另据能源研究机构沃泰克萨估算，6月上述地区日均出口约1020万桶，高于5月的约700万桶，但仍较去年同期约1650万桶的水平低40%。 多家机构数据显示，阿联酋成为原油出口恢复最快的国…",
+"published": 1783144096.0
+},
+{
+"source": "36氪",
+"title": "首款神经动力学芯片问世 有助于脑机接口等技术发展",
+"link": "https://36kr.com/newsflashes/3880779651248391?f=rss",
+"summary": "北京大学集成电路学院教授杨玉超团队联合中国科学院上海微系统与信息技术研究所研究员宋志棠团队，成功研制出全球首款基于相变忆阻器的神经动力学系统芯片，首次将这类复杂运算的单步时延压缩至2.12毫秒，在脑皮层重建等任务中较目前先进图形处理器（GPU）提速达50至478倍，一举突破了制约神经动力学长达半个世纪的实时计算瓶颈。相关成果3日凌晨发表于《科学》。（新华社）",
+"published": 1783142401.0
+},
+{
+"source": "36氪",
+"title": "消息称SK海力士考虑在巨额ADR发行中向承销银行支付约0.5%的费用",
+"link": "https://36kr.com/newsflashes/3880786649378821?f=rss",
+"summary": "据报道，SK海力士公司正考虑将其美国上市所得款项中约0.5%支付给参与该交易的银行。最终交易规模尚未确定，且SK海力士还可能选择在基础费用之上支付酌情奖励金。按美国标准衡量，这一费用比例偏低，但仍有望成为今年亚洲公司相关交易中费用最高的交易之一。（财联社）",
+"published": 1783141022.0
+},
+{
+"source": "36氪",
+"title": "长光卫星完成近50亿元股权融资",
+"link": "https://36kr.com/newsflashes/3880783434149893?f=rss",
+"summary": "据报道，长光卫星已完成近50亿元股权融资。本轮融资由长发集团、陆石投资联合领投，诚通基金、东方资产等知名投资机构积极参与，海通创新、深创投等老股东持续跟投。据了解，此次募集的资金将精准投向三大核心方向：一是加速卫星批产能力建设，提升规模化制造效率；二是持续推进“吉林一号”卫星工程组网，夯实高分辨数据获取能力；三是深化遥感数据应用开发，拓展多行业场景化解决方案。（科创板日报）",
+"published": 1783139729.0
+},
+{
+"source": "36氪",
+"title": "印度政府：正调查苹果手机信息泄露事件",
+"link": "https://36kr.com/newsflashes/3880789908631558?f=rss",
+"summary": "印度电子和信息技术部秘书克里希南2日表示，政府正就塔塔电子大规模数据泄露事件展开调查。这也是印度政府首次就这起事件发声。克里希南说：“我们正在调查。”按他的说法，相关事件已上报负责印度网络安全的下属机构计算机应急响应小组。塔塔电子是苹果公司的零部件供应商，也是苹果手机在印度的主要代工厂之一。据路透社报道，一个团伙日前从塔塔电子窃取大量未公开机密数据并上传至暗网，包括未发布的iPhone 18 Pro零部件供应链信息和机型测试素材等。（新华社）",
+"published": 1783138353.0
+},
+{
+"source": "36氪",
+"title": "千问智能体功能与服务将于7月15日正式下线",
+"link": "https://36kr.com/newsflashes/3880777666703621?f=rss",
+"summary": "据千问平台消息，千问智能体功能与服务将于2026年7月15日正式下线，下线后，用户将无法继续访问相关智能体配置及历史对话记录。（21经济网）",
+"published": 1783137065.0
+},
+{
+"source": "36氪",
+"title": "美加墨世界杯16强已全部确定",
+"link": "https://36kr.com/newsflashes/3880792300908547?f=rss",
+"summary": "北京时间7月4日，2026美加墨世界杯1/16决赛。哥伦比亚1-0战胜加纳，晋级16强。截至目前，本届世界杯16强已全部确定。 16强：加拿大、巴西、巴拉圭、摩洛哥、挪威、法国、墨西哥、英格兰、比利时、美国、西班牙、葡萄牙、瑞士、埃及、阿根廷、哥伦比亚。（央视新闻）",
+"published": 1783136797.0
+},
+{
+"source": "36氪",
+"title": "福建：未来5年力争数字经济核心产业增加值年均增长8%以上",
+"link": "https://36kr.com/newsflashes/3880724958752777?f=rss",
+"summary": "36氪获悉，福建省政府近日印发《“十五五”数字福建规划》，进一步细化“十五五”时期数字福建建设的发展目标、重点任务。《规划》提出到2030年，全省数智化发展水平达到国内领先，持续巩固数据要素市场化配置改革、产业数字化、数字政府建设、数智发展环境等方面优势，将数字福建打造成数字中国建设标杆。其中明确，未来5年，力争数字经济核心产业增加值年均增长8%以上。",
+"published": 1783136265.0
+},
+{
+"source": "36氪",
+"title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
+"link": "https://36kr.com/p/3880770270425089?f=rss",
+"summary": "《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。 7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。 当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策划，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科技…",
+"published": 1783135522.0
+},
+{
+"source": "36氪",
+"title": "4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单",
+"link": "https://36kr.com/newsflashes/3880717381382148?f=rss",
+"summary": "据报道，业内人士称，随着AI半导体需求升温、全球大型科技公司订单增加，三星电子晶圆代工部门已针对部分制程启动配额机制（allocation），将有限产能集中分配给较重要的客户和制程，将产能优先分配给现有客户，新客户订单则选择性承接。（新浪财经）",
+"published": 1783134990.0
+},
+{
+"source": "爱范儿",
+"title": "史上最强的 MacBook 要来了，苹果要 All in AI",
+"link": "https://www.ifanr.com/1670819?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "近 5 年 MacBook Pro 最大升级即将到来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1783132991.0
+},
+{
+"source": "36氪",
+"title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+"link": "https://36kr.com/p/3880629882679301?f=rss",
+"summary": "今日热点导览 三部门：调整节能汽车、新能源汽车车船税优惠政策 三星传获Meta超10万亿韩元AI芯片代工订单 茉莉奶白小程序更换彩色Logo Meta打算出售富余算力引发科技股回落 英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗 TOP3大新闻 因存在植入后门风险，阿里内部全面禁用Claude Code 36氪从阿里内部人士处获悉，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险软件名单。自7月10日起，阿里将全面禁止…",
+"published": 1783127024.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+"link": "https://www.ifanr.com/1670957?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 曝腾讯 QClaw 负责人张舒昱离职，否认内部存在「赛马」机制 · 每周最高 200 美元，特斯拉开始控制员工 AI 算力成本 · 阿里整合三大 AI 智能体产品，92 年钉钉 CEO 陈宇森统领#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1783126851.0
+},
+{
+"source": "36氪",
+"title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+"link": "https://36kr.com/p/3879991356157952?f=rss",
+"summary": "图源/企业 作者丨欧雪 编辑丨袁斯来 硬氪获悉，硅基光电子集成芯片研发商光引科技近期已完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星、西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。 光引科技2021年成立于徐州，核心团队孵化自英国剑桥大学研发团队。创始人程祺翔为剑桥大学博士、剑桥大学副教授，在光子集成领域深耕超16年，曾就职于华为海思光电团队。公司核心技术团队多名成员来自剑桥大学，硕士/博士占比达66%。 据QYRe…",
+"published": 1783126800.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "AI data center builder Crusoe reportedly raising $3B at $30B valuation",
+"link": "https://siliconangle.com/2026/07/03/ai-data-center-builder-crusoe-reportedly-raising-3b-30b-valuation/",
+"summary": "Data center builder Crusoe Inc. is reportedly in talks to raise a $3 billion funding round. Bloomberg on Thursday cited sources as saying that the deal could value the company at $30 billion. That’s about three times what Crusoe was worth l…",
+"published": 1783127214.0
+}
+]
+}
+}

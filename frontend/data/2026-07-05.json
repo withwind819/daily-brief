@@ -1,8 +1,22 @@
 {
 "date": "2026-07-05",
-"total": 55,
+"total": 58,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+"link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+"summary": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf Comments URL: https://news.ycombinator.com/item?id=48796817 Points: 176 # Comments: 111",
+"published": 1783277263.0
+},
+{
+"source": "HN AI 热门",
+"title": "A sociotechnical threat model for AI-driven smart home devices",
+"link": "https://arxiv.org/abs/2602.09239",
+"summary": "Article URL: https://arxiv.org/abs/2602.09239 Comments URL: https://news.ycombinator.com/item?id=48795830 Points: 83 # Comments: 67",
+"published": 1783271157.0
+},
 {
 "source": "The Decoder",
 "title": "Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\"",
@@ -116,6 +130,13 @@
 "link": "https://36kr.com/newsflashes/3883373782560768?f=rss",
 "summary": "36氪获悉，中信建投研究报告指出，铝箔环节作为锂电材料中小而美的赛道，一方面行业竞争格局集中，龙头市占率38%左右，另一方面今年以来铝箔对客户的涨价落地覆盖度高，加工费的累计涨幅达到1000-1500元/吨，且我们测算2026下半年到2027年铝箔行业供需仍将持续改善，为后续的涨价奠定基础。同时，钠离子电池商业化进展进入从1到10的阶段，铝箔环节技术路线确定、单位用量翻倍，将充分受益。",
 "published": 1783294980.0
+},
+{
+"source": "少数派",
+"title": "派早报：阿里禁用 Claude 模型",
+"link": "https://sspai.com/post/111973",
+"summary": "阿里禁用 Claude 模型索尼调整计划，2028 年前发售游戏可继续生产光盘千问、豆包将下线智能体功能Android 反垄断案欧洲终审败诉 混动车、商用纯电车将不再免征车船税电商法修正案征求意见看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文",
+"published": 1783294825.0
 },
 {
 "source": "36氪",

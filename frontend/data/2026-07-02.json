@@ -1,6 +1,6 @@
 {
 "date": "2026-07-02",
-"total": 145,
+"total": 146,
 "categories": {
 "AI": [
 {
@@ -147,6 +147,13 @@
 "source": "MIT科技评论 AI",
 "title": "Teaching AI to run with the turbines",
 "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+"summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, …",
+"published": 1782996704.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "Building the foundation for an autonomous enterprise",
+"link": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
 "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, …",
 "published": 1782996704.0
 },

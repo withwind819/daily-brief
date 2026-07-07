@@ -1,6 +1,6 @@
 {
 "date": "2026-06-25",
-"total": 143,
+"total": 144,
 "categories": {
 "AI": [
 {
@@ -149,6 +149,13 @@
 "link": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1782389533.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Designing Organisations That Can Keep Up With AI",
+"link": "https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai",
+"summary": "Why organisational latency is becoming the biggest barrier to fully realising AI’s benefits",
+"published": 1782388800.0
 },
 {
 "source": "The Decoder",

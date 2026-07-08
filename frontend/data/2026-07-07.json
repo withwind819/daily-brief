@@ -1,8 +1,15 @@
 {
 "date": "2026-07-07",
-"total": 135,
+"total": 140,
 "categories": {
 "AI": [
+{
+"source": "InfoQ 中国",
+"title": "企业微信首款 AI 硬件：出门问问TicNote合作款正式发布",
+"link": "https://www.infoq.cn/article/CiwPd7c4oYfzqBGMbotV?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1783465200.0
+},
 {
 "source": "InfoQ 中国",
 "title": "AI Agent 会自己选 CDN 了：当网站访问者从 “人” 扩展到 “AI”，内容分发已升级",
@@ -212,9 +219,23 @@
 "link": "https://openai.com/index/australian-payments-plus",
 "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
 "published": 1783382400.0
+},
+{
+"source": "OpenAI 博客",
+"title": "MUFG aims to become AI-native with OpenAI",
+"link": "https://openai.com/index/mufg",
+"summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+"published": 1783382400.0
 }
 ],
 "科技": [
+{
+"source": "少数派",
+"title": "派早报：Nothing Ear (3a) 发布、Meta 推出 Muse 图像生成模型等",
+"link": "https://sspai.com/post/112049",
+"summary": "Google Voice 推出付费订阅方案并调整 Android 设备备份策略等。查看全文",
+"published": 1783468105.0
+},
 {
 "source": "36氪",
 "title": "摩根大通：投资者低估了特斯拉与SpaceX合并的潜在障碍",
@@ -622,6 +643,13 @@
 "published": 1783416156.0
 },
 {
+"source": "少数派",
+"title": "家庭饮品 DIY 指南（二）：常用液体物料推荐",
+"link": "https://sspai.com/prime/story/home-made-beverages-2",
+"summary": "往期文章：（一）工欲善其事，必先利其器这一篇我来跟大家聊聊各类物料的选择方法。虽然是选择方法，但我依旧建议大家买少量的物料尝试一下口感，多找一些同类产品对比，找一个自己喜欢的口感的产品作为原料。另外会 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+"published": 1783416156.0
+},
+{
 "source": "爱范儿",
 "title": "机器人走进产线「打工」，至简动力不想让具身智能停在 PPT 上",
 "link": "https://www.ifanr.com/1671185?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -749,6 +777,13 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Microsoft is reportedly ditching OpenAI’s and Anthropic’s AI models in favor of its own to cut costs",
+"link": "https://siliconangle.com/2026/07/07/microsoft-reportedly-ditching-openais-anthropics-ai-models-favor-cut-costs/",
+"summary": "Microsoft Corp. is reportedly transitioning away from using OpenAI Group PBC’s and Anthropic PBC’s most advanced artificial intelligence models in favor of its own — increasingly leaning on the new Microsoft AI or MAI model family, despite …",
+"published": 1783468444.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Report: China’s DeepSeek follows OpenAI in developing its own custom inference chips",

@@ -1,0 +1,411 @@
+{
+"date": "2026-07-11",
+"total": 57,
+"categories": {
+"AI": [
+{
+"source": "The Decoder",
+"title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour",
+"link": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/",
+"summary": "OpenAI's GPT-5.6 Sol Ultra produced a proof of the Cycle Double Cover Conjecture in under an hour, using 64 subagents working in parallel. The conjecture had remained unsolved for 50 years. Mathematician Thomas Bloom calls the proof surpris…",
+"published": 1783791515.0
+},
+{
+"source": "The Decoder",
+"title": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+"link": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/",
+"summary": "A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's commanders on how to bypass safety filters sin…",
+"published": 1783789468.0
+},
+{
+"source": "InfoQ 中国",
+"title": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
+"link": "https://www.infoq.cn/article/Rzh9umgPl90MgGolBcWm?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1783789200.0
+},
+{
+"source": "量子位",
+"title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+"link": "https://www.qbitai.com/2026/07/447902.html",
+"summary": "已跑通300余项应用",
+"published": 1783764437.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
+"link": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1783764000.0
+},
+{
+"source": "The Decoder",
+"title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label",
+"link": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/",
+"summary": "The Beijing Academy of Artificial Intelligence has released Orca, a world model that predicts abstract world states instead of tokens or pixels. Trained on 125,000 hours of video without a single action label, Orca matches the specialized π…",
+"published": 1783760606.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+"link": "https://www.infoq.cn/article/fO5byVPuZwwlBPosijBV?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1783760400.0
+},
+{
+"source": "The Decoder",
+"title": "Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less",
+"link": "https://the-decoder.com/metas-muse-spark-1-1-outperforms-glm-5-2-in-coding-and-costs-slightly-less/",
+"summary": "Meta's Muse Spark 1.1 scored 51 on the Artificial Analysis Intelligence Index, up eight points in three months. In coding, it edges past GLM-5.2 with a score of 71.3 at a lower cost of $0.26 per task. The hallucination rate dropped from 73 …",
+"published": 1783758492.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs",
+"link": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/",
+"summary": "Following the launch of ChatGPT Work and GPT-5.6 Sol, OpenAI has acknowledged significant issues: excessive compute usage, a confusing transition to the desktop interface for chats and projects, an unclear distinction between Codex and Chat…",
+"published": 1783756869.0
+},
+{
+"source": "The Decoder",
+"title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees",
+"link": "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/",
+"summary": "Apple is suing OpenAI over systematic employee poaching and the alleged theft of trade secrets tied to unreleased products. According to the complaint, more than 400 ex-Apple employees now work at OpenAI, including former iPhone design chie…",
+"published": 1783752980.0
+},
+{
+"source": "量子位",
+"title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+"link": "https://www.qbitai.com/2026/07/447891.html",
+"summary": "从FP64到INT8，全精度覆盖。",
+"published": 1783751206.0
+},
+{
+"source": "量子位",
+"title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+"link": "https://www.qbitai.com/2026/07/447873.html",
+"summary": "神话级大模型驾驭宝典",
+"published": 1783747811.0
+}
+],
+"科技": [
+{
+"source": "TechCrunch",
+"title": "This slushie machine was a lifesaver during NYC’s heat wave",
+"link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+"summary": "Last weekend’s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to th…",
+"published": 1783807200.0
+},
+{
+"source": "The Verge",
+"title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+"link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+"summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an i…",
+"published": 1783803462.0
+},
+{
+"source": "The Verge",
+"title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+"link": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+"summary": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 days so that his office…",
+"published": 1783795452.0
+},
+{
+"source": "TechCrunch",
+"title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+"link": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+"summary": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
+"published": 1783791000.0
+},
+{
+"source": "Solidot",
+"title": "布朗大学经济学教授怀疑班级里多数学生使用 AI 作弊",
+"link": "https://www.solidot.org/story?sid=84806",
+"summary": "在去年 12 月学校发生枪击案之后，布朗大学经济学教授 Roberto Serrano 首次让学生在家中完成期中考试。期中考试成绩显示大部分学生获得了满分或接近满分，他怀疑学生大规模使用 AI 作弊。因此决定将期末考试改为线下进行。他没有立即宣布期中考试无效，而是决定先看看期末考试的得分。如果期末考试得分的分布与期中考试的分布基本相同，那么他会将期中考试得分计入成绩。结果是 18 名学生退课，9 名学生没有参加期末考试。3 名学生得了零分，期末考试的平均分只有 48.6%——…",
+"published": 1783788028.0
+},
+{
+"source": "Solidot",
+"title": "苹果起诉 OpenAI，指控前华裔员工窃取商业机密",
+"link": "https://www.solidot.org/story?sid=84805",
+"summary": "苹果起诉 OpenAI，指控该公司窃取其商业机密。这起诉讼的两位核心人物是 OpenAI 首席硬件官 Tang Tan 以及前苹果工程师 Chang Liu。苹果指控称，Tang Tan 会指导跳槽到 OpenAI 的苹果前员工如何规避苹果针对离职员工的安全流程。而 Chang Liu 被控秘密访问并下载了数十份苹果的机密硬件相关文件，其中包括大量关于未发布产品的详细信息、工程演示文稿、技术规格和私有项目数据。Liu 被控没有归还苹果配发的笔记本电脑，他还访问和使用了前同事的…",
+"published": 1783786585.0
+},
+{
+"source": "The Verge",
+"title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+"link": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+"summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneeri…",
+"published": 1783782000.0
+},
+{
+"source": "The Verge",
+"title": "Nintendo’s Talking Flower got a small price cut",
+"link": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
+"summary": "If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m only kind of serious. The toy is based on a character from Super M…",
+"published": 1783782000.0
+},
+{
+"source": "Solidot",
+"title": "日本成功测试可回收火箭技术",
+"link": "https://www.solidot.org/story?sid=84804",
+"summary": "日本宇航研究开发机构(JAXA) 7 月 11 日宣布，成功测试了一枚可回收火箭 RV-X。本次测试总共持续了约 40 秒，火箭上升至约 11 米的高度，期间完成了升空、悬停、水平移动、直立着陆共 4 个动作。目前旨在大幅降低航天任务成本的可回收火箭是许多国家的研发重点。RV-X 计划将取代不可回收的 H-3 火箭。下一步 JAXA 还将测试 RV-X 的升空一百米回收测试。法国、德国也参与到了日本的可回收火箭合作研发项目中。作为日本的战略竞争对手，中国在可回收火箭研发方面的…",
+"published": 1783780860.0
+},
+{
+"source": "The Verge",
+"title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
+"link": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
+"summary": "Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and \"the intelligence community.\" The Council will provid…",
+"published": 1783779513.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI bets on families as ChatGPT goes deeper into households",
+"link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+"summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+"published": 1783779180.0
+},
+{
+"source": "The Verge",
+"title": "ICE are heavily armed killers. They’re also huge losers",
+"link": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+"summary": "Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying the use of force under the flimsiest of pret…",
+"published": 1783774800.0
+},
+{
+"source": "The Verge",
+"title": "A tasty RPG that will make you very hungry",
+"link": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
+"summary": "Roleplaying games are often defined by excess. Storylines that span dozens of hours, side quests so big they could be their own game, massive worlds that require complex maps to explore, and casts so big you start forgetting character names…",
+"published": 1783771200.0
+},
+{
+"source": "The Verge",
+"title": "The perfect kit for all your tiny repairs",
+"link": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+"summary": "Hi, friends! Welcome to Installer No. 135, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, crank the AC, and also you can read all the old editions at the Installer homepage.) This week, I've been rea…",
+"published": 1783771200.0
+},
+{
+"source": "36氪",
+"title": "智谱CEO唐杰发内部信：“GLM 时刻”和万亿俱乐部之后，什么是更重要的事",
+"link": "https://36kr.com/newsflashes/3891162734689031?f=rss",
+"summary": "36氪独家获悉，7月11日，智谱创始人唐杰，在智谱发布了主题为《巨浪已来》的内部信。其中提到，智谱将不追求短期的应用变现，而是直指AGI的下一个高地：长程任务能力、完全自治的智能体系统、自我进化、极致安全治理。过去半年来，智谱收获了创立以来的高光时刻：市值较半年前上市初期涨了10倍，并在2026年 6月，跻身“万亿港元俱乐部”。",
+"published": 1783769725.0
+},
+{
+"source": "36氪",
+"title": "独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事",
+"link": "https://36kr.com/p/3891132709206784?f=rss",
+"summary": "文 | 周鑫雨 编辑 | 张雨忻 《智能涌现》独家获悉，2026 年 7 月 11 日，智谱创始人唐杰，在智谱发布了主题为《巨浪已来》的内部信。 过去半年来，智谱收获了创立以来的高光时刻：市值较半年前上市初期涨了 10 倍，并在 2026 年 6 月，跻身“万亿港元俱乐部”——这个数字，是百度市值的近 3 倍，并且超过了小米。7 月 8 日，首批股票解禁后，智谱依然稳住了股价。 这也是当下 AI 大模型赛道，最性感的故事：押注对的技术方向，换来斐然市场口碑和商业化成绩。 抽丝…",
+"published": 1783769309.0
+},
+{
+"source": "36氪",
+"title": "乘联分会崔东树：6月新能源车厂商库存小幅收缩，行业压库存现象没有出现",
+"link": "https://36kr.com/newsflashes/3891047631796745?f=rss",
+"summary": "36氪获悉，乘联分会秘书长崔东树发文表示，中国宏观经济保持较强增长，在国家促销费政策推动下汽车市场保持强势增长，2026年全国汽车市场总体走势较平稳，在生产资料高补贴卡车市场和客车市场回暖明显。2026年商用车市场出现设备更新补贴推动的结构性增长特征，刚落地的商用车高补贴带来物流运输类电动化加速，商用车景气度较高。由于去年消费政策力度超强，2026年政策收缩明显，入门级消费支持政策剧烈下降，导致今年1-6月乘用车零售持续负增长，尤其是燃油乘用车出现崩塌式下滑。但因出口增量，6…",
+"published": 1783762700.0
+},
+{
+"source": "36氪",
+"title": "多家A股公司预计业绩大增，存储、锂矿、有色等头部企业表现亮眼",
+"link": "https://36kr.com/newsflashes/3891019931925001?f=rss",
+"summary": "7月10日晚间，多家A股公司发布2026年半年度业绩预告，存储、锂电上游资源、有色等多个赛道头部企业集体交出亮眼成绩单，部分公司上半年净利润实现10倍以上增长，行业景气度大幅提升。从行业层面来看，受人工智能相关需求增长影响，互联网数据中心等领域对企业级存储产品的需求持续增加，存储芯片行业保持高景气度，相关产品价格较上年同期稳步上涨，业内企业普遍实现高增长。锂电行业自2025年下半年以来持续修复基本面，业内企业业绩迎来复苏，其中锂电上游矿端及锂盐端受益最为明显。除锂矿外，受新能…",
+"published": 1783761722.0
+},
+{
+"source": "36氪",
+"title": "2025年我国港口货物、集装箱吞吐量稳居世界第一",
+"link": "https://36kr.com/newsflashes/3891014962362886?f=rss",
+"summary": "2025年，我国港口货物吞吐量183亿吨，集装箱吞吐量3.54亿标箱，稳居世界第一。（新华社）",
+"published": 1783760706.0
+},
+{
+"source": "36氪",
+"title": "研究报告：中国电力技术创新位居全球首位",
+"link": "https://36kr.com/newsflashes/3890965044869637?f=rss",
+"summary": "联合国可持续发展高级别政治论坛全球能源互联网主题活动10日在纽约联合国总部举行。活动发布的《全球电力发展指数（2026）》研究报告显示，中国电力发展综合排名跻身世界前列，其中电力技术创新居全球首位。（央视新闻）",
+"published": 1783758913.0
+},
+{
+"source": "36氪",
+"title": "腾讯洽购Manus？知情人士：腾讯仍将保留少数股东地位",
+"link": "https://36kr.com/newsflashes/3890964192852482?f=rss",
+"summary": "7月11日，有消息称腾讯正在洽谈成为通用AI Agent公司Manus的最大股东，据该消息，由腾讯牵头的中方资本组团以约20亿美元估值从Meta手中回购Manus的全部股权。记者向腾讯方面求证，截至发稿腾讯方面暂无回应。另有知情人士向记者透露，此次交易后，腾讯仍将保持少数股东地位，但不会控股。（南方都市报）",
+"published": 1783757607.0
+},
+{
+"source": "36氪",
+"title": "中期协： 6月全国期货交易市场成交额同比增长52.72%",
+"link": "https://36kr.com/newsflashes/3890946575186690?f=rss",
+"summary": "36氪获悉，中国期货业协会最新统计资料表明，以单边计算， 6月全国期货交易市场成交量为939,261,565手，成交额为806,246.55亿元，同比分别增长27%和52.72%。1-6月全国期货市场累计成交量为5,104,871,182手，累计成交额为4,827,013.23亿元，同比分别增长25.23%和42.08%。",
+"published": 1783756532.0
+},
+{
+"source": "36氪",
+"title": "多家航司：受“巴威”影响，可免费变更或退票",
+"link": "https://36kr.com/newsflashes/3890911471516163?f=rss",
+"summary": "今年第9号台风“巴威”携强风雨即将影响我国多地。日前，国航、东航、南航、海航、厦航、川航、天航等多家航空公司发布受台风“巴威”影响航线客票处理通知，符合条件的旅客可享受‌一次免费变更或全额免手续费退票‌服务。（央视新闻）",
+"published": 1783754389.0
+},
+{
+"source": "少数派",
+"title": "暴雨和洪涝的季节，这些技巧助你从容自保",
+"link": "https://sspai.com/post/68024",
+"summary": "面对暴雨、内涝等自然灾害，你应该做什么准备？有人溺水时，该如何正确救援？这篇文章帮你掌握一些必要的知识，面对危情不再慌乱。查看全文",
+"published": 1783753521.0
+},
+{
+"source": "The Verge",
+"title": "Are you filthy enough for a $700 portable shower?",
+"link": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+"summary": "Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the great unknown. An itchy…",
+"published": 1783753200.0
+},
+{
+"source": "36氪",
+"title": "国际能源署：欧盟电气化推进迟缓实属失策",
+"link": "https://36kr.com/newsflashes/3890877760895491?f=rss",
+"summary": "国际能源署署长法提赫·比罗尔在与欧盟能源专员丹·约根森共同接受采访时表示，欧洲未能降低对化石燃料的依赖，此举是一大失误。 比罗尔指出，欧盟约23%的电气化率偏低，正在拖累欧盟整体竞争力。 他称，欧盟应当效仿电气化率超30%的国家。 一份草案报道显示，欧盟能源委员会将于下周公布方案，要求各成员国下调电力税费，并加大补贴力度，助力家庭普及绿色能源技术。 比罗尔透露，目前已有600吉瓦可再生能源项目建成完工，正排队等待并网。（新浪财经）",
+"published": 1783752332.0
+},
+{
+"source": "36氪",
+"title": "国内多家金店金饰价格多数持稳，最高报1255元/克",
+"link": "https://36kr.com/newsflashes/3890848764263170?f=rss",
+"summary": "今日国内黄金饰品价格对比显示，黄金珠宝品牌公布的境内足金首饰价格较昨日多数持稳，最高报1255元/克。（财联社）",
+"published": 1783751154.0
+},
+{
+"source": "36氪",
+"title": "2026年暑期档票房破25亿",
+"link": "https://36kr.com/newsflashes/3890833294146057?f=rss",
+"summary": "36氪获悉，据灯塔专业版实时数据，截至7月11日，2026年暑期档（6.1-8.31）档期总票房（含预售）突破25亿。《给阿嬷的情书》《玩具总动员5》《四渡》《火遮眼》《小黄人与大怪兽》暂列当期票房前5名。",
+"published": 1783749618.0
+},
+{
+"source": "36氪",
+"title": "全球首个潮玩创作者AI设计平台“妙呀”全量公测",
+"link": "https://36kr.com/newsflashes/3890814999870213?f=rss",
+"summary": "36氪获悉，7月10日，在D20全球设计院长峰会上，由大麦娱乐携手阿里Token Foundry事业部推出的全球首个潮玩创作者AI设计平台“妙呀”正式宣布开启公测。与此同时，“妙呀百万激励计划”也正式启动。",
+"published": 1783748501.0
+},
+{
+"source": "36氪",
+"title": "我国海洋生产总值超11万亿元，多项指标全球领先",
+"link": "https://36kr.com/newsflashes/3890753135196679?f=rss",
+"summary": "今天是第22个中国航海日，今年航海日活动的主题是“数智赋能，领航未来”。活动组委会将在北京首次以线上线下方式举办主场活动。今天同时发布的《2026年中国航海日公告》显示，我国已经成为名副其实的航运大国、造船大国、海洋大国。国际海运量占全球比重近三分之一，海运航线与服务网络覆盖全球主要贸易国家和地区，全球货物吞吐量和集装箱吞吐量前10位的港口中分别占8席和6席。我国造船三大指标国际市场份额连续16年保持全球领先。全国海洋生产总值超过11万亿元。（央视新闻）",
+"published": 1783747896.0
+},
+{
+"source": "36氪",
+"title": "稳定币发行商Circle获银行经营牌照",
+"link": "https://36kr.com/newsflashes/3890740672838404?f=rss",
+"summary": "Circle公司宣布，美国货币监理署（OCC）于周五批准其设立信托银行。此次获批后，Circle可直接为旗下受监管稳定币管理储备资产，其核心产品USDC流通规模已超730亿美元。这家新银行将命名为Circle国民信托银行。在此之前，Circle必须依靠第三方银行与托管机构，存放支撑USDC发行的现金与美债资产。这份牌照并不允许Circle开展吸收存款、发放贷款的商业银行业务。（新浪财经）",
+"published": 1783746657.0
+},
+{
+"source": "36氪",
+"title": "欧洲央行的Moulin认为人工智能可能加剧通胀波动",
+"link": "https://36kr.com/newsflashes/3890739624540680?f=rss",
+"summary": "欧洲央行管委Emmanuel Moulin表示，人工智能对通胀的影响难以预测，而且可能导致价格波动加剧。“由于人工智能同时作用于供需两方面的变量，因此对通胀的总体影响尤为难以预测，”Moulin在Investir刊登的评论中表示。“此外，其影响可能不仅体现在通胀水平，还可能体现在通胀的波动。”这位法国央行行长表示，由于资本支出增加，人工智能短期内可能具有通胀效应，但随着生产率提升，后续则可能抑制通胀。（财联社）",
+"published": 1783745572.0
+},
+{
+"source": "36氪",
+"title": "2026年世界知识产权组织全球奖揭晓，中国获奖企业数量居首",
+"link": "https://36kr.com/newsflashes/3890730611374850?f=rss",
+"summary": "记者从国家知识产权局了解到，当地时间7月10日，世界知识产权组织（WIPO）第68届成员国大会期间，2026年WIPO全球奖颁奖典礼于瑞士日内瓦举行。本届评选中，我国共有3家企业荣获WIPO全球奖，获奖数量居全球首位，分别来自环境和健康两大领域。（央视新闻）",
+"published": 1783744125.0
+},
+{
+"source": "36氪",
+"title": "OpenAI：对其他公司的商业秘密不感兴趣，仍专注于打造创新技术",
+"link": "https://36kr.com/newsflashes/3890734361377539?f=rss",
+"summary": "OpenAI回应苹果就硬件商业机密提起的诉讼，称对其他公司的商业秘密不感兴趣，OpenAI仍专注于打造创新技术。（财联社）",
+"published": 1783743579.0
+},
+{
+"source": "36氪",
+"title": "多家机场航班全取消",
+"link": "https://36kr.com/newsflashes/3890731841681922?f=rss",
+"summary": "截至7月11日11时，据飞常准台风路径与机场影响预报图显示，预计7月11日-7月13日受台风“巴威”影响机场56座。7月11日，温州龙湾机场、福州长乐机场、台州路桥机场、丽水机场进出港航班已全部取消。台北桃园机场航班取消率达99%，宁波栎社机场取消率达60%。截至7月11日08:30，杭州机场各航司计划取消11日进出港航班198架次。上海两机场计划取消航班近400架次。（第一财经）",
+"published": 1783743425.0
+},
+{
+"source": "36氪",
+"title": "FansAI收购OPC公司新映科技",
+"link": "https://36kr.com/newsflashes/3890728911354376?f=rss",
+"summary": "7月11日消息，AI内容和互动影视公司垚城智能（FansAI）宣布全资收购AI音乐应用新映科技，这是OPC领域目前少见的探索性并购案例。（新浪财经）",
+"published": 1783743247.0
+},
+{
+"source": "36氪",
+"title": "法国电信大亨或成英国沃达丰最大股东",
+"link": "https://36kr.com/newsflashes/3890637644118787?f=rss",
+"summary": "阿联酋电信公司10日宣布，将其所持沃达丰公司约16%的股份悉数出售给法国电信大亨格扎维埃·尼埃尔掌控的投资机构Vega，交易总额约44亿英镑（约合59.1亿美元）。一旦交易完成，Vega将成为英国最大移动通信运营商沃达丰的最大股东。尼埃尔现年58岁，创建并持有法国电信企业伊利亚德集团，并长期投资欧洲电信业。路透社援引知情人士的说法报道，尼埃尔发现沃达丰股价出现下跌趋势后，主动接触阿联酋电信公司，并在数天内迅速达成股份转手协议。（央视新闻）",
+"published": 1783741572.0
+},
+{
+"source": "36氪",
+"title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+"link": "https://36kr.com/p/3890553690192384?f=rss",
+"summary": "今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录 三星李在镕拟于7月底赴美会晤英伟达黄仁勋 德国大众拟大裁员，最高或裁减12万个岗位 OpenAI高管层再现变动，首席运营官因病离职 TOP3大新闻 长鑫科技，承销团阵容公布 长鑫科技IPO进入发行倒计时，这家“国产存储第一股”背后的承销团阵容也随之浮出水面。最新披露的招股意向书显示，长鑫科技预计7月16日发行。本次IPO中，中金公司、中信建投担任联席保荐机构及主…",
+"published": 1783733046.0
+},
+{
+"source": "TechCrunch",
+"title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+"link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+"summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA…",
+"published": 1783731688.0
+},
+{
+"source": "36氪",
+"title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+"link": "https://36kr.com/p/3889516712065799?f=rss",
+"summary": "图源/企业 本文约2400字，建议阅读6分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，具身智能仿生扑翼飞行机器人公司「鹰瞰智翼」已于近期完成数千万元A轮融资。本轮融资是公司在三个月内完成的第三轮融资，由元禾璞华领投，孚腾资本、厚雪资本跟投。资金将主要用于首款消费级产品的量产备货、市场拓展，团队扩充以及下一代具身智能扑翼机器人与流体仿真引擎的研发。 「鹰瞰智翼」2025年3月成立于深圳，是全球较早专注于具身智能扑翼机器人的公司之一。创始人陈昊为上海交通大学机械工程直博生，团队研发人…",
+"published": 1783731600.0
+},
+{
+"source": "TechCrunch",
+"title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+"link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+"summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually …",
+"published": 1783729765.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光",
+"link": "https://www.ifanr.com/1671681?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 大众计划削减一半车型线，全球裁员规模或达 12 万人 · 扎克伯格否认 Meta 算力过剩：没人会嫌算力太多 · 宇树 G1 机器人完成两例活体手术，登上《自然》#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1783728842.0
+},
+{
+"source": "The Verge",
+"title": "No, Flock isn’t threatening people for debating surveillance",
+"link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+"summary": "On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received significant backlash over…",
+"published": 1783728638.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "What is sovereign AI — and why it will decide the winners and losers of the AI race",
+"link": "https://siliconangle.com/2026/07/11/sovereign-ai-will-decide-winners-losers-ai-race/",
+"summary": "On the four dimensions of real sovereignty, the fifth dimension every chief financial officer is learning about the hard way, and why open source isn’t a preference — it’s the architecture. About this series: This is the first piece in a ne…",
+"published": 1783792276.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Apple sues OpenAI, former employees over alleged intellectual property theft",
+"link": "https://siliconangle.com/2026/07/10/apple-sues-openai-former-employees-alleged-intellectual-property-theft/",
+"summary": "Apple Inc. today sued OpenAI Group PBC for allegedly stealing intellectual property related to its consumer devices. The iPhone maker filed the complaint with the U.S. District Court for the Northern District of California. OpenAI entered t…",
+"published": 1783732931.0
+}
+]
+}
+}

@@ -1,6 +1,6 @@
 {
 "date": "2026-07-10",
-"total": 117,
+"total": 121,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,27 @@
 "link": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
 "summary": "According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt.\" In OpenAI's internal RSI benchmark for recursive self-improvement, Sol scores 16.2 points higher than G…",
 "published": 1783717967.0
+},
+{
+"source": "HN AI 热门",
+"title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+"link": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+"summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 157 # Comments: 86",
+"published": 1783716748.0
+},
+{
+"source": "HN AI 热门",
+"title": "How the terrorist group Boko Haram uses frontier AI",
+"link": "https://casp.ac/reports/ai-enabled-terrorism",
+"summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 229 # Comments: 204",
+"published": 1783709366.0
+},
+{
+"source": "HN AI 热门",
+"title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+"link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+"summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98... Comments URL: https://news.ycombinator.com/item?id=48863…",
+"published": 1783708159.0
 },
 {
 "source": "The Decoder",
@@ -177,6 +198,13 @@
 "link": "https://www.qbitai.com/2026/07/447627.html",
 "summary": "开源第四弹：LingBot-VA 2.0",
 "published": 1783670460.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI-generated videos to maximally drive a target brain region",
+"link": "https://nevo-project.epfl.ch/",
+"summary": "Article URL: https://nevo-project.epfl.ch/ Comments URL: https://news.ycombinator.com/item?id=48856904 Points: 292 # Comments: 239",
+"published": 1783669151.0
 },
 {
 "source": "OpenAI 博客",

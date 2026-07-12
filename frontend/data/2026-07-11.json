@@ -1,14 +1,42 @@
 {
 "date": "2026-07-11",
-"total": 57,
+"total": 62,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Mesh LLM: distributed AI computing on iroh",
+"link": "https://www.iroh.computer/blog/mesh-llm",
+"summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 332 # Comments: 78",
+"published": 1783809537.0
+},
+{
+"source": "HN AI 热门",
+"title": "Stop Telling Me to Ask an LLM",
+"link": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+"summary": "Article URL: https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/ Comments URL: https://news.ycombinator.com/item?id=48876441 Points: 192 # Comments: 112",
+"published": 1783808928.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI 2040 and the cult of intelligence",
+"link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+"summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html Comments URL: https://news.ycombinator.com/item?id=48874200 Points: 220 # Comments: 259",
+"published": 1783793041.0
+},
 {
 "source": "The Decoder",
 "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour",
 "link": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/",
 "summary": "OpenAI's GPT-5.6 Sol Ultra produced a proof of the Cycle Double Cover Conjecture in under an hour, using 64 subagents working in parallel. The conjecture had remained unsolved for 50 years. Mathematician Thomas Bloom calls the proof surpris…",
 "published": 1783791515.0
+},
+{
+"source": "HN AI 热门",
+"title": "Reverse centaurs are the answer to the AI paradox (2025)",
+"link": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+"summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=48873855 Points: 107 # Comments: 69",
+"published": 1783790632.0
 },
 {
 "source": "The Decoder",
@@ -37,6 +65,13 @@
 "link": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1783764000.0
+},
+{
+"source": "HN AI 热门",
+"title": "Ghost Font: A font that humans can read but AI cannot",
+"link": "https://www.mixfont.com/ghost-font",
+"summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 229 # Comments: 170",
+"published": 1783762613.0
 },
 {
 "source": "The Decoder",

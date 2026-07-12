@@ -1,8 +1,15 @@
 {
 "date": "2026-07-08",
-"total": 149,
+"total": 150,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+"link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+"summary": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off Comments URL: https://news.ycombinator.com/item?id=48838772 Points: 173 # Comments: 93",
+"published": 1783553234.0
+},
 {
 "source": "The Decoder",
 "title": "Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much",

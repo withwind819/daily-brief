@@ -1,8 +1,15 @@
 {
 "date": "2026-07-09",
-"total": 142,
+"total": 150,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Building a real-time AI tutor for 5-year-olds",
+"link": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+"summary": "Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical challenge, this took g…",
+"published": 1783630266.0
+},
 {
 "source": "MIT科技评论 AI",
 "title": "Anthropic found a hidden space where Claude puzzles over concepts",
@@ -32,11 +39,25 @@
 "published": 1783619881.0
 },
 {
+"source": "HN AI 热门",
+"title": "GPT-5.6",
+"link": "https://openai.com/index/gpt-5-6/",
+"summary": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdfhttps://developers.openai.com/api/docs/guides/latest-modelhttps://x.com/levie/status/2075287443411222628, https://xcancel.com/levie/status/2075287443411222628 Comments URL: https://news…",
+"published": 1783616654.0
+},
+{
 "source": "The Decoder",
 "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up",
 "link": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/",
 "summary": "Meta is entering the AI API business with Muse Spark 1.1 at prices that undercut even the dirt-cheap Grok 4.5, released just yesterday. At $4.25 per million output tokens, Meta charges a fraction of what Anthropic or OpenAI ask. For pure-pl…",
 "published": 1783616324.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI 2040: Plan A",
+"link": "https://ai-2040.com/",
+"summary": "Article URL: https://ai-2040.com/ Comments URL: https://news.ycombinator.com/item?id=48848425 Points: 389 # Comments: 507",
+"published": 1783614104.0
 },
 {
 "source": "InfoQ 中国",
@@ -58,6 +79,13 @@
 "link": "https://www.infoq.cn/article/VoJ3wVeUv5txrOYqSYpR?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1783612800.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI content is everywhere on social media, especially LinkedIn",
+"link": "https://www.pangram.com/blog/ai-in-your-feed",
+"summary": "Article URL: https://www.pangram.com/blog/ai-in-your-feed Comments URL: https://news.ycombinator.com/item?id=48847940 Points: 245 # Comments: 216",
+"published": 1783612209.0
 },
 {
 "source": "InfoQ 中国",
@@ -100,6 +128,13 @@
 "link": "https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/",
 "summary": "OpenAI reviewed SWE-Bench Pro, a widely used test for measuring AI models' programming skills, and found roughly 30 percent of its tasks are broken. The company is pulling its earlier endorsement of the benchmark. The article OpenAI finds r…",
 "published": 1783603437.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+"link": "https://github.com/ronak-create/FableCut",
+"summary": "Article URL: https://github.com/ronak-create/FableCut Comments URL: https://news.ycombinator.com/item?id=48845422 Points: 98 # Comments: 61",
+"published": 1783603390.0
 },
 {
 "source": "OpenAI 博客",
@@ -200,6 +235,13 @@
 "published": 1783576025.0
 },
 {
+"source": "HN AI 热门",
+"title": "AI changes the economics of software rewrites",
+"link": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+"summary": "Article URL: https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/ Comments URL: https://news.ycombinator.com/item?id=48841446 Points: 103 # Comments: 107",
+"published": 1783576010.0
+},
+{
 "source": "量子位",
 "title": "2026年世界人工智能大会，7月17-7月20上海举办",
 "link": "https://www.qbitai.com/2026/07/436498.html",
@@ -221,6 +263,13 @@
 "published": 1783568381.0
 },
 {
+"source": "HN AI 热门",
+"title": "What's slowing down the AI buildout",
+"link": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+"summary": "Article URL: https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid Comments URL: https://news.ycombinator.com/item?id=48840620 Points: 83 # Comments: 220",
+"published": 1783567562.0
+},
+{
 "source": "量子位",
 "title": "蚂蚁灵波开源LingBot-Video，全球首个面向具身的视频基模来了！",
 "link": "https://www.qbitai.com/2026/07/446458.html",
@@ -233,6 +282,13 @@
 "link": "https://www.qbitai.com/2026/07/446435.html",
 "summary": "",
 "published": 1783564321.0
+},
+{
+"source": "HN AI 热门",
+"title": "I think I have LLM burnout",
+"link": "https://www.alecscollon.com/blog/llm-burnout/",
+"summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/ Comments URL: https://news.ycombinator.com/item?id=48839984 Points: 407 # Comments: 362",
+"published": 1783562188.0
 }
 ],
 "科技": [

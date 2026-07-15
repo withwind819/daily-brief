@@ -1,6 +1,6 @@
 {
 "date": "2026-07-14",
-"total": 143,
+"total": 144,
 "categories": {
 "AI": [
 {
@@ -784,6 +784,13 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "InstaLILY, a developer of AI teammates that can automate complex, business-specific work, raises $60M",
+"link": "https://siliconangle.com/2026/07/14/instalily-developer-ai-teammates-can-automate-complex-business-specific-work-raises-60m/",
+"summary": "Enterprise automation startup InstaLILY Inc. said today it has closed on a hefty $60 million Series B round of funding that brings its total amount raised to date to almost $100 million. In addition, it launched a new tool that can help com…",
+"published": 1784072703.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Singularity lands $80M at $400M valuation to build cheap drone interceptors",

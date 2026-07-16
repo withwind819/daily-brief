@@ -1,6 +1,6 @@
 {
 "date": "2026-07-15",
-"total": 136,
+"total": 138,
 "categories": {
 "AI": [
 {
@@ -194,6 +194,13 @@
 }
 ],
 "科技": [
+{
+"source": "36氪",
+"title": "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO",
+"link": "https://36kr.com/p/3897553391978371?f=rss",
+"summary": "今日热点导览 澳洲将设AI办公室，限制数据中心能源消耗 巴菲特宣布8年内清仓伯克希尔股票 前高通自动驾驶工程副总裁将加入英伟达自动驾驶团队 长鑫科技：上市后仍将保持无实际控制人的控制权架构 谷歌参与建设美国最大太阳能项目，总规模达2.5GW TOP 3大新闻 阿里、百度分别为苹果智能提供AI相关能力支撑 36氪获悉，网信办公布7款端侧生成式AI服务备案，苹果“Apple智能”大模型7月8日完成备案。阿里千问将为苹果全系列国行设备提供文本、图像生成AI能力，百度则负责配套AI搜…",
+"published": 1784159981.0
+},
 {
 "source": "36氪",
 "title": "爆款之路困难重重，部分“翻倍基”深陷小微窘境",
@@ -749,6 +756,13 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Mira Murati’s Thinking Machines drops Inkling, an open-weights model anyone can access",
+"link": "https://siliconangle.com/2026/07/15/mira-muratis-thinking-machines-drops-inkling-open-weights-model-anyone-can-access/",
+"summary": "Mira Murati’s Thinking Machines Lab Inc. today launched its first foundation model with the release of Inkling, making its full open weights available to developers so they can fine-tune it as they wish. Inkling is the first model fully tra…",
+"published": 1784159466.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Identity management startup Oak launches with $60M in funding",

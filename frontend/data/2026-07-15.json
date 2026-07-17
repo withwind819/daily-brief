@@ -1,8 +1,15 @@
 {
 "date": "2026-07-15",
-"total": 138,
+"total": 144,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "LLM Networking with MikroTik",
+"link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+"summary": "Article URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html Comments URL: https://news.ycombinator.com/item?id=48927915 Points: 103 # Comments: 57",
+"published": 1784154207.0
+},
 {
 "source": "InfoQ 中国",
 "title": "IPO前夜，阶跃星辰想用一款 Agent 手机给市场吃一颗定心丸",
@@ -11,11 +18,39 @@
 "published": 1784153946.0
 },
 {
+"source": "HN AI 热门",
+"title": "We don't use AI in any of our design or production processes",
+"link": "https://mass-driver.com/article/from-human-hands",
+"summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 108 # Comments: 113",
+"published": 1784151409.0
+},
+{
+"source": "HN AI 热门",
+"title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+"link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+"summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 292 # Comments: 107",
+"published": 1784150196.0
+},
+{
 "source": "The Decoder",
 "title": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
 "link": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/",
 "summary": "OpenAI's internal GPT-Red model finds successful attacks in 84 percent of test scenarios through self-play training. Human red teamers manage just 13 percent. The results feed directly into hardening models like GPT-5.6 Sol. The article Ope…",
 "published": 1784144873.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Agent 沙箱体验计划｜点亮Cube Sandbox，在安全沙箱里释放你的Agent能力",
+"link": "https://xie.infoq.cn/article/615b3f8b86b0f9df5480f5d4f?utm_source=rss&utm_medium=article",
+"summary": "闯关Cube任务，分享真实体验，赢取京东卡！点击查看原文>",
+"published": 1784140378.0
+},
+{
+"source": "HN AI 热门",
+"title": "Inkling – Open-Weights 975B Parameter LLM",
+"link": "https://thinkingmachines.ai/inkling/",
+"summary": "Article URL: https://thinkingmachines.ai/inkling/ Comments URL: https://news.ycombinator.com/item?id=48924929 Points: 121 # Comments: 4",
+"published": 1784139263.0
 },
 {
 "source": "The Decoder",
@@ -58,6 +93,13 @@
 "link": "https://www.infoq.cn/article/WL9yUw7LJbBFTgzwXbVZ?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1784127600.0
+},
+{
+"source": "HN AI 热门",
+"title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+"link": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+"summary": "Article URL: https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence Comments URL: https://news.ycombinator.com/item?id=48920432 Points: 189 # Comments: 245",
+"published": 1784121495.0
 },
 {
 "source": "InfoQ 中国",

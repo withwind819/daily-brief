@@ -1,6 +1,6 @@
 {
 "date": "2026-07-16",
-"total": 133,
+"total": 140,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,20 @@
 "link": "https://www.infoq.cn/article/AlwgmgVxh7Q25NxgGrEI?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1784233989.0
+},
+{
+"source": "HN AI 热门",
+"title": "LM Studio Bionic: the AI agent for open models",
+"link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+"summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 318 # Comments: 122",
+"published": 1784233095.0
+},
+{
+"source": "HN AI 热门",
+"title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+"link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+"summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 382 # Comments: 513",
+"published": 1784232203.0
 },
 {
 "source": "InfoQ 中国",
@@ -60,6 +74,13 @@
 "published": 1784221200.0
 },
 {
+"source": "HN AI 热门",
+"title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+"link": "https://blog.lyc8503.net/en/post/llm-classifier/",
+"summary": "Article URL: https://blog.lyc8503.net/en/post/llm-classifier/ Comments URL: https://news.ycombinator.com/item?id=48936880 Points: 236 # Comments: 173",
+"published": 1784220097.0
+},
+{
 "source": "The Decoder",
 "title": "Germany puts Google's AI Overviews and Perplexity under media law in first-of-its-kind ruling",
 "link": "https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/",
@@ -88,6 +109,13 @@
 "published": 1784217364.0
 },
 {
+"source": "HN AI 热门",
+"title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+"link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+"summary": "Article URL: https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model Comments URL: https://news.ycombinator.com/item?id=48935687 Points: 154 # Comments: 78",
+"published": 1784214780.0
+},
+{
 "source": "量子位",
 "title": "理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价",
 "link": "https://www.qbitai.com/2026/07/451576.html",
@@ -114,6 +142,20 @@
 "link": "https://the-decoder.com/sakana-ais-fugu-adds-nvidia-nemotron-to-prove-collective-intelligence-can-rival-single-frontier-models/",
 "summary": "Sakana AI is integrating Nvidia's open-source Nemotron models into its Fugu orchestrator, which dynamically combines multiple language models for specific tasks. The core argument: Open models only become competitive with Frontier systems w…",
 "published": 1784210533.0
+},
+{
+"source": "HN AI 热门",
+"title": "Generative AI Is an Engineering Disaster",
+"link": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+"summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item?id=48934046 Points: 108 # Comments: 85",
+"published": 1784207544.0
+},
+{
+"source": "HN AI 热门",
+"title": "The LLM Critics Are Right. I Use LLMs Anyway",
+"link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+"summary": "Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/ Comments URL: https://news.ycombinator.com/item?id=48933310 Points: 285 # Comments: 290",
+"published": 1784203141.0
 },
 {
 "source": "InfoQ 中国",
@@ -205,6 +247,13 @@
 "link": "https://www.qbitai.com/2026/07/450921.html",
 "summary": "苹果怒斥：烂到骨子里",
 "published": 1784177275.0
+},
+{
+"source": "HN AI 热门",
+"title": "Stop saying that AI is just a tool and it only matters how it is used",
+"link": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
+"summary": "Article URL: https://www.frank.computer/blog/2025/05/just-a-tool.html Comments URL: https://news.ycombinator.com/item?id=48930363 Points: 105 # Comments: 115",
+"published": 1784176261.0
 },
 {
 "source": "量子位",

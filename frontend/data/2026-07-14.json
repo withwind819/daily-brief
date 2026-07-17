@@ -1,6 +1,6 @@
 {
 "date": "2026-07-14",
-"total": 144,
+"total": 149,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,13 @@
 "link": "https://www.infoq.cn/article/Pqcx0ktTdljvoQ3OMxze?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1784066475.0
+},
+{
+"source": "HN AI 热门",
+"title": "Financing the AI boom: from cash flows to debt [pdf]",
+"link": "https://www.bis.org/publ/bisbull120.pdf",
+"summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf Comments URL: https://news.ycombinator.com/item?id=48913443 Points: 165 # Comments: 106",
+"published": 1784066316.0
 },
 {
 "source": "InfoQ 中国",
@@ -81,11 +88,25 @@
 "published": 1784045907.0
 },
 {
+"source": "HN AI 热门",
+"title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+"link": "https://agnost.ai",
+"summary": "Hey HN, we’re Shubham & Parth, childhood friends building Agnost AI (https://agnost.ai), product analytics for teams building chat and voice agents.We read production conversations and find behavioral failures like users rageprompting (curs…",
+"published": 1784045178.0
+},
+{
 "source": "InfoQ 中国",
 "title": "AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用",
 "link": "https://www.infoq.cn/article/9RKrYlX2xWPNabO3ErVj?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1784044800.0
+},
+{
+"source": "HN AI 热门",
+"title": "Are we offloading too much of our thinking to AI?",
+"link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+"summary": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai Comments URL: https://news.ycombinator.com/item?id=48908178 Points: 521 # Comments: 477",
+"published": 1784042293.0
 },
 {
 "source": "InfoQ 中国",
@@ -107,6 +128,20 @@
 "link": "https://www.infoq.cn/article/3ZmFy6tOFQgP7OI3BHwm?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1784039460.0
+},
+{
+"source": "HN AI 热门",
+"title": "Proof of care in the age of AI",
+"link": "https://jacobfilipp.com/care/",
+"summary": "Article URL: https://jacobfilipp.com/care/ Comments URL: https://news.ycombinator.com/item?id=48906125 Points: 185 # Comments: 110",
+"published": 1784033785.0
+},
+{
+"source": "HN AI 热门",
+"title": "Guardian Angels: LLM Personalization for Productivity and Security",
+"link": "https://gwern.net/guardian-angel",
+"summary": "Article URL: https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=48906041 Points: 94 # Comments: 17",
+"published": 1784033429.0
 },
 {
 "source": "量子位",

@@ -1,0 +1,488 @@
+{
+"date": "2026-07-18",
+"total": 68,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "火速上架！空降即登顶Arena，Kimi K3当日登陆「模型广场」",
+"link": "https://www.infoq.cn/article/NtfFE25blBHubhNNTmkJ?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784394845.0
+},
+{
+"source": "量子位",
+"title": "WAIC看了一圈，这家公司的机器人在认真打工",
+"link": "https://www.qbitai.com/2026/07/454040.html",
+"summary": "机器人真正具备了干活的完整能力",
+"published": 1784381001.0
+},
+{
+"source": "InfoQ 中国",
+"title": "中国 AI 产业核心要素出海发展白皮书",
+"link": "https://www.infoq.cn/minibook/GSbtyU9968lerf5gwPpU?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784376132.0
+},
+{
+"source": "量子位",
+"title": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
+"link": "https://www.qbitai.com/2026/07/454015.html",
+"summary": "",
+"published": 1784373581.0
+},
+{
+"source": "量子位",
+"title": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气",
+"link": "https://www.qbitai.com/2026/07/454003.html",
+"summary": "",
+"published": 1784372691.0
+},
+{
+"source": "量子位",
+"title": "让VLA更懂接触，优理奇UniTac让机器人拥有“触觉想象力”",
+"link": "https://www.qbitai.com/2026/07/453897.html",
+"summary": "入选ECCV 2026",
+"published": 1784372147.0
+},
+{
+"source": "The Decoder",
+"title": "China's new World Artificial Intelligence Cooperation Organization is President Xi's clearest play yet for a parallel AI order",
+"link": "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/",
+"summary": "At the World AI Conference in Shanghai, Xi Jinping announced 5,000 AI training slots for Global South countries and the launch of the \"World Artificial Intelligence Cooperation Organization.\" Cooperation centers with ASEAN, the African Unio…",
+"published": 1784371564.0
+},
+{
+"source": "The Decoder",
+"title": "Open-weight models now match frontier cyber performance from just four months ago at a fraction of the cost",
+"link": "https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/",
+"summary": "The British AI Security Institute warns that open-weight models like GLM-5.2 and DeepSeek V4-Pro now trail closed frontier models in cyber capabilities by four to seven months. At the start of 2025, the gap was still six to ten months. It a…",
+"published": 1784369762.0
+},
+{
+"source": "量子位",
+"title": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
+"link": "https://www.qbitai.com/2026/07/453889.html",
+"summary": "全面演进为赋能千行百业的新型数字基础设施",
+"published": 1784369572.0
+},
+{
+"source": "InfoQ 中国",
+"title": "为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳",
+"link": "https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784368800.0
+},
+{
+"source": "InfoQ 中国",
+"title": "AI 智能体算力消耗过快，传统账单风控跟不上速度",
+"link": "https://www.infoq.cn/article/secM60Za0CNxIYvQO47m?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784365200.0
+},
+{
+"source": "InfoQ 中国",
+"title": "豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座",
+"link": "https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784364878.0
+},
+{
+"source": "InfoQ 中国",
+"title": "不止于 4K，火山引擎画质增强让视频从清晰走向细腻",
+"link": "https://www.infoq.cn/article/rgF4YG8DcjMKe9CTU0yM?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784364199.0
+},
+{
+"source": "量子位",
+"title": "妙啊！无人机直连卫星传Token",
+"link": "https://www.qbitai.com/2026/07/453789.html",
+"summary": "世界人工智能大会最高奖",
+"published": 1784362638.0
+},
+{
+"source": "The Decoder",
+"title": "The Pentagon's new AI playbook treats slow adoption as a bigger risk than imperfect alignment",
+"link": "https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/",
+"summary": "The US Department of the Navy has signed a strategy to \"weaponize\" data and AI and build an \"AI-first\" fleet. Large language models would run directly on warships, and an AI war council would prioritize mission scenarios. The core message i…",
+"published": 1784362240.0
+},
+{
+"source": "量子位",
+"title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
+"link": "https://www.qbitai.com/2026/07/453705.html",
+"summary": "本地大模型规模化商用破局",
+"published": 1784359219.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing",
+"link": "https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/",
+"summary": "Anthropic will include Claude Fable 5 in Max and Team Premium plans starting July 20, but at just 50 percent of regular limits, which themselves drop by a third that same day. Pro users get a one-time $100 credit, then pay API rates. The re…",
+"published": 1784359031.0
+},
+{
+"source": "量子位",
+"title": "商汤大装置联合近20家生态伙伴发起“银河计划”，将共建5个万卡级国产智算集群",
+"link": "https://www.qbitai.com/2026/07/453697.html",
+"summary": "加速国产算力从落地可用到规模化盈利",
+"published": 1784357770.0
+},
+{
+"source": "量子位",
+"title": "DeepSeek估值，被一家安徽箱包公司给全部暴露了",
+"link": "https://www.qbitai.com/2026/07/453641.html",
+"summary": "3500亿估值曝光",
+"published": 1784346077.0
+}
+],
+"科技": [
+{
+"source": "The Verge",
+"title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+"link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+"summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that su…",
+"published": 1784408082.0
+},
+{
+"source": "TechCrunch",
+"title": "Waymo says San Francisco service has resumed after one-hour pause",
+"link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+"summary": "This isn’t the first time power outages have caused issues for Waymo.",
+"published": 1784403023.0
+},
+{
+"source": "TechCrunch",
+"title": "Kimi: Threat or menace?",
+"link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+"summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+"published": 1784400667.0
+},
+{
+"source": "The Verge",
+"title": "Google might not kneecap the Pixel 11a with an old processor",
+"link": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+"summary": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4. That …",
+"published": 1784399108.0
+},
+{
+"source": "The Verge",
+"title": "Google is open-sourcing its 3D emoji",
+"link": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+"summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessaril…",
+"published": 1784392855.0
+},
+{
+"source": "TechCrunch",
+"title": "All the EVs that were discontinued or killed off in the U.S. this year",
+"link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+"summary": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
+"published": 1784392200.0
+},
+{
+"source": "Solidot",
+"title": "手动挡汽车越来越少见",
+"link": "https://www.solidot.org/story?sid=84863",
+"summary": "2025 年美国新车仅有 0.6% 是手动挡，汽车已是自动挡的天下，电动汽车和自动驾驶汽车的兴起也加速了手动挡汽车的消失。相比下欧洲的情况略好，行业分析公司 JATO Dynamics 的数据显示，欧洲最大汽车市场手动挡汽车的注册比例从 2001 年的 91% 下降到 2024 年的 29%。曾以手动挡汽车知名的斯巴鲁（Subaru）已停止提供手动挡车型，大众汽车将于今年停产在美国销售的最后一款手动挡车型捷达 GLI。丰田、本田和宝马都减少了面向美国市场的手动挡车型。",
+"published": 1784390886.0
+},
+{
+"source": "TechCrunch",
+"title": "Federal employees can download TikTok on their work phones again",
+"link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+"summary": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
+"published": 1784390064.0
+},
+{
+"source": "Solidot",
+"title": "天文学家确认了 25 光年外的一颗位于宜居带的岩石行星",
+"link": "https://www.solidot.org/story?sid=84862",
+"summary": "天文学家确认一颗名为 GJ3378b 的系外行星，位于距离地球仅 25 光年的红矮星宜居带内，可能具备孕育生命的条件。这颗行星位于鹿豹座方向，围绕一颗暗淡的红矮星运行，被视为目前已知距离地球最近的潜在宜居世界之一。GJ3378b 最初于 2024 年被法国天文学家发现。当时测定的质量为地球的 5.26 倍，被认为是一颗类似微型海王星的气态行星。天文学家利用基特峰国家天文台的 WIYN 3.5米望远镜等设备进行二次观测后，修正了这一结论。新数据显示，GJ3378b 的真实质量仅…",
+"published": 1784387687.0
+},
+{
+"source": "The Verge",
+"title": "GoPro’s discounted Max 2 bundle includes $100 worth of accessories",
+"link": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
+"summary": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is discounted to $369 at …",
+"published": 1784386800.0
+},
+{
+"source": "Solidot",
+"title": "重度电视观众有更小的大脑结构",
+"link": "https://www.solidot.org/story?sid=84861",
+"summary": "“电视会腐蚀你的大脑”这句话也许在字面意义上是正确的。根据发表在《Alzheimer’s and Dementia: Journal of the Alzheimer’s Association》上的一项研究，常看电视的人大脑中与记忆相关的区域体积缩小，额叶和枕叶变小，大脑白质出现了与衰老、中风风险、认知能力下降和痴呆症相关的损伤区域。研究人员分析了约 1700 名成年人的数据，他们的平均年龄 53 岁，在 1987-1989 年间参与了心血管研究 Atheroscleros…",
+"published": 1784386170.0
+},
+{
+"source": "Solidot",
+"title": "Firefox 将从 9 月 1 日起每两周发布一个新版本",
+"link": "https://www.solidot.org/story?sid=84860",
+"summary": "Mozilla 工程总监 Sylvestre Ledru 通过 dev-platform@mozilla.org 邮件列表宣布，从 2026 年 9 月起 Firefox 桌面版和 Android 版本的发布周期从 4 周减少到 2 周。他表示这是一次实验，并不意味着工作进度加倍，并不会仓促交付新功能。当前的目标是在 9 月 1 日释出 Firefox 155 而不是原计划的 9 月 15 日，“我们将密切关注这一变化在实际中的效果，根据需要进行调整。”Firefox 接下来…",
+"published": 1784385382.0
+},
+{
+"source": "TechCrunch",
+"title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+"link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+"summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
+"published": 1784385120.0
+},
+{
+"source": "The Verge",
+"title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
+"link": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
+"summary": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well. Along t…",
+"published": 1784385000.0
+},
+{
+"source": "The Verge",
+"title": "Surprise! Facial recognition smart locks are actually good",
+"link": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
+"summary": "Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to remember, no need to have a free hand to wave, …",
+"published": 1784383200.0
+},
+{
+"source": "The Verge",
+"title": "Sony’s flagship RGB LED TV is incredible",
+"link": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
+"summary": "The Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeons & Dragons: Honor Among Thieves on the new Bravia with my son, who has been getting into the roleplaying game but had never seen the…",
+"published": 1784377800.0
+},
+{
+"source": "The Verge",
+"title": "More games should be on rails (literally)",
+"link": "https://www.theverge.com/games/961152/denshattack-review",
+"summary": "It's been a good few weeks for games on rails. Nintendo's Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they're still fun to fly through nearly 20 years later. Denshattack!, a …",
+"published": 1784376000.0
+},
+{
+"source": "The Verge",
+"title": "The apps, gadgets, and tools every reader needs",
+"link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+"summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer ho…",
+"published": 1784376000.0
+},
+{
+"source": "36氪",
+"title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+"link": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+"summary": "7月18日，在2026世界人工智能大会（WAIC）上，腾讯面向具身智能与智能体领域带来多项产品技术的升级发布。在具身智能领域，腾讯正式升级发布具身智能全栈方案，贯穿云底座、模型层、平台层与应用层，全面助力机器人本体及系统开发商提质提效；在智能体领域，基于个人与企业提效需求，推出差异化的全矩阵解决方案。其中，面向企业用户的腾讯云企业级智能体开发平台ADP4.0海外版正式上线，同时发布「十大行业百大场景生态计划」，目前该平台已落地30多个行业，覆盖智能客服、知识管理、媒体生产等业…",
+"published": 1784367023.0
+},
+{
+"source": "36氪",
+"title": "腾讯云智能体硬件生态提速，首款接入WorkBuddy AI记忆眼镜发布",
+"link": "https://36kr.com/newsflashes/3900906468984713?f=rss",
+"summary": "7月17日，在2026世界人工智能大会（WAIC）期间，腾讯云WorkBuddy与李未可科技宣布达成战略生态合作，并发布首款接入WorkBuddy的X-AI记忆眼镜。这也是WorkBuddy硬件生态迈出的关键一步。X-AI记忆眼镜搭载自研WakeeMemory OS，能够持续感知真实工作场景，整理后的信息，将自动同步至WorkBuddy。基于长期积累形成的工作记忆，WakeeMemory能够持续理解用户的工作习惯、任务优先级以及合作关系，把碎片化的信息整理成带有完整上下文的行…",
+"published": 1784365206.0
+},
+{
+"source": "36氪",
+"title": "福特在美召回近39万辆Aviator和Explorer车型，涉及座椅部件安全问题",
+"link": "https://36kr.com/newsflashes/3900845248415362?f=rss",
+"summary": "美国国家公路交通安全管理局（NHTSA）7月18日公布，福特汽车公司正在召回部分2020至2027款Aviator和2020至2026款Explorer车型，涉及约38.8万辆汽车。由于二排外侧座椅便捷进入功能开关可能出现卡滞，导致座椅解锁、倾斜或滑动，车辆发生碰撞时可能无法有效约束乘员，增加受伤风险。",
+"published": 1784363450.0
+},
+{
+"source": "36氪",
+"title": "云迹科技发布“人机共生世界价值模型”",
+"link": "https://36kr.com/newsflashes/3900822239758214?f=rss",
+"summary": "在2026世界人工智能大会（WAIC）上，云迹科技发布“人机共生世界价值模型”。该模型基于超11亿次真实服务交互数据，旨在打造面向物理世界并以价值最优为目标的人机协同智能大脑。云迹的“世界价值模型”具备多机协同、长程规划、人机共生、价值驱动四大核心能力，其T1-T4架构，将复杂服务拆解为场景理解、任务规划、资源调度与原子执行四层，实现从规则控制到价值导向的智能决策。",
+"published": 1784362526.0
+},
+{
+"source": "36氪",
+"title": "国家数据局：全国已建成高质量数据集12万个",
+"link": "https://36kr.com/newsflashes/3900807486293892?f=rss",
+"summary": "记者今天从国家数据局了解到，我国持续加大优质数据供给，已建成高质量数据集12万个。截至今年6月底，全国已建成科学研究、工业制造、医疗卫生、教育教学等行业领域的高质量数据集总体量超1565拍字节（PB），较一季度末增长超60%，现有体量相当于中国国家图书馆数字资源总量的547倍左右，为人工智能发展提供有力支撑。与此同时，我国数据标注产业加快发展，有效支撑高质量数据集建设。截至今年6月底，四川成都、辽宁沈阳、安徽合肥、湖南长沙、海南海口、河北保定、山西大同七个数据标注先行先试城市…",
+"published": 1784361627.0
+},
+{
+"source": "36氪",
+"title": "月之暗面有望最快6个月内赴港上市",
+"link": "https://36kr.com/newsflashes/3900806713951873?f=rss",
+"summary": "36氪获悉，月之暗面已通知投资者调整公司架构并筹备赴港IPO，有望最快在6个月内完成上市。7月16日，月之暗面发布全球参数规模最大的开源模型Kimi K3，在Code Arena上超过Claude Fable 5和GPT-5.6 So。",
+"published": 1784360739.0
+},
+{
+"source": "36氪",
+"title": "滴滴WAIC分享：AI升级出行体验，释放服务消费新潜力",
+"link": "https://36kr.com/newsflashes/3900834871805827?f=rss",
+"summary": "7月17日，在2026世界人工智能大会（WAIC）上，滴滴集团AI应用负责人刘佳奇发表演讲，介绍滴滴如何用AI重构出行新体验。她介绍，“AI小滴”能通过对自然语言理解，满足乘客个性化、多场景的打车需求，同时让车况佳、服务好的司机获得更多接单机会，促进供需的双向平衡。当更多个性化出行需求被AI释放，线下消费的效率与潜力也随之被激活。目前，小滴已拥有90多个标签，还陆续上线了“沿途搜”“多目的地规划”“周边推荐”“复杂地址上下车点推荐”等功能。",
+"published": 1784360065.0
+},
+{
+"source": "36氪",
+"title": "三区域外贸上半年创历史新高 京津冀达2.58万亿元",
+"link": "https://36kr.com/newsflashes/3900806187075464?f=rss",
+"summary": "近日，我国多个区域陆续公布今年上半年外贸数据，京津冀、黄河流域、东北地区货物贸易进出口均保持较快增长，并且规模创历史同期新高。据北京海关统计，今年上半年，京津冀区域进出口值2.58万亿元，同比增长16.2%、占全国进出口总值的10.1%。其中，6月份为首次突破1400亿元关口，创月度历史新高。今年上半年，黄河流域9省区货物贸易进出口总值达3.6万亿元，同比增长14.7%，规模创历史同期新高。海关统计数据显示，上半年东北地区外贸进出口总值6563亿元，同比增长8.6%，规模创历…",
+"published": 1784359807.0
+},
+{
+"source": "36氪",
+"title": "B2B行业首份AI智能体全球支付白皮书发布",
+"link": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+"summary": "36氪获悉，寻汇Sunrate与万事达卡在WAIC现场联合发布白皮书《超越自动化：定义智能体驱动的全球支付》。该报告系统阐述了“AI智能体”如何重塑B2B跨境支付全链路。传统模式下，企业财务需人工核验海外供应商账户、比对合同发票、择汇并承担T+2以上结算滞后期。该报告指出，AI智能体可自动提取多格式票据、匹配采购订单、基于企业需求推荐最优支付路由与换汇窗口、经合规预审后在授权额度触发支付，并自动完成后续对账与异常标记，将财务人员从低附加值操作中解放。",
+"published": 1784358918.0
+},
+{
+"source": "36氪",
+"title": "中欧班列（福州）开行4年进出口总货值超16亿元",
+"link": "https://36kr.com/newsflashes/3900680288093828?f=rss",
+"summary": "昨天（17日），一列满载55个集装箱的中欧班列从福建福州江阴铁路物流园区缓缓出发，将经由二连浩特口岸前往东欧。福州海关数据显示，中欧班列（福州）运营四年来，已累计开行77列，发运货物7918标箱，进出口货值总额超16亿元。",
+"published": 1784358003.0
+},
+{
+"source": "The Verge",
+"title": "Fine, electric mountain bikes don’t suck",
+"link": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
+"summary": "Cheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electric mountain bikes are fun! My attitude adjus…",
+"published": 1784358000.0
+},
+{
+"source": "爱范儿",
+"title": "iOS 27 公测版上手：国行 AI 准备好了，但系统流畅更值得升级",
+"link": "https://www.ifanr.com/1672364?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "有可能成为新一代「钉子户」系统。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1784357244.0
+},
+{
+"source": "36氪",
+"title": "崔东树：电池企业的竞争格局形成宁德时代和比亚迪两者相对较强的特征",
+"link": "https://36kr.com/newsflashes/3900678751618946?f=rss",
+"summary": "乘联分会秘书长崔东树发文称，电池企业的竞争格局形成宁德时代和比亚迪两者相对较强的特征。宁德和比亚迪到2026年仍保持64%的比例，其它企业有超35%左右的空间。今年国轩高科、蜂巢能源、吉利耀宁、楚能新能等表现较强。由于比亚迪全面转型磷酸铁锂电池，因此宁德时代、蜂巢能源等三元电池优势更加明显，近期高端插混较强推动三元电池走强。",
+"published": 1784357126.0
+},
+{
+"source": "36氪",
+"title": "崔东树：锂电池消费税调整，是对整车企业造电池的有力助推，有利于中国汽车产业做大做强",
+"link": "https://36kr.com/newsflashes/3900678191548040?f=rss",
+"summary": "乘联分会秘书长崔东树认为：锂电池消费税调整，是对整车企业造电池的有力助推，有利于中国汽车产业做大做强。我对此的核心判断是：这次政策调整意味着“油电同权”的大幕正式拉开。从购置税减半、车船税免征取消，到电池消费税恢复征收，新能源汽车的税收优惠“保护期”正在分阶段、有节奏地退出。燃油车长期承担全额车船税与燃油税，插混、增程式及新能源商用车却享受免税红利，形成“有排放、用道路、获收益却不承担税负”的漏洞。油电同权不是“一刀切”均等化，而是依据技术属性、排放特征、使用场景，建立权责匹…",
+"published": 1784356252.0
+},
+{
+"source": "36氪",
+"title": "屈臣氏集团考虑推迟伦敦IPO计划",
+"link": "https://36kr.com/newsflashes/3900677565138818?f=rss",
+"summary": "知情人士称，屈臣氏集团正考虑将原定的伦敦上市计划推迟至明年。屈臣氏原计划今年秋季同步登陆伦敦、香港两地双重上市，募资规模约20亿美元，上市后企业估值约300亿美元。此次IPO是新加坡淡马锡剥离其2014年购入的约25%股权的退出渠道。屈臣氏同时计划出售至少一项旗下资产。",
+"published": 1784355313.0
+},
+{
+"source": "36氪",
+"title": "三季度起班次加密 天津经霍尔果斯口岸图定中亚班列运力翻倍",
+"link": "https://36kr.com/newsflashes/3900623148107398?f=rss",
+"summary": "昨天，天津市经霍尔果斯口岸出境的图定中亚班列平稳驶离中国铁路北京局集团有限公司所属天津集装箱中心站，标志着自三季度起我市完成中亚霍尔果斯口岸图定班次加密。该班列将由每周1列提升至每周2列，运力保障能力实现翻倍升级，助力中亚班列常态化稳定运行。",
+"published": 1784354456.0
+},
+{
+"source": "36氪",
+"title": "世界杯决赛首设中场表演 或将打破竞赛规则",
+"link": "https://36kr.com/newsflashes/3900622613431940?f=rss",
+"summary": "2026美加墨世界杯决赛将于当地时间7月19日在美国新泽西体育场打响。国际足联此前宣布，将在本场比赛中场休息设置一场表演。此举或将大幅延长中场休息时间，打破《足球竞赛规则》中的相关规定。 这将是世界杯历史上的首次中场表演。国际足联预告称，本场演出时长为11分钟，麦当娜、夏奇拉、贾斯汀·比伯等艺人将登台亮相，“把足球史上最重要的比赛变成前所未有的庆典”。",
+"published": 1784353523.0
+},
+{
+"source": "36氪",
+"title": "塔可钟宣布完成全美供应链受影响生菜的撤换，应对环孢子虫病事件",
+"link": "https://36kr.com/newsflashes/3900622059227009?f=rss",
+"summary": "据美国疾病控制和预防中心最新数据显示，美国目前已有5个州共报告了1644例环孢子虫病感染病例，相关患者均表示发病前曾在美国快餐连锁店塔可钟（Taco Bell）的门店用餐。美国食品和药物管理局于7月16日表示，针对该起疫情的调查显示，感染源可能与该快餐连锁店部分门店从墨西哥进口的球生菜有关。针对这一突发的食品安全事件，塔可钟7月17日宣布，截至今日，全美所有门店已全面完成对受影响的泰勒农场（Taylor Farms）生菜的撤换工作，目前该受影响的原料已从全国供应链中彻底清除。",
+"published": 1784352649.0
+},
+{
+"source": "36氪",
+"title": "“国铁冷鲜快线”班列今日首发 新疆鲜果36小时直达西安",
+"link": "https://36kr.com/newsflashes/3900621595346567?f=rss",
+"summary": "18日凌晨，一列加挂鲜果冷藏集装箱的铁路班列从新疆乌鲁木齐三坪站驶出，前往陕西西安，这标志着“国铁冷鲜快线”班列产品正式投入运营。新疆的葡萄、哈密瓜等特色鲜果最快36小时即可运抵陕西西安及周边市场，较此前压缩3天左右。",
+"published": 1784351721.0
+},
+{
+"source": "36氪",
+"title": "苹果公司将日本iPhone售价上调10%",
+"link": "https://36kr.com/newsflashes/3900590502577797?f=rss",
+"summary": "苹果公司于当地时间17日上调了日本市场的iPhone售价。针对去年9月发布的17系列标准版机型，256GB起步版本的价格从之前的129800日元上调至142800日元，涨幅为10%。此举反映了存储芯片成本上涨及日元贬值带来的影响。",
+"published": 1784350841.0
+},
+{
+"source": "TechCrunch",
+"title": "Neil Rimer thinks the AI money is coming back out",
+"link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+"summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+"published": 1784350045.0
+},
+{
+"source": "36氪",
+"title": "澳门上半年入境旅客超2094万人次 同比增长9%",
+"link": "https://36kr.com/newsflashes/3900589153519494?f=rss",
+"summary": "澳门特区政府统计暨普查局17日公布数据显示，澳门2026年上半年入境旅客达2094.4万人次，同比增长9%。 旅游酒店",
+"published": 1784349920.0
+},
+{
+"source": "36氪",
+"title": "首届世界人工智能大会·学术正式亮相",
+"link": "https://36kr.com/newsflashes/3900588780095104?f=rss",
+"summary": "依托世界人工智能大会（WAIC）八年深厚积淀打造的首届世界人工智能大会·学术（WAIC-Academic，简称WAICA）18日上午正式亮相。这是一个由中国发起、面向世界的开放学术公共平台，为全球AI学者构建一个回归学术本质的创新舞台。",
+"published": 1784349059.0
+},
+{
+"source": "Solidot",
+"title": "亚马逊 AWS 计费系统单位错误导致客户看到了数亿乃至数万亿美元的账单",
+"link": "https://www.solidot.org/story?sid=84859",
+"summary": "世界各地的亚马逊 AWS 客户周五可能都心跳加速，他们看到了远远超过他们想象的账单数字，很多每月只花几美元的客户看到了数亿乃至数十亿美元的账单，很多企业甚至看到了数以万亿美元的账单。亚马逊证实其计费系统出现问题，账单预估数字不正确，在问题解决期间它暂停了账单更新。亚马逊称它已经识别问题是单位导致的，所有受影响客户预计到 7 月 19 日 12:00 AM PDT 将会完全恢复正常。亚马逊没有详细解释单位问题，猜测是原来按 GB 收费的系统漏掉了 GB，而系统默认按 Byte …",
+"published": 1784348900.0
+},
+{
+"source": "爱范儿",
+"title": "6 台机器人拼长城、首款智能体手机首秀：阶跃把 AI 塞进了现实世界｜WAIC 2026",
+"link": "https://www.ifanr.com/1672344?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "大模型的下一站，是走出屏幕，自己动手#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1784347267.0
+},
+{
+"source": "少数派",
+"title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
+"link": "https://sspai.com/post/112398",
+"summary": "小米智能存储最适合两类用户：家里已经有较多米家设备的人，以及小米手机用户。查看全文",
+"published": 1784344235.0
+},
+{
+"source": "36氪",
+"title": "9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源",
+"link": "https://36kr.com/p/3900449325287305?f=rss",
+"summary": "今日热点导览 月之暗面正式推出开源模型Kimi K3 智谱ARR达到10亿美元，半年增长15倍 国际足联：世界杯冠军将有戒指，每枚均有独立编号 国内成品油价7月17日晚上调 A股存储板块龙头股遭遇两个跌停 TOP3大新闻 ofo停更5年突然发文，运营主体仍处存续状态 7月15日，沉寂近5年的ofo小黄车官方微信公众号突然更新。此次公众号发布的内容，是一则皮肤病患者援助招募信息。虽然与共享单车业务并无关联，这次更新仍然迅速引发关注。不少网友提及尚未退回的押金问题：“我的199元…",
+"published": 1784336745.0
+},
+{
+"source": "36氪",
+"title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
+"link": "https://36kr.com/p/3900439867147909?f=rss",
+"summary": "2026 世界人工智能大会（WAIC 2026）于 7 月 17 日正式开幕。作为全球人工智能领域的顶级盛会，本届大会以“智能伙伴 共创未来”为主题。阶跃星辰董事长、千里科技董事长印奇作为特邀嘉宾出席大会开幕式并在大会主论坛（上午场）发表主题演讲《当智能体进入物理世界》。回顾 15 年 AI 创业历程，他表示，AI 创业已从小众赛道成为全球重要共识。今天的 AI 研究者和创业者既站在几代科学家持续探索的肩膀上，也受益于信息技术、移动互联网、云计算、半导体、新能源等产业积累，能…",
+"published": 1784336015.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜苹果上调Apple Music价格/小米SU7虚假碰撞测评博主被判一年八个月/努比亚、阶跃星辰智能体手机亮相WAIC",
+"link": "https://www.ifanr.com/1672338?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 智谱 ARR 被曝达到 10 亿美元，半年增长 15 倍 · Shopify CEO：反 AI 编程的人严重高估了人类代码质量 · 影石与荣耀达成影像生态合作，计划年底前进驻 300 家荣耀门店#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1784335799.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "AMD’s next reinvention: A new playbook for the AI era",
+"link": "https://siliconangle.com/2026/07/18/amds-next-reinvention-new-playbook-ai-era/",
+"summary": "Advanced Micro Devices Inc.’s first reinvention rebuilt the company. It was frankly about survival. Its next reinvention must redefine the company. AMD’s resurgence over the past decade came from doing what many thought was improbable – reb…",
+"published": 1784389691.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Anthropic, Meta reportedly discussing $10B data center leasing deal",
+"link": "https://siliconangle.com/2026/07/17/anthropic-meta-reportedly-discussing-10b-data-center-leasing-deal/",
+"summary": "Anthropic PBC is reportedly seeking to lease some of Meta Platforms Inc.’s data center capacity. The New York Times today cited three sources as saying that the deal could be worth $10 billion over two years. However, the report noted that …",
+"published": 1784337173.0
+}
+]
+}
+}

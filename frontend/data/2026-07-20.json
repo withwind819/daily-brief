@@ -1,17 +1,787 @@
 {
 "date": "2026-07-20",
-"total": 26,
+"total": 153,
 "categories": {
 "AI": [
+{
+"source": "InfoQ 中国",
+"title": "神州数码发布企业AI流程系统与智算产品，尝试打通应用和算力两端",
+"link": "https://www.infoq.cn/article/jc1vll7xctqYlopcwIKe?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784577560.0
+},
+{
+"source": "InfoQ 中国",
+"title": "国产GPU分水岭时刻：当别家还在卷参数，摩尔线程早已训练出了世界模型",
+"link": "https://www.infoq.cn/article/01aguG1Yrgxl0bpmfZps?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784577090.0
+},
+{
+"source": "The Decoder",
+"title": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains",
+"link": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
+"summary": "Google is developing \"Frozen v2,\" a server chip that bakes the Gemini architecture directly into hardware. According to internal sources, it could be 6 to 10 times more efficient than current TPUs. Scheduled for 2028, the chip would drastic…",
+"published": 1784570913.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "China’s AI models have Trump’s AI world at war with itself",
+"link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+"summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed …",
+"published": 1784570400.0
+},
+{
+"source": "The Decoder",
+"title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+"link": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/",
+"summary": "\"District 9\" director Neill Blomkamp has released \"Nightborne,\" a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model. Blomkamp directed frame by frame through text prompts and founded a new AI film studio, Ba…",
+"published": 1784568761.0
+},
+{
+"source": "InfoQ 中国",
+"title": "开源如何促进平台构建过程中的协作",
+"link": "https://www.infoq.cn/article/MgFehj2q2FJFrf6XvEco?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784566800.0
+},
+{
+"source": "The Decoder",
+"title": "Nvidia's grip on AI chips weakens as Microsoft turns to AMD and Anthropic may follow",
+"link": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/",
+"summary": "Microsoft is expanding Azure's AI infrastructure with AMD's new Helios platform, which is set to challenge Nvidia's GPU systems in the second half of 2026. A public GitHub profile suggests Anthropic is also testing AMD hardware, putting mor…",
+"published": 1784565870.0
+},
+{
+"source": "InfoQ 中国",
+"title": "无问芯穹夏立雪：数字世界与物理世界的所有AI生产力运行，都需要 Agentic Infra",
+"link": "https://www.infoq.cn/article/AWhEVVgvNquuiKZdRQ0H?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784565681.0
+},
+{
+"source": "InfoQ 中国",
+"title": "亚马逊云科技概要介绍了某客户如何将 Lambda 函数扩展至 100 万个",
+"link": "https://www.infoq.cn/article/bkhkOrQYPuIN672g20hi?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784560620.0
+},
+{
+"source": "InfoQ 中国",
+"title": "专访孙元浩：乘坐星环号，把数据库“移民火星”的人",
+"link": "https://www.infoq.cn/article/xsZUSSR8PRtcjZobwkYA?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784560026.0
+},
+{
+"source": "InfoQ 中国",
+"title": "一句话上线 AI Agent 应用：火山 Supabase + IGA Pages 全栈部署实践",
+"link": "https://www.infoq.cn/article/ZG1ipDQr8pjjHUQe7gbF?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784558858.0
+},
+{
+"source": "InfoQ 中国",
+"title": "业务研发中的 Loop Engineering：基于事前-事中-事后架构的实践｜AICon深圳",
+"link": "https://www.infoq.cn/article/kiNAVcGoJjaVXvJGZpyK?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784558666.0
+},
+{
+"source": "InfoQ 中国",
+"title": "企业级 Harness Engineering 实践：运营、数据、Coding 与办公智能体工程化落地｜AICon深圳",
+"link": "https://www.infoq.cn/article/mbMDGFkUMj9oCaj2ICUq?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784558183.0
+},
+{
+"source": "InfoQ 中国",
+"title": "GMI Cloud联合InfoQ、10+企业重磅发布《中国AI产业核心要素出海发展白皮书》，汇聚 AI 产业共识，盘点出海方法论",
+"link": "https://www.infoq.cn/article/cm9JyEjFfV4toUJabQ80?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784557840.0
+},
+{
+"source": "InfoQ 中国",
+"title": "AI 红利分层，“底座夯实”的团队获益最高——《DevData 2026 研发效能基准报告》正式发布！",
+"link": "https://www.infoq.cn/article/qgQoeipS5mb1feHBpTpp?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784557637.0
+},
+{
+"source": "The Decoder",
+"title": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure",
+"link": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/",
+"summary": "The Trump administration is reportedly weighing measures targeting Chinese AI models, from adding Chinese labs to sanctions lists to holding U.S. companies liable for security failures. Rather than impose an outright ban, Washington could u…",
+"published": 1784556233.0
+},
+{
+"source": "InfoQ 中国",
+"title": "九章云极DataCanvas亮相WAIC 2026，以AI规模化生产体系赋能智能新底座",
+"link": "https://www.infoq.cn/article/tdDBIY9mFVPWbKtOqqFU?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784556063.0
+},
+{
+"source": "InfoQ 中国",
+"title": "谷歌发布A2UI v0.9：可移植、框架无关的生成式UI",
+"link": "https://www.infoq.cn/article/StwWE73yux5uZgyaDaIL?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784552520.0
+},
+{
+"source": "The Decoder",
+"title": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+"link": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back/",
+"summary": "Hugging Face reports an attack on parts of its production infrastructure that was allegedly carried out entirely by an autonomous AI agent system. The attack spanned thousands of actions controlled by an agent framework. During forensic ana…",
+"published": 1784549567.0
+},
+{
+"source": "InfoQ 中国",
+"title": "企业 AI：方法论易得，交付力难求",
+"link": "https://www.infoq.cn/article/PVEe5yav0IC8MygcVeOM?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784547176.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Grab构建安全的智能体AI工作负载平台",
+"link": "https://www.infoq.cn/article/yQb5j83sxQhXB1EDJrS1?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784545740.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Agent 会执行，但谁来帮它记住过去？",
+"link": "https://www.infoq.cn/article/p0QuXLlwDxeg3Td9l67t?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784544662.0
+},
+{
+"source": "量子位",
+"title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
+"link": "https://www.qbitai.com/2026/07/455963.html",
+"summary": "",
+"published": 1784544129.0
+},
+{
+"source": "量子位",
+"title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
+"link": "https://www.qbitai.com/2026/07/455805.html",
+"summary": "大模型时代的共同选择",
+"published": 1784543603.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Safety and alignment in an era of long-horizon models",
+"link": "https://openai.com/index/safety-alignment-long-horizon-models",
+"summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+"published": 1784541600.0
+},
+{
+"source": "量子位",
+"title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
+"link": "https://www.qbitai.com/2026/07/455791.html",
+"summary": "",
+"published": 1784541273.0
+},
+{
+"source": "量子位",
+"title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
+"link": "https://www.qbitai.com/2026/07/455729.html",
+"summary": "",
+"published": 1784540509.0
+},
 {
 "source": "InfoQ 中国",
 "title": "为敏感的云系统设计连续授权",
 "link": "https://www.infoq.cn/article/1KqNGCc9UamMzojQYs9h?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1784539371.0
+},
+{
+"source": "量子位",
+"title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
+"link": "https://www.qbitai.com/2026/07/455730.html",
+"summary": "从理论探索到体系构建",
+"published": 1784539290.0
+},
+{
+"source": "量子位",
+"title": "AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单",
+"link": "https://www.qbitai.com/2026/07/455658.html",
+"summary": "细粒度标签+ 20 种方言",
+"published": 1784538306.0
+},
+{
+"source": "量子位",
+"title": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
+"link": "https://www.qbitai.com/2026/07/455596.html",
+"summary": "",
+"published": 1784538203.0
+},
+{
+"source": "量子位",
+"title": "GMI Cloud “无界造物节”在WAIC圆满完赛，“MaaS+创意”赋能 AI 创作新生态！",
+"link": "https://www.qbitai.com/2026/07/455593.html",
+"summary": "GMI Cloud × HappyHorse 共建 AI 创作生态",
+"published": 1784537546.0
+},
+{
+"source": "量子位",
+"title": "国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相",
+"link": "https://www.qbitai.com/2026/07/455517.html",
+"summary": "",
+"published": 1784537064.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "AI is more likely than humans to form biases when hiring",
+"link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+"summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. N…",
+"published": 1784536741.0
+},
+{
+"source": "量子位",
+"title": "WAIC之外，一张AI人才图谱正在知乎形成",
+"link": "https://www.qbitai.com/2026/07/455496.html",
+"summary": "",
+"published": 1784534782.0
+},
+{
+"source": "The Decoder",
+"title": "Moonshot pauses new Kimi K3 subscriptions after GPU demand maxes out in 48 hours",
+"link": "https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/",
+"summary": "Moonshot has temporarily stopped selling new subscriptions for its Kimi K3 model as demand nearly maxed out its GPU capacity within 48 hours. The company plans to split its subscription model to spread computing power more evenly. The artic…",
+"published": 1784534109.0
 }
 ],
 "科技": [
+{
+"source": "36氪",
+"title": "美法官叫停派拉蒙与华纳兄弟探索合并进程",
+"link": "https://36kr.com/newsflashes/3904611368912772?f=rss",
+"summary": "当地时间7月20日，美国加州北区联邦法官Araceli Martínez-Olguín下达临时禁令，暂停派拉蒙天空之舞对华纳兄弟探索的收购进程至8月3日。当地时间13日，由美国加州等12州组成的联合检方主张，这笔并购将违反联邦反垄断法，最终导致影视服务涨价、影视内容供给缩减。该法官于上周五上午听取双方当庭辩论后，作出该项裁决。此前派拉蒙已主动承诺，在7月22日前不会完成交易交割。（界面）",
+"published": 1784591164.0
+},
+{
+"source": "36氪",
+"title": "微软与AMD扩大合作，将在Azure部署下一代AI芯片",
+"link": "https://36kr.com/newsflashes/3904609584694912?f=rss",
+"summary": "超微半导体正扩大与微软的战略合作伙伴关系。根据协议，这家软件公司将在其Azure云平台上部署AMD的下一代人工智能芯片和处理器。两家公司周一表示，微软将部署AMD的Helios机架级AI平台，为其自身的AI服务和Azure客户的前沿模型推理工作负载提供算力支持。AMD表示，预计将于2026年下半年开始向包括微软在内的客户出货Helios平台。（新浪财经）",
+"published": 1784591056.0
+},
+{
+"source": "36氪",
+"title": "银行板块又“香”了，过半个股7月涨幅超10%",
+"link": "https://36kr.com/newsflashes/3904606266377865?f=rss",
+"summary": "7月20日，中证银行指数上涨2.3%，板块个股全线飘红。7月以来，伴随前期热门板块陷入全面持续回调，银行股则在悄然收复“失地”。中证银行指数月内已上涨8.93%，而同期沪指却下挫7.28%。银行板块42只个股中，有22只个股股价实现两位数上涨，占比超50%。 如今，银行板块总市值、A股市值分别重回14万亿元、10万亿元以上。第一财经记者注意到，面对近一个月来市场行情的极致反转，越来越多机构开始提示红利板块机会，也有机构加大了红利主题产品营销力度。（一财）",
+"published": 1784590965.0
+},
+{
+"source": "36氪",
+"title": "花旗集团上调中国股市资产配置评级",
+"link": "https://36kr.com/newsflashes/3904607452087940?f=rss",
+"summary": "花旗集团20日发布研究报告，将中国股市在新兴市场资产配置中的评级由“战术性中性”上调至“超配”，显示这一机构看好中国资产今年下半年的走势。花旗集团分析师认为，中国股市有望在今年全球股市普遍上涨、全球增长环境有所改善中获益。报告指出，当前新兴市场投资机会正在出现结构性变化。如果地缘政治风险有所缓解、全球流动性环境得到改善，市场宏观环境保持有利，那么市场存在进一步上涨空间。花旗集团还预计，明晟新兴市场指数企业今年盈利将大幅增长，其中中国和韩国的企业业绩增长潜力居前。（新华社）",
+"published": 1784590925.0
+},
+{
+"source": "36氪",
+"title": "五大保险机构集体发声，坚定支持资本市场",
+"link": "https://36kr.com/newsflashes/3904605017130883?f=rss",
+"summary": "7月20日，中国人保、中国人寿集团、中国平安、中国太保、新华保险五大保险机构集体发声，坚定支持资本市场发展。五大保险机构纷纷表示，坚定看好中国经济光明前景和资本市场长期配置价值，将发挥自身耐心资本、长期资金优势，坚持价值投资、长期投资、稳健投资，做好资本市场的价值发现者和维护资本市场稳定的压舱石。（证券时报）",
+"published": 1784590837.0
+},
+{
+"source": "TechCrunch",
+"title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+"link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+"summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+"published": 1784590775.0
+},
+{
+"source": "36氪",
+"title": "罗博特科：未从任何客户处获得CPO延迟的消息",
+"link": "https://36kr.com/newsflashes/3904613359388549?f=rss",
+"summary": "36氪获悉，7月20日，罗博特科在电话会议上表示，公司关注到市场上关于CPO延迟的各类传言，但作为设备端，公司未从任何客户处获得CPO延迟的消息。从核心客户给出的具体、明确的需求预测来看，下游市场对CPO的高速增长需求清晰可见，客户订单和交货时间压力持续加强，CPO产业化正处于全面加速推进进程中。相关业务推进与排产均按既定规划稳步开展，整体节奏未受扰动。",
+"published": 1784590686.0
+},
+{
+"source": "36氪",
+"title": "5家理财机构获配长鑫科技约3900万",
+"link": "https://36kr.com/newsflashes/3904604342634112?f=rss",
+"summary": "7月19日晚间，长鑫科技正式公布投资者中签与获配结果。在此次长鑫科技的网下发行中，民生理财、南银理财、宁银理财、兴银理财、中邮理财5家理财公司的29只理财产品获配合计超450万股，按照发行价格每股8.66元计算，对应获配金额大约3900万元。记者了解到，此次长鑫科技新股申购，网上个人投资者最终中签率约为0.47%，也就是大约212个配号中1签。业内人士表示，对于像长鑫科技的热门新股，普通投资者中签概率较低，还面临市场的准入限制，而借道理财产品则成为参与新股投资的另一条路径。（…",
+"published": 1784590676.0
+},
+{
+"source": "36氪",
+"title": "美国战略石油储备原油库存降至1983年3月以来最低水平",
+"link": "https://36kr.com/newsflashes/3904598378088327?f=rss",
+"summary": "当地时间20日获悉，根据美国能源部的数据，上周，美国战略石油储备原油库存减少约510万桶，降至3.114亿桶，为1983年3月以来的最低水平。（央视新闻）",
+"published": 1784590551.0
+},
+{
+"source": "36氪",
+"title": "SMBC确认增购100架空客A320neo系列飞机",
+"link": "https://36kr.com/newsflashes/3904572560852609?f=rss",
+"summary": "7月20日，2026范堡罗航展期间，总部位于爱尔兰都柏林的飞机租赁公司SMBC航空资本（SMBC Aviation Capital）确认增购100架空客A320neo系列飞机，包括65架A321neo和35架A320neo飞机。同日，该公司还宣布订购100架波音737 MAX系列飞机，包括60架737-10。（界面）",
+"published": 1784590404.0
+},
+{
+"source": "36氪",
+"title": "英国政府考虑冻结租金以缓解生活成本压力",
+"link": "https://36kr.com/newsflashes/3904571959986056?f=rss",
+"summary": "英国新任首相安迪·伯纳姆表示，为缓解民众生活成本压力，政府正在研究包括冻结租金、降低能源账单和下调公交票价在内的多项措施。政府将于周二公布相关措施，目前仍在敲定细节。他说：“我们只想做一些能让民众切身感受到、且能迅速见效的实事。”当被问及是否考虑在公交票价、能源账单和房租冻结方面提供援助时，伯纳姆回答称：“我们正在研究所有这些方案，但具体情况将于明天公布。现在说会采取哪项具体措施还为时过早。”（新浪财经）",
+"published": 1784590308.0
+},
+{
+"source": "36氪",
+"title": "中基协：6月新备案私募基金规模1091.67亿元",
+"link": "https://36kr.com/newsflashes/3904570667386502?f=rss",
+"summary": "36氪获悉，7月20日，据中基协消息，2026年6月，新备案私募基金数量2,219只，新备案规模1,091.67亿元。其中，私募证券投资基金1,466只，新备案规模719.35亿元；私募股权投资基金154只，新备案规模88.31亿元；创业投资基金599只，新备案规模284.02亿元。截至2026年6月末，存续私募基金143,204只，存续基金规模23.66万亿元。",
+"published": 1784590107.0
+},
+{
+"source": "36氪",
+"title": "上半年，上海三大先导产业制造业产值同比增长14.5%",
+"link": "https://36kr.com/newsflashes/3904569653347972?f=rss",
+"summary": "从上海市经信委获悉，今年上半年，上海工业生产稳步增长，软信业继续保持较快增速，产业经济稳中有进、向新向优。据上海市经信委披露，上半年本市三大先导产业制造业保持较高增速。三大先导产业制造业产值同比增长14.5%。其中，人工智能制造业、集成电路制造业、生物医药制造业产值分别增长21.8%、19.5%和7.2%。（澎湃）",
+"published": 1784589932.0
+},
+{
+"source": "36氪",
+"title": "A股迎多重积极信号，多方合力提振资本市场信心",
+"link": "https://36kr.com/newsflashes/3904568937514633?f=rss",
+"summary": "7月20日，A股迎来多重积极信号，市场主体护盘举措落地。“六大方阵”协同发力，以提振市场信心，包括：证监会召开投资者座谈会倾听市场诉求；“国家队”、央企、上市公司、公募私募、保险资金同步推出增持、回购、自购、加大权益配置等动作；股票ETF持续迎来大额资金净流入，外资机构、头部券商也释放乐观判断，多方合力提振资本市场信心。（中国基金报）",
+"published": 1784589825.0
+},
+{
+"source": "36氪",
+"title": "报道称谷歌正计划开发新芯片",
+"link": "https://36kr.com/newsflashes/3904568264279684?f=rss",
+"summary": "7月20日，据报道，谷歌正计划开发一款“Frozen V2”芯片，以更高效地为其Gemini AI模型提供服务。（界面）",
+"published": 1784589666.0
+},
+{
+"source": "36氪",
+"title": "“木头姐”减持1170万美元AMD股票",
+"link": "https://36kr.com/newsflashes/3904567694346117?f=rss",
+"summary": "依据方舟投资每日交易披露数据：7月17日，“木头姐”凯西·伍德旗下多只方舟基金合计卖出超威半导体（AMD）23573股；按照当日收盘价495.76美元计算，这笔股票总价值约1170万美元。 近数月以来伍德一直在持续缩减AMD持仓，7月减持节奏仍未停下。算上本次抛售，方舟投资7月累计卖出AMD股票137421股，按最新收盘价折算市值约6810万美元。 即便伍德持续减持，AMD依旧位列方舟创新ETF第八大重仓股。（新浪财经）",
+"published": 1784589564.0
+},
+{
+"source": "36氪",
+"title": "阿联酋上半年非石油贸易额创新高",
+"link": "https://36kr.com/newsflashes/3904566884091780?f=rss",
+"summary": "阿拉伯联合酋长国日前公布的最新数据显示，2026年上半年该国非石油对外贸易额达1.94万亿阿联酋迪拉姆（1美元约合3.67迪拉姆），同比增长13.1%，创历史新高。数据显示，今年上半年，非石油出口成为拉动阿联酋贸易增长的主要动力。同期，阿联酋非石油商品出口额达到创纪录的4528亿迪拉姆，占非石油对外贸易总额的比重由去年同期的21.3%提高至23.4%。从商品结构看，黄金是阿联酋非石油贸易第一大商品，上半年贸易额同比增长48.8%；通信设备、珠宝、汽车等紧随其后。（新华社）",
+"published": 1784589461.0
+},
+{
+"source": "36氪",
+"title": "沪市一晚新增回购增持计划25家，金额上限逾百亿元",
+"link": "https://36kr.com/newsflashes/3904565361493634?f=rss",
+"summary": "7月20日晚，沪市上市公司新增回购增持计划25家，金额上限逾百亿元。其中，新增回购计划16家，合计回购金额上限39.6亿元；新增增持计划9家，合计增持金额上限67.75亿元。除回购增持公告外，还有16家沪市公司提交绩优业绩预告；23家沪市上市公司提交签订重大合同、提议中期分红等多项利好公告。（证券时报）",
+"published": 1784589248.0
+},
+{
+"source": "36氪",
+"title": "长盈精密：与宇树科技不存在股权关系",
+"link": "https://36kr.com/newsflashes/3904566004025225?f=rss",
+"summary": "36氪获悉，长盈精密7月20日在互动平台表示，公司与宇树科技不存在股权关系。",
+"published": 1784589166.0
+},
+{
+"source": "36氪",
+"title": "胜宏科技：拟155.94元/股价格授予不超486.24万股限制性股票",
+"link": "https://36kr.com/newsflashes/3904564730103682?f=rss",
+"summary": "36氪获悉，胜宏科技发布2026年A股限制性股票激励计划草案，拟向激励对象授予不超过486.24万股限制性股票，约占公司股本总额的0.49%。其中首次授予466.24万股，授予价格为155.94元/股，激励对象总人数为1545人，包括中层管理人员及核心技术（业务）骨干。业绩考核目标为：以2025年为基数，2026年净利润或营收增长率不低于40%（基准）或50%（目标），2027年不低于96%或125%，2028年不低于174.40%或237.50%。",
+"published": 1784589027.0
+},
+{
+"source": "36氪",
+"title": "新易盛：预计下半年订单交付情况仍处于快速增长阶段， 1.6T光模块预计Q3/Q4起放量节奏进一步加快",
+"link": "https://36kr.com/newsflashes/3904563916998532?f=rss",
+"summary": "36氪获悉，新易盛发布投资者关系活动记录表公告，公司成都、泰国两地的产能一直在基于未来订单的指引进行扩充，公司对市场需求端充满信心，预计下半年订单交付情况仍处于快速增长阶段，行业景气度持续高位，Q3/Q4及明年的订单能见度很清晰；Q1供应链紧张的情况对交付造成一定影响，Q2起逐步缓解，Q3/Q4将趋于稳定，得益于公司前期针对核心原材料做了充分的备货与锁定安排。今年800G出货量增长提升，已成为出货的主力产品；1.6T光模块Q2出货量较Q1明显增长，预计Q3/Q4起放量节奏将进…",
+"published": 1784588859.0
+},
+{
+"source": "TechCrunch",
+"title": "Trump’s latest AI czar has already resigned",
+"link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+"summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+"published": 1784586064.0
+},
+{
+"source": "The Verge",
+"title": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
+"link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+"summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles…",
+"published": 1784585952.0
+},
+{
+"source": "The Verge",
+"title": "The FCC is planning to retroactively ban disguised DJI gadgets",
+"link": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
+"summary": "Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC's getting ready to wield that power for the fir…",
+"published": 1784585774.0
+},
+{
+"source": "The Verge",
+"title": "The Odyssey turned me into an IMAX believer",
+"link": "https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan",
+"summary": "After seeing Christopher Nolan's The Odyssey for the first time early last week, I came away impressed, but somewhat conflicted about two of the film's more fantastical set pieces. While those scenes were beautifully crafted and tremendousl…",
+"published": 1784584057.0
+},
+{
+"source": "TechCrunch",
+"title": "Google is working on a new AI chip designed to make Gemini more efficient",
+"link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+"summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+"published": 1784582475.0
+},
+{
+"source": "The Verge",
+"title": "SpaceX in your index fund, explained",
+"link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+"summary": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinio…",
+"published": 1784581200.0
+},
+{
+"source": "TechCrunch",
+"title": "AI’s most important protocol is getting a little bit easier to use",
+"link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+"summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+"published": 1784580640.0
+},
+{
+"source": "The Verge",
+"title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
+"link": "https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale",
+"summary": "The aptly-named “2K Megahits 2026 Bundle” from Humble includes 15 Steam games for $15. It’s a smattering of the publisher 2K’s biggest games of the 2010s, including BioShock Infinite, Risk of Rain 2, Borderlands 3, and XCOM: Enemy Unknown. …",
+"published": 1784578131.0
+},
+{
+"source": "The Verge",
+"title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
+"link": "https://www.theverge.com/tech/967989/hallmark-keepsake-playstation-ornament-hands-on",
+"summary": "You probably know the signature PlayStation boot sound. Did you know that it's technically a multi-part chime? There's the synthy section where \"Sony Computer Entertainment\" shows onscreen with a white background. You only get to the next s…",
+"published": 1784578000.0
+},
+{
+"source": "TechCrunch",
+"title": "X relaunches a rebuilt Android app after year-long effort",
+"link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+"summary": "X says the rebuilt version of its Android app is now available globally.",
+"published": 1784576259.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI is scared of open-weight models. Should the US be?",
+"link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+"summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
+"published": 1784576005.0
+},
+{
+"source": "The Verge",
+"title": "Ford’s $30,000 electric truck: all the news about the company’s big EV re-do",
+"link": "https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable",
+"summary": "The end of the Ford F-150 Lightning was also the start of a new era for the automaker. After failing to capture the market with the electric version of its popular F-Series truck, Ford is going back to the drawing board with its Universal E…",
+"published": 1784575125.0
+},
+{
+"source": "TechCrunch",
+"title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+"link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+"summary": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
+"published": 1784574685.0
+},
+{
+"source": "TechCrunch",
+"title": "Judge pauses $110B Paramount-Warner Bros. merger",
+"link": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
+"summary": "The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences.",
+"published": 1784570330.0
+},
+{
+"source": "The Verge",
+"title": "Judge pauses Paramount’s attempt to buy Warner Bros. Discovery",
+"link": "https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro",
+"summary": "A judge partially granted the request from a dozen state attorneys general to temporarily place the $110 billion merger of Paramount and Warner Bros. Discovery on hold, as reported by Variety and Reuters. US District Judge Araceli Martínez-…",
+"published": 1784569073.0
+},
+{
+"source": "The Verge",
+"title": "LG’s glossy OLED gaming monitor is rare to find under $400",
+"link": "https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale",
+"summary": "If you’ve been thinking about upgrading your gaming monitor, LG’s 27-inch 27GX704A-B pairs a glossy WOLED panel with a fast refresh rate, and it’s currently on sale for $379.99 (about $70 off) at Amazon and directly from LG, marking a new l…",
+"published": 1784565264.0
+},
+{
+"source": "Solidot",
+"title": "男子移植童年取出并冷冻保存的睾丸组织恢复精子生成能力",
+"link": "https://www.solidot.org/story?sid=84878",
+"summary": "医学界完成了一项前沿手术—— 一名男性通过移植自己童年取出并冷冻保存16年的睾丸组织，重新恢复了精子生成能力。这批睾丸组织样本是他在接受化疗前采集冷冻的。化疗会严重损伤生殖功能，导致不育。这一里程碑式成果有望开启全新的人类不育治疗浪潮。2008 年比利时布鲁塞尔自由大学医院的医生为一名患病的 10 岁男孩摘除部分睾丸组织并冷冻保存。他当时罹患镰状细胞贫血，即将接受化疗，为后续造血干细胞移植做准备。10 余年后，这名男孩成年，希望拥有自己的后代。医护人员对其进行了两年监测，确认…",
+"published": 1784565227.0
+},
+{
+"source": "Solidot",
+"title": "OpenAI 高管不满中国的开源 AI 战略",
+"link": "https://www.solidot.org/story?sid=84877",
+"summary": "在月之暗面宣布首个 3 万亿参数级别开放权重模型 Kimi K3 之后，前特朗普 AI 高级顾问、现 OpenAI 战略主管 Dean Ball 在 X 平台上表示，开放权重模型的战略将导致“AI 共产主义”，可能会“减缓 AI 的发展”，因为会“阻碍 AI 领域的资本支出”。他认为政府可以通过 FUD 策略（即 fear, uncertainty, and doubt）阻止美国公司使用开放权重模型。他后来澄清说这只是预测不是建议，声称他支持 AI 开源/开放权重。美国两大前…",
+"published": 1784564411.0
+},
+{
+"source": "The Verge",
+"title": "LG’s monitors come with an unwanted addition for Windows: McAfee pop-up ads",
+"link": "https://www.theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus",
+"summary": "A video from Gamers Nexus explains how, after connecting a new LG UltraGear monitor to a PC running Windows 11 for the first time, Windows Update is silently installing LG driver updates and the LG Monitor App Installer, without so much as …",
+"published": 1784564098.0
+},
+{
+"source": "Solidot",
+"title": "Firefox 153.0 释出",
+"link": "https://www.solidot.org/story?sid=84876",
+"summary": "Mozilla 释出了 Firefox 153.0。它是 ESR 版本，将提供至少 15 个月的支持。Firefox 153.0 主要新特性包括：Vulkan 视频解码支持，Linux 版支持 Video Acceleration API (VA-API) ，增加对 JPEG-XL 图像格式的支持，Windows 版支持 HDR 视频播放，PDF 功能增强，等等。",
+"published": 1784562512.0
+},
+{
+"source": "TechCrunch",
+"title": "Adobe camera app’s new feature will critique your photos using AI",
+"link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+"summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+"published": 1784562300.0
+},
+{
+"source": "TechCrunch",
+"title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
+"link": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
+"summary": "Two critical security flaws in WordPress’ software have given hackers the chance to remotely take over tens of millions of websites, according to an estimate by a cybersecurity researcher.",
+"published": 1784561737.0
+},
+{
+"source": "Solidot",
+"title": "罗马尼亚全国土地登记数据库被黑客删除",
+"link": "https://www.solidot.org/story?sid=84875",
+"summary": "黑客入侵了罗马尼亚的土地管理机构 Agenția Națională de Cadastru și Publicitate Imobiliară（ANCPI)，在勒索失败之后删除了整个土地登记数据库以及备份，导致全国房地产市场瘫痪，官方应用和网站已离线一周。公证员无法记录新的交易，公民也无法获取所有权证明或详细的土地记录。黑客是在 7 月 14 日删库的，一天后 ANCPI 部分被盗数据在黑客论坛上出售，泄露的数据包括员工凭证、内部文件以及该机构的 IT 网络详细信息。ANC…",
+"published": 1784561270.0
+},
+{
+"source": "TechCrunch",
+"title": "YouTube clarifies policies around AI slop and upsetting videos",
+"link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+"summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+"published": 1784560986.0
+},
+{
+"source": "TechCrunch",
+"title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+"link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+"summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
+"published": 1784560500.0
+},
+{
+"source": "TechCrunch",
+"title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+"link": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+"summary": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data.",
+"published": 1784559680.0
+},
+{
+"source": "TechCrunch",
+"title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
+"link": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+"summary": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues.",
+"published": 1784557800.0
+},
+{
+"source": "Solidot",
+"title": "科学家根据体细胞突变量化人类寿命的极限",
+"link": "https://www.solidot.org/story?sid=84874",
+"summary": "体细胞突变随年龄增长而积累，能导致细胞死亡。根据发表在《npj Aging》期刊上的一项研究，科学家开发出一种方法量化体细胞突变对人类寿命的影响。研究只考虑体细胞突变，没有考虑其它任何衰老特征。研究发现，肝脏等增殖性组织通过细胞更新能在数千年内维持功能，而神经元和心肌细胞等有丝分裂后细胞则是长寿的重要瓶颈。综合多个器官预测的人类寿命中位数是 146-194 岁，约为目前人类寿命的两倍。这意味着体细胞突变是衰老的重要驱动因素，但无法单独解释目前的人类寿命，驱动衰老的还有其它因素…",
+"published": 1784554162.0
+},
+{
+"source": "TechCrunch",
+"title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+"link": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+"summary": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
+"published": 1784551168.0
+},
+{
+"source": "TechCrunch",
+"title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+"link": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+"summary": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
+"published": 1784550600.0
+},
+{
+"source": "爱范儿",
+"title": "苹果国行 AI 刷屏之外，三星也把端侧大脑交给国产 AI",
+"link": "https://www.ifanr.com/1672593?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "把智能装进手机的秘诀，在于「多、快、好、省」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1784547622.0
+},
+{
+"source": "爱范儿",
+"title": "21.48 万元起、五座六座同起步价，长城 H10 想把方盒子卖给全家人",
+"link": "https://www.ifanr.com/1672622?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "越野是留给家庭出行的余量。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1784543749.0
+},
+{
+"source": "Solidot",
+"title": "有了 AI 之后人们愈来愈不愿说不知道了",
+"link": "https://www.solidot.org/story?sid=84873",
+"summary": "法国和意大利研究人员发现，有了 AI 之后人们愈来愈不愿说不知道了，AI 抑制了人们的批判性思维，使得人们更容易重复 AI 生成的虚假信息。研究人员将参与者分成两组，一组必须在没有 AI 的帮助下回答问题，另一组可以向 AI 寻求建议。结果发现没有 AI 帮助时 44% 的人会回答说不知道答案，而有了 AI 的帮助后只有 3% 的人这样做。研究人员让参与者使用了一个更可能出错的模型 Step 3.5 Flash。结果显示，不使用 AI 正确率为 27%，使用 AI 后降至了 …",
+"published": 1784543677.0
+},
+{
+"source": "爱范儿",
+"title": "世界杯冠军刚出炉，我让商汤 U1 Pro 做了一份全景赛况图",
+"link": "https://www.ifanr.com/1672547?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "所有图片都是 one shot#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1784543368.0
+},
+{
+"source": "爱范儿",
+"title": "19.98 万元起，标轴守山野、长轴进城市，坦克 300 开始分化",
+"link": "https://www.ifanr.com/1672613?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "坦克 300 不想只活在山野里。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1784543323.0
+},
+{
+"source": "36氪",
+"title": "氪星晚报｜SpaceX将“星舰”第13次试飞推迟至7月23日；马斯克称特斯拉FSD会模仿驾驶风格；我国人形机器人整机产品超全球半数",
+"link": "https://36kr.com/p/3903710346790535?f=rss",
+"summary": "大公司： 摩根士丹利成为华尔街AI债务交易头号银行 摩根士丹利已崛起为华尔街构建人工智能（AI）繁荣背后融资架构的主导力量，设计了新的债务和股权融资模式，为数据中心的大规模建设输送数百亿美元资金。据业内高管称，自去年以来，该行已成为主导顾问，牵头了规模最大、最具创新性的AI基础设施融资交易。 三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍 据报道，三星电子晶圆代工正评估将美国泰勒厂的初期生产规模扩大至原计划的2倍。 马斯克称特斯拉FSD会模仿驾驶风格 7月…",
+"published": 1784542948.0
+},
+{
+"source": "36氪",
+"title": "WAIC上，AI开始接管人类的欲望",
+"link": "https://36kr.com/p/3903687507904387?f=rss",
+"summary": "24.8万的仿生人形机器人，“比彩礼都贵！” 撰文 | 刘思洁 编辑 | 张薇 在2026年的世界人工智能大会（WAIC）上，大模型、算力与机器人占据着核心展区的宏大叙事。但在场馆地下一层的创新展区里，AI正在撕开含蓄的面具，向下接管人类最隐秘的本能：情欲、控制欲、对失去的遗憾、对孤独的恐惧，以及对未来的迷茫困惑。 一只套着塑料壳的蛋形玩偶摆在桌子上，和人交互到一定亲密度后，它会“破壳而出”，一个毛茸茸的桌面宠物就此诞生；一个酷似Labubu的毛绒AI玩具主打亲子陪伴，父母想…",
+"published": 1784541968.0
+},
+{
+"source": "少数派",
+"title": "派评 | 近期值得关注的 App",
+"link": "https://sspai.com/post/112543",
+"summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+"published": 1784541602.0
+},
+{
+"source": "Solidot",
+"title": "Google 工会致函 CEO 要求保障被裁员工利益",
+"link": "https://www.solidot.org/story?sid=84872",
+"summary": "Google 逾 4500 名员工联名写信给首席执行官皮查伊，要求公司给员工更明确的裁员保障。员工提出的要求包括：保证遣散费、在强制裁员前先推出自愿离职计划，以及取消据称按配额评定绩效的制度。请愿书由 Alphabet 员工工会发起，已送到 Google 总部。工会主席、软件工程师考尔（Parul Koul）说，Google 市值已达到约 4 万亿美元，公司在取得空前成功的同时仍不断裁员，说明管理层把利润放在员工之上。请愿书要求，Google 在所有产品部门裁员前，先让员工选…",
+"published": 1784540470.0
+},
+{
+"source": "36氪",
+"title": "硬氪首发 | 一台80cm高的毛绒人形机器人，配一套面向未来的自研OS系统",
+"link": "https://36kr.com/p/3903761449617027?f=rss",
+"summary": "一台80cm高的毛绒人形机器人，可以承载多少想象力？ “它虽然没有完全像人，但拥有全套的传感器，可以跟你交互、分析你的表情，去看你是高兴还是低落。只要算力可以满足，它可以提供各种各样的东西，软件能增量开发的东西是有无限想象力的。” 青心意创CTO曾俊告诉硬氪。他所谈论的是Amoo——青心意创推出的首款智能机器人产品Amoo，身高80cm，拟人双足，无棱角毛绒全包覆。 曾俊曾担任全球自动驾驶巨头Cruise的核心模型科学家，带领团队取得多项行业领先成果。他是加州大学伯克利分校博…",
+"published": 1784538762.0
+},
+{
+"source": "36氪",
+"title": "硬氪首发 | 清华系量子计算企业获君联资本领投数亿融资，打破原子捕获世界纪录",
+"link": "https://36kr.com/p/3903756643255940?f=rss",
+"summary": "硬氪获悉，量子计算企业两仪万象（北京）科技有限公司（以下简称“两仪万象”）近日完成数亿元A+轮融资，由君联资本领投，基石创投、上海科创、中信建投投资、海棠基金跟投，老股东顺为资本和科大讯飞追加投资。此轮资金将用于技术研发、团队扩充和整机搭建。 两仪万象成立于2024年，孵化自清华大学原子量子计算研究团队，该团队自2000年前后开始冷原子物理研究。 两仪万象公司与清华大学原子量子计算科研团队联合成立了“冷原子量子计算北京市重点实验室”。由学校科研团队深入前沿基础研究，两仪万象公…",
+"published": 1784538495.0
+},
+{
+"source": "Solidot",
+"title": "中国考虑演示自己的行星防御技术",
+"link": "https://www.solidot.org/story?sid=84871",
+"summary": "国家航天局小行星监测预警研究中心首席科学家李明涛领导的团队在一篇论文中讨论了中国自己的行星防御系统。NASA 执行双小行星重定向测试(DART)任务的探测器于 2022 年 9 月撞击了小行星 Dimorphos，这是世界首次行星防御技术演示。中国的计划更雄心勃勃，旨在直接破坏小行星的结构，而不只是偏转其轨道。中国计划中的探测器预定在 2029 年或 2030 年以 26 倍音速以上或每秒逾 9 公里速度撞击目标——相比之下 DART 撞击速度为每秒 6.1 公里。此次任务包…",
+"published": 1784537562.0
+},
+{
+"source": "36氪",
+"title": "硬氪首发 | 离子束装备商获超亿元融资，已批量导入光通信、核聚变、量子计算头部客户",
+"link": "https://36kr.com/p/3903739699005058?f=rss",
+"summary": "硬氪获悉，中山市博顿光电科技有限公司（以下简称“博顿光电”）完成超亿元人民币B+轮融资，本轮投资方为毅达资本、中信建投资本、达武创投、友谊时光、南控基金，IO资本担任独家财务顾问。 该轮资金将用来引进高端人才、研发新产品，以及针对已经出现爆发趋势的重点行业领域，加快在综合解决方案、市场推广以及产能建设方面的投入速度。 博顿光电成立于2016年，是国家级“专精特新”小巨人企业。公司专注于全国产自主可控离子源和离子束超精密工艺设备，是业内唯一掌握核心部件离子源-离子束整机装备-应…",
+"published": 1784537461.0
+},
+{
+"source": "Solidot",
+"title": "MPEG-4 Part 2 专利全部过期",
+"link": "https://www.solidot.org/story?sid=84870",
+"summary": "MPEG-4 是一套用于音频、视频信息的压缩编码标准，由 MPEG 制定，它由一系列子标准组成，其中 Part 2 定义了一个对各种视觉信息（包括自然视频、静止纹理、计算机合成图形等等）的编解码器，如 XviD 编码就属于 Part 2。7 月 19 日 MPEG-4 Part 2 部分的最后一个专利 BRPI0109962B1 过期，从此 MPEG-4 Part 2 专利全部过期。但 XviD 编码已经很少被今天的视频使用，而 AAC(MPEG-4 Part 3) 和 AV…",
+"published": 1784534718.0
+},
+{
+"source": "Solidot",
+"title": "LibreOffice 再次谴责微软文档使用的私有格式",
+"link": "https://www.solidot.org/story?sid=84869",
+"summary": "当你在计算机上保存文档时，你实际上是在选择一种格式，一种计算机能理解的语言规则。这套规则决定了文字、表格、图像和格式指令的存储方式，以及它们在未来如何被检索、共享和读取。Microsoft Office 使用的格式几十年来一直是办公文档的主流格式，最早它使用二进制格式，扩展名为 DOC 和 XLS；Office 2007 后使用了基于 XML 的格式 DOCX、XLSX 和 PPTX。数亿人在使用这些格式。它们是世界各地办公室、学校、公共管理机构和法院的通用语言。微软的格式很…",
+"published": 1784533188.0
+},
+{
+"source": "爱范儿",
+"title": "实测千问 Qwen3.8 预览版，国产模型开始围攻 Fable 5",
+"link": "https://www.ifanr.com/1672515?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "还有 DeepSeek、智谱、MiniMax……#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1784532713.0
+},
+{
+"source": "少数派",
+"title": "角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫",
+"link": "https://sspai.com/post/112453",
+"summary": "在拥有你我理想的超大自主空间之前，不如用一张桌垫改善一下自己的工作生活环境，过得多舒心一点点吧。查看全文",
+"published": 1784531131.0
+},
+{
+"source": "Solidot",
+"title": "六分之一的 Windows 设备仍然运行 Windows 10",
+"link": "https://www.solidot.org/story?sid=84868",
+"summary": "资产管理服务商 Lansweeper 的数据显示，其监测的 Windows 设备仍然有 16.9%（六分之一）的设备运行 Windows 10。一年前 Windows 10 比例还高达五成，去年 10 月微软终止对 Windows 10 的主流支持后其比例开始快速下降，6 月降至 18.6%，但 Lansweeper 警告迁移速度正大幅放缓，中小企业最为显著。中小企业中仍有 21.4% 的设备运行 Windows 10 系统，成本是企业继续​​使用旧操作系统的主要原因。部分行…",
+"published": 1784528207.0
+},
+{
+"source": "36氪",
+"title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
+"link": "https://36kr.com/p/3902068392658566?f=rss",
+"summary": "华为公司高级副总裁、引望公司CEO 靳玉志 文｜肖漫 编辑｜李勤、杨轩 过去几年，华为一直强调自己在汽车行业的身份只有一个——“智能网联汽车的增量部件提供商”。 尽管一遍遍地强调，但随着合作车型不断扩容，“界”（指鸿蒙智行生态联盟中的问界、享界、智界、尊界、尚界）之外又出现了“境”（启境、奕境等），华为乾崑智驾授权体验中心开始向消费者开放，华为在汽车产业中的角色再一次被审视：它究竟是一家供应商，还是已经越来越像一家汽车品牌？“界”和“境”的关系是什么？ “我们的定位从来没有变…",
+"published": 1784521963.0
+},
+{
+"source": "Solidot",
+"title": "代糖摄入量与认知能力加速下降相关",
+"link": "https://www.solidot.org/story?sid=84867",
+"summary": "根据发表在《Neurology》期刊上的一项研究，多种广泛使用的代糖与记忆力和思维能力随时间推移而加速下降相关。代糖摄入量越大，认知能力下降速度越快，这种关联糖尿病患者最为显著。研究针对了 12,772 名巴西成年人，平均年龄 52 岁，他们接受了八年的监测，填写了详细的食物调查问卷。研究人员根据其食物中的代糖摄入量分成三组，参与者还在研究期间接受了认知评估。结果显示，在考虑了年龄、性别、高血压、心血管疾病等因素之后，摄入代糖/甜味剂最多的人其整体思维和记忆能力的下降速度比摄…",
+"published": 1784519250.0
+},
+{
+"source": "36氪",
+"title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
+"link": "https://36kr.com/p/3903396279125888?f=rss",
+"summary": "6个年轻创业者在WAIC的故事 文｜温丽虹 王欣逸 编辑｜张雨忻 在上海世博的WAIC现场，想找初创公司的主场H4得颇费一番功夫。 经安检进入主会场，远远只看到会场墙壁上H1到H3的标识。跟随汹涌人群挤进一楼主展馆，几名忙着操纵具身智能机器人的知名厂商工程师翻了翻他们群聊里的展会地图，抱歉地告诉我，他们也不清楚：“这里只有H1到H3，没有H4。你是不是去分会场找找？” 属于初创团队的场地在主展馆地下一层偏居一隅，一道亮黄色的大门默不作声地支在场馆西北侧的角落。穿过这道大门，就…",
+"published": 1784516552.0
+},
+{
+"source": "少数派",
+"title": "2026 年再看 iPhone 8 Plus，它还够用吗？",
+"link": "https://sspai.com/post/112425",
+"summary": "高考结束后，又有一大批同学开始考虑换新手机啦。在预算差不多的情况下，很多人会纠结是买一台较新的中端机，还是买一台年份更老、但曾经是旗舰级的机型。于是我把 2020 年购入的 iPhone 8 Plus 拿出来当了一星期主力机，看看这台 2017 年发布的手机，放到今天还能不能胜任日常使用。查看全文",
+"published": 1784516400.0
+},
+{
+"source": "36氪",
+"title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
+"link": "https://36kr.com/p/3903383663478403?f=rss",
+"summary": "7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。 过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智能体、具身智能、空间智能、AI基础设施等方向不断演进，行业开始更频繁地追问：AI如何进入真实流程，如何完成复杂任务，又如何在产业场景中形成可持续价值。 这种变化背后，是AI竞争维度的继续扩展：模型能力仍是基础，但企业真正要面对的，已经包括数据质量、工程系统…",
+"published": 1784515781.0
+},
+{
+"source": "36氪",
+"title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
+"link": "https://36kr.com/p/3903365398185857?f=rss",
+"summary": "文 | 阿至 封面来源｜Pexels 中国低轨卫星星座的规模化部署已经进入关键时间窗口。 一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。 当“上天”这件事的成本有望迅速下降，产业链的注意力也在从“怎么把卫星打上去”转向一个更务实的问题：卫星组网之后，要给谁用、怎么用？ 这个问题目前还没有标准答案，但市场上不乏想要给出解法的玩家。 一家成立不到半年…",
+"published": 1784514606.0
+},
 {
 "source": "36氪",
 "title": "Meshy完成近4亿美元B轮融资",
@@ -186,6 +956,127 @@
 "link": "https://36kr.com/p/3903220264404608?f=rss",
 "summary": "今日热点导览 任泽平团队回应VIP群聊解散 市场监管总局发布《个体工商户信用信息应用指南》 “工业维生素”价格暴涨，钼铁一天跳涨1500元 黄仁勋皮夹克拍出96万美元天价 韩国承诺放宽韩元获取渠道，力争实现“自由兑换货币”目标 TOP3大新闻 长鑫科技中签号出炉：共约770.22万个 36氪获悉，长鑫科技披露首次公开发行股票网上中签结果，中签号码共有7702207个，每个中签号码只能认购500股长鑫科技A股股票。 长鑫科技中签号出炉 西班牙队1-0战胜阿根廷队，夺得本届世界杯…",
 "published": 1784505913.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "AI materials science startup CuspAI raises $450M in funding",
+"link": "https://siliconangle.com/2026/07/20/ai-materials-science-startup-cuspai-raises-450m-funding/",
+"summary": "CuspAI Ltd., a startup using artificial intelligence to discover new materials, today announced that it has raised $450 million in funding. The U.K.-based company also formed a chemical research consortium that includes Nvidia Corp. and Sam…",
+"published": 1784588164.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Microsoft will use AMD’s AI-optimized Helios racks in Azure",
+"link": "https://siliconangle.com/2026/07/20/microsoft-will-use-amds-ai-optimized-helios-racks-azure/",
+"summary": "Microsoft Corp. will use Advanced Micro Devices Inc.’s upcoming Helios rack design to power some Azure services. The cloud and operating system giant announced the partnership today alongside three new instance families. Helios is a referen…",
+"published": 1784578847.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Infinity raises $15M to run AI inference on any chipset",
+"link": "https://siliconangle.com/2026/07/20/infinity-raises-15m-run-ai-inference-chipset/",
+"summary": "Early-stage AI infrastructure research company Infinity Inc. said it raised $15 million in seed funding to develop software that automatically prepares new artificial intelligence chips to run inference workloads. The round values the compa…",
+"published": 1784578514.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Hyve acquisition positions RAISE Summit for global expansion",
+"link": "https://siliconangle.com/2026/07/20/hyve-technology-raise-summit-expansion-raisesummit/",
+"summary": "Hyve Group’s acquisition of Chain of Events is set to accelerate the international expansion of RAISE Summit, Paris Blockchain Week and MACHINA while adding technology designed to improve attendee networking and deal-making. The transaction…",
+"published": 1784574926.0
+},
+{
+"source": "SiliconANGLE",
+"title": "On theCUBE Pod: IBM’s AI test, Nvidia’s lead and the race for enterprise intelligence",
+"link": "https://siliconangle.com/2026/07/20/enterprise-intelligence-ai-race-thecubepod/",
+"summary": "Artificial intelligence companies are racing to control the infrastructure, data and software layers that will power enterprise intelligence. Nvidia Corp. remains far ahead in accelerated computing, but Advanced Micro Devices Inc., Broadcom…",
+"published": 1784565193.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Neo Security bags $100M to build the secure control layer for enterprise AI agents",
+"link": "https://siliconangle.com/2026/07/20/neo-security-bags-100m-build-secure-control-layer-enterprise-ai-agents/",
+"summary": "Agentic software control startup Neo Security Inc. said today it’s exiting a years-long spell in “stealth” mode after raising $100 million in funding. The round was led by top tier venture capitalists in Andreessen Horowitz and Bessemer Ven…",
+"published": 1784563575.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Hugging Face uses open-weights Z.ai GLM 5.2 to battle attacker after commercial frontier model refusal",
+"link": "https://siliconangle.com/2026/07/20/hugging-face-uses-open-weights-z-ai-glm-5-2-defend-attacker-commercial-frontier-model-refusal/",
+"summary": "Hugging Face Inc., an open-source artificial intelligence platform often described as the “GitHub of machine learning,” found itself forced to use an open-weights model to respond to an agentic AI attack after the safety guardrails on comme…",
+"published": 1784563558.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Why the next battle for technology IPOs begins years before companies go public",
+"link": "https://siliconangle.com/2026/07/20/next-battle-technology-ipos-begins-years-companies-go-public/",
+"summary": "When most people think about the New York Stock Exchange, they think about listing day. The opening bell. CNBC. The trading floor. The moment a private company becomes public. What they don’t see are the years leading up to that moment. Inc…",
+"published": 1784558515.0
+},
+{
+"source": "EU-Startups",
+"title": "Top 10 most active investors in Europe in 2026 – so far",
+"link": "https://www.eu-startups.com/2026/07/top-10-most-active-investors-in-europe-in-2026-so-far/",
+"summary": "We at EU-Startups have been wondering, who are Europe’s most active investors? Whether its private or public VCs, investment vehicles, or funds, it feels important to put together a list to see who has been the most active in developing the…",
+"published": 1784554209.0
+},
+{
+"source": "SiliconANGLE",
+"title": "ShelterZoom subsidiary Mithra launches AI ‘trust infrastructure’ platform",
+"link": "https://siliconangle.com/2026/07/20/shelterzoom-subsidiary-mithra-launches-ai-trust-infrastructure-platform/",
+"summary": "Mithra Technologies Inc., a subsidiary of blockchain and document-security company ShelterZoom Corp., today launched Mithra AI, a product built to vet the data behind an enterprise artificial intelligence answer before the model ever produc…",
+"published": 1784552418.0
+},
+{
+"source": "EU-Startups",
+"title": "Spain’s female-led FoodTech startup Sensesbit raises €1 million to scale its AI-powered sensory intelligence platform",
+"link": "https://www.eu-startups.com/2026/07/spains-female-led-foodtech-startup-sensesbit-raises-e1-million-to-scale-its-ai-powered-sensory-intelligence-platform/",
+"summary": "Sensesbit, a Lugo-based FoodTech startup specialising in advanced sensory analysis, has closed a €1 million funding round to accelerate its international expansion. The round included participation from Clave Capital, Eoniq Fund, WindOne Co…",
+"published": 1784550300.0
+},
+{
+"source": "EU-Startups",
+"title": "Your next client could be Europe’s next unicorn: Join the EIC Service Catalogue",
+"link": "https://www.eu-startups.com/2026/07/your-next-client-could-be-europes-next-unicorn-join-the-eic-service-catalogue/",
+"summary": "Every year, the European Innovation Council (EIC) backs hundreds of promising startups and SMEs. Tackling some of society’s biggest challenges, from clean energy and healthcare to AI, advanced manufacturing and space technologies, these inn…",
+"published": 1784548313.0
+},
+{
+"source": "Crunchbase",
+"title": "Mexico Extends Its Venture Lead Over Brazil As More Global VCs Enter Latin America",
+"link": "https://news.crunchbase.com/venture/mexico-leads-latin-america-funding-q2-2026/",
+"summary": "Mexico’s startups led the LatAm pack in Q2 — by a wide margin. The country’s startups raised $944 million in the second quarter, up 131% compared to $409 million in last year’s Q2, and up 136% from the $401 million raised in this year’s fir…",
+"published": 1784545230.0
+},
+{
+"source": "EU-Startups",
+"title": "Leeds-based Xentra secures €3.18 million to scale cybersecurity services for SMEs",
+"link": "https://www.eu-startups.com/2026/07/leeds-based-xentra-secures-e3-18-million-to-scale-cybersecurity-services-for-smes/",
+"summary": "Xentra, a Leeds-based digital security startup providing cybersecurity, safeguarding and compliance solutions to SMEs, has secured a €3.18 million (£2.7 million) investment from the Maven VCTs and NPIF II – Maven Equity Finance to support i…",
+"published": 1784544926.0
+},
+{
+"source": "EU-Startups",
+"title": "No talent, no sovereignty: The blind spot in Europe’s Tech strategy",
+"link": "https://www.eu-startups.com/2026/07/no-talent-no-sovereignty-the-blind-spot-in-europes-tech-strategy/",
+"summary": "Europe is caught in a strategic autonomy paradox. While it may have the lead in writing tech-sovereignty frameworks, it invests only a fraction of what the tech heavyweights are pouring into the sector. The European Commission has reported …",
+"published": 1784542548.0
+},
+{
+"source": "EU-Startups",
+"title": "CuspAI raises €393.2 million at €2.2 billion valuation; launches AI Materials Foundry to accelerate materials discovery",
+"link": "https://www.eu-startups.com/2026/07/cuspai-raises-e393-2-million-at-e2-2-billion-valuation-launches-ai-materials-foundry-to-accelerate-materials-discovery/",
+"summary": "CuspAI, a Cambridge-based company building an AI system for materials discovery, today announced its €393.2 million ($450 million) Series B funding round at a €2.2 billion ($2.6 billion) valuation and the launch of “AI Materials Foundry”, a…",
+"published": 1784537744.0
+},
+{
+"source": "EU-Startups",
+"title": "Milan-based Contents acquires Spanish financial wellbeing platform Balio in sixth buy-and-build deal",
+"link": "https://www.eu-startups.com/2026/07/milan-based-contents-acquires-spanish-financial-wellbeing-platform-balio-in-sixth-buy-and-build-deal/",
+"summary": "Contents, a Milan-based enterprise execution platform that orchestrates AI agents, enterprise knowledge and approval workflows for global brands, has acquired Balio, a Barcelona-based enterprise company specialising in corporate financial w…",
+"published": 1784531057.0
 }
 ]
 }

@@ -1,6 +1,6 @@
 {
 "date": "2026-07-17",
-"total": 126,
+"total": 128,
 "categories": {
 "AI": [
 {
@@ -107,6 +107,13 @@
 "link": "https://stateofopensource.ai/",
 "summary": "Article URL: https://stateofopensource.ai/ Comments URL: https://news.ycombinator.com/item?id=48947825 Points: 353 # Comments: 259",
 "published": 1784298670.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+"link": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+"summary": "Article URL: https://blog.zksecurity.xyz/posts/openvm-bugs/ Comments URL: https://news.ycombinator.com/item?id=48947714 Points: 100 # Comments: 9",
+"published": 1784298095.0
 },
 {
 "source": "InfoQ 中国",
@@ -424,6 +431,13 @@
 "link": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
 "summary": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders.",
 "published": 1784297522.0
+},
+{
+"source": "爱范儿",
+"title": "奔驰设计师跳槽五菱，带来了十万级唯一大六座 SUV",
+"link": "https://www.ifanr.com/1672305?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "体验平权，设计也要平权。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1784297284.0
 },
 {
 "source": "36氪",

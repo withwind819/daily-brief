@@ -1,8 +1,15 @@
 {
 "date": "2026-07-18",
-"total": 68,
+"total": 73,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+"link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+"summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=48962983 Points: 568 # Comments: 259",
+"published": 1784412819.0
+},
 {
 "source": "InfoQ 中国",
 "title": "火速上架！空降即登顶Arena，Kimi K3当日登陆「模型广场」",
@@ -16,6 +23,13 @@
 "link": "https://www.qbitai.com/2026/07/454040.html",
 "summary": "机器人真正具备了干活的完整能力",
 "published": 1784381001.0
+},
+{
+"source": "HN AI 热门",
+"title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+"link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+"summary": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/ Comments URL: https://news.ycombinator.com/item?id=48957779 Points: 584 # Comments: 384",
+"published": 1784379652.0
 },
 {
 "source": "InfoQ 中国",
@@ -32,11 +46,32 @@
 "published": 1784373581.0
 },
 {
+"source": "HN AI 热门",
+"title": "What AI did to stackoverflow in a graph",
+"link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+"summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph Comments URL: https://news.ycombinator.com/item?id=48956949 Points: 448 # Comments: 536",
+"published": 1784373166.0
+},
+{
+"source": "HN AI 热门",
+"title": "Why do AI company logos look like buttholes? (2025)",
+"link": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+"summary": "Article URL: https://velvetshark.com/ai-company-logos-that-look-like-buttholes Comments URL: https://news.ycombinator.com/item?id=48956924 Points: 439 # Comments: 146",
+"published": 1784372810.0
+},
+{
 "source": "量子位",
 "title": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气",
 "link": "https://www.qbitai.com/2026/07/454003.html",
 "summary": "",
 "published": 1784372691.0
+},
+{
+"source": "HN AI 热门",
+"title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+"link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+"summary": "Article URL: https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/ Comments URL: https://news.ycombinator.com/item?id=48956879 Points: 251 # Comments: 124",
+"published": 1784372429.0
 },
 {
 "source": "量子位",

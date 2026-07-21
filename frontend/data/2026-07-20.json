@@ -1,6 +1,6 @@
 {
 "date": "2026-07-20",
-"total": 153,
+"total": 156,
 "categories": {
 "AI": [
 {
@@ -60,6 +60,20 @@
 "published": 1784565681.0
 },
 {
+"source": "HN AI 热门",
+"title": "How we measured AI writing across arXiv, and where the measurement breaks",
+"link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+"summary": "Article URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv Comments URL: https://news.ycombinator.com/item?id=48981206 Points: 238 # Comments: 163",
+"published": 1784565396.0
+},
+{
+"source": "HN AI 热门",
+"title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+"link": "https://news.ycombinator.com/item?id=48981136",
+"summary": "Hi HN, I’m Alex Southmayd, the founder of Bloomy (https://bloomylearning.com) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive curriculum (right now Math, English Lang…",
+"published": 1784565130.0
+},
+{
 "source": "InfoQ 中国",
 "title": "亚马逊云科技概要介绍了某客户如何将 Lambda 函数扩展至 100 万个",
 "link": "https://www.infoq.cn/article/bkhkOrQYPuIN672g20hi?utm_source=rss&utm_medium=article",
@@ -107,6 +121,13 @@
 "link": "https://www.infoq.cn/article/qgQoeipS5mb1feHBpTpp?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1784557637.0
+},
+{
+"source": "HN AI 热门",
+"title": "China’s open-weights AI strategy is winning",
+"link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+"summary": "Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/ Comments URL: https://news.ycombinator.com/item?id=48979269 Points: 1209 # Comments: 915",
+"published": 1784557307.0
 },
 {
 "source": "The Decoder",

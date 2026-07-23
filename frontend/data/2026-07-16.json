@@ -1,6 +1,6 @@
 {
 "date": "2026-07-16",
-"total": 142,
+"total": 143,
 "categories": {
 "AI": [
 {
@@ -240,6 +240,13 @@
 "link": "https://www.qbitai.com/2026/07/451049.html",
 "summary": "记忆能够独立成层",
 "published": 1784187254.0
+},
+{
+"source": "OpenAI 博客",
+"title": "How Codex became a collaborator for OpenAI’s creative team",
+"link": "https://openai.com/index/codex-collaborator-creative-team",
+"summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
+"published": 1784185200.0
 },
 {
 "source": "量子位",

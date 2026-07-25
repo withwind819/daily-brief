@@ -1,6 +1,6 @@
 {
 "date": "2026-07-24",
-"total": 135,
+"total": 139,
 "categories": {
 "AI": [
 {
@@ -81,11 +81,25 @@
 "published": 1784902746.0
 },
 {
+"source": "HN AI 热门",
+"title": "Open Weights and American AI Leadership [pdf]",
+"link": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+"summary": "Article URL: https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf Comments URL: https://news.ycombinator.com/item?id=49035751 Points: 111 # Comments: 2",
+"published": 1784901492.0
+},
+{
 "source": "InfoQ 中国",
 "title": "具身智能争夺下一块拼图：一目科技估值破百亿，触觉传感器走向量产",
 "link": "https://www.infoq.cn/article/luJs2PpHVhQb8s5F2WuA?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1784900479.0
+},
+{
+"source": "HN AI 热门",
+"title": "I Tried Building a Real App with AI. It Took a Year",
+"link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+"summary": "Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/ Comments URL: https://news.ycombinator.com/item?id=49034342 Points: 107 # Comments: 84",
+"published": 1784894417.0
 },
 {
 "source": "InfoQ 中国",
@@ -163,6 +177,13 @@
 "link": "https://www.infoq.cn/article/efrkvfZ2bcbztDfThycu?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1784885230.0
+},
+{
+"source": "HN AI 热门",
+"title": "Hetzner is working on LLM Inference",
+"link": "https://sliplane.io/blog/hetzner-inference",
+"summary": "Article URL: https://sliplane.io/blog/hetzner-inference Comments URL: https://news.ycombinator.com/item?id=49033087 Points: 152 # Comments: 87",
+"published": 1784885084.0
 },
 {
 "source": "量子位",
@@ -368,6 +389,13 @@
 "link": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
 "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test…",
 "published": 1784911808.0
+},
+{
+"source": "Solidot",
+"title": "IRGC 声称摧毁了亚马逊巴林数据中心",
+"link": "https://www.solidot.org/story?sid=84919",
+"summary": "IRGC 声称使用巡航导弹袭击并摧毁了亚马逊 AWS 位于巴林的数据中心。亚马逊和美国军方未证实这一说法。如果属实，这是亚马逊巴林数据中心第三次遭到袭击，根据 AWS 自己的公告，巴林数据中心自 2026 年 5 月以来就处于离线状态。",
+"published": 1784909615.0
 },
 {
 "source": "TechCrunch",

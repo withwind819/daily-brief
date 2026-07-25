@@ -1,6 +1,6 @@
 {
 "date": "2026-07-22",
-"total": 142,
+"total": 146,
 "categories": {
 "AI": [
 {
@@ -46,6 +46,13 @@
 "published": 1784741744.0
 },
 {
+"source": "HN AI 热门",
+"title": "Are AI labs pelicanmaxxing?",
+"link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+"summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html Comments URL: https://news.ycombinator.com/item?id=49010129 Points: 680 # Comments: 242",
+"published": 1784740674.0
+},
+{
 "source": "The Decoder",
 "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion",
 "link": "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/",
@@ -88,6 +95,20 @@
 "published": 1784735151.0
 },
 {
+"source": "HN AI 热门",
+"title": "Most Americans say \"not in my backyard\" to AI data centers",
+"link": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
+"summary": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 145 # Comments: 308",
+"published": 1784730867.0
+},
+{
+"source": "HN AI 热门",
+"title": "Quality non-fiction books are the antithesis of AI slop",
+"link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+"summary": "https://book-prize-index.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49007247 Points: 491 # Comments: 238",
+"published": 1784729885.0
+},
+{
 "source": "InfoQ 中国",
 "title": "西部数据 Tim Rausch：AI不是只有GPU，数据最终还要回到存储系统",
 "link": "https://www.infoq.cn/article/d5wZmCfW9GSEA7FMg40C?utm_source=rss&utm_medium=article",
@@ -121,6 +142,13 @@
 "link": "https://www.infoq.cn/minibook/YooWx1oj7EFSLmGAj1mp?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1784724843.0
+},
+{
+"source": "HN AI 热门",
+"title": "Businesses with ugly AI menu redesigns",
+"link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+"summary": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/ Comments URL: https://news.ycombinator.com/item?id=49005973 Points: 380 # Comments: 303",
+"published": 1784724585.0
 },
 {
 "source": "InfoQ 中国",

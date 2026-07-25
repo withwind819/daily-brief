@@ -1,6 +1,6 @@
 {
 "date": "2026-07-23",
-"total": 145,
+"total": 155,
 "categories": {
 "AI": [
 {
@@ -23,6 +23,13 @@
 "link": "https://www.infoq.cn/video/foIhBcWJok2LdIfZ2qjw?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1784830566.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI bet goes awry: Oracle fires 21,000 employees",
+"link": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
+"summary": "Article URL: https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD Comments URL: https://news.ycombinator.com/item?id=49025754 Points: 106 # Comments: 26",
+"published": 1784830053.0
 },
 {
 "source": "The Decoder",
@@ -67,11 +74,25 @@
 "published": 1784826000.0
 },
 {
+"source": "HN AI 热门",
+"title": "The arguments against open source AI are bad",
+"link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+"summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 309 # Comments: 212",
+"published": 1784825397.0
+},
+{
 "source": "InfoQ 中国",
 "title": "医疗与生命科学领导者必须回答的 10 个 Agentic AI 关键问题 ｜ 技术实践",
 "link": "https://www.infoq.cn/article/06XxocxibFHWsL53PPFc?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1784823600.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+"link": "https://github.com/onecli/onecli",
+"summary": "hey HN, Jonathan and Guy here, creators of OneCLI (https://onecli.sh/). OneCLI is an open source vault for AI Agents.Traditional vaults are used to store your secrets and, on demand, provide them to you all in a secure way, trusting the per…",
+"published": 1784821360.0
 },
 {
 "source": "InfoQ 中国",
@@ -81,6 +102,20 @@
 "published": 1784820989.0
 },
 {
+"source": "HN AI 热门",
+"title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+"link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+"summary": "https://littletech.org/https://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0... Comments URL: https://news.ycombinator.com/item?id=49023016 Points: 1060 # Comments: 871",
+"published": 1784819920.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+"link": "https://github.com/palmier-io/palmier-pro",
+"summary": "Hi HN, we are Marcos and Harrison, cofounders of Palmier (https://palmier.io). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP server that connects to your agent. Here are a few de…",
+"published": 1784819497.0
+},
+{
 "source": "InfoQ 中国",
 "title": "全球首个端侧驱动本体的世界模型来了！大晓机器人首创“信息密度定律”，重写物理AI训练逻辑",
 "link": "https://www.infoq.cn/article/u0hD10fj7HWAfb10Dbr3?utm_source=rss&utm_medium=article",
@@ -88,11 +123,46 @@
 "published": 1784819430.0
 },
 {
+"source": "HN AI 热门",
+"title": "I think you might be fooling yourself with AI",
+"link": "https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html",
+"summary": "Article URL: https://louwrentius.com/i-think-you-might-be-fooling-yourself-with-ai.html Comments URL: https://news.ycombinator.com/item?id=49021843 Points: 83 # Comments: 167",
+"published": 1784815543.0
+},
+{
+"source": "HN AI 热门",
+"title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+"link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+"summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Points: 267 # Comments: 330",
+"published": 1784814696.0
+},
+{
 "source": "InfoQ 中国",
 "title": "Linkerd 2.20 发布：智能流量管理升级，资源占用大幅降低",
 "link": "https://www.infoq.cn/article/TJL8TIiuD6Cev0Ig0AAS?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1784813100.0
+},
+{
+"source": "HN AI 热门",
+"title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+"link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+"summary": "Article URL: https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/ Comments URL: https://news.ycombinator.com/item?id=49021006 Points: 274 # Comments: 283",
+"published": 1784812202.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+"link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+"summary": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet Comments URL: https://news.ycombinator.com/item?id=49020999 Points: 685 # Comments: 375",
+"published": 1784812150.0
+},
+{
+"source": "HN AI 热门",
+"title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+"link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+"summary": "Article URL: https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china Comments URL: https://news.ycombinator.com/item?id=49020868 Points: 298 # Comments: 331",
+"published": 1784811603.0
 },
 {
 "source": "The Decoder",

@@ -1,0 +1,446 @@
+{
+"date": "2026-07-25",
+"total": 62,
+"categories": {
+"AI": [
+{
+"source": "HN AI 热门",
+"title": "Open-weight AI is having its Kubernetes moment",
+"link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+"summary": "Article URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/ Comments URL: https://news.ycombinator.com/item?id=49048034 Points: 291 # Comments: 236",
+"published": 1784990989.0
+},
+{
+"source": "The Decoder",
+"title": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+"link": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/",
+"summary": "In a cybersecurity test, OpenAI's most advanced models breached the boundaries of their isolated test environment, reached the open internet, and hacked the AI platform Hugging Face on their own. The attack took hours, not the weeks a human…",
+"published": 1784987150.0
+},
+{
+"source": "量子位",
+"title": "100%开源！吴恩达做了个个人桌面Agent",
+"link": "https://www.qbitai.com/2026/07/460892.html",
+"summary": "开源、隐私、本地优先、模型无关",
+"published": 1784982934.0
+},
+{
+"source": "量子位",
+"title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+"link": "https://www.qbitai.com/2026/07/460542.html",
+"summary": "这是机器人领域最好的时代",
+"published": 1784982267.0
+},
+{
+"source": "量子位",
+"title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+"link": "https://www.qbitai.com/2026/07/460253.html",
+"summary": "模型变强，Claude Code系统提示词都精简了",
+"published": 1784981499.0
+},
+{
+"source": "量子位",
+"title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+"link": "https://www.qbitai.com/2026/07/460234.html",
+"summary": "不做人形，抓住真实用户需求",
+"published": 1784980484.0
+},
+{
+"source": "量子位",
+"title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+"link": "https://www.qbitai.com/2026/07/460186.html",
+"summary": "工业圈和学术圈“唱反调”",
+"published": 1784977645.0
+},
+{
+"source": "The Decoder",
+"title": "Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents",
+"link": "https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/",
+"summary": "Opus 5 combined with Auto Mode hits a zero percent prompt injection success rate for browser agents across 129 test scenarios. Without those extra protection layers, the rate is 3.7 percent. If these numbers hold up in practice, Anthropic m…",
+"published": 1784976216.0
+},
+{
+"source": "InfoQ 中国",
+"title": "以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线｜AICon深圳",
+"link": "https://www.infoq.cn/article/fovd670ZuVMSMI7Z0zO4?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784973600.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks",
+"link": "https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/",
+"summary": "Anthropic's Claude Opus 5 leads the Artificial Analysis Intelligence Index with 61 points, edging out Claude Fable 5 and GPT-5.6 Sol. The model scores highest in analytical quality and coding, and costs up to half as much as Fable 5 at lowe…",
+"published": 1784971860.0
+},
+{
+"source": "InfoQ 中国",
+"title": "GitHub Issues 大改造：用缓存和预取，让页面打开快了数倍",
+"link": "https://www.infoq.cn/article/yDgq3fh4YxZM93u21Kr5?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784970000.0
+},
+{
+"source": "InfoQ 中国",
+"title": "圆桌访谈：AI 创作场——当生成门槛降低，真正稀缺的是什么？",
+"link": "https://www.infoq.cn/video/rIOauXdfJLSyeIE1pbuQ?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784966400.0
+},
+{
+"source": "量子位",
+"title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+"link": "https://www.qbitai.com/2026/07/460174.html",
+"summary": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路",
+"published": 1784949713.0
+}
+],
+"科技": [
+{
+"source": "TechCrunch",
+"title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+"link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+"summary": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
+"published": 1785012911.0
+},
+{
+"source": "TechCrunch",
+"title": "The hacker who humiliated spyware makers and was never caught",
+"link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+"summary": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
+"published": 1785011054.0
+},
+{
+"source": "TechCrunch",
+"title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+"link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+"summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
+"published": 1785007412.0
+},
+{
+"source": "The Verge",
+"title": "Google basically confirms the Pixel 11 is getting a price hike",
+"link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+"summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion o…",
+"published": 1785003216.0
+},
+{
+"source": "TechCrunch",
+"title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+"link": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+"summary": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”",
+"published": 1784998006.0
+},
+{
+"source": "TechCrunch",
+"title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+"link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+"summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+"published": 1784995200.0
+},
+{
+"source": "Solidot",
+"title": "Debian 讨论是否允许使用 LLM",
+"link": "https://www.solidot.org/story?sid=84922",
+"summary": "Debian 项目正在讨论如何使用 LLM 以及是否允许使用 LLM。其中一个提议是明确禁止使用 LLM，但只限于 Debian 本身，上游项目以及上游安全补丁不包含在内。另一个提议是允许 AI 辅助贡献，但需要确保 AI 生成代码符合 Debian 的各项规定，贡献者需要承担责任和履行披露义务。开发者指出，LLM 存在版权和许可方面的问题，也不能确保质量和准确性，会增加社区审核者的负担，AI 公司在训练大模型时无视版权和许可抓取数据，伤害了整个自由软件社区，对无数用户依赖的…",
+"published": 1784994793.0
+},
+{
+"source": "The Verge",
+"title": "Synth historian Oli Freke will spend big on a good bicycle",
+"link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+"summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's…",
+"published": 1784992500.0
+},
+{
+"source": "The Verge",
+"title": "Teenage Engineering’s unique music machines are 30 percent off",
+"link": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+"summary": "With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you produce songs in rea…",
+"published": 1784991600.0
+},
+{
+"source": "The Verge",
+"title": "Warner Bros. is suing Amazon for poaching employees",
+"link": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
+"summary": "Warner Bros. Discovery has filed suit against Amazon, accusing it of illegally poaching employees, including Pia Barlow, former senior VP for originals marketing. In the complaint, Warner says that \"Amazon has chosen to ride on the coattail…",
+"published": 1784988312.0
+},
+{
+"source": "Solidot",
+"title": "美国司法部起诉一位公民提供了会导致手机数据自动删除的密码",
+"link": "https://www.solidot.org/story?sid=84921",
+"summary": "美国司法部起诉了一位公民在入境搜查时提供了所谓的“胁迫密码”，输入该密码导致手机上的数据自动删除。这起案件被认为是美国首例“胁迫密码”案例。本案的被告是亚特兰大居民 Samuel Tunick，他的手机运行了安全加固的 Android 操作系统 GrapheneOS，它内置了一项安全功能，允许用户设置“胁迫密码”，如果输入的不是解锁密码而是“胁迫密码”，那么手机上的数据将会自动清除。本案引发了在入境时美国公民可以援引哪些宪法权利的疑问。美国政府长期坚称，在允许入境前边境处不属…",
+"published": 1784986048.0
+},
+{
+"source": "TechCrunch",
+"title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+"link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+"summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+"published": 1784984700.0
+},
+{
+"source": "The Verge",
+"title": "Is this e-reader case a gun?",
+"link": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
+"summary": "Is an e-reader case as dangerous as a Glock 19? Last month, Louisville, Kentucky-based creator Luke The Maker showed off a bizarre, 3D-printed, pistol-shaped case design for the popular minimalist Xteink X4 e-reader. The X4 lies vertically …",
+"published": 1784984400.0
+},
+{
+"source": "The Verge",
+"title": "What Surrounds Us will make you think a lot about circles",
+"link": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
+"summary": "What Surrounds Us takes its title literally. You play as a circle surrounding a hole in its middle - it looks like a donut with frosting. You work together with other sentient moving circles, sometimes helping them joyfully meet with others…",
+"published": 1784980800.0
+},
+{
+"source": "The Verge",
+"title": "Folding and flipping phones are getting seriously good",
+"link": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+"summary": "Hi, friends! Welcome to Installer No. 137, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy phone season, and also you can read all the old editions at the Installer homepage.) This week, I've be…",
+"published": 1784980800.0
+},
+{
+"source": "36氪",
+"title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
+"link": "https://36kr.com/p/3910880823202948?f=rss",
+"summary": "文｜温丽虹 编辑｜张雨忻 Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。 从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问题。 公司刚创办，曾歆勋就拿到了今日资本徐新200万美元天使投资。他后来才知道，徐新见他前，已经在…",
+"published": 1784977221.0
+},
+{
+"source": "Solidot",
+"title": "英伟达、微软、OpenAI 等公司反对限制开放权重模型",
+"link": "https://www.solidot.org/story?sid=84920",
+"summary": "在一群初创公司之后，科技巨头如微软、英伟达、思科、戴尔、IBM、甚至 OpenAI 等数十家公司和组织联署发表公开信，呼吁美国政府不要过早限制开放权重模型，认为此举会扼杀竞争或导致本土创新放缓。公开信称，开放权重模型能促进竞争，确保 AI 技术的好处能广泛共享，避免其掌握在少数人手中，而闭源模型并不意味着绝对安全。没有署名的知名 AI 公司包括了 Google、Anthropic 以及 xAI/SpaceX，其中 SpaceX CEO 马斯克通过社交媒体口头表达了对公开信的支…",
+"published": 1784977063.0
+},
+{
+"source": "36氪",
+"title": "《2026能源产业生态报告》发布 风电光伏装机超越火电",
+"link": "https://36kr.com/newsflashes/3910816808457602?f=rss",
+"summary": "记者今天（25日）从中国企业改革与发展研究会获悉，《2026能源产业生态报告》正式发布。报告显示，“十四五”时期，我国风电光伏装机历史性超越火电，核能、生物质能领域领跑全球。“十四五”期间，我国能源产业实现安全保供与绿色低碳转型双向协同发展。2025年全国能源重点项目投资额首超3.5万亿元，同比增长近11%。新能源产业实现跨越式发展，2020至2025年风电光伏装机从5.3亿千瓦增至18.4亿千瓦。核电运行装机总量稳居全球第一，生物质能发电装机连续7年规模全球第一。（央视新闻…",
+"published": 1784971647.0
+},
+{
+"source": "36氪",
+"title": "今年上半年新疆霍尔果斯口岸进出口货运量创新高",
+"link": "https://36kr.com/newsflashes/3910803462559108?f=rss",
+"summary": "今年上半年，新疆霍尔果斯口岸依托公铁联运枢纽优势，进出口货运量持续增长，据霍尔果斯海关统计，今年1—6月，新疆霍尔果斯口岸实际监管进出口货运量2295.4万吨，同比增长3.1%，创历史新高。（央视新闻）",
+"published": 1784970024.0
+},
+{
+"source": "36氪",
+"title": "奇瑞集团全球累计销量突破2000万辆",
+"link": "https://36kr.com/newsflashes/3910802157589891?f=rss",
+"summary": "36氪获悉，据“奇瑞集团”公众号消息，2026年7月25日，奇瑞集团全球累计销量正式突破2000万辆。奇瑞集团表示，同一天即将迎来上市的风云A9，将作为第2000万辆车，正式交付给用户。",
+"published": 1784968420.0
+},
+{
+"source": "36氪",
+"title": "携程公布五个方面、共十九项整改措施",
+"link": "https://36kr.com/newsflashes/3910756819358855?f=rss",
+"summary": "7月25日，携程发布关于落实行政处罚决定整改措施的公告，公布了五个方面、共十九项整改措施。其中包括立即停止独家合作行为、保障酒店经营者自主经营权；立即停止不合理“全网最低价”要求、保障酒店经营者自主定价权；维护酒店经营者合法权益，持续倾听商家意见与诉求，不断优化商家经营环境；强化消费者权益保护，持续提升服务保障水平；加强合规建设，健全长效机制。",
+"published": 1784966410.0
+},
+{
+"source": "36氪",
+"title": "派拉蒙天舞宣布推迟收购华纳兄弟交易",
+"link": "https://36kr.com/newsflashes/3910698042643844?f=rss",
+"summary": "派拉蒙天舞公司24日宣布同意推迟收购华纳兄弟探索公司的交易。该项被广泛认为将改变美国娱乐、媒体等多个行业格局的交易目前正面临严峻法律挑战。派拉蒙天舞是在经过数轮交锋和不断提高收购报价后，才最终击败流媒体巨头奈飞。华纳兄弟探索公司股东4月23日投票批准了派拉蒙天舞提出的收购协议。这笔交易原计划在今年第三季度完成。提交给美国证券监管机构的文件显示，若交易延期，派拉蒙天舞公司或将付出高昂代价。（新华社）",
+"published": 1784964906.0
+},
+{
+"source": "36氪",
+"title": "VC价格一个多月涨幅超40%，厂商限量供货",
+"link": "https://36kr.com/newsflashes/3910693301654656?f=rss",
+"summary": "百川盈孚数据显示，7月24日VC均价为20万元/吨，近一个多月涨幅超40%；其中7月23日单日跳涨2万元/吨，时隔4年多再破20万元/吨关口。受产品涨价刺激，A股VC板块迎来大涨。7月23日，孚日股份等多股涨停。“明显感觉供应紧张起来了，目前大多数VC厂商都限量供货，不再是想要多少就能拿到多少。”华中地区一位电解液企业相关负责人告诉记者，现阶段VC厂都很强势，账款哪怕逾期一天，第二天就停止发货了。（证券时报）",
+"published": 1784963256.0
+},
+{
+"source": "The Verge",
+"title": "Forget expensive sleepbuds. Buy this pillow instead",
+"link": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
+"summary": "Tech companies love to sell us expensive gadgets to solve all of life's little problems. Sleepbuds sold by the likes of Anker and Ozlo are a good example. These miniature marvels of engineering sit flush in the ear, and allow side-sleepers …",
+"published": 1784962800.0
+},
+{
+"source": "36氪",
+"title": "SK集团与英伟达通过一项涵盖人工智能工厂和下一代内存的5000亿美元以上战略合作项目",
+"link": "https://36kr.com/newsflashes/3910690882507907?f=rss",
+"summary": "英伟达宣布，SK集团与英伟达在AI工厂及下一代内存领域扩大战略合作。SK集团与英伟达今日宣布计划建立一项超过5000亿美元的综合合作伙伴关系，以建立满足全球计算需求激增的人工智能基础设施。双方签署了意向书，正式化协议，涵盖从人工智能工厂建设到人工智能内存供应。SK电信将建设2吉瓦的NVIDIA Vera Rubin DSX AI工厂，以满足全球计算需求。英伟达与SK海力士建立长期合作关系，共同保障并共同开发包括HBM在内的下一代AI内存。两家公司将共同开发和优化下一代AI内存…",
+"published": 1784961629.0
+},
+{
+"source": "36氪",
+"title": "三星电子与博通达成价值2000亿美元的半导体供应合作协议",
+"link": "https://36kr.com/newsflashes/3910562246645128?f=rss",
+"summary": "据报道，三星电子与博通达成价值2000亿美元的半导体供应合作协议。（第一财经）",
+"published": 1784960111.0
+},
+{
+"source": "36氪",
+"title": "三星电子、SK海力士将与美国科技巨头推进规模达1375万亿韩元的芯片合作项目",
+"link": "https://36kr.com/newsflashes/3910551543289216?f=rss",
+"summary": "媒体援引韩国总统顾问消息：三星电子、SK海力士将与美国科技巨头推进规模达1375万亿韩元的芯片合作项目。（新浪财经）",
+"published": 1784959903.0
+},
+{
+"source": "36氪",
+"title": "“景德镇手工瓷业遗存”申遗成功！我国世界遗产达61项",
+"link": "https://36kr.com/newsflashes/3910543068009602?f=rss",
+"summary": "北京时间7月25日，在韩国釜山举行的第48届世界遗产大会上，由我国申报的“景德镇手工瓷业遗存”项目经世界遗产委员会审议，成功列入《世界遗产名录》。这标志着这座享有“千年瓷都”美誉的历史文化名城，正式斩获全球最高等级的文化认证，成为我国第61项世界遗产。（央视新闻）",
+"published": 1784958434.0
+},
+{
+"source": "36氪",
+"title": "2026年度票房破210亿元",
+"link": "https://36kr.com/newsflashes/3910541410145411?f=rss",
+"summary": "据电影平台数据，截至7月25日，2026年年度总票房（含预售）突破210亿元。《飞驰人生3》《给阿嬷的情书》《功夫女足》暂列年度票房榜前三位。（每经网）",
+"published": 1784956836.0
+},
+{
+"source": "36氪",
+"title": "TCL科技收购广州华星半导体45%股权事宜获深交所审议通过",
+"link": "https://36kr.com/newsflashes/3910519718270081?f=rss",
+"summary": "7月24日，TCL科技发布公告，公司收购广州华星半导体45%股权事项已获深交所审核通过。根据本次交易方案，收购完成后TCL科技将直接及间接持有广州华星半导体100%股权。据了解，广州华星半导体为TCL华星t9产线运营主体，2026年1—6月，广州华星半导体营业收入为79.26亿元，同比增长7.40%；净利润为11.54亿元，同比增长203.99%。（央广网）",
+"published": 1784955181.0
+},
+{
+"source": "36氪",
+"title": "枣庄财金“一把手”接掌*ST雅博",
+"link": "https://36kr.com/newsflashes/3910508571579528?f=rss",
+"summary": "7月24日晚间，*ST雅博发布公告称，公司董事长张宗辉因到达法定退休年龄，近日已提交书面辞职报告，辞去第七届董事会董事长及董事职务，其原定任期至第七届董事会届满。同一天，*ST雅博召开第七届董事会第六次会议，审议通过了《关于选举董事长的议案》，选举杨建东为公司新任董事长，任期自董事会审议通过之日起至公司第七届董事会任期届满之日止。简历显示，杨建东2024年5月至今任枣庄市财金控股集团有限公司董事长、党委书记。（界面新闻）",
+"published": 1784953554.0
+},
+{
+"source": "36氪",
+"title": "2025年我国数字产业收入39.6万亿元",
+"link": "https://36kr.com/newsflashes/3910502774101383?f=rss",
+"summary": "国家互联网信息办公室最新发布的《国家信息化发展报告（2025年）》显示，2025年，我国数字经济核心产业增加值占GDP的比重超过10.5%，数字产业收入39.6万亿元，同比增长8.8%。我国居民数字消费规模达25.3万亿元，同比增长8.7%。同时，我国网络基础设施提质升级。截至2025年底，我国5G基站总数达483.8万个，三分之二地级市达到千兆城市标准。IPv6活跃用户数达8.69亿。（央视新闻）",
+"published": 1784952297.0
+},
+{
+"source": "36氪",
+"title": "一审判决支付工程款2449.18万元 翰博高新：不会产生重大不利影响",
+"link": "https://36kr.com/newsflashes/3910444488709513?f=rss",
+"summary": "7月24日晚间，翰博高新材料（合肥）股份有限公司（以下简称“翰博高新”）发布公告称，公司及全资子公司博讯光电科技（合肥）有限公司（以下简称“博讯光电”）与陕西建工第一建设集团有限公司（以下简称“陕建一建集团”）之间的工程施工合同纠纷，已由合肥市瑶海区人民法院作出一审判决。公告显示，根据瑶海区人民法院送达的《民事判决书》，一审判决被告博讯光电支付工程欠款2449.18万元及相应逾期付款损失，同时驳回原告陕建一建集团其他诉讼请求。（证券日报）",
+"published": 1784951320.0
+},
+{
+"source": "36氪",
+"title": "中国电池工业协会与中国汽车工业协会签订战略合作协议",
+"link": "https://36kr.com/newsflashes/3910441114703232?f=rss",
+"summary": "根据合作协议，双方将围绕产业战略与政策协同研究、产业链协同生态打造、电池数字身份体系建设、行业标准共建、国际产业交流、行业公共服务共享多方面开展深度协作，搭建常态化沟通对接机制，通过联合调研、行业活动、成果发布等多元形式推进各项合作落地，赋能两大产业融合升级。（新浪财经）",
+"published": 1784950405.0
+},
+{
+"source": "36氪",
+"title": "北汽集团：坚定看好中国资本市场发展前景，全力支持控股上市公司高质量发展",
+"link": "https://36kr.com/newsflashes/3910437664920964?f=rss",
+"summary": "北汽集团发文称，坚信中国经济长期向好基本面，坚定看好中国资本市场发展前景，全力支持控股上市公司高质量发展。7月24日，北汽蓝谷、福田汽车、渤海汽车同步发布增持公告，北汽集团拟增持北汽蓝谷股份5000万元至1亿元、福田汽车股份5000万元至1亿元、渤海汽车股份2500万元至5000万元，合计增持金额不超过2.5亿元。",
+"published": 1784949824.0
+},
+{
+"source": "36氪",
+"title": "携程回应被处罚：诚恳接受、坚决服从",
+"link": "https://36kr.com/newsflashes/3910496040555652?f=rss",
+"summary": "携程7月25日发布关于诚恳接受国家市场监督管理总局行政处罚决定的公告：今日，我们收到《国家市场监督管理总局行政处罚决定书》。对此，我们诚恳接受、坚决服从，并将严格对照监管要求，逐项推进、系统落实各项整改工作，确保各项措施执行到位。",
+"published": 1784949736.0
+},
+{
+"source": "少数派",
+"title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
+"link": "https://sspai.com/post/112093",
+"summary": "基于这两年的「抗湿经验」，与大家聊聊湿度相关的一些事情。查看全文",
+"published": 1784948989.0
+},
+{
+"source": "36氪",
+"title": "黑格G1系列破年内科技造物众筹首日记录",
+"link": "https://36kr.com/newsflashes/3910478626804868?f=rss",
+"summary": "36氪获悉，近期，黑格科技(HeyGears)旗下“桌面级全彩3D及UV打印机”G1系列上线全球众筹平台Kickstarter，24小时众筹金额突破722万美元（约合人民币4900万元），创年内科技造物品类全球首日众筹纪录。",
+"published": 1784948673.0
+},
+{
+"source": "36氪",
+"title": "穆迪警告AI投资狂潮冲击科技巨头财务稳健性 微软、甲骨文等公司自由现金流承压",
+"link": "https://36kr.com/newsflashes/3910433082545536?f=rss",
+"summary": "随着全球科技巨头竞相加码人工智能基础设施建设，穆迪评级警告称，AI投资热潮正侵蚀大型云计算服务商的自由现金流，并推高资产负债表风险，未来投资者将更加关注这些企业能否从巨额AI投入中获得足够回报。穆迪在本周发布的研究报告中表示，包括微软(MSFT.US)、亚马逊(AMZN.US)、谷歌母公司Alphabet(GOOGL.US)、Meta(META.US)、甲骨文(ORCL.US)及CoreWeave(CRWV.US)在内的六家科技企业，正从过去依赖软件、知识产权和云服务的“轻资…",
+"published": 1784948400.0
+},
+{
+"source": "36氪",
+"title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+"link": "https://36kr.com/p/3910351337821318?f=rss",
+"summary": "今日热点导览 小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款 TOP3大新闻 宇树科技CEO王兴兴登上《时代》杂志封面 当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。 据悉，距上次中国企业家登上该刊物封面，已过去整整8年。 《时代》杂志评…",
+"published": 1784941072.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜Claude Opus 5发布,半价追平Fable 5/小鹏人形机器人开启小批量试产/曝英伟达将上调显卡价格",
+"link": "https://www.ifanr.com/1673124?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 菲尔兹奖得主 Jacob Tsimerman 将加入 OpenAI 安全部门 · 腾讯 WXG 员工因泄露敏感信息被辞退，年末激励约 317 万元 · Patreon 裁减 20% 员工，CEO 强调重组并非因为 AI 替代人类#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1784938998.0
+},
+{
+"source": "TechCrunch",
+"title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+"link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+"summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+"published": 1784938991.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "HPE targets HPC and AI infrastructure convergence as supercomputing scale meets enterprise AI",
+"link": "https://siliconangle.com/2026/07/25/hpc-ai-infrastructure-convergence-hpe-amdadvancingai/",
+"summary": "HPC AI infrastructure is no longer a parallel track to traditional computing. They are merging into a unified computing foundation that the supercomputing world has been building toward for years. The same infrastructure once reserved for n…",
+"published": 1784999255.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AMD targets physical AI computing with integrated platform for robotics and autonomous systems",
+"link": "https://siliconangle.com/2026/07/25/physical-ai-computing-amdadvancingai/",
+"summary": "As AI expands into robotics and other real-world applications, the focus is shifting toward integrated platforms that simplify development and deployment. Open ecosystems and standardized architectures are emerging as key priorities for the…",
+"published": 1784995320.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AWS EC2 compute evolves to meet agentic AI and physical AI demand",
+"link": "https://siliconangle.com/2026/07/25/aws-ec2-compute-evolves-agentic-physical-ai-amdadvancingai/",
+"summary": "Twenty years on, AWS EC2 compute is meeting demand shaped by agentic AI, physical AI, and customers pushing general-purpose cloud infrastructure into new territory its earliest architects never anticipated. That growth is permeating through…",
+"published": 1784994670.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AMD moves beyond challenger status in the race for AI platform leadership",
+"link": "https://siliconangle.com/2026/07/24/ai-hardware-competition-heats-amdadvancingai/",
+"summary": "AI hardware competition entered a sharper phase this week as Advanced Micro Devices Inc. used its flagship AI event to argue it isn’t merely chasing Nvidia Corp. — it intends to lead the market outright. The shift marks a departure from yea…",
+"published": 1784945552.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AMD’s Helios strategy turns the GPU battle into a systems contest",
+"link": "https://siliconangle.com/2026/07/24/data-center-gpus-accelerate-rack-scale-ai-workloads-amdadvancingai/",
+"summary": "The market for data center GPUs is evolving beyond individual chip specifications into a contest over fully integrated rack-scale systems. As AI workloads scale into the gigawatt range, buyers increasingly demand validated infrastructure th…",
+"published": 1784944623.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Anthropic launches Claude Opus 5 with efficiency, safety improvements",
+"link": "https://siliconangle.com/2026/07/24/anthropic-launches-claude-opus-5-efficiency-safety-improvements/",
+"summary": "Anthropic PBC today rolled out a large language model called Claude Opus 5 to its chatbot service and developer platform. The company says the LLM approaches the output quality of its top-end Mythos 5 algorithm in many areas, but costs sign…",
+"published": 1784942967.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Nvidia, other tech giants caution against open-source AI ban in open letter",
+"link": "https://siliconangle.com/2026/07/24/nvidia-tech-giants-caution-open-source-ai-ban-open-letter/",
+"summary": "A group of tech firms has released an open letter that calls on policymakers not to ban open-source artificial intelligence models. The development follows a report that some Trump administration officials sought to limit the use of such al…",
+"published": 1784938550.0
+}
+]
+}
+}

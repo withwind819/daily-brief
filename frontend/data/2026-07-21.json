@@ -1,6 +1,6 @@
 {
 "date": "2026-07-21",
-"total": 146,
+"total": 148,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,13 @@
 "link": "https://www.infoq.cn/article/a0vMjiamJhl9L91g9M5H?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1784668825.0
+},
+{
+"source": "HN AI 热门",
+"title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+"link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+"summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 249 # Comments: 103",
+"published": 1784668400.0
 },
 {
 "source": "InfoQ 中国",
@@ -23,6 +30,13 @@
 "link": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/",
 "summary": "A field experiment with 1,559 Pakistani judges found that the AI assistant JudgeGPT boosted case resolution by 6.3 percent. The catch: only judges who got hands-on training saw gains. Without it, the effect mostly disappeared. The researche…",
 "published": 1784661140.0
+},
+{
+"source": "HN AI 热门",
+"title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
+"link": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai",
+"summary": "Article URL: https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai Comments URL: https://news.ycombinator.com/item?id=48996760 Points: 104 # Comments: 19",
+"published": 1784661087.0
 },
 {
 "source": "HN AI 热门",

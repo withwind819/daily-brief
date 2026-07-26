@@ -1,6 +1,6 @@
 {
 "date": "2026-07-24",
-"total": 139,
+"total": 140,
 "categories": {
 "AI": [
 {
@@ -51,6 +51,13 @@
 "link": "https://the-decoder.com/microsofts-open-weight-ai-push-is-so-obviously-an-azure-play-it-hurts/",
 "summary": "Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less Microsoft depends on expensive OpenAI an…",
 "published": 1784909162.0
+},
+{
+"source": "InfoQ 中国",
+"title": "最新发布：用 AI 构建面向 AI-Ready 管道的连接能力 ｜ Summit 2026",
+"link": "https://www.infoq.cn/video/NvAaNKQjNJ4VkBiyUBuZ?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784908800.0
 },
 {
 "source": "量子位",

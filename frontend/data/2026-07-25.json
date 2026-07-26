@@ -1,8 +1,36 @@
 {
 "date": "2026-07-25",
-"total": 62,
+"total": 67,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "What is happening to jobs? Separating AI hype from reality",
+"link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+"summary": "Article URL: https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality Comments URL: https://news.ycombinator.com/item?id=49052570 Points: 240 # Comments: 313",
+"published": 1785019870.0
+},
+{
+"source": "HN AI 热门",
+"title": "Cloudflare's new AI traffic options for customers",
+"link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+"summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 187 # Comments: 143",
+"published": 1785019849.0
+},
+{
+"source": "HN AI 热门",
+"title": "LLM Usage in Debian: Three Proposals",
+"link": "https://www.debian.org/vote/2026/vote_002",
+"summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 206 # Comments: 204",
+"published": 1785008679.0
+},
+{
+"source": "HN AI 热门",
+"title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+"link": "https://github.com/slvDev/esp32-ai",
+"summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 269 # Comments: 68",
+"published": 1785005990.0
+},
 {
 "source": "HN AI 热门",
 "title": "Open-weight AI is having its Kubernetes moment",
@@ -51,6 +79,13 @@
 "link": "https://www.qbitai.com/2026/07/460186.html",
 "summary": "工业圈和学术圈“唱反调”",
 "published": 1784977645.0
+},
+{
+"source": "InfoQ 中国",
+"title": "基于 Snowflake 扩展研究数据平台 ｜ Summit 2026",
+"link": "https://www.infoq.cn/video/GpMwjr8xkYwGHXLoDYs0?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1784977200.0
 },
 {
 "source": "The Decoder",

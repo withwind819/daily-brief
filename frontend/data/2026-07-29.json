@@ -1,8 +1,15 @@
 {
 "date": "2026-07-29",
-"total": 149,
+"total": 152,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "LLM Honeypot",
+"link": "https://llm2human.pages.dev/",
+"summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 373 # Comments: 105",
+"published": 1785365463.0
+},
 {
 "source": "HN AI 热门",
 "title": "AI's top startups are barely publishing their research",
@@ -23,6 +30,13 @@
 "link": "https://www.infoq.cn/article/5gHaEtygF94JOKLKyDBg?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1785351600.0
+},
+{
+"source": "HN AI 热门",
+"title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+"link": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+"summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 85 # Comments: 48",
+"published": 1785351430.0
 },
 {
 "source": "The Decoder",
@@ -893,6 +907,13 @@
 "source": "SiliconANGLE",
 "title": "Cerebras and AMD partner to build the world’s fastest disaggregated AI inference solution",
 "link": "https://siliconangle.com/2026/07/29/disaggregated-ai-inference-cerebras-amd-amdadvancingai/",
+"summary": "Disaggregated AI inference is proving to be more than a complementary answer to the prefill and decode bottleneck slowing enterprise AI at scale, and Cerebras and AMD just announced a partnership to build the fastest version of it in the wo…",
+"published": 1785362991.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Cerebras and AMD partner to build the world’s fastest disaggregated AI inference solution",
+"link": "https://siliconangle.com/2026/07/29/disaggregated-ai-inference-cerebras-amd-neo4jgraphtalk/",
 "summary": "Disaggregated AI inference is proving to be more than a complementary answer to the prefill and decode bottleneck slowing enterprise AI at scale, and Cerebras and AMD just announced a partnership to build the fastest version of it in the wo…",
 "published": 1785362991.0
 },

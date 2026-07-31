@@ -1,8 +1,15 @@
 {
 "date": "2026-07-30",
-"total": 145,
+"total": 148,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "The AI Aesthetic",
+"link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+"summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/ Comments URL: https://news.ycombinator.com/item?id=49117099 Points: 362 # Comments: 175",
+"published": 1785453736.0
+},
 {
 "source": "InfoQ 中国",
 "title": "Kubernetes 统治了容器时代，谷歌 Agent Substrate 意在拿下下一个十年",
@@ -37,6 +44,13 @@
 "link": "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/",
 "summary": "Starting July 30, OpenAI is cutting GPT-5.6 Luna prices by 80 percent and Terra by 20 percent. OpenAI says its top-tier Sol model helped make the company's own infrastructure more efficient, enabling the cuts. Price pressure from cheap Chin…",
 "published": 1785437184.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+"link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+"summary": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%…",
+"published": 1785435186.0
 },
 {
 "source": "The Decoder",
@@ -282,6 +296,13 @@
 "link": "https://www.qbitai.com/2026/07/462947.html",
 "summary": "6位联合创始人——只剩2名。",
 "published": 1785371479.0
+},
+{
+"source": "OpenAI 博客",
+"title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+"link": "https://openai.com/index/avatarin",
+"summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+"published": 1785369600.0
 }
 ],
 "科技": [

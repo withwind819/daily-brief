@@ -1,6 +1,6 @@
 {
 "date": "2026-07-31",
-"total": 140,
+"total": 142,
 "categories": {
 "AI": [
 {
@@ -30,6 +30,13 @@
 "link": "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/",
 "summary": "Google Deepmind's Gemini Robotics 2 is its most advanced vision-language-action model yet, built to control everything from tabletop robots to full-body humanoids. Gemini Robotics ER 2 adds a higher-level reasoning layer for robotics tasks.…",
 "published": 1785522308.0
+},
+{
+"source": "HN AI 热门",
+"title": "Everyone is building LLM routers, we deprecated ours",
+"link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+"summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 127 # Comments: 84",
+"published": 1785521199.0
 },
 {
 "source": "InfoQ 中国",
@@ -760,6 +767,13 @@
 "link": "https://36kr.com/p/3919271016263303?f=rss",
 "summary": "文｜张子怡 编辑｜袁斯来 低空经济正从飞行器制造走向城市治理。 7月29日，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座无人值守机场，基本实现除禁飞区外全市5分钟无人机响应，成为全国首个实现超大城市全域覆盖的低空无人机遥感监测网络。 据了解，这套“城市智眼”系统由低空无人机监测网络、云控平台、AI算法库及行业应用组成，依托高精度低空空域时空信息格网，可实现机场智能调度、航线自动生成、障碍物智能规避等能力，支持“一键直…",
 "published": 1785485529.0
+},
+{
+"source": "Solidot",
+"title": "特朗普和哥斯拉有什么共同之处？",
+"link": "https://www.solidot.org/story?sid=84975",
+"summary": "日本经典怪兽电影为更好的理解美国总统提供了一个寓言框架。他无意间践踏一切。他由我们创造。他永远不会真正消失。发表在《The Forum》期刊上的一篇论文认为，昭和时期的哥斯拉电影（1954-1975）可以​被解读为特朗普 2016-2024 年政治生涯的寓言。寓言比单纯的隐喻或比较能更深入、更丰富地呈现特朗普的形象。它还有助于我们理解他的盟友、对手及其潜在政治遗产，这是简单的隐喻无法做到的。隐喻和寓言都能捕捉到所描述事物的部分特征，但寓言更加丰富且覆盖面更广。在论文中，美国 …",
+"published": 1785484914.0
 },
 {
 "source": "爱范儿",

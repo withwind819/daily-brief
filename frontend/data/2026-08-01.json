@@ -1,8 +1,15 @@
 {
 "date": "2026-08-01",
-"total": 70,
+"total": 71,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "AI financial advice is surprisingly good, especially if you ask right questions",
+"link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+"summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: https://news.ycombinator.com/item?id=49139102 Points: 333 # Comments: 375",
+"published": 1785623112.0
+},
 {
 "source": "InfoQ 中国",
 "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",

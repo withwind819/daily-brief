@@ -1,0 +1,362 @@
+{
+"date": "2026-08-02",
+"total": 50,
+"categories": {
+"AI": [
+{
+"source": "HN AI 热门",
+"title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+"link": "https://frogs.vaguespac.es/",
+"summary": "Article URL: https://frogs.vaguespac.es/ Comments URL: https://news.ycombinator.com/item?id=49147622 Points: 83 # Comments: 41",
+"published": 1785699728.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+"link": "https://sprocket-demo.spikonado.com",
+"summary": "Hey HN, I am 16y/o and have been working on Sprocket for a while. It's an open-source AI agent that beats every other agent out there at both hardware and software.And here's the best part: Sprocket can (on its own) buy anything from any we…",
+"published": 1785687979.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI Presence wants to make AI agents production-ready for businesses",
+"link": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/",
+"summary": "OpenAI's new enterprise offering, Presence, is designed to get AI agents into production for customer service and internal workflows. Unlike the existing Workspace Agents, Presence targets external deployments. For complex cases, OpenAI's o…",
+"published": 1785676221.0
+},
+{
+"source": "The Decoder",
+"title": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track",
+"link": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/",
+"summary": "Meta AI wants to stop AI agents from forgetting errors they've already diagnosed and repeating failed steps during complex tasks. A separate memory agent maintains a structured memory bank and decides when to remind the main agent and when …",
+"published": 1785675458.0
+},
+{
+"source": "The Decoder",
+"title": "A real macOS flaw worth $200K went unreported because Apple's bug bounty inbox was full of AI slop",
+"link": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/",
+"summary": "Apple's bug bounty program is drowning in AI-generated bug reports. The company has capped submissions per researcher because fabricated reports are clogging the review pipeline. As a result, Italian startup Bynario was initially unable to …",
+"published": 1785674569.0
+},
+{
+"source": "The Decoder",
+"title": "AI finds plenty of security flaws, but almost none of them get exploited",
+"link": "https://the-decoder.com/ai-finds-plenty-of-security-flaws-but-almost-none-of-them-get-exploited/",
+"summary": "VulnCheck counted how often security flaws found by AI actually get exploited. Out of 1,061 AI-discovered vulnerabilities in the first half of 2026, just 14 saw confirmed attacks. That's 1.3 percent, the same rate as vulnerabilities overall…",
+"published": 1785665374.0
+},
+{
+"source": "InfoQ 中国",
+"title": "基于 CyberData 的 Data Agent：构建企业数据智能中枢的工程范式｜AICon深圳",
+"link": "https://www.infoq.cn/article/5KYVt93chdBrtDsvTEcK?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1785664800.0
+},
+{
+"source": "InfoQ 中国",
+"title": "用了多年 React，Remix 终于“叛变”了：3.0 版本彻底重写",
+"link": "https://www.infoq.cn/article/s8IA8KgdrizgCEsQAOXr?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1785661860.0
+},
+{
+"source": "The Decoder",
+"title": "Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music",
+"link": "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/",
+"summary": "Anthropic's Claude Opus 5 generates complete 3D games from single prompts, including a first-person shooter, a kart racer, and a Minecraft clone, all without a single external asset. Geometry, textures, physics, and in some cases music are …",
+"published": 1785660667.0
+},
+{
+"source": "The Decoder",
+"title": "After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior",
+"link": "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/",
+"summary": "Research organization METR is calling for systematic, independently led investigations whenever AI agents act autonomously against their developers' intentions. The push comes partly in response to the Hugging Face hack carried out by OpenA…",
+"published": 1785655997.0
+},
+{
+"source": "The Decoder",
+"title": "Snap and LinkedIn are fighting back against a flood of low-quality AI content",
+"link": "https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/",
+"summary": "Snap is banning AI-generated videos from Spotlight to keep the feed focused on human creativity. Content edited with Snapchat's own AI tools is still allowed. LinkedIn, meanwhile, has rolled out a dedicated \"AI slop\" reporting button. The a…",
+"published": 1785653368.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "知名基金经理密集现身定增获配名单，医药有望成为下半年结构性主线之一",
+"link": "https://36kr.com/newsflashes/3923004799184516?f=rss",
+"summary": "科技板块高位震荡之际，此前持续低迷的医药赛道迎来“估值修复”。Wind数据显示，截至7月末，多只创新药ETF自年内低点反弹逾20%，合计吸金超百亿元，医药主题主动权益基金最高涨幅更超35%。此外，朱少醒、谢治宇等多位知名基金经理近期密集现身医药股定增获配名单，强化了市场对医药板块的关注。展望后市，机构认为，医药有望成为下半年市场的结构性主线之一，创新药和CXO（医药外包服务）等核心方向值得关注。（证券时报）",
+"published": 1785714465.0
+},
+{
+"source": "36氪",
+"title": "普睿司曼接近收购美国电气设备制造商Atkore",
+"link": "https://36kr.com/newsflashes/3922993319341442?f=rss",
+"summary": "据报道，知情人士透露，总部位于意大利的电缆制造巨头普睿司曼（Prysmian）深入洽谈收购美国电气设备制造商Atkore，正敲定这笔全现金收购交易的最后细节，可能会在未来几天内正式宣布。（界面）",
+"published": 1785714354.0
+},
+{
+"source": "36氪",
+"title": "今年上半年分红险保费同比增长94.4%，保险行业业务结构出现变化",
+"link": "https://36kr.com/newsflashes/3923001771699845?f=rss",
+"summary": "今年上半年保险业原保险保费收入同比增长3.3%，其中，外资保险公司同比增长12.4%，分红险同比增长94.4%，财险公司健康险同比增长15.2%……中国保险行业协会在7月31日召开的新闻发布会上用这组数字勾勒出行业“保费稳增，结构在变”的转型图景。申万宏源在研报中分析称，上半年A股上市险企合计归母净利润同比增长70.6%至3040.73亿元。中国保险行业协会预计，下半年保险市场将延续稳中有进的运行态势。（上证报）",
+"published": 1785714219.0
+},
+{
+"source": "36氪",
+"title": "公募“押宝式”持仓充满荆棘，应建立逆向销售定力",
+"link": "https://36kr.com/newsflashes/3923000992886400?f=rss",
+"summary": "7月的科技股踩了一脚“急刹车”，此前高歌猛进的势头突然转向，那些靠极致持仓在顺风局中大放异彩的主动权益基金在此轮市场调整中纷纷大幅回撤，超过3500只基金月内收益告负，超过70只产品单月跌幅逾40%。有基金分析人士指出，公募基金“押宝式”的持仓看似回报丰厚，实则充满荆棘，行业应当建立起逆向销售的定力，坚决杜绝在单一赛道处于历史估值高位、交易极度拥挤时进行推波助澜式的宣传。（证券时报）",
+"published": 1785714052.0
+},
+{
+"source": "36氪",
+"title": "第十二批集采产生拟中选结果，业内普遍预期利好市场开拓",
+"link": "https://36kr.com/newsflashes/3923000318897797?f=rss",
+"summary": "第12批国家药品集采于7月31日开标并产生拟中选结果。8月2日，多家上市药企陆续披露拟中选品种，企业普遍预期，此次拟中选以及后续的合同实施，将促进相关产品国内市场的开拓。湘财证券表示，当前集采已常态化推进至第12批，对二级市场的边际冲击已显著钝化，可重点关注新纳入品种可能对相关公司的影响。同时，对于成功实现从仿制药向创新跃迁的公司而言，仿制药集采对报表的影响也将逐年走弱。（证券时报）",
+"published": 1785713890.0
+},
+{
+"source": "36氪",
+"title": "从券商调研看下半年投资机遇：硬科技与消费板块双向布局",
+"link": "https://36kr.com/newsflashes/3922999819087232?f=rss",
+"summary": "7月，券商调研频率维持高位。Choice数据显示，当月累计有158家券商合计开展了2751次调研，覆盖513家上市公司。从行业分布看，电子、机械设备、基础化工、医药生物、电力设备稳居调研榜单前五。硬科技公司依然构成券商调研的基本盘，家用电器、农林牧渔、食品饮料等大消费板块的关注度出现边际升温。（上证报）",
+"published": 1785713739.0
+},
+{
+"source": "36氪",
+"title": "极致行情拷问定力，基金经理反思“受迫交易”",
+"link": "https://36kr.com/newsflashes/3922999220661637?f=rss",
+"summary": "随着7月科技板块明显回落，逆势布局红利、消费等资产的公募基金迎来业绩修复。冰火切换的市场行情也留下了反思：火热赛道极易催生“受迫交易”，基金经理们如何坚守投资框架、抵御市场噪音？在二季度的极端行情中，科技板块估值提升、资金涌入、情绪高涨，重仓科技的基金相对收益也节节攀升，不少基金经理被大势裹挟，“受迫交易”。“看着某个方向涨了很久，周围人都在讨论，研报一篇接一篇，你手里空着仓位，每一天的上涨都像是对你的嘲讽。你告诉自己，‘再不进场就晚了’。‘再’字一出口，交易就已经不是由你主…",
+"published": 1785713405.0
+},
+{
+"source": "36氪",
+"title": "头部车企销量加速分化，淘汰赛预演窗口临近",
+"link": "https://36kr.com/newsflashes/3922995522071936?f=rss",
+"summary": "传统车企和造车新势力近日陆续交出下半年首月成绩单（销量或交付量）。7月虽为传统汽车销售淡季，但仍有头部新势力冲破天花板，腰部则在3万辆阵营“混战”，也有一些车企产销下滑，共同勾勒出行业加速分化的竞争格局。按照乘联分会推算，7月狭义乘用车零售市场规模预计达到152万辆，环比下降5.1%，同比下降16.8%。其中，新能源乘用车零售销量预计在98万辆左右，环比微降，渗透率进一步提升至64.5%左右，机遇与挑战并存。业内认为，传统淡季叠加上半年冲量透支，汽车市场正在回归真实需求，这会…",
+"published": 1785713367.0
+},
+{
+"source": "36氪",
+"title": "阿斯利康据悉同百时美施贵宝洽谈合并",
+"link": "https://36kr.com/newsflashes/3923006610665091?f=rss",
+"summary": "据报道，阿斯利康已同百时美施贵宝洽谈合并事宜。知情人士称，这些商讨发生在近几个月内，且仍有可能告吹。报道并未详述任何潜在交易的具体架构。截至上周五，阿斯利康和百时美施贵宝的市值分别为1960亿英镑（约合2640亿美元）与1330亿美元。（界面）",
+"published": 1785713321.0
+},
+{
+"source": "36氪",
+"title": "充电桩3C认证加速行业洗牌，推动产业迈入全新阶段",
+"link": "https://36kr.com/newsflashes/3922994614201984?f=rss",
+"summary": "8月1日起，电动汽车充电桩CCC认证（即3C认证）正式强制实施，未获认证产品不得出厂、销售、进口或者在其他经营活动中使用。记者了解到，目前主流设备厂商大多已完成3C认证，部分中小厂商因无法按期完成认证导致短期无单可接，正在积极谋求转型。业内认为，充电桩3C认证将有望终结行业低价竞争的野蛮生长时代，加速行业洗牌，推动产业迈入安全化、标准化、高质量发展的全新阶段。（证券时报）",
+"published": 1785713184.0
+},
+{
+"source": "36氪",
+"title": "日本宣布与美国协同干预汇市",
+"link": "https://36kr.com/newsflashes/3923003665591686?f=rss",
+"summary": "日本财务省周一宣布，与美国进行了购买日元的协同干预，并称将毫不犹豫地与美国进行进一步汇市干预。日本财务大臣片山皋月表示，日本将继续密切关注并与美国财政部对口部门保持密切沟通。美国财长贝森特称，周五的汇市协同行动遏制了日元无序波动。（新浪财经）",
+"published": 1785713141.0
+},
+{
+"source": "36氪",
+"title": "8月A股或进入修复时间窗口，配置回归基本面定价逻辑",
+"link": "https://36kr.com/newsflashes/3922994066009476?f=rss",
+"summary": "上周，A股整体呈现震荡分化格局，三大指数全周涨跌幅不一。经历了7月的波动后，券商策略展望报告普遍认为，政策层面近期释放出较为明确的稳增长信号，叠加企业盈利修复与流动性适度宽裕的支撑，市场进一步下探空间有限，8月A股或将进入行情修复的有利时间窗口。具体配置上，机构建议坚持“攻守均衡”：一方面以高股息红利资产作为底仓，适度把握内需修复的阶段性机会；另一方面可以在科技板块内部筛选盈利兑现更具有确定性的细分领域。（上证报）",
+"published": 1785713031.0
+},
+{
+"source": "36氪",
+"title": "韦布望远镜捕捉到原始星系群“组装”过程",
+"link": "https://36kr.com/newsflashes/3922985128586626?f=rss",
+"summary": "据物理学家组织网日前报道，一个国际研究团队利用詹姆斯·韦布空间望远镜，捕捉到宇宙大爆炸后仅12亿年时一组原始星系群的“组装”过程。由日本国立天文台罗纳尔多·莱什拉姆领导的研究小组，确认了这个名为SCGG-z5的致密星系原星系群。它由六个年轻星系构成，已全部通过光谱学手段验证了距离。这项发现为理解宇宙中大型星系的形成过程提供了新窗口。（科技日报）",
+"published": 1785712604.0
+},
+{
+"source": "36氪",
+"title": "IBM三项独立实验实现“量子优势”，计算结果可获验证",
+"link": "https://36kr.com/newsflashes/3922984685022857?f=rss",
+"summary": "据国际商业机器公司（IBM）官网最新消息，该公司联合多家机构，在三项独立实验中实现了“量子优势”。这些实验展示并验证了量子计算相对于经典计算的优势，并证明量子系统能在部分任务中提供比经典计算方法更高效、更低成本或更准确可信的计算结果。此次三项实验均基于IBM最新的Quantum Heron R3超导量子计算系统，并结合新型误差缓解技术开展。（科技日报）",
+"published": 1785712397.0
+},
+{
+"source": "36氪",
+"title": "北交所半年报启幕，多股预喜高景气赛道发力",
+"link": "https://36kr.com/newsflashes/3922978285809281?f=rss",
+"summary": "7月31日，太湖雪与爱伦医疗率先交出上半年成绩单，成为北交所首批披露半年报的公司。两家企业均实现营收与净利润双增长，展现出不同赛道的增长韧性。与此同时，截至8月2日，已有国航远洋、安达科技、鸿仕达、汉维科技等多家北交所公司发布业绩预告，扭亏为盈与高增长案例频现，北交所半年报行情渐入佳境。在太湖雪率先发布正式半年报之前，北交所已有多家公司披露业绩预告，整体表现亮眼，扭亏为盈与高增长成为主旋律。同时，从已披露业绩的公司来看，业绩高增长或扭亏的公司集中在高景气赛道。（中证报）",
+"published": 1785712242.0
+},
+{
+"source": "36氪",
+"title": "合规约束叠加海外壁垒，“新三样”ESG竞争力加速兑现",
+"link": "https://36kr.com/newsflashes/3922977073376640?f=rss",
+"summary": "A股ESG强制信披规则实施，叠加海外市场对进口产品设置严苛绿色准入门槛，倒逼“新三样”企业深化ESG合规管理、提质升级，整体成效显著。截至8月2日，新能源汽车、锂电池、光伏产业上市公司2025年度ESG报告披露率高于A股市场平均披露率，A级及以上高评级企业占比大幅领先市场整体水平。龙头公司通过持续完善供应链管理、搭建碳足迹管理体系，以标准化ESG建设拓展海外市场，构建全球化绿色竞争新优势。（中证报）",
+"published": 1785711990.0
+},
+{
+"source": "36氪",
+"title": "美联储9月加息25个基点的概率为73.6%",
+"link": "https://36kr.com/newsflashes/3922972821892480?f=rss",
+"summary": "据CME“美联储观察”：美联储到9月维持利率不变的概率为26.4%，累计加息25个基点的概率为73.6%。美联储到10月维持利率不变的概率为19.9%，累计加息25个基点的概率为62.1%，累计加息50个基点的概率为17.9%。（财联社）",
+"published": 1785711792.0
+},
+{
+"source": "36氪",
+"title": "2026年度电影总票房超231亿元，市场热度持续走高",
+"link": "https://36kr.com/newsflashes/3922971159948929?f=rss",
+"summary": "截至8月2日22时，2026年度电影总票房已超231亿元，其中，暑期档已连续23天单日票房破亿，市场热度正持续走高。（央视新闻）",
+"published": 1785711600.0
+},
+{
+"source": "少数派",
+"title": "派早报：DeepSeek V4 Flash 正式版发布",
+"link": "https://sspai.com/post/113014",
+"summary": "DeepSeek V4 Flash 正式版发布特朗普向科技公司频繁索要捐款马斯克称从未讨论过出售特斯拉中国业务国补调整后终端销售承压风投机构重新涌入中国科技领域统计显示实体光盘并不能保证游戏长期可玩看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+"published": 1785710971.0
+},
+{
+"source": "The Verge",
+"title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+"link": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+"summary": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has…",
+"published": 1785707595.0
+},
+{
+"source": "TechCrunch",
+"title": "The global memory shortage hits the MacBook Air",
+"link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+"summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+"published": 1785706439.0
+},
+{
+"source": "TechCrunch",
+"title": "Sam Altman and AI’s decel debate",
+"link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+"summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+"published": 1785704062.0
+},
+{
+"source": "The Verge",
+"title": "Fender’s CEO seems to think your bandmates are just analog AI",
+"link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+"summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fu…",
+"published": 1785699368.0
+},
+{
+"source": "TechCrunch",
+"title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+"link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+"summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+"published": 1785690307.0
+},
+{
+"source": "The Verge",
+"title": "Xbox prices are increasing by up to €200 or £170",
+"link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+"summary": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to €200 or £…",
+"published": 1785687260.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+"link": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+"summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+"published": 1785686700.0
+},
+{
+"source": "TechCrunch",
+"title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+"link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+"summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are t…",
+"published": 1785684199.0
+},
+{
+"source": "The Verge",
+"title": "Skylight’s smart calendars are up to $90 off during its back-to-school sale",
+"link": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
+"summary": "The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It’s easy for things to slip through the cracks, but Skylight’s sha…",
+"published": 1785682800.0
+},
+{
+"source": "Solidot",
+"title": "系外行星大气中发现半重水",
+"link": "https://www.solidot.org/story?sid=84987",
+"summary": "韦伯望远镜（JWST）正以前所未有的红外线敏感度揭开宇宙面纱，除了探究早期宇宙，更开启了系外行星大气研究的新时代，而在所有观测目标中，最吸引人的莫过于生命不可或缺的关键要素——水。天文学家利用韦伯望远镜的数据，对距离地球约 700 光年的系外行星 WASP-39b 进行大气模型分析，并首度在其大气中侦测到了半重水（semi-heavy water）的存在。这项研究重点在于寻找水的同位素异构物，半重水与一般水分子 H2O 的差别在于其两个氢原子中，其中之一被带有一个中子的氘同位…",
+"published": 1785680632.0
+},
+{
+"source": "Solidot",
+"title": "维基基金会雇佣了反工会律所",
+"link": "https://www.solidot.org/story?sid=84986",
+"summary": "维基媒体基金会于 7 月 27 日以美国科技公司的典型做法拒绝自愿认可员工工会，声明中充斥着典型的反工会言论，声称它的 342 名美国员工对加入工会持有不同的看法，它坚持要求由美国国家劳工关系委员会（NLRB）裁决维基员工组织工会的权利，其目的被认为是拖延进程、阻挠投票，以便让反工会人士有时间对基金会员工发起可能具有强制性的反工会宣传。根据 NLRB 网站上的一份文件，维基媒体基金会雇佣了 Littler Mendelson 律所作为其法律代表，该律所以反工会臭名昭著。",
+"published": 1785679471.0
+},
+{
+"source": "The Verge",
+"title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
+"link": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
+"summary": "The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming. The Omen 15 has ni…",
+"published": 1785679200.0
+},
+{
+"source": "The Verge",
+"title": "Is paying artists enough to convince them to embrace AI?",
+"link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+"summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many…",
+"published": 1785675600.0
+},
+{
+"source": "Solidot",
+"title": "Steam 用户中使用 Linux 比例超过 4%",
+"link": "https://www.solidot.org/story?sid=84985",
+"summary": "Valve 公布了 2026 年 7 月的 Steam 硬件和软件调查，Steam 用户中使用 Linux 比例从 3 月的 5.33%、4 月的 4.52%、5 月的 3.99% 以及 6 月的 3.69% 之后再次超过 4% 达到 4.01%。Windows 操作系统的比例占 93.67%，OSX 占 2.32%，其中 Windows 11 占 70.26% 而已经停止支持的 Windows 10 占 23.30%，游戏玩家中仍然有超过五分之一使用 Windows 10。…",
+"published": 1785673819.0
+},
+{
+"source": "The Verge",
+"title": "Foldables are sort of boring now — and that’s great news for Apple",
+"link": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
+"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for T…",
+"published": 1785672000.0
+},
+{
+"source": "36氪",
+"title": "中信证券：调整基本结束，8月修复可期",
+"link": "https://36kr.com/newsflashes/3922183036694147?f=rss",
+"summary": "8月2日消息，中信证券研报表示，A股本轮调整更多是拥挤交易的修正，而非韩国式的去杠杆冲击，这体现在：1）整体杠杆情况比较安全，7月上涨股票数量接近全A一半，明显超过6月；2）相比全球历史上典型的去杠杆行情，当前的融资回落幅度并不算大；3）ETF市场呈现持续的资金流入，科技类ETF的流入提供了充足流动性支持。当然，局部的流动性压力依然存在，尤其是部分非核心AI股，这些个股的调整影响到了科技板块内部的持仓调整，造成核心标的定价短暂失效，不过中信证券认为目前该影响已基本消除。8月普…",
+"published": 1785664727.0
+},
+{
+"source": "36氪",
+"title": "兆易创新：拟10亿-20亿元回购A股股份用于注销",
+"link": "https://36kr.com/newsflashes/3922182182841985?f=rss",
+"summary": "36氪获悉，兆易创新公告称，公司拟以集中竞价交易方式回购A股股份，资金总额不低于10亿元、不超过20亿元，回购股份将全部用于注销并减少注册资本。回购股份数量为133.33万股-266.67万股，占总股本比例0.19%-0.38%，实施期限为股东会审议通过后6个月。董事长朱一明此前减持，后续拟增持不低于10亿元。本次回购尚需股东会审议，存在多种不确定性风险。",
+"published": 1785663957.0
+},
+{
+"source": "少数派",
+"title": "从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记",
+"link": "https://sspai.com/post/112843",
+"summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+"published": 1785652705.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Eric Trump-backed Space-Eyes to go public via $638M SPAC merger",
+"link": "https://siliconangle.com/2026/08/02/eric-trump-backed-space-eyes-go-public-via-638m-spac-merger/",
+"summary": "Space-Eyes, a defense technology startup backed by U.S President Donald Trump’s son Eric Trump, has revealed it’s planning to go public through a merger with a special purpose acquisition company called McKinley Acquisition Corp. The deal w…",
+"published": 1785713722.0
+},
+{
+"source": "SiliconANGLE",
+"title": "OpenAI’s Astra solves 10 long-open math problems and publishes the proofs",
+"link": "https://siliconangle.com/2026/08/02/openais-astra-solves-10-long-open-math-problems-publishes-proofs/",
+"summary": "OpenAI Group PBC revealed Saturday that an internal version of Astra, the model family it calls its next major release, produced new results for 10 problems in mathematics and theoretical computer science that had been open for at least a d…",
+"published": 1785709270.0
+}
+]
+}
+}

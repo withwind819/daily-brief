@@ -1,8 +1,15 @@
 {
 "date": "2026-08-02",
-"total": 50,
+"total": 51,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "AI poster wins Ohio State Fair contest",
+"link": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+"summary": "Article URL: https://www.ohiostatefair.com/p/get-involved/arts/poster-contest Comments URL: https://news.ycombinator.com/item?id=49149188 Points: 141 # Comments: 181",
+"published": 1785710627.0
+},
 {
 "source": "HN AI 热门",
 "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",

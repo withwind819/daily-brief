@@ -1,8 +1,15 @@
 {
 "date": "2026-08-03",
-"total": 133,
+"total": 135,
 "categories": {
 "AI": [
+{
+"source": "OpenAI 博客",
+"title": "Apple is getting this wrong",
+"link": "https://openai.com/index/apple-is-getting-this-wrong",
+"summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+"published": 1785794400.0
+},
 {
 "source": "HN AI 热门",
 "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
@@ -289,6 +296,13 @@
 "link": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
 "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda Comments URL: https://news.ycombinator.com/item?id=49150561 P…",
 "published": 1785724230.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Circles powers telco personalization with OpenAI technology",
+"link": "https://openai.com/index/circles",
+"summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+"published": 1785715200.0
 }
 ],
 "科技": [

@@ -1,6 +1,6 @@
 {
 "date": "2026-08-03",
-"total": 135,
+"total": 137,
 "categories": {
 "AI": [
 {
@@ -67,6 +67,13 @@
 "published": 1785774904.0
 },
 {
+"source": "HN AI 热门",
+"title": "What's the largest software project AI can complete on its own?",
+"link": "https://epoch.ai/MirrorCode",
+"summary": "Article URL: https://epoch.ai/MirrorCode Comments URL: https://news.ycombinator.com/item?id=49157786 Points: 103 # Comments: 106",
+"published": 1785773800.0
+},
+{
 "source": "InfoQ 中国",
 "title": "Amazon EKS 新增升级后 7 天内回滚 Kubernetes 版本的功能",
 "link": "https://www.infoq.cn/article/5si5hgXIKQjbwFwyJ5aC?utm_source=rss&utm_medium=article",
@@ -128,6 +135,13 @@
 "link": "https://www.qbitai.com/2026/08/465673.html",
 "summary": "商汤预览了SenseNova U1.5 Lite",
 "published": 1785758372.0
+},
+{
+"source": "HN AI 热门",
+"title": "The AI bubble is popping; we just don't know it yet",
+"link": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
+"summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004 Comments URL: https://news.ycombinator.com/item?id=49154601 Points: 81 # Comments: 147",
+"published": 1785758350.0
 },
 {
 "source": "InfoQ 中国",

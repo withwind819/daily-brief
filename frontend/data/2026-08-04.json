@@ -1,8 +1,15 @@
 {
 "date": "2026-08-04",
-"total": 143,
+"total": 148,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+"link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+"summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 290 # Comments: 240",
+"published": 1785880901.0
+},
 {
 "source": "InfoQ 中国",
 "title": "倒计时 1 天｜跨境电商 AI Workforce 大会明日重磅启幕",
@@ -67,6 +74,20 @@
 "published": 1785860634.0
 },
 {
+"source": "HN AI 热门",
+"title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+"link": "https://arxiv.org/abs/2602.16763",
+"summary": "Article URL: https://arxiv.org/abs/2602.16763 Comments URL: https://news.ycombinator.com/item?id=49170915 Points: 103 # Comments: 120",
+"published": 1785859839.0
+},
+{
+"source": "HN AI 热门",
+"title": "The AI Demand Bubble",
+"link": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+"summary": "Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/ Comments URL: https://news.ycombinator.com/item?id=49170648 Points: 110 # Comments: 144",
+"published": 1785858711.0
+},
+{
 "source": "The Decoder",
 "title": "Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago",
 "link": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/",
@@ -88,6 +109,13 @@
 "published": 1785852900.0
 },
 {
+"source": "HN AI 热门",
+"title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
+"link": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
+"summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html Comments URL: https://news.ycombinator.com/item?id=49169227 Points: 95 # Comments: 86",
+"published": 1785852450.0
+},
+{
 "source": "量子位",
 "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
 "link": "https://www.qbitai.com/2026/08/466386.html",
@@ -100,6 +128,13 @@
 "link": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/",
 "summary": "The Trump administration discussed sanctions and cloud bans targeting Chinese open-weight AI models, according to the New York Times. OpenAI and Anthropic pushed for restrictions, while Nvidia, Google, and Meta fought back. After pushback f…",
 "published": 1785846223.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI-Generated Images Discourage Me from Reading Your Blog",
+"link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+"summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/ Comments URL: https://news.ycombinator.com/item?id=49167113 Points: 781 # Comments: 460",
+"published": 1785843017.0
 },
 {
 "source": "InfoQ 中国",

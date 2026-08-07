@@ -1,8 +1,15 @@
 {
 "date": "2026-08-06",
-"total": 126,
+"total": 128,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+"link": "https://www.aleksagordic.com/blog/vllm",
+"summary": "Article URL: https://www.aleksagordic.com/blog/vllm Comments URL: https://news.ycombinator.com/item?id=49202852 Points: 140 # Comments: 9",
+"published": 1786051821.0
+},
 {
 "source": "HN AI 热门",
 "title": "xAI, SpaceX, and the Race for AI Buildout",
@@ -79,6 +86,13 @@
 "link": "https://www.infoq.cn/article/BjFl6lKjTi2FEZNMxyb5?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1786032000.0
+},
+{
+"source": "HN AI 热门",
+"title": "Software development with AI is starting to feel like cooking steak",
+"link": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+"summary": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 398 # Comments: 412",
+"published": 1786030248.0
 },
 {
 "source": "InfoQ 中国",

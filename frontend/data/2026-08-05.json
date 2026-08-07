@@ -1,8 +1,15 @@
 {
 "date": "2026-08-05",
-"total": 146,
+"total": 151,
 "categories": {
 "AI": [
+{
+"source": "量子位",
+"title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+"link": "https://www.qbitai.com/2026/08/467196.html",
+"summary": "与此同时，哈萨比斯卸任谷歌DeepMind CEO",
+"published": 1785973930.0
+},
 {
 "source": "InfoQ 中国",
 "title": "近 300万人围观卡帕西亲测 Opus 5：两小时写完 5500 行代码， 却连自己写的游戏都玩不了",
@@ -16,6 +23,13 @@
 "link": "https://www.infoq.cn/article/rvVpcZspLiqGpPQq6HPw?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1785969360.0
+},
+{
+"source": "HN AI 热门",
+"title": "When online commenters detect my art as AI",
+"link": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
+"summary": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai Comments URL: https://news.ycombinator.com/item?id=49188916 Points: 99 # Comments: 54",
+"published": 1785963532.0
 },
 {
 "source": "HN AI 热门",
@@ -51,6 +65,13 @@
 "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
 "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency Comments URL: https://news.ycombinator.com/item?id=49186762 Points: 188 # Comments: 35",
 "published": 1785953936.0
+},
+{
+"source": "HN AI 热门",
+"title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+"link": "https://arxiv.org/abs/2510.01395",
+"summary": "Article URL: https://arxiv.org/abs/2510.01395 Comments URL: https://news.ycombinator.com/item?id=49186720 Points: 162 # Comments: 96",
+"published": 1785953823.0
 },
 {
 "source": "InfoQ 中国",
@@ -306,6 +327,13 @@
 }
 ],
 "科技": [
+{
+"source": "36氪",
+"title": "8点1氪丨长鑫拒绝苹果压价，坚持报价高于三星电子、SK海力士；宇树科技开启科创板IPO初步询价；韩国宣布进入“国家灾难状态”",
+"link": "https://36kr.com/p/3927280128539015?f=rss",
+"summary": "今日热点导览 DeepSeek让英伟达市值一夜蒸发4万亿 国内首个辅助生殖诊疗AI智能体上线 员工用代码17小时删光公司89TB数据，被判五年十个月有期徒刑 国内航线燃油附加费8月5日起再次下调 段永平对泡泡玛特持股比例降至5.55% TOP 3 大新闻 苹果考虑将中国长鑫存储纳入新的供应链，但压价失败 据韩国IT媒体《Digital Daily》引述业内人士报道，苹果此前为了降低成本，曾考虑将中国长鑫存储纳入新的供应链，但如今在进一步压低采购价格的谈判中遭遇阻力。苹果近期为…",
+"published": 1785974164.0
+},
 {
 "source": "36氪",
 "title": "需求旺盛景气度高，光模块“噪音”影响有限",
@@ -840,6 +868,13 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Uber shares slide on mixed second quarter results, weak guidance",
+"link": "https://siliconangle.com/2026/08/05/uber-shares-slide-mixed-second-quarter-results-weak-guidance/",
+"summary": "Uber Technologies Inc.’s shares declined by 5.3% today after it posted mixed earnings and disappointing guidance. The ride-hailing giant’s revenue grew 12% in the second quarter to $14.19 billion. That’s about $50 million less than what ana…",
+"published": 1785974076.0
+},
 {
 "source": "SiliconANGLE",
 "title": "AWS partners with Anthropic and OpenAI to bring Continuum into coding tools",

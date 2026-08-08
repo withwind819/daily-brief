@@ -1,6 +1,6 @@
 {
 "date": "2026-08-07",
-"total": 151,
+"total": 152,
 "categories": {
 "AI": [
 {
@@ -931,6 +931,13 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Post-quantum security deadlines force leaders to protect existing infrastructure",
+"link": "https://siliconangle.com/2026/08/07/post-quantum-security-demands-crypto-agility-now-blackhat/",
+"summary": "The post-quantum security transition is emerging as one of the most pressing challenges facing enterprise and government infrastructure, as “harvest now, decrypt later” attacks — in which adversaries steal encrypted data today to unlock onc…",
+"published": 1786145619.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Cyber risk management redefined through AI-speed detection and zero-day remediation",

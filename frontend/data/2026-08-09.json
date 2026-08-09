@@ -1,0 +1,390 @@
+{
+"date": "2026-08-09",
+"total": 54,
+"categories": {
+"AI": [
+{
+"source": "The Decoder",
+"title": "Scammers are enrolling fake students at US community colleges and using AI to collect financial aid",
+"link": "https://the-decoder.com/scammers-are-enrolling-fake-students-at-us-community-colleges-and-using-ai-to-collect-financial-aid/",
+"summary": "AI-powered cheating is spreading at US community colleges. According to The New Yorker, scammers enroll fake students in courses, use AI to complete their assignments, and pocket the financial aid. History professor David Roach asks, \"Was i…",
+"published": 1786280459.0
+},
+{
+"source": "The Decoder",
+"title": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time",
+"link": "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/",
+"summary": "Deepmind's new weather AI forecasts tropical cyclones about a day further ahead than leading operational models, matching a decade of progress in traditional weather forecasting. Code and model weights are open-source on GitHub. The article…",
+"published": 1786278546.0
+},
+{
+"source": "The Decoder",
+"title": "AI is flooding Britain's employment courts with lawsuits",
+"link": "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/",
+"summary": "Britain's employment courts saw 39 percent more claims in the year through March 2026, many written with ChatGPT or Grok. The backlog jumped 55 percent to 64,000 unresolved cases, with AI-generated filings often running hundreds of pages an…",
+"published": 1786271203.0
+},
+{
+"source": "InfoQ 中国",
+"title": "OpenAI给10亿用户免费换上GPT-5.6",
+"link": "https://www.infoq.cn/article/RXRuR3TN9msNMAUWRtCl?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1786271022.0
+},
+{
+"source": "The Decoder",
+"title": "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model",
+"link": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/",
+"summary": "Instead of training a new model from scratch, Google DeepMind retrofitted Gemma 4 into a diffusion model using less than 10 percent of the original training budget. DiffusionGemma generates 256 tokens in parallel instead of one at a time, h…",
+"published": 1786269686.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+"link": "https://www.infoq.cn/article/MMh1pkuNSPDlUAtuRelk?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1786269600.0
+},
+{
+"source": "The Decoder",
+"title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure",
+"link": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/",
+"summary": "The AI industry's hunger for power keeps growing. Nvidia is investing up to $3 billion in Lancium, a power infrastructure developer that already has four gigawatts under contract in Texas. Amazon, meanwhile, is building a gas-fired power pl…",
+"published": 1786267588.0
+},
+{
+"source": "量子位",
+"title": "180万刀，连亚马逊都烧不起Claude了",
+"link": "https://www.qbitai.com/2026/08/469010.html",
+"summary": "Claude不是我说你，钱真不能这么花",
+"published": 1786267510.0
+},
+{
+"source": "量子位",
+"title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+"link": "https://www.qbitai.com/2026/08/468913.html",
+"summary": "作者读博时就在研究，17年后被AI解开了",
+"published": 1786267018.0
+},
+{
+"source": "The Decoder",
+"title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
+"link": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/",
+"summary": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take over day-to-day operations without the CEO title, and all Gemini development is…",
+"published": 1786265772.0
+},
+{
+"source": "量子位",
+"title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+"link": "https://www.qbitai.com/2026/08/468782.html",
+"summary": "AI参与创造下一代AI",
+"published": 1786246825.0
+},
+{
+"source": "量子位",
+"title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+"link": "https://www.qbitai.com/2026/08/468766.html",
+"summary": "据说GPT-5.6很适合拿来做游戏",
+"published": 1786245900.0
+},
+{
+"source": "量子位",
+"title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+"link": "https://www.qbitai.com/2026/08/468715.html",
+"summary": "谷歌缓兵之计把人留下",
+"published": 1786245438.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "原字节跳动机器人一号位加入小米，负责基座模型研发",
+"link": "https://36kr.com/newsflashes/3932879805807749?f=rss",
+"summary": "从多方独立信源处确认，原字节跳动机器人团队负责人孔涛已加盟小米，目前担任小米机器人基座模型团队负责人。多位知情人士透露，孔涛于2025年夏天就已加入小米，并带来不少原先在字节跳动工作的员工。目前，小米机器人事业部大约有200人。“小米机器人的基座模型团队很神秘。孔涛带领的基座模型团队有单独的办公地。小米高管集体在飞书上开会时，孔涛甚至不用露脸。”一位接近小米机器人的知情人士透露。小米机器人事业部对内也属于高度保密状态。（21财经）",
+"published": 1786317593.0
+},
+{
+"source": "36氪",
+"title": "远信储能递表港交所",
+"link": "https://36kr.com/newsflashes/3932879024586120?f=rss",
+"summary": "36氪获悉，据港交所文件，8月9日，深圳市远信储能技术股份有限公司向港交所提交上市申请书，独家保荐人为招银国际。",
+"published": 1786317376.0
+},
+{
+"source": "36氪",
+"title": "北京君正通过港交所上市聆讯",
+"link": "https://36kr.com/newsflashes/3932878252063876?f=rss",
+"summary": "36氪获悉，据港交所文件，8月9日，北京君正集成电路股份有限公司更新聆讯后资料集，意味着该公司港交所IPO通过聆讯。",
+"published": 1786317267.0
+},
+{
+"source": "36氪",
+"title": "欧菲光澄清：与新菲光在业务模式与产品线上完全独立",
+"link": "https://36kr.com/newsflashes/3932877290830981?f=rss",
+"summary": "36氪获悉，欧菲光8月9日发布关于媒体报道的澄清公告，8月6日前后，个别媒体发布了报道质疑公司实际控制人蔡荣军向其实际控制的新菲光通信技术有限公司、新思考电机股份有限公司进行利益输送。公司与新菲光在业务模式与产品线上完全独立。公司未为新菲光生产或代工该报道所述光模块光学组件、玻璃桥、精密结构件等产品，不存在人为压低公司零部件售价、向新菲光转移利润的行为。新思考由公司董事长蔡荣军及其控制的企业深圳和正收购而来，不存在“早年从欧菲光拆分VCM马达核心业务，欧菲光承担全部研发成本，…",
+"published": 1786317085.0
+},
+{
+"source": "36氪",
+"title": "宇树科技今日申购，中一签或赚20万元",
+"link": "https://36kr.com/newsflashes/3932876174228612?f=rss",
+"summary": "A股“人形机器人第一股”宇树科技8月10日将在科创板正式开启申购。考虑到宇树科技本次发行流通盘规模较小，又叠加“第一股”的题材光环，多家券商综合测算显示，其预计中签率在万分之二至万分之三之间，远低于长鑫科技0.47%的中签率水平。数据显示，2026年以来A股新股上市首日平均涨幅高达276.04%，若以此测算，中一签宇树科技账面盈利有望突破20万元；若对标年内科创板新股首日466.61%的平均涨幅，单签盈利可达35.18万元。 （21财经）",
+"published": 1786316893.0
+},
+{
+"source": "36氪",
+"title": "苹果被曝正在测试长鑫科技存储芯片，用于iPhone和MacBook",
+"link": "https://36kr.com/newsflashes/3932875348868225?f=rss",
+"summary": "据《华尔街日报》8月9日报道，苹果公司正在其iPhone和MacBook等产品线中测试长鑫存储（CXMT）的存储芯片，以缓解因人工智能热潮引发的内存短缺问题。报道援引知情人士称，苹果公司已与中国最大的芯片制造商长鑫存储就零部件供应展开初步洽谈，目标是在中国销售的部分设备中使用这些芯片。路透社此前报道称，长鑫存储正考虑在北京建设第二座存储芯片工厂，以提高产能。此外，笔记本电脑制造商惠普（HP）和宏碁（Acer）已开始在销往美国以外市场的设备中使用长鑫存储的芯片，以缓解供应短缺。…",
+"published": 1786316400.0
+},
+{
+"source": "TechCrunch",
+"title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+"link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+"summary": "The AI-focused hedge fund is still making some big bets.",
+"published": 1786307717.0
+},
+{
+"source": "The Verge",
+"title": "No Dogs in Space is a music history podcast for true obsessives",
+"link": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+"summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and …",
+"published": 1786307311.0
+},
+{
+"source": "TechCrunch",
+"title": "Anthropic is turning Claude Code’s auto mode on by default",
+"link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+"summary": "Programming with Claude Code will soon require even less human oversight.",
+"published": 1786303232.0
+},
+{
+"source": "The Verge",
+"title": "Zuckerberg’s yacht was closer, but someone else saved a stranded boat",
+"link": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+"summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest ve…",
+"published": 1786296030.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+"link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+"summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+"published": 1786291500.0
+},
+{
+"source": "The Verge",
+"title": "49ers coach says his Tesla was on Autopilot when he crashed",
+"link": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+"summary": "Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during a recent press conference he shared more details about t…",
+"published": 1786291009.0
+},
+{
+"source": "Solidot",
+"title": "全世界种植的蔬菜在减少",
+"link": "https://www.solidot.org/story?sid=85045",
+"summary": "PNAS 上发表的一项研究显示，大多数人摄入的蔬菜量远远不够，因而承受着健康方面的后果。与此同时全世界种植的蔬菜品种也越来越少，进一步恶化了饮食的多样性。全世界大多数人的蔬菜摄入量比健康饮食推荐量少约 40%。农业工业化前种植的食用植物品种要丰富得多。如土豆有逾 4000 个不同的品种，但美国只有大约五到八个品种广泛种植。从人工选择到大规模生产的单一栽培，再到基因改造，农业工业化——以及相关供应链——逐渐减少了我们餐桌上的蔬菜品种。随着蔬菜遗传多样性的丧失，我们也失去了它们的…",
+"published": 1786288438.0
+},
+{
+"source": "TechCrunch",
+"title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+"link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+"summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+"published": 1786287600.0
+},
+{
+"source": "TechCrunch",
+"title": "The AI safety test is becoming a safety risk",
+"link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+"summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+"published": 1786285800.0
+},
+{
+"source": "Solidot",
+"title": "脑扫描显示新冠患者广泛的结构和功能变化",
+"link": "https://www.solidot.org/story?sid=85044",
+"summary": "四川大学的研究人员分析了 49 项脑成像研究，显示新冠患者的大脑经历了广泛的结构和功能变化。研究结果表明，新冠病毒会影响负责记忆、情绪和执行功能的区域，这或许可解释部分新冠患者出现的神经系统症状。对比新冠患者和健康人群的脑扫描结果，研究人员发现，负责决策和认知控制的额叶频繁显示结构性改变。参与感觉处理和注意力的区域颞叶和顶叶在病毒康复患者中显示出明显差异。前额叶皮层对社会心理压力高度敏感，这意味着疫情本身带来的压力，以及病毒感染，都可能导致前额叶的结构性改变。新冠患者的灰质总…",
+"published": 1786285166.0
+},
+{
+"source": "TechCrunch",
+"title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+"link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+"summary": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+"published": 1786284000.0
+},
+{
+"source": "Solidot",
+"title": "微软 Google 亚马逊 Meta 甲骨文 2027 年负现金流将达到 1250 亿美元",
+"link": "https://www.solidot.org/story?sid=85043",
+"summary": "五大科技公司微软、Google、亚马逊、Meta 和甲骨文在 AI 的开发和交付上投入了巨资，因此到 2027 年它们的财务状况将会严重恶化。自由现金流是扣除各项支出和 AI 基础设施成本后的剩余款项，对 S&P Global Market Intelligence 的数据分析显示，五大公司在 2026 年的自由现金流合计几乎为零，而到 2027 年将会出现高达 1250 亿美元的负现金流。其中亚马逊和 Google 两大云计算公司过去三个月损失的现金超过其它任何美国公司。马…",
+"published": 1786281877.0
+},
+{
+"source": "TechCrunch",
+"title": "This former notorious red-light district is now one of the world’s top AI hubs",
+"link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+"summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+"published": 1786280400.0
+},
+{
+"source": "The Verge",
+"title": "Dropbox is a PC builder’s best friend",
+"link": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+"summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built…",
+"published": 1786280400.0
+},
+{
+"source": "The Verge",
+"title": "AI detectors are creating a new era of distrust",
+"link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in fo…",
+"published": 1786276800.0
+},
+{
+"source": "36氪",
+"title": "华东医药：全资子公司医美产品获欧盟MDR CE认证",
+"link": "https://36kr.com/newsflashes/3932028313255045?f=rss",
+"summary": "华东医药公告称，公司英国全资子公司Sinclair旗下一款全新专利成分的注射用羧甲基壳聚糖溶液KIO015获得欧盟MDRCE认证，取得欧盟市场上市准入资格，系全球首款且目前唯一一款创新型非动物源性壳聚糖医美注射产品。该产品用于真皮内注射，表浅填充，肤质改善，皮肤补水。公司正推进该产品在中国市场的上市，预计2027年初递交上市申请。该事项不会对公司当前财务状况和经营成果产生重大影响。（财联社）",
+"published": 1786263962.0
+},
+{
+"source": "36氪",
+"title": "于东来发文回应关闭胖东来许昌生活广场店",
+"link": "https://36kr.com/newsflashes/3932026733215108?f=rss",
+"summary": "8月9日，胖东来创始人于东来发文回应许昌生活广场关店一事。“不专业造成的失误是金钱无法衡量的。2015年左右，关于许昌生活广场，由于负责此项工作人员没有按照公司规定造成的工作失误，签约租约合同没有统一签订，最后造成个别租户租金涨到无法想象的地步，远远脱离了公平。导致公司退也退不成，因为很多已经签了合同，继续干也不是，干也总是影响情绪。其实这几户总体占比并不很大，但无论钱多钱少，失去公平正义的精神是底线，这么多年始终是我的心结。”于东来表示，“所以到了到期的时候，虽然生活广场一…",
+"published": 1786263866.0
+},
+{
+"source": "36氪",
+"title": "济川药业：子公司获得药品注册证书",
+"link": "https://36kr.com/newsflashes/3932025754697094?f=rss",
+"summary": "济川药业8月9日公告，全资子公司济川药业集团有限公司收到国家药品监督管理局核准签发的小儿通便颗粒《药品注册证书》和美沙拉秦缓释颗粒《药品注册证书》。（证券时报）",
+"published": 1786263806.0
+},
+{
+"source": "36氪",
+"title": "药明康德：美国法院就公司的初步禁令动议作出裁决",
+"link": "https://36kr.com/newsflashes/3932024630246531?f=rss",
+"summary": "8月9日，药明康德公告，公司于2026年6月12日发布了《自愿性公告》，就美国国防部将药明康德列入国防部1260H名单的认定提起诉讼。药明康德强烈反对该项错误的1260H认定，并已采取法律行动以保护公司以及公司的股东、员工、合作伙伴及客户的利益。继公司于2026年6月11日对国防部提起诉讼后，公司于2026年6月29日向美国哥伦比亚特区联邦地区法院提出了初步禁令动议，寻求禁止国防部执行、实施1260H认定或依据1260H认定采取任何其他行动。法院就该项动议在2026年7月22…",
+"published": 1786263737.0
+},
+{
+"source": "36氪",
+"title": "摩尔线程上半年营收大幅增长147.42%，S5000智算集群实现规模化销售",
+"link": "https://36kr.com/newsflashes/3932023616306563?f=rss",
+"summary": "国产GPU龙头摩尔线程发布《2026年半年度报告》。根据报告，2026年上半年，摩尔线程实现营收17.36亿元，同比大幅增长147.42%，已超2025年全年营收；毛利总额达9.89亿元，同比增长103.78%；盈利能力显著改善，归母净利润、归母扣非净利润分别较上年同期亏损收窄95.73%、52.37%。同时，摩尔线程保持高强度研发投入，2026年上半年研发投入7.69亿元，同比增长38.16%。2022年以来累计研发投入近59亿元。报告期内，摩尔线程商业化全面提速。MTT …",
+"published": 1786263675.0
+},
+{
+"source": "36氪",
+"title": "摩尔线程：筹划发行H股股票并在港交所主板上市",
+"link": "https://36kr.com/newsflashes/3932022530899074?f=rss",
+"summary": "摩尔线程8月9日公告，公司拟发行境外上市外资股（H股）股票并申请在香港联合交易所有限公司主板挂牌上市。（证券时报）",
+"published": 1786263609.0
+},
+{
+"source": "36氪",
+"title": "拓维信息：上半年净利润同比下降12.16%，拟10派0.25元",
+"link": "https://36kr.com/newsflashes/3932021903670405?f=rss",
+"summary": "拓维信息披露半年报，2026年上半年，公司实现营业收入13.12亿元，同比增长0.39%；归属于上市公司股东的净利润6922.2万元，同比下降12.16%；基本每股收益0.0549元。公司拟每10股派发现金红利0.25元(含税)。（第一财经）",
+"published": 1786263571.0
+},
+{
+"source": "36氪",
+"title": "苹果回应删除接入千问手册：没收到通知，中国大陆还没推出“Apple智能使用千问”功能",
+"link": "https://36kr.com/newsflashes/3932021304081537?f=rss",
+"summary": "针对删除《在 Mac 上配合 Apple 智能使用千问》使用文档一事，苹果客服最新回应新浪科技称：“我们有功能或新项目发布时，都会提前收到通知，目前并没有收到相关通知，中国大陆还没推出‘Apple智能使用千问’相关功能。”昨日，一篇名为《在 Mac 上配合 Apple 智能使用千问》的支持文档现身苹果官�� Mac 简体中文使用手册，明确提到 Apple 智能可配合阿里巴巴千问模型工作。但该文发布不到24小时后被苹果方面删除。今年7月15日，阿里巴巴方面曾回应称，千问将作为 …",
+"published": 1786263534.0
+},
+{
+"source": "36氪",
+"title": "12只个股南向资金持股量较上周增长超15%",
+"link": "https://36kr.com/newsflashes/3931962003258504?f=rss",
+"summary": "从持股量变化来看，最近一周12只个股获得南向资金持股量较上周增长超15%，其中3只个股持股量增长均超100%。明略科技-W居首，环比增长624.44%；安克创新、圣邦股份、海致科技集团增幅居前，持股量较上周分别增长169.98%、113.25%、43.27%。（证券时报）",
+"published": 1786259915.0
+},
+{
+"source": "36氪",
+"title": "SK掌门崔泰源离婚财产分割案能否终结即将见分晓",
+"link": "https://36kr.com/newsflashes/3931960583601288?f=rss",
+"summary": "据韩国法律界9日消息，崔泰源和卢素英对财产分割案重审判决的上诉期限为判决书送达之日起14日内。双方于本月1日零时收到判决书‌，可在14日之前提起上诉。若崔泰源和卢素英在法定期限均不提起上诉，或者提交放弃上诉声明书，该财产分割案重审判决将生效，即崔泰源须向卢素英支付9440亿韩元（约合人民币45.08亿元）。若任何一方再提起上诉，该案将交由最高法院大法院重新审理。（财联社）",
+"published": 1786259828.0
+},
+{
+"source": "少数派",
+"title": "我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面",
+"link": "https://sspai.com/post/113158",
+"summary": "特别声明本文的项目构思、结构设计及相关素材整理均由人工完成。在产品开发与调试过程中，使用GPT-5.6Sol模型作为辅助工具，参与方案讨论、代码编写与问题排查。文章内容基于实际开发过程中的经验与记录， ...查看全文",
+"published": 1786258800.0
+},
+{
+"source": "36氪",
+"title": "美加利福尼亚州推出1.35亿美元新能源汽车购车补贴政策",
+"link": "https://36kr.com/newsflashes/3931930329873537?f=rss",
+"summary": "美国加利福尼亚州州长加文·纽森在阿拉米达县宣布，加州正式推出一项名为“MyFirstEV”的新能源汽车购车补贴计划。该计划将拨款1.355亿美元，为符合条件的首次购车者提供最高3500美元的即时补贴，预计将惠及约7.3万辆零排放汽车的购买者。根据政策规定，加州居民购买售价低于5万美元的2026款及更新款纯电动汽车或氢燃料电池汽车，即可获得3500美元补贴；购买售价在2.5万美元以下的二手新能源汽车，可获得最高1750美元补贴。此外，低收入群体可通过加州现有的“Clean Ca…",
+"published": 1786257982.0
+},
+{
+"source": "36氪",
+"title": "美国Jewel-Osco因沙门氏菌污染风险紧急召回两款莎莎酱产品",
+"link": "https://36kr.com/newsflashes/3931926276062342?f=rss",
+"summary": "美国零售商Jewel-Osco宣布紧急召回两款鲜食莎莎酱（Salsa）产品。该批产品所用原料存在受沙门氏菌污染的潜在风险。Jewel-Osco方面指出，此次受波及的产品具体为Chefs Kitchen鲜食莎莎酱与Ready Meals鲜食莎莎酱。涉事产品使用的墨西哥胡椒由Taylor Farms分销商Direct Roots提供。受美国食品药品监督管理局（FDA）正介入处理的Coast Citrus Distributors供应链污染事件影响，该批胡椒存在安全隐患，从而引发此…",
+"published": 1786257734.0
+},
+{
+"source": "36氪",
+"title": "维宏股份：并购基金参股上海洛丁森，将重点推进六维力传感器落地",
+"link": "https://36kr.com/newsflashes/3931915897797764?f=rss",
+"summary": "维宏股份在互动平台表示，上海洛丁森工业自动化设备有限公司并非公司直接投资，系公司参与的并购基金嘉兴宏溥智造所投项目，嘉兴宏溥持有其16.3462%股权。洛丁森具备单晶硅压力变送器全产业链能力和布局，包括MEMS芯片自主研发设计、膜盒封装、压力变送器组装及多场景应用（如超高温，耦合式等），全部制造工艺和供应链自主可控。后续洛丁森除了持续聚焦流程工业和核电行业，深耕压力变送器和质量流量计等传感产品的研发之外，还将重点推进六维力传感器等新产品、新应用落地，持续拓展业务边界，完善多场…",
+"published": 1786257101.0
+},
+{
+"source": "36氪",
+"title": "影片《八仙！》票房突破14亿元",
+"link": "https://36kr.com/newsflashes/3931910186220673?f=rss",
+"summary": "据灯塔专业版实时数据，截至8月9日12时4分，影片《八仙！》票房突破14亿元。（每日经济新闻）",
+"published": 1786256752.0
+},
+{
+"source": "36氪",
+"title": "最前线|中科慧思发布三款灵巧手产品，要从“抓取”走向真实场景作业",
+"link": "https://36kr.com/p/3931010805579139?f=rss",
+"summary": "8月7日，在湖南长沙首次亮相的中科慧思具身智能（湖南）有限公司（以下简称“中科慧思”）发布三款灵巧手产品。 中科慧思成立于2026年7月，由北京中科慧灵机器人技术有限公司（简称“中科慧灵”）、蓝思科技股份有限公司（简称“蓝思科技”）与湖南华夏投资集团有限公司(简称“华夏集团”)共同成立。 公司专注于灵巧手及具身操作能力的科技企业，以灵巧手为产品入口，面向机器人抓取、操作和作业能力建设，致力于推动灵巧手从单一硬件部件向软硬件结合的操作能力平台发展。 此次发布的三款产品针对不同任…",
+"published": 1786242615.0
+},
+{
+"source": "36氪",
+"title": "硬氪首发 | 获李泽湘三轮押注，浙大博士做出全球首款视觉售后技术客服机器人",
+"link": "https://36kr.com/p/3931000539692164?f=rss",
+"summary": "硬氪获悉，视觉模型企业微链智能近日完成近千万元天使轮融资，资方为李泽湘、陆奇，投资主体为投资主体为东莞清水湾二期创业投资合伙企业（有限合伙）、宁波智能技术研究院有限公司、北京奇绩创坛二期创业投资中心（有限合伙）。该轮融资将主要用来投入研发。 微链智能成立于2023年，创世人宁冬冬今年31岁，博士就读于浙江大学，从事机器视觉研究，也是国内早期做深度学习机器视觉的人，在图像处理方面经验丰富。 宁冬冬告诉硬氪，他原本跟随李泽湘从事图像领域的产品研发，在调研中发现消费电子行业的客服非…",
+"published": 1786237230.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "HPE, EigenQ push practical path to post-quantum security",
+"link": "https://siliconangle.com/2026/08/09/quantum-security-blackhat/",
+"summary": "As quantum computing advances and regulatory timelines tighten, organizations are under growing pressure to prepare their infrastructure for post-quantum cryptography. Rather than replacing entire technology estates, enterprises are looking…",
+"published": 1786316021.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Elastic targets AI-powered SOC with Alert Zero to eliminate alert fatigue",
+"link": "https://siliconangle.com/2026/08/09/alert-zero-ai-powered-soc-blackhat/",
+"summary": "Security operations centers have spent years stacking tools to solve alert volume issues that tools simply can’t fix, and Elastic is now making the case that AI-powered SOC is the only viable path forward. The problem is structural, accordi…",
+"published": 1786315354.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Finding big money for AI and a smaller world for security at Black Hat USA 2026",
+"link": "https://siliconangle.com/2026/08/09/finding-big-money-ai-smaller-world-security-black-hat-usa-2026/",
+"summary": "Las Vegas was hotter than hell last week, but not as hot as the market for artificial intelligence-enabled security at Black Hat USA 2026. A bandwagon of million-dollar booths for overfunded agentic security startups arose like mirages from…",
+"published": 1786310161.0
+}
+]
+}
+}

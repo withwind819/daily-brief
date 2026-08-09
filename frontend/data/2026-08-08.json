@@ -1,6 +1,6 @@
 {
 "date": "2026-08-08",
-"total": 54,
+"total": 59,
 "categories": {
 "AI": [
 {
@@ -146,6 +146,13 @@
 "published": 1786211614.0
 },
 {
+"source": "Solidot",
+"title": "DeepMind 的 WeatherNext 模型在飓风预测上取得突破",
+"link": "https://www.solidot.org/story?sid=85042",
+"summary": "2025 年 10 月，加勒比海上空酝酿着一场风暴。气象模型对其路径有不同的预测。它会保持弱势最终登陆海地，还是会增强并袭击牙买加？由 Google DeepMind 和 Google Research 联合开发的模型 WeatherNext 选择了后者。在风暴登陆前五天，该模型以 80% 的置信度预测它将以五级飓风的强度袭击牙买加。飓风梅丽莎（Melissa）给牙买加带来了灾难性的洪水和山体滑坡。但 AI 模型帮助预报员更早向沿途社区发出预警，使他们有时间做好充足准备。研究…",
+"published": 1786208707.0
+},
+{
 "source": "TechCrunch",
 "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
 "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
@@ -167,6 +174,13 @@
 "published": 1786204050.0
 },
 {
+"source": "Solidot",
+"title": "甲骨文对 OpenJDK 项目禁止 AI 生成代码",
+"link": "https://www.solidot.org/story?sid=85041",
+"summary": "甲骨文今年在数据中心扩建上投入了 700 亿美元，内部也在鼓励员工使用 AI 工具生成代码，但对于 JDK 开源版本 OpenJDK 项目，甲骨文以存在安全、隐私和知识产权风险的理由禁止 AI 生成代码。甲骨文表示，开发者可以私底下使用 LLM 进行代码调试（debug）和审查，但不能将 AI 生成的代码提交到代码库、pull request 或其它项目渠道。",
+"published": 1786203406.0
+},
+{
 "source": "TechCrunch",
 "title": "Google’s top hacker hunter explains why hacking groups get codenames",
 "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
@@ -179,6 +193,20 @@
 "link": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
 "summary": "Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placem…",
 "published": 1786201200.0
+},
+{
+"source": "Solidot",
+"title": "西伯利亚甲烷排放量每年增加 1200 万吨",
+"link": "https://www.solidot.org/story?sid=85040",
+"summary": "根据发表在《科学》期刊上的一项研究，由于气候暖化和干燥导致的野火以及永久冻土融化，2010-2023 年期间西伯利亚甲烷排放量每年增加 1200 万吨。甲烷是比二氧化碳更强的温室气体，四分之一的全球暖化效应被认为可归因于甲烷排放。全世界正致力于减少甲烷排放，但西伯利亚因暖化而增加的甲烷排放量将会部分抵消减排努力，预计到 2050 年五分之一的甲烷减排会被抵消。",
+"published": 1786199788.0
+},
+{
+"source": "Solidot",
+"title": "电动滑板车比摩托车和自行车危险得多",
+"link": "https://www.solidot.org/story?sid=85039",
+"summary": "对英格兰和威尔士事故数据的分析显示，电动滑板车比摩托车和自行车危险得多。英国国家重大创伤登记库包含了 2020-2022 年间英格兰和威尔士 18 个城市中 15247 名中度至重度创伤性损伤患者，包括 580 名电动滑板车骑行者、7027 名摩托车骑行者和 7640 名自行车骑行者。电动滑板车骑行者中 87.9% 为成年人。研究发现，与摩托车骑行者相比，成年电动滑板车骑行者发生创伤性脑损伤的风险高出 3.5 倍，内脏损伤的风险高出 1.5 倍，动脉或静脉损伤的风险高出 3.…",
+"published": 1786197127.0
 },
 {
 "source": "36氪",
@@ -200,6 +228,13 @@
 "link": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
 "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been r…",
 "published": 1786190400.0
+},
+{
+"source": "Solidot",
+"title": "Microsoft Edge 即将屏蔽流行扩展 uBlock Origin",
+"link": "https://www.solidot.org/story?sid=85038",
+"summary": "微软正在跟随 Google 的脚步，即将停止支持 Manifest V2 扩展如广告屏蔽扩展 uBlock Origin。微软称其扩展商店 Edge Add-On Store 只有 58 个高使用量扩展仍然是基于 Manifest V2，只有 3 个没有提供 Manifest V3 扩展。微软表示从本月开始逐步默认关闭所有剩余的 Manifest V2 扩展，用户会收到通知。微软计划到今年年底消费者用户扩展迁移到 Manifest V3，2027 年初关闭企业用户的 Mani…",
+"published": 1786187984.0
 },
 {
 "source": "36氪",

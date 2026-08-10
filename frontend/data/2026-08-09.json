@@ -1,6 +1,6 @@
 {
 "date": "2026-08-09",
-"total": 54,
+"total": 57,
 "categories": {
 "AI": [
 {
@@ -98,6 +98,13 @@
 "科技": [
 {
 "source": "36氪",
+"title": "8点1氪丨宇树科技今日申购，中一签或赚20万元；胖东来关闭许昌24年老店，于东来回应；拜登前列腺癌持续恶化，癌细胞已扩散",
+"link": "https://36kr.com/p/3932930478587010?f=rss",
+"summary": "今日热点导览 苹果回应删除接入千问手册 影片《八仙！》票房突破14亿元 理想汽车-W于8月6日斥资361.82万美元回购57.27万股 消息称SpaceX收购Cursor交易最快下周完成 英特尔任命Dean Jarnac为首席销售官 TOP 3大新闻 宇树科技今日申购，中一签或赚20万元 8月10日，宇树科技将在科创板开启申购，A股“人形机器人第一股”正式登场。宇树科技证券代码688836，网上申购代码787836。发行价格为150.80元/股，对应上市时市值约609.93亿…",
+"published": 1786319267.0
+},
+{
+"source": "36氪",
 "title": "原字节跳动机器人一号位加入小米，负责基座模型研发",
 "link": "https://36kr.com/newsflashes/3932879805807749?f=rss",
 "summary": "从多方独立信源处确认，原字节跳动机器人团队负责人孔涛已加盟小米，目前担任小米机器人基座模型团队负责人。多位知情人士透露，孔涛于2025年夏天就已加入小米，并带来不少原先在字节跳动工作的员工。目前，小米机器人事业部大约有200人。“小米机器人的基座模型团队很神秘。孔涛带领的基座模型团队有单独的办公地。小米高管集体在飞书上开会时，孔涛甚至不用露脸。”一位接近小米机器人的知情人士透露。小米机器人事业部对内也属于高度保密状态。（21财经）",
@@ -130,6 +137,13 @@
 "link": "https://36kr.com/newsflashes/3932876174228612?f=rss",
 "summary": "A股“人形机器人第一股”宇树科技8月10日将在科创板正式开启申购。考虑到宇树科技本次发行流通盘规模较小，又叠加“第一股”的题材光环，多家券商综合测算显示，其预计中签率在万分之二至万分之三之间，远低于长鑫科技0.47%的中签率水平。数据显示，2026年以来A股新股上市首日平均涨幅高达276.04%，若以此测算，中一签宇树科技账面盈利有望突破20万元；若对标年内科创板新股首日466.61%的平均涨幅，单签盈利可达35.18万元。 （21财经）",
 "published": 1786316893.0
+},
+{
+"source": "少数派",
+"title": "派早报：央视曝光酒店评级标识消费陷阱",
+"link": "https://sspai.com/post/113268",
+"summary": "央视曝光酒店评级标识消费陷阱《时代》网站展示仅 AI 可见广告Edge 浏览器将禁用 Manifest V2 扩展油价上涨致美国混动车需求激增廉价手机壳存在毒性隐患美国调查中国 AI 企业使用海外英伟达芯片看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文",
+"published": 1786316883.0
 },
 {
 "source": "36氪",
@@ -364,6 +378,13 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Amazon is building a new AI data center in Texas that could become the country’s largest source of carbon emissions",
+"link": "https://siliconangle.com/2026/08/09/amazon-building-new-ai-data-center-texas-become-countrys-largest-source-carbon-emissions/",
+"summary": "A data center facility being constructed by Amazon.com Inc. to host workloads for Amazon Web Services is set to become the single-largest source of pollution in the entire U.S., according to a report by the New York Times Saturday. The comp…",
+"published": 1786319023.0
+},
 {
 "source": "SiliconANGLE",
 "title": "HPE, EigenQ push practical path to post-quantum security",

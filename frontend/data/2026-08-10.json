@@ -1,6 +1,6 @@
 {
 "date": "2026-08-10",
-"total": 135,
+"total": 137,
 "categories": {
 "AI": [
 {
@@ -833,6 +833,20 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Rackspace beats expectations but its losses pile up amid aggressive AI pivot",
+"link": "https://siliconangle.com/2026/08/10/rackspace-beats-expectations-losses-pile-amid-aggressive-ai-pivot/",
+"summary": "Shares of Rackspace Technology Inc. were trading lower after-hours today, despite an encouraging earnings and revenue beat in its second-quarter financial results. The San Antonio-based company reported earnings before certain costs such as…",
+"published": 1786404819.0
+},
+{
+"source": "SiliconANGLE",
+"title": "DEF CON hackers launch Water Watch Center to defend small water utilities",
+"link": "https://siliconangle.com/2026/08/10/def-con-hackers-launch-water-watch-center-defend-small-water-utilities/",
+"summary": "DEF CON Franklin and the National Rural Water Association have launched the Water Watch Center, a program that delivers managed cybersecurity services to small water utilities that have no security staff of their own. The launch came on Aug…",
+"published": 1786404519.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Intel to launch $15B stock sale amid AI boom, advanced packaging demand",

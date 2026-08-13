@@ -1,6 +1,6 @@
 {
 "date": "2026-08-12",
-"total": 136,
+"total": 141,
 "categories": {
 "AI": [
 {
@@ -215,6 +215,13 @@
 }
 ],
 "科技": [
+{
+"source": "36氪",
+"title": "8点1氪丨星巴克中国否认为降成本取消14薪；DeepSeek V4 Pro正式版上线；“阿里最年轻P10”林俊旸创业，新公司估值20亿美元",
+"link": "https://36kr.com/p/3937187153132680?f=rss",
+"summary": "今日热点导览 国际能源署：霍尔木兹海峡持续关闭冲击全球石油市场 Anthropic将在AI生成文本中嵌入隐形水印 C919完成首次国际商业航线飞行 三星在半导体研发中引入Claude模型 段永平大幅加仓泡泡玛特 TOP 3大新闻 星巴克中国否认为降成本取消14薪 近日，有传闻称星巴克中国已开启裁员和降低人工成本，比如取消14薪、修改员工合同，除店经理以外的大部分员工改为兼职合同、取消部分带薪假期。对此，记者多方确认，星巴克中国并未取消14薪、修改员工合同乃至取消部分带薪假期。…",
+"published": 1786578992.0
+},
 {
 "source": "36氪",
 "title": "固态电池步入产业化攻坚期，关键温等静压设备或在明年取得突破",
@@ -790,6 +797,13 @@
 "published": 1786498200.0
 },
 {
+"source": "爱范儿",
+"title": "Manus 突然宣布独立运营，一夜回到创业状态",
+"link": "https://www.ifanr.com/1674998?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "进了 Meta，Manus 怎么又独立了？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1786496833.0
+},
+{
 "source": "少数派",
 "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
 "link": "https://sspai.com/post/113343",
@@ -805,6 +819,27 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Nebius shares jump 34% on continued AI infrastructure demand",
+"link": "https://siliconangle.com/2026/08/12/nebius-shares-jump-34-continued-ai-infrastructure-demand/",
+"summary": "Shares of Nebius Group NV closed 34% higher today after it reported second-quarter earnings that topped expectations across the board. The Netherlands-based company operates a cloud platform optimized for artificial intelligence workloads. …",
+"published": 1786579027.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AI infrastructure spending boosts Cisco’s earnings and revenue, but its stock declines after-hours",
+"link": "https://siliconangle.com/2026/08/12/ai-infrastructure-spending-boosts-ciscos-earnings-revenue-stock-declines-hours/",
+"summary": "Networking giant Cisco Systems Inc. coasted to a solid earnings and revenue beat and issued strong guidance for the current quarter, but a drop in gross margins seems to have spooked investors, sending its stock down in late trading today. …",
+"published": 1786577618.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Palo Alto Networks to run OpenAI cyber models inside customer networks",
+"link": "https://siliconangle.com/2026/08/12/palo-alto-networks-run-openai-cyber-models-inside-customer-networks/",
+"summary": "Palo Alto Networks Inc. said today its Unit 42 consulting arm will put OpenAI Group PBC’s frontier cyber models to work inside customer environments, expanding a service it launched earlier this year to find the attack paths that artificial…",
+"published": 1786577567.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Skan AI raises $63M to give AI agents a map of enterprise work",

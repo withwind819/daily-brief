@@ -1,6 +1,6 @@
 {
 "date": "2026-08-12",
-"total": 141,
+"total": 146,
 "categories": {
 "AI": [
 {
@@ -81,6 +81,20 @@
 "published": 1786544714.0
 },
 {
+"source": "HN AI 热门",
+"title": "German advocacy group lodges criminal complaint over Meta AI glasses",
+"link": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
+"summary": "Article URL: https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/ Comments URL: https://news.ycombinator.com/item?id=49272620 Points: 117 # Comments: 51",
+"published": 1786543563.0
+},
+{
+"source": "HN AI 热门",
+"title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+"link": "https://knownagents.com/insights",
+"summary": "Article URL: https://knownagents.com/insights Comments URL: https://news.ycombinator.com/item?id=49272569 Points: 302 # Comments: 226",
+"published": 1786543366.0
+},
+{
 "source": "The Decoder",
 "title": "Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices",
 "link": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/",
@@ -107,6 +121,13 @@
 "link": "https://www.infoq.cn/article/LDrAypWCIbNuL3XS30PE?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1786541400.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI is removing the middle class of software engineering?",
+"link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+"summary": "Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html Comments URL: https://news.ycombinator.com/item?id=49271994 Points: 984 # Comments: 916",
+"published": 1786540805.0
 },
 {
 "source": "量子位",
@@ -179,6 +200,13 @@
 "published": 1786528767.0
 },
 {
+"source": "HN AI 热门",
+"title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+"link": "https://discoveredmaterials.com/research/",
+"summary": "Hey HN, we're Advaith and Akash from Discovered Materials ( https://discoveredmaterials.com/ ). We build AI agents that discover new materials for the semiconductor industry.GPUs today have a heat problem. Nvidia & AMD are almost doubling t…",
+"published": 1786521080.0
+},
+{
 "source": "量子位",
 "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
 "link": "https://www.qbitai.com/2026/08/470901.html",
@@ -205,6 +233,13 @@
 "link": "https://www.qbitai.com/2026/08/470805.html",
 "summary": "Manus，完成复活赛了！",
 "published": 1786503104.0
+},
+{
+"source": "HN AI 热门",
+"title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+"link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+"summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/ Comments URL: https://news.ycombinator.com/item?id=49267057 Points: 196 # Comments: 51",
+"published": 1786500342.0
 },
 {
 "source": "OpenAI 博客",

@@ -1,14 +1,28 @@
 {
 "date": "2026-08-13",
-"total": 127,
+"total": 136,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "How AI text watermarking works",
+"link": "https://declaude.org/watermarking/",
+"summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 129 # Comments: 96",
+"published": 1786663015.0
+},
 {
 "source": "The Decoder",
 "title": "Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate",
 "link": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/",
 "summary": "With Studio 2.0, Suno turns its AI music platform into a full production tool for Premier subscribers. A chat feature creates instruments and plugins via text, while MIDI import and 32-bit export come without limits. That unlimited export c…",
 "published": 1786649994.0
+},
+{
+"source": "HN AI 热门",
+"title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+"link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+"summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 123 # Comments: 102",
+"published": 1786649138.0
 },
 {
 "source": "The Decoder",
@@ -23,6 +37,13 @@
 "link": "https://www.infoq.cn/article/oEMzispbWkEP8TtKdUtf?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1786645306.0
+},
+{
+"source": "HN AI 热门",
+"title": "Accelerating GPT-5.6 Sol Ultrafast",
+"link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+"summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 694 # Comments: 270",
+"published": 1786644602.0
 },
 {
 "source": "InfoQ 中国",
@@ -46,6 +67,13 @@
 "published": 1786638452.0
 },
 {
+"source": "HN AI 热门",
+"title": "AI At Home Part 1: A Box Of Scraps",
+"link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+"summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 125 # Comments: 58",
+"published": 1786638125.0
+},
+{
 "source": "InfoQ 中国",
 "title": "少开会、讲契约：平台团队如何降低跨团队协作成本？",
 "link": "https://www.infoq.cn/article/2uH7CYREyZV2VOqCesSV?utm_source=rss&utm_medium=article",
@@ -67,6 +95,13 @@
 "published": 1786636589.0
 },
 {
+"source": "HN AI 热门",
+"title": "Text AI watermarks will always be trivial to remove",
+"link": "https://www.seangoedecke.com/text-ai-watermarks/",
+"summary": "Article URL: https://www.seangoedecke.com/text-ai-watermarks/ Comments URL: https://news.ycombinator.com/item?id=49287153 Points: 139 # Comments: 182",
+"published": 1786633630.0
+},
+{
 "source": "The Decoder",
 "title": "Ling 3.0 Flash is the smartest open model at its size",
 "link": "https://the-decoder.com/ling-3-0-flash-is-the-smartest-open-model-at-its-size/",
@@ -86,6 +121,20 @@
 "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
 "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass …",
 "published": 1786628470.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI agents lie, cheat and steal. That is putting off users",
+"link": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+"summary": "Article URL: https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users Comments URL: https://news.ycombinator.com/item?id=49285604 Points: 163 # Comments: 203",
+"published": 1786627725.0
+},
+{
+"source": "HN AI 热门",
+"title": "Choosing an AI model: one prompt, 11 models, different results",
+"link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+"summary": "Article URL: https://www.netlify.com/blog/one-prompt-11-models-very-different-results/ Comments URL: https://news.ycombinator.com/item?id=49285327 Points: 215 # Comments: 94",
+"published": 1786626329.0
 },
 {
 "source": "量子位",
@@ -184,6 +233,13 @@
 "link": "https://www.infoq.cn/article/9d9Oik3uZpqfjbfElZaq?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1786615200.0
+},
+{
+"source": "HN AI 热门",
+"title": "Can I use my Outputs to train an AI model?",
+"link": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
+"summary": "Article URL: https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model Comments URL: https://news.ycombinator.com/item?id=49283563 Points: 92 # Comments: 86",
+"published": 1786613653.0
 },
 {
 "source": "OpenAI 博客",
@@ -756,6 +812,13 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Nozomi partners with Sophos to put operational technology data in IT consoles",
+"link": "https://siliconangle.com/2026/08/13/nozomi-partners-sophos-put-operational-technology-data-consoles/",
+"summary": "Nozomi Networks Inc. and Sophos Ltd. today announced a partnership that pushes operational technology telemetry from Nozomi’s Vantage platform into Sophos Fusion, the artificial intelligence-native defense system launched in July. It’s one …",
+"published": 1786664763.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Workday’s stock jumps 17% on report of Silver Lake buyout discussions",

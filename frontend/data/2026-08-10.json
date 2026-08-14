@@ -1,8 +1,15 @@
 {
 "date": "2026-08-10",
-"total": 137,
+"total": 138,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "As AI eats the web, the internet’s collective memory is disappearing",
+"link": "https://thewalrus.ca/google-search-is-dying/",
+"summary": "Article URL: https://thewalrus.ca/google-search-is-dying/ Comments URL: https://news.ycombinator.com/item?id=49250836 Points: 934 # Comments: 982",
+"published": 1786401390.0
+},
 {
 "source": "MIT科技评论 AI",
 "title": "AI professors are negotiating the new realities of academic research",

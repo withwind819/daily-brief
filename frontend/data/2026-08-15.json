@@ -1,8 +1,106 @@
 {
 "date": "2026-08-15",
-"total": 2,
+"total": 64,
 "categories": {
 "AI": [
+{
+"source": "InfoQ 中国",
+"title": "Cloudflare Computer 发布：让 AI 智能体拥有持久化运行环境",
+"link": "https://www.infoq.cn/article/RaKIH7E4lA9uQ4Iasltb?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1786830751.0
+},
+{
+"source": "The Decoder",
+"title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
+"link": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
+"summary": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk. Meanwhile, Anthropic is complicating the AI bubble debate with reve…",
+"published": 1786808462.0
+},
+{
+"source": "The Decoder",
+"title": "AI-generated books are flooding Amazon and tanking sales for human authors",
+"link": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
+"summary": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropping for human-written titles too, in seven of eight genres. The findings could g…",
+"published": 1786791650.0
+},
+{
+"source": "InfoQ 中国",
+"title": "面向多模态推理的高效长上下文建模｜AICon深圳",
+"link": "https://www.infoq.cn/article/OgbViICigja8tasE0lwi?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1786788000.0
+},
+{
+"source": "The Decoder",
+"title": "Plaintiff hid invisible AI instructions in court filings to secretly influence automated review",
+"link": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/",
+"summary": "A plaintiff in Connecticut embedded invisible prompt injections in court filings, formatted in 3-point white text on a white background, to manipulate a potential AI review system. Judge Spader compared the attempt to secretly tampering wit…",
+"published": 1786780845.0
+},
+{
+"source": "The Decoder",
+"title": "World Labs turns one real-world robot task into thousands of simulated variations for training",
+"link": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/",
+"summary": "World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments. From a single real-world task, the system generates thousands of controlled variation…",
+"published": 1786779048.0
+},
+{
+"source": "量子位",
+"title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+"link": "https://www.qbitai.com/2026/08/473876.html",
+"summary": "理解大模型，无需再训练一个替代网络",
+"published": 1786776143.0
+},
+{
+"source": "量子位",
+"title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+"link": "https://www.qbitai.com/2026/08/473866.html",
+"summary": "音潮API限时免费开放",
+"published": 1786775765.0
+},
+{
+"source": "量子位",
+"title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+"link": "https://www.qbitai.com/2026/08/473669.html",
+"summary": "推理能力还能自定义",
+"published": 1786773931.0
+},
+{
+"source": "The Decoder",
+"title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise",
+"link": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/",
+"summary": "A new research paper frames AI adoption as a \"tragedy of the cognitive commons.\" Every company that cuts entry-level jobs benefits individually, but the collective expertise of entire professions erodes. The consequences may not become visi…",
+"published": 1786773652.0
+},
+{
+"source": "量子位",
+"title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
+"link": "https://www.qbitai.com/2026/08/473597.html",
+"summary": "大家已经给DeepSeek装上了啥",
+"published": 1786773181.0
+},
+{
+"source": "The Decoder",
+"title": "New benchmark confirms AI models still perform poorly at visual perception",
+"link": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
+"summary": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin. Many supposed reasoning errors a…",
+"published": 1786771818.0
+},
+{
+"source": "量子位",
+"title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
+"link": "https://www.qbitai.com/2026/08/473407.html",
+"summary": "1.9万字全文实录",
+"published": 1786767669.0
+},
+{
+"source": "量子位",
+"title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
+"link": "https://www.qbitai.com/2026/08/473395.html",
+"summary": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。",
+"published": 1786766617.0
+},
 {
 "source": "InfoQ 中国",
 "title": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
@@ -16,6 +114,346 @@
 "link": "https://www.infoq.cn/article/plZY01etBHv3ETOYG0af?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1786752061.0
+}
+],
+"科技": [
+{
+"source": "The Verge",
+"title": "Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback",
+"link": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
+"summary": "At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.\" The…",
+"published": 1786830973.0
+},
+{
+"source": "TechCrunch",
+"title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+"link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+"summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+"published": 1786829359.0
+},
+{
+"source": "The Verge",
+"title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+"link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+"summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equ…",
+"published": 1786826700.0
+},
+{
+"source": "TechCrunch",
+"title": "Anthropic shares more details about how Claude’s new watermarks will work",
+"link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+"summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+"published": 1786820319.0
+},
+{
+"source": "The Verge",
+"title": "Don’t overlook Elektron’s budget electronic music instruments",
+"link": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
+"summary": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathi…",
+"published": 1786813200.0
+},
+{
+"source": "TechCrunch",
+"title": "SpaceX officially closes its Cursor acquisition",
+"link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+"summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+"published": 1786811400.0
+},
+{
+"source": "TechCrunch",
+"title": "How to tell if your AI platforms’ accounts have been hacked",
+"link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+"summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+"published": 1786810200.0
+},
+{
+"source": "Solidot",
+"title": "俄罗斯导弹使用了英伟达的 Jetson Orin",
+"link": "https://www.solidot.org/story?sid=85104",
+"summary": "俄罗斯新型 S-71“Monochrome”巡航航空被发现使用了英伟达的 Jetson Orin 计算模块。俄罗斯使用的是 2023 年推出的 Jetson Orin NX 16GB 模块，而英伟达则在 2022 年初就退出了俄罗斯市场，这意味俄罗斯是通过其它渠道获得英伟达芯片的。英伟达表示，Jetson 是消费级产品，军事应用不在其预期设计范围内，但它的销售没有什么限制，因此俄罗斯有很多方法获取该芯片。英伟达表示，“虽然我们无法在产品售出后对其进行追踪，但如果我们确定任何客…",
+"published": 1786809222.0
+},
+{
+"source": "Solidot",
+"title": "年轻美国人日益不信任 AI 及 AI 公司高管",
+"link": "https://www.solidot.org/story?sid=85103",
+"summary": "对 1088 名年龄在 18-34 岁美国人的调查发现，绝大多数受访者表示不信任投资 AI 的大公司高管，包括 Elon Musk、Sam Altman 和 Mark Zuckerberg。45% 的受访者认为 AI 会对其职业生涯产生负面影响，只有 10% 的人认为 AI 会对他们有帮助。年轻人对 AI 公司高层也日益表达不信任，Palantir CEO Alex Karp 的信任度最低，81% 的受访者表示不信任他，紧随其后的是 Palantir 董事长 Peter Th…",
+"published": 1786808441.0
+},
+{
+"source": "Solidot",
+"title": "身陷剽窃丑闻的前剑桥大学教授死亡",
+"link": "https://www.solidot.org/story?sid=85102",
+"summary": "身陷剽窃丑闻的前剑桥大学教授 Jason Arday 在伦敦死亡，年仅 41 岁。Jason Arday 于 2023 年获剑桥大学任命为教育社会学教授，成为该校历史上最年轻的黑人教授。2026 年初，他被曝出论文抄袭和学术不端，被指抄袭行为明目张胆。他此前做出的大量虚假陈述也引起广泛关注。他声称自己三岁时被诊断患有自闭症、全面发展迟缓、失聪及计算障碍，一直到 11 岁仍没有语言能力。他称自己 18 岁前都不懂阅读和书写，入读大学第一年则被诊断患有阅读障碍。他称自己在 35 …",
+"published": 1786807712.0
+},
+{
+"source": "The Verge",
+"title": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
+"link": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
+"summary": "As if you needed more reason to love Carly Rae Jepsen's \"Call Me Maybe\" beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop, one of the best music podcasts out there. Cohosts Nate Sloan and Charlie Hard…",
+"published": 1786806000.0
+},
+{
+"source": "Solidot",
+"title": "法国宪法委员会否决青少年社媒禁令",
+"link": "https://www.solidot.org/story?sid=85101",
+"summary": "法国宪法委员会否决了禁止 15 岁以下儿童使用社媒的法案，裁定该法律过度限制了言论自由，且缺乏足够的年龄验证隐私保护措施。总统马克龙(Emmanuel Macron)要求政府修改法案，目标是在 2027 年春季前推出修订版本。宪法委员会认为，一方面有争议的条款过度侵犯言论和通信自由；另一方面未能提供必要法律保障确保尊重私人生活的权利。法国议员于 7 月批准了该法案，让法国成为继澳大利亚之后欧洲首个禁止 16 岁以下未成年人使用社媒的国家。澳大利亚于去年 12 月实施了全球首个…",
+"published": 1786805919.0
+},
+{
+"source": "The Verge",
+"title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
+"link": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
+"summary": "Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its January 20th, 2027 debut. The clip shows a darker…",
+"published": 1786805907.0
+},
+{
+"source": "The Verge",
+"title": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
+"link": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
+"summary": "The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a teaser trailer for season two…",
+"published": 1786803633.0
+},
+{
+"source": "The Verge",
+"title": "I finally found a magnetic phone grip I never want to remove",
+"link": "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review",
+"summary": "I told myself I wouldn't buy an OhSnap accessory for my phone. Every one I'd tested was nice, but felt overpriced and slightly flawed. After I weighed in on the $40 Snap Grip 5 last year, I wound up sticking with my $25 Syncwire instead. Bu…",
+"published": 1786803016.0
+},
+{
+"source": "The Verge",
+"title": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
+"link": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
+"summary": "With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming…",
+"published": 1786802594.0
+},
+{
+"source": "TechCrunch",
+"title": "Every fusion startup that has raised over $100M",
+"link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+"summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+"published": 1786799720.0
+},
+{
+"source": "The Verge",
+"title": "Xteink’s tiny e-readers are getting access to free books through Libby",
+"link": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
+"summary": "One of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respective online bookstores, but with Xteink's devi…",
+"published": 1786798800.0
+},
+{
+"source": "The Verge",
+"title": "We’re reaching peak camera with the Sony A7R VI",
+"link": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review",
+"summary": "It wasn't long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all those megapixels. Enter the A7R VI. Sony's latest flagship high-res camera is a 66.8-megapixel spec monster. In additio…",
+"published": 1786795200.0
+},
+{
+"source": "36氪",
+"title": "从众筹到问鼎欧美，VITURE与XR行业的五年",
+"link": "https://36kr.com/p/3940540064562563?f=rss",
+"summary": "大家都说，XR眼镜是一个奇怪的品类。 参数每年都在刷新，销量每年都在增长，但二手平台上，“只用过两次”“戴了半小时头晕”“吃灰半年出了”的转卖帖，好像慢慢变得比任何一个消费电子品类都密集。 行业常常将品类留不住用户、留不住用户的时间，归咎于技术还不够成熟。 VITURE创始人姜公略给出的是另一个关于“过去五年”的解释。 “2022年之前的眼镜，本质上都是投屏器，相当于一台外接显示器。但用户期待的、我们在做的，是一台电脑，一个能计算、能交互、有内容的all-in-one终端设备…",
+"published": 1786788000.0
+},
+{
+"source": "36氪",
+"title": "黄仁勋出手安抚AI算力市场：英伟达可能会“为单个投资项目提供最高25%的残值支持机制”",
+"link": "https://36kr.com/newsflashes/3940579113713025?f=rss",
+"summary": "本周十分罕见的一大场景就是黄仁勋携手六位华尔街资管巨头，一起为“将AI算力打造为独立资产类别”背书，分析认为这是黄仁勋在践行自己提出的词元经济学，而这也标志着AI热潮正在从技术竞赛延伸至资本竞赛。但最新计划也引发了投资者对“循环融资”和债务风险的担忧，面对质疑，黄仁勋再次亲自出面安抚市场。他表示，英伟达可能会“为单个投资项目提供最高25%的残值支持机制”，并会审慎评估每个项目。此后市场情绪稍微得到缓解。（央视财经）",
+"published": 1786785861.0
+},
+{
+"source": "36氪",
+"title": "2026年8月票房破30亿元",
+"link": "https://36kr.com/newsflashes/3940576833043585?f=rss",
+"summary": "据网络平台数据，截至8月15日，2026年8月总票房（含预售）突破30亿元，《蜘蛛侠：崭新之日》《欢迎来龙餐馆》《八仙！》《奥德赛》《功夫女足》暂列8月票房榜前五。（每经网）",
+"published": 1786785722.0
+},
+{
+"source": "36氪",
+"title": "颐和园、天坛等北京11家市属公园加入京津冀旅游景区联票",
+"link": "https://36kr.com/newsflashes/3940523371724163?f=rss",
+"summary": "据北京市公园管理中心消息，近日，11家北京市属公园正式纳入京津冀旅游景区联票合作体系，具体为：颐和园、天坛公园、北海公园、中山公园、香山公园、景山公园、国家植物园（北园）、北京动物园、陶然亭公园、玉渊潭公园、百望山森林公园，进一步深化京津冀三地文旅资源互联互通、共建共享，为游客提供更多高品质、标志性的北京旅游精品选择。（央视新闻）",
+"published": 1786782459.0
+},
+{
+"source": "36氪",
+"title": "新方法可给单个免疫细胞“体检”",
+"link": "https://36kr.com/newsflashes/3940520294415746?f=rss",
+"summary": "瑞典卡罗琳医学院与瑞典生命科学实验室联合开发出一种分析血液中免疫细胞状态的新方法，可获取单个免疫细胞的多项物理特性。测试结果显示，该方法能够区分动脉粥样硬化患者与健康人群的免疫细胞。研究人员表示，这种方法能够综合反映免疫细胞的健康状态，并可作为基因或蛋白质分析等耗时且成本较高的分析方法的补充。同时，这一方法为研究炎症和疾病机制提供了新工具，也可能用于分析其他疾病中的免疫细胞变化。但研究人员强调，该方法仍需进一步验证才可能进入临床应用。下一步，团队将扩大患者样本规模，并检验该方…",
+"published": 1786782271.0
+},
+{
+"source": "少数派",
+"title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
+"link": "https://sspai.com/post/111974",
+"summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+"published": 1786777674.0
+},
+{
+"source": "36氪",
+"title": "星际荣耀SQX-3运载火箭整流罩静力试验取得成功星际荣耀SQX-3运载火箭整流罩静力试验取得成功",
+"link": "https://36kr.com/newsflashes/3940435444956553?f=rss",
+"summary": "星际荣耀航天科技集团股份有限公司8月14日在某试验场组织开展了SQX-3运载火箭整流罩静力试验，产品各项指标满足设计要求，试验后产品状态良好，成功通过考核。至此，整流罩完成了分离试验及静力试验全剖面验证，标志着整流罩已具备飞行试验条件，为后续SQX-3运载火箭飞行任务的圆满成功奠定坚实基础。（财联社）",
+"published": 1786777093.0
+},
+{
+"source": "36氪",
+"title": "李录大举加仓拼多多，持仓仅剩8只",
+"link": "https://36kr.com/newsflashes/3940413262101641?f=rss",
+"summary": "李录掌管的喜马拉雅基金，则大手笔清仓美国银行、西方石油、穆迪、标普全球、MSCI、H&R Block等6只个股，同时大举加仓拼多多和伯克希尔B股。其中，拼多多更是被翻倍增持。截至二季度末，喜马拉雅基金总持仓市值由上季末的32亿美元升至37亿美元，持仓数量则进一步压缩至8只。（证券时报）",
+"published": 1786775739.0
+},
+{
+"source": "36氪",
+"title": "段永平继续加仓拼多多，大幅减持英伟达、谷歌",
+"link": "https://36kr.com/newsflashes/3940412779150472?f=rss",
+"summary": "截至二季度末，由段永平管理的H&H International Investment基金总持仓市值约191亿美元，约合人民币1370亿元，较去年四季度末的200亿美元有所下降。二季度，段永平继续增持拼多多，重新买入阿里巴巴，同时减持苹果、英伟达、谷歌、微软等，清仓台积电、CrowdStrike等个股。（证券时报）",
+"published": 1786775709.0
+},
+{
+"source": "36氪",
+"title": "机器人消费街将亮相2026世界机器人大会",
+"link": "https://36kr.com/newsflashes/3940412028173700?f=rss",
+"summary": "据“北京亦庄”微信公众号消息，8月19日至23日，2026世界机器人大会将在北京亦庄北人亦创国际会展中心举办。届时，第二届“E-TOWN机器人消费节”将在大会同期举办，大会现场还将首次打造集游玩、打卡、互动、消费于一体的机器人消费街ROBOT SHOPPING STREET，为观众带来“科技+美食+文创”的沉浸式体验。（北京亦庄）",
+"published": 1786775663.0
+},
+{
+"source": "36氪",
+"title": "联想集团刘军：AI PC国内市场销量占比过半",
+"link": "https://36kr.com/newsflashes/3940352545078405?f=rss",
+"summary": "联想集团执行副总裁兼中国区总裁刘军表示，“一体多端”战略下，个人超级智能体加持终端，联想AI PC全球市场同比增86%，国内市场销量占笔记本电脑总销量的比例已突破50%。他透露，在技术侧，联想正全面升级端侧和边缘侧的算力，把Token生产更多留在本地，兼顾隐私与成本；在生态侧则加速引入Skills，增强天禧AI的L3级任务执行能力。（证券时报）",
+"published": 1786772745.0
+},
+{
+"source": "36氪",
+"title": "“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型",
+"link": "https://36kr.com/newsflashes/3940346809810055?f=rss",
+"summary": "36氪获悉，8月15日，阿里巴巴旗下Agent产品“千问办公”首发上线GLM-5.3和DeepSeek V4 Pro两款前沿模型。即日起，用户可在产品首页的“前沿模型”档位直接选用。加上此前首发上线的Qwen3.8-Max，千问办公目前已支持三款国产旗舰模型。",
+"published": 1786771683.0
+},
+{
+"source": "36氪",
+"title": "电影《欢迎来龙餐馆》票房破6亿",
+"link": "https://36kr.com/newsflashes/3940344276532358?f=rss",
+"summary": "据网络平台实时数据，截至8月15日12时22分，影片《欢迎来龙餐馆》票房突破6亿。",
+"published": 1786771528.0
+},
+{
+"source": "36氪",
+"title": "宇树科技未上市先疯抢，部分中介出价520元/股",
+"link": "https://36kr.com/newsflashes/3940284903701895?f=rss",
+"summary": "记者获悉，宇树科技场外“暗盘交易”悄然兴起。目前多家中介通过各类渠道收购该股新股，报价分歧较大，部分中介出价520元/股（发行价150.8元/股），亦有中介报价410元/股；不少中签者也主动上网寻觅买家。值得注意的是，这类“暗盘交易”以往常见于北交所新股，近期正向科创板明星股扩散。记者此前注意到，在长鑫科技上市前，也有中介高价回收该股新股，当时中介的报价是36元/股（发行价8.66元/股）。 “从制度层面来看，这折射出A股打新机制下特有的套利生态。极低的中签率催生筹码稀缺性，…",
+"published": 1786767904.0
+},
+{
+"source": "36氪",
+"title": "美图RoboNeo正式上线短剧专业版",
+"link": "https://36kr.com/newsflashes/3940267838520713?f=rss",
+"summary": "36氪获悉，美图RoboNeo正式上线短剧专业版。美图RoboNeo短剧专业版围绕短剧洞察、3D场景搭建、团队协作及创作资产管理四大方向进行能力升级。官方资产库提供服装、发型、配饰、场景等素材，并支持快速生成角色三视图。",
+"published": 1786767340.0
+},
+{
+"source": "36氪",
+"title": "澳研究人员利用干细胞培育出人类心脏瓣膜组织",
+"link": "https://36kr.com/newsflashes/3940253505174916?f=rss",
+"summary": "澳大利亚研究人员日前利用干细胞在实验室培育出人类心脏瓣膜组织，可用于研究心脏瓣膜的发育和病变过程，并可用于测试相关疾病的治疗方法。研究成果已发表在美国《细胞－干细胞》杂志上。 澳大利亚默多克儿童研究所发布消息说，由该机构牵头的研究团队培育出的组织能够再现人类心脏瓣膜的分子特征和复杂结构。研究团队成员霍莉·福格斯说，这项成果解决了心脏瓣膜生物学研究中的一项重要难题。此次培育出的组织有助于研究心脏瓣膜如何发育、成熟并发生病变，也可用于在实验室中测试潜在治疗方法。 研究人员还用培育…",
+"published": 1786766403.0
+},
+{
+"source": "36氪",
+"title": "大疆Osmo 360 II发布首日拿下全渠道销量 TOP1",
+"link": "https://36kr.com/newsflashes/3940246159506561?f=rss",
+"summary": "8月13日20:00，大疆正式发布全新8K全景相机Osmo 360 II。数据显示，发布24小时后，Osmo 360 II全渠道首日销量位列TOP1，并在京东、天猫、抖音三大平台全景相机相关榜单中登顶。据了解，Osmo 360 II搭载1英寸全景影像系统与高性能芯片，支持原生8K/60fps超清全景视频；主角跟随、NFC一碰即连、AI一键成片等智能功能，进一步降低了创作门槛；适用于旅行、运动、聚会、亲子等多元场景。",
+"published": 1786765540.0
+},
+{
+"source": "36氪",
+"title": "2026年暑期档电影票房破95亿",
+"link": "https://36kr.com/newsflashes/3940236400328072?f=rss",
+"summary": "据网络平台数据，2026年暑期档总票房（含预售）破95亿，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》分列暑期档票房榜前三位。（央视新闻）",
+"published": 1786765535.0
+},
+{
+"source": "36氪",
+"title": "迈时光电IPO辅导备案获受理",
+"link": "https://36kr.com/newsflashes/3940229069716611?f=rss",
+"summary": "中国证监会公示信息显示，苏州迈时光电股份有限公司的上市辅导备案申请于8月14日获受理，辅导机构为国泰海通证券。此次辅导备案获受理，标志着迈时光电进入上市辅导阶段。迈时光电成立于2015年，是一家在全球光互联领域具备垂直整合能力的平台型光学技术企业，长期专注于无源光器件的研发、生产与销售。",
+"published": 1786764496.0
+},
+{
+"source": "36氪",
+"title": "订单饱满结构升级，CXO企业半年度业绩释放回暖信号",
+"link": "https://36kr.com/newsflashes/3940124474195077?f=rss",
+"summary": "伴随创新药BD（商务拓展）出海持续活跃，CXO（医药研发生产外包）行业景气度显著回升。近期，多家CXO上市公司陆续发布半年度经营情况，在手订单增长、新分子业务加快放量成为行业共性特征。有医药行业专家在接受记者采访时表示，本轮CXO行业复苏呈现更为积极的特征，随着创新药出海步伐加快，下半年行业景气度有望延续。 (上海证券报)",
+"published": 1786762783.0
+},
+{
+"source": "36氪",
+"title": "今年以来港股IPO基石投资额同比增长158.3%",
+"link": "https://36kr.com/newsflashes/3940118866803848?f=rss",
+"summary": "今年以来，越来越多的机构投资者参与港股IPO基石投资。数据显示，截至8月14日，年内共有102家公司在港交所上市，募资总额达3287.58亿港元，同比增长154.17%。其中，84家公司IPO引入了基石投资者，涉及951笔投资，同比增长291%；基石投资额1392.1亿港元，同比增长158.3%。 (证券日报)",
+"published": 1786761844.0
+},
+{
+"source": "36氪",
+"title": "英伟达披露持有210亿美元的SpaceX股份",
+"link": "https://36kr.com/newsflashes/3940116726316161?f=rss",
+"summary": "根据申报文件，英伟达披露持有价值209.7亿美元的SpaceX股份。英伟达还披露持有价值约300亿美���的英特尔股份。（财联社）",
+"published": 1786761044.0
+},
+{
+"source": "36氪",
+"title": "中科大孵化，国内唯一通用光量子计算整机企业完成超亿融资丨36氪首发",
+"link": "https://36kr.com/p/3940103536491910?f=rss",
+"summary": "图源/企业 本文约2200字，建议阅读5分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，合肥硅臻芯片技术有限公司（以下简称“硅臻芯片”）近日完成超亿元融资。本轮融资由韦豪创芯、共达电声（002655）联合领投，华策影视（300133）、苏创投、苏金控、创领资本、后浪资本等机构跟投。融资资金将主要用于万比特专用光计算集群与通用量子计算芯片组的研发。 硅臻芯片2020年成立于合肥，核心技术源自中国科学技术大学郭光灿院士领衔的中国科学院量子信息重点实验室。公司由教育部长江学者、中国科学技…",
+"published": 1786756856.0
+},
+{
+"source": "36氪",
+"title": "9点1氪丨追觅首台手机售价超20万，带创始人俞浩签名；韩国宣布2030年实现登月；胖东来计划招聘20名刑期5年以上刑满释放人员",
+"link": "https://36kr.com/p/3940086573759874?f=rss",
+"summary": "今日热点导览 微信朋友圈未来不会推出二次编辑功能 遭“薅羊毛式”黑灰产诈骗，东方甄选回应 宜家拟处置上海宝山商场物业 阿里超15亿美金向中信资本出售灵犀互娱 英伟达宣布CPO交换机全面量产 TOP 3 大新闻 追觅首台手机售价超20万：24K足金镶宝石，带俞浩签名 8月13日，追觅手机负责人在朋友圈透露，公司已正式交付001号AURORA手机。据其透露，三万美金（约合人民币20.23万元）交易款项已全部到账，其中首付款1万美金，尾款21184美金。其称，这是 “中国智能手机历…",
+"published": 1786756007.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+"link": "https://www.ifanr.com/1675280?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· Google DeepMind 或裁员三分之一以上，资源转向 Flash · WorkBuddy 接入 GLM-5.3 · 曝 DeepSeek 正研发情感 AI 模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1786754429.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Impetus builds an operational framework to bridge AI’s ‘context gap’",
+"link": "https://siliconangle.com/2026/08/15/impetus-provides-context-ai-agents-impetus/",
+"summary": "AI agents are being widely deployed inside businesses today, but do they actually know how to get results? This is the fundamental question being asked in many boardrooms as enterprises implement AI strategies tied to agents performing key …",
+"published": 1786817394.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Container security is moving from vulnerability detection to attack surface reduction",
+"link": "https://siliconangle.com/2026/08/15/container-security-attack-surface-reduction-appdevangle/",
+"summary": "Container security has spent years operating around a familiar cycle: scan, identify vulnerabilities, patch and repeat. But as the volume of vulnerabilities grows and regulatory requirements move deeper into software delivery workflows, tha…",
+"published": 1786816161.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Did Nvidia’s Jensen Huang just make the AI buildout too big to fail?",
+"link": "https://siliconangle.com/2026/08/15/nvidias-jensen-huang-just-make-ai-buildout-big-fail/",
+"summary": "Nvidia Corp. is no longer just selling technology. It is helping create a financial asset class around artificial intelligence compute. In our last Breaking Analysis, we argued that AI can be technologically transformative and still produce…",
+"published": 1786769195.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Chipmaking equipment supplier Lam Research to spend $3B+ on new labs",
+"link": "https://siliconangle.com/2026/08/14/chipmaking-equipment-supplier-lam-research-spend-3b-new-labs/",
+"summary": "Lam Research Corp., a major supplier of chipmaker equipment, plans to spend more than $3 billion over the next five years to enhance its engineering capabilities. The company detailed the initiative on Thursday. Nasdaq-listed Lam sells mach…",
+"published": 1786757252.0
 }
 ]
 }

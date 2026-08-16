@@ -1,0 +1,390 @@
+{
+"date": "2026-08-16",
+"total": 54,
+"categories": {
+"AI": [
+{
+"source": "HN AI 热门",
+"title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+"link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+"summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 98 # Comments: 73",
+"published": 1786912276.0
+},
+{
+"source": "The Decoder",
+"title": "Top mathematicians say LLMs are strong calculators but poor creative thinkers",
+"link": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/",
+"summary": "Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely new mathematical ideas. The article Top mathematicians say LLMs are strong calc…",
+"published": 1786894281.0
+},
+{
+"source": "HN AI 热门",
+"title": "The AI Credit Resale Economy",
+"link": "https://vectoral.com/blog/who-are-the-token-brokers",
+"summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 205 # Comments: 78",
+"published": 1786891495.0
+},
+{
+"source": "量子位",
+"title": "杭州95后小伙，5亿买走硅谷城堡",
+"link": "https://www.qbitai.com/2026/08/474245.html",
+"summary": "辞别马斯克xAI半年之后…",
+"published": 1786881068.0
+},
+{
+"source": "The Decoder",
+"title": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
+"link": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
+"summary": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, and life satisfaction. Unbraked models attributed significantly more inner life t…",
+"published": 1786879410.0
+},
+{
+"source": "量子位",
+"title": "李飞飞最新访谈：AI咋能代替人呢？",
+"link": "https://www.qbitai.com/2026/08/474140.html",
+"summary": "AI不是替代者，而是个人能力的放大镜",
+"published": 1786877147.0
+},
+{
+"source": "量子位",
+"title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+"link": "https://www.qbitai.com/2026/08/474064.html",
+"summary": "“错过种一棵树最好的时间”",
+"published": 1786876607.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
+"link": "https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1786874400.0
+},
+{
+"source": "InfoQ 中国",
+"title": "一份数据，多种用途：Spotify 用 RAP 打通分析与在线服务",
+"link": "https://www.infoq.cn/article/iRjDa2ayZ9KLUtWylQZl?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1786874400.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
+"link": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
+"summary": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left. Internally, unease is bui…",
+"published": 1786867972.0
+},
+{
+"source": "InfoQ 中国",
+"title": "MCP 走向无状态，开发者追问：这不就又变回 API 了吗？",
+"link": "https://www.infoq.cn/article/412hbBva0NF0AYP0CjzD?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1786867200.0
+},
+{
+"source": "HN AI 热门",
+"title": "What happens when an LLM never sees material beyond fifth grade?",
+"link": "https://littlelearner-ll.github.io/",
+"summary": "Article URL: https://littlelearner-ll.github.io/ Comments URL: https://news.ycombinator.com/item?id=49317760 Points: 233 # Comments: 204",
+"published": 1786865873.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
+"link": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
+"summary": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback contractors ran about 133 million unfiltere…",
+"published": 1786864806.0
+},
+{
+"source": "The Decoder",
+"title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
+"link": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
+"summary": "Artificial Analysis has launched Optima, a platform that lets users build custom AI benchmarks from their own data and workflows. Models can be compared not just on quality but also on cost and time per task. For agent-based applications, t…",
+"published": 1786859450.0
+},
+{
+"source": "量子位",
+"title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+"link": "https://www.qbitai.com/2026/08/473972.html",
+"summary": "背后是四项关键能力",
+"published": 1786858659.0
+},
+{
+"source": "量子位",
+"title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
+"link": "https://www.qbitai.com/2026/08/473947.html",
+"summary": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。",
+"published": 1786858122.0
+},
+{
+"source": "The Decoder",
+"title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
+"link": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/",
+"summary": "A representative survey by Epoch AI found that 20 percent of employed Americans hand off at least one task to AI that a human used to do. Generally, they accept AI output with little to no editing. The article One in five US workers now del…",
+"published": 1786856400.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "财金联动持续加力，放大促内需政策效能",
+"link": "https://36kr.com/newsflashes/3942791529577605?f=rss",
+"summary": "今年以来，包括财政金融促内需一揽子政策、设立民营企业再贷款等在内的系列举措从供需两端加力支持促消费、扩投资。随着政策效果逐步显现，多地正从加码扶持政策、拓展惠及范围等方面进一步完善财政金融协同机制。专家认为，一揽子政策有望在前期经验基础上动态优化，协同发力，放大政策效应。（中证报）",
+"published": 1786921667.0
+},
+{
+"source": "36氪",
+"title": "传奇投资人Stanley Druckenmiller买入美国上市的中概股",
+"link": "https://36kr.com/newsflashes/3942790755531905?f=rss",
+"summary": "华尔街传奇投资大亨、亿万富豪Stanley Druckenmiller几年来首次重返美国交易的中国股票。彭博对其主要投资平台Duquesne Family Office LLC最新的13F文件的分析发现，该家族办公室第二季建仓百度ADR，买入8.8万份，仅占其投资组合的0.2%。汇总的数据显示，Duquesne自2023年第四季清仓阿里巴巴ADR后至本次披露期间再无持有中概股。（新浪财经）",
+"published": 1786921385.0
+},
+{
+"source": "36氪",
+"title": "A股科技修复行情延续，机构：结构性轮动或成主旋律",
+"link": "https://36kr.com/newsflashes/3942789547146375?f=rss",
+"summary": "8月以来，A股科技主线轮动修复，人形机器人、脑机接口、CPO、光纤光缆等多个细分赛道均有所表现。对于科技主线的后市演绎，券商策略展望报告认为，AI产业链基本面具备确定性，科技板块的修复趋势并未终结。但板块上涨仍受制于资金面压力及AI产业叙事能否出现重大变革，后续科技行情或将由普涨转向结构性机会。（上证报）",
+"published": 1786921200.0
+},
+{
+"source": "The Verge",
+"title": "OpenAI reportedly disbanded its preparedness team",
+"link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+"summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the po…",
+"published": 1786915976.0
+},
+{
+"source": "TechCrunch",
+"title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+"link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+"summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+"published": 1786913824.0
+},
+{
+"source": "TechCrunch",
+"title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+"link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+"summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+"published": 1786912321.0
+},
+{
+"source": "The Verge",
+"title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+"link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+"summary": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject t…",
+"published": 1786912297.0
+},
+{
+"source": "The Verge",
+"title": "Amazon is trying to crush class-action suits before they get started",
+"link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+"summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amaz…",
+"published": 1786901702.0
+},
+{
+"source": "TechCrunch",
+"title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+"link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+"summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+"published": 1786899231.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+"link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+"summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+"published": 1786896240.0
+},
+{
+"source": "Solidot",
+"title": "欧洲创纪录热浪杀死了 2.5 万人",
+"link": "https://www.solidot.org/story?sid=85107",
+"summary": "欧盟哥白尼气候监测服务机构证实，6 月和 7 月是西欧有记录以来最热的月份，在此期间估计有 25000 人死于高温相关疾病。热浪导致欧洲各地河流大范围干涸，这一情况甚至从太空中都可以观察到。由于河流水位极低，商船不得不减少多达 80% 的载货量以避免搁浅。这一迫不得已的举措扰乱了供应链，增加了运输成本。河流干涸还导致二战期间几十艘纳粹军舰浮出水面。",
+"published": 1786895525.0
+},
+{
+"source": "The Verge",
+"title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+"link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+"summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build…",
+"published": 1786892200.0
+},
+{
+"source": "爱范儿",
+"title": "我用 161 个新闻源「养」了个 AI 主编，它比我更懂什么叫「大新闻」｜附教程",
+"link": "https://www.ifanr.com/1675326?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "信息爆炸时代，质量比数量重要得多。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1786891656.0
+},
+{
+"source": "Solidot",
+"title": "穷人比富人更早出现身体上的老化迹象",
+"link": "https://www.solidot.org/story?sid=85106",
+"summary": "发表在 PLOS Medicine 期刊上的一项研究显示，穷人比富人更早出现身体上的老化迹象，其中英国贫困人群出现身体机能下降的迹象比同龄富裕人群早 15 年，加拿大则是早 9 年。这项研究涉及了 8500 多名英国参与者以及 22600 多名加拿大参与者的数据，他们的年龄在 50-85 岁之间，参与了 2012-2023 年间的一项老龄化纵向研究。研究期间参与者多次完成了一系列身体功能测试，包括步速、握力、从椅子上站起的速度和肺功能测量。研究人员比较了研究开始时家庭财富处于…",
+"published": 1786890978.0
+},
+{
+"source": "爱范儿",
+"title": "今年最激动人心的 AI 宣言，来自科技圈最不受待见的人",
+"link": "https://www.ifanr.com/1674733?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "是未来，还是黑暗森林？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1786890596.0
+},
+{
+"source": "36氪",
+"title": "七鲜咖啡24小时智能无人店开业，机器人1小时供应202杯成功挑战吉尼斯世界纪录",
+"link": "https://36kr.com/newsflashes/3942238599003529?f=rss",
+"summary": "8月16日，七鲜咖啡全球首家24小时智能化无人咖啡店于北京银河SOHO正式开业，并成功挑战吉尼斯世界记录认证：在一小时内由机器人咖啡店供应最多杯咖啡，最终挑战成绩为202杯。 据悉，该店从研磨、萃取、调饮到出杯、入柜，全部由机器人独立完成，单杯制作时间在30秒内，全程无接触、标准化出品，兼具效率与稳定性。后续，七鲜咖啡计划上线AI个性化推荐功能，根据消费者健康状况智能建议咖啡因摄入量。",
+"published": 1786887148.0
+},
+{
+"source": "Solidot",
+"title": "美国历史上的奴隶制可预测今天的黑人白人死亡率差异",
+"link": "https://www.solidot.org/story?sid=85105",
+"summary": "美国的种族平等过去六十年取得了显著进步，但黑人和白人之间仍然存在巨大的健康差距。有研究估计，1999-2020 年的 21 年间，美国黑人人口的超额死亡数为 163 万，潜在寿命损失 8000 万年。系统性种族主义理论认为，种族不平等的维持部分源于个人偏见，部分源于影响几代人资源、机会和生活结果分配的社会制度。由于这些制度根植于特定地域且难以改变，它们会在资源和机会方面形成持久的本地模式，即使奴隶制之类的政策终止后，这些模式仍会长期存在。加州伯克利的研究人员在 PNAS 上发…",
+"published": 1786886639.0
+},
+{
+"source": "The Verge",
+"title": "Rogue AI aren’t science fiction anymore",
+"link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it sta…",
+"published": 1786881600.0
+},
+{
+"source": "36氪",
+"title": "我国成功发射卫星互联网低轨24组卫星",
+"link": "https://36kr.com/newsflashes/3941869230259334?f=rss",
+"summary": "北京时间2026年8月16日12时10分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨24组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。",
+"published": 1786870836.0
+},
+{
+"source": "36氪",
+"title": "我国电动汽车充电基础设施（枪）总数超2300万个",
+"link": "https://36kr.com/newsflashes/3941876331314569?f=rss",
+"summary": "截至6月底，我国电动汽车充电基础设施（枪）总数达到2305.7万个，同比增长43.2%。其中，公共充电设施（枪）500.9万个，同比增长22.3%，额定总功率达到2.47亿千瓦，单枪平均功率约为49.35千瓦；私人充电设施（枪）1804.8万个，同比增长50.4%，报装用电容量达到1.55亿千伏安。",
+"published": 1786869949.0
+},
+{
+"source": "36氪",
+"title": "摩根大通：明年或爆发全球粮食危机 全球食品通胀率将从2.8%升至5%",
+"link": "https://36kr.com/newsflashes/3941868692880517?f=rss",
+"summary": "摩根大通日前警告称，下一轮全球粮食危机可能正在酝酿之中，或于明年爆发。该行分析师将驱动因素归结为“五个W”：战争（War）、天气（Weather）、仓储（Warehousing）、水（Water）和浪费（Waste）。在一份题为《粮食安全即国家安全：一场不断叠加的风暴》（Food Security Is National Security: A Compounding Storm）的新报告中，由驻伦敦资深全球经济学家Nora Szentivanyi领衔的团队警告称，霍尔木兹海…",
+"published": 1786869004.0
+},
+{
+"source": "36氪",
+"title": "特朗普家族关联加密项目World Liberty Financial获有条件批准设立信托银行",
+"link": "https://36kr.com/newsflashes/3941868094569865?f=rss",
+"summary": "World Liberty Financial宣布，美国货币监理署（OCC）已初步有条件批准其设立World Liberty Trust Company（WLTC）全国性信托银行。该银行拟专门服务稳定币业务，未来将负责美元稳定币USD1的发行与赎回、储备资产管理以及面向机构客户的数字资产托管。World Liberty Financial与特朗普家族关系密切。该公司2024年成立时由特朗普家族成员及Witkoff家族成员等共同参与，特朗普本人被列为公司“联合创始人荣誉成员”，…",
+"published": 1786868126.0
+},
+{
+"source": "36氪",
+"title": "韩国产业部长再访美 磋商对美投资和关税问题",
+"link": "https://36kr.com/newsflashes/3941867500338566?f=rss",
+"summary": "韩国产业通商部长官金正官16日上午启程赴美。这是他继上月在华盛顿出席韩美造船合作中心成立仪式后，时隔约三周再度访美。据悉，金正官此次访美将重点同美方磋商对美投资项目及产能过剩相关关税措施。根据韩美去年达成的贸易协议，韩国承诺对美投资3500亿美元，美方将对韩“对等关税”税率由25%下调至15%。政府已初步选定燃气联合循环电厂建设项目作为首个对美投资落地项目，拟于年内最终敲定，但美方近期多次催促韩方加快落实投资。",
+"published": 1786867251.0
+},
+{
+"source": "36氪",
+"title": "皇岗口岸港方口岸区举行第二次大型演练",
+"link": "https://36kr.com/newsflashes/3941849820150919?f=rss",
+"summary": "15日，香港特别行政区政府于皇岗口岸港方口岸区举行第二次大型演练并进行跨部门反恐及重大事故演习，进一步测试口岸联检大楼和公共运输交汇处的人流和车流整体管理，以及加强各部门面对突发事故的应变能力。此次演练动员超过5000名来自共约30个政策局和部门的人员参与。此前，香港特区政府曾于13日在皇岗口岸港方口岸区举行首次大型演练。",
+"published": 1786866345.0
+},
+{
+"source": "36氪",
+"title": "中国电建设计承建的西北两座抽蓄电站通过验收",
+"link": "https://36kr.com/newsflashes/3941849044368772?f=rss",
+"summary": "据中国电建消息，近日，中国电建设计承建的西北地区两座百万千瓦级抽水蓄能电站接连迎来重大节点，新疆阜康抽蓄电站通过工程竣工验收，陕西镇安抽蓄电站通过枢纽工程专项验收。",
+"published": 1786865400.0
+},
+{
+"source": "36氪",
+"title": "上海迪士尼正扩建“飞越地平线”，第九大主题园区建设迎新进展",
+"link": "https://36kr.com/newsflashes/3941742241545600?f=rss",
+"summary": "记者从上海迪士尼度假区获悉，第九大主题园区——蜘蛛侠主题园区建设迎来又一重要里程碑。继今年6月主题园区游乐设备轨道安装完成后，首批乘骑设备已于数日前就位，乘骑设备调试工作即将启动。上述消息于正在美国加利福尼亚州召开的迪士尼终极粉丝大会D23（以下简称“D23 粉丝大会”）公布。此外，上海迪士尼乐园内标志性主题景点“翱翔·飞越地平线”的扩建工作正在同步推进；毗邻乐园的两座全新主题酒店的扩建工作也在进行中；为演职人员打造的全新居住社区也正在建设，旨在更好地支持一线演职人员为游客创…",
+"published": 1786864525.0
+},
+{
+"source": "36氪",
+"title": "本周南向资金净买入腾讯控股超70亿港元 14股南向资金持股量环比增长超15%",
+"link": "https://36kr.com/newsflashes/3941741798259846?f=rss",
+"summary": "本周（8月10日至14日）港股市场主要股指集体下跌，恒生指数累计跌2.15%，恒生科技指数跌3.1%，恒生中国企业指数跌2.24%。据证券时报·数据宝统计，本周南向资金合计成交净买入0.89亿港元。从本周上榜成交活跃股名单来看，本周共有19只个股上榜，腾讯控股本周港股通合计买卖总额最高，达到356.59亿港元；智谱紧随其后，为343.04亿港元；其他还有MINIMAX-W、中芯国际、建滔积层板本周港股通买卖总额超过200亿港元。从成交净买入金额来看，本周南向资金对互联网巨头买…",
+"published": 1786863655.0
+},
+{
+"source": "36氪",
+"title": "美媒称特朗普再次要求修改新航母设计",
+"link": "https://36kr.com/newsflashes/3941741200227718?f=rss",
+"summary": "美国《华盛顿邮报》15日援引多名美国官员消息报道说，应美国总统特朗普要求，美国海军再次考虑对“福特”级航母作出重大设计调整，将舰岛向舰体中部移动，此举预计将耗费数十亿美元并延长交付周期。此前，特朗普要求新航母弃用电磁弹射系统。据知情官员透露，由于特朗普对“福特”级航母的外观“存在担忧”，希望其更接近二战时期的航母设计，美国海军正考虑将新航母上舰岛位置从原来的位于后方调整为更靠近舰体中部。报道说，美国海军方面认为这一改动可能花费高昂且耗时漫长。实际上，特朗普第一任期内美海军已就…",
+"published": 1786862721.0
+},
+{
+"source": "36氪",
+"title": "7月湖南轨道交通装备出口创历史新高 单月首次突破2亿元",
+"link": "https://36kr.com/newsflashes/3941740057279876?f=rss",
+"summary": "据湖南日报，长沙海关日前发布，前7个月，湖南轨道交通装备出口9.6亿元，比去年同期增长24.4%。7月，湖南轨道交通装备出口创历史新高，单月首次突破2亿元，增长117.5%。",
+"published": 1786861813.0
+},
+{
+"source": "36氪",
+"title": "“2026文昌国际航空航天论坛”8月下旬启幕",
+"link": "https://36kr.com/newsflashes/3941739449564293?f=rss",
+"summary": "“2026文昌国际航空航天论坛”将于8月24日至26日在海南文昌举办，论坛将集中展示海南航天产业最新发展成果。“2026文昌国际航空航天论坛”的举办，旨在抢抓可复用火箭产业化新风口，汇聚全球航天资源，助力壮大火箭链、卫星链、数据链以及“航天+”产业，构建全方位、多层次的航天产业生态体系。海南将全力推动重点项目落地，加快形成高密度、高可靠、低成本的商业发射能力，高效支撑“百箭千星”任务。",
+"published": 1786860934.0
+},
+{
+"source": "36氪",
+"title": "空间站周记上新 多项科学实（试）验有序推进",
+"link": "https://36kr.com/newsflashes/3941674132454789?f=rss",
+"summary": "目前，神舟二十三号乘组三名航天员朱杨柱、张志远、黎家盈已在轨驻留80余天。上周，空间科学实（试）验、在轨训练及演练等工作有序推进。 在轨脑电测试、微重力直觉物理项目行为实验等同步完成，分别探究长期空间飞行环境对航天员脑功能网络影响和直觉物理表征能力的影响；围绕骨代谢交互调控、航天整合组学等多项实验，乘组完成了血液样本的采集与处理，开展长期飞行中航天员骨骼、神经等生理系统变化规律相关研究；此外，乘组进行了运动学特性实验，为工效学设计与评价等工作提供支撑。",
+"published": 1786860009.0
+},
+{
+"source": "36氪",
+"title": "大麦娱乐旗下潮玩品牌“好运连得”启动六城八店计划",
+"link": "https://36kr.com/newsflashes/3941673292102787?f=rss",
+"summary": "8月16日，大麦娱乐现实娱乐战略版图再添新动作，旗下潮玩品牌“好运连得”（LUCKY LOOP）启动六城八店布局计划。当日，首批线下门店于上海、深圳、广州同步开业；年内还将提速拓展至北京、南京、长沙，共覆盖六座城市，为用户构建更多兼具IP沉浸体验与情感链接的线下场景。“好运连得”的团队核心成员均由资深潮玩行业从业者组成，兼具IP孵化及运营、供应链管理、IP宣发及全球化运营经验。在创作者生态和IP储备方面，品牌已在全球范围内沟通链接超200位设计师，创作风格横跨国潮、治愈系、抽…",
+"published": 1786858215.0
+},
+{
+"source": "36氪",
+"title": "国产电动挖掘机全球下单",
+"link": "https://36kr.com/newsflashes/3941671672315011?f=rss",
+"summary": "目前，我国已成为全球工程机械第一产销大国。今年上半年，我国工程机械出口金额同比增长21.7%，出口规模持续扩大。在柳工挖掘机智慧工厂，一批电动挖掘机正在加紧生产，即将发往海外矿山。相比燃油设备，这些电动工程机械能耗仅为三分之一。今年前7个月，工厂单月下线挖掘机同比增长超40%，产品已远销170多个国家和地区。智能化、绿色化正成为中国工程机械拓展海外市场的新优势。",
+"published": 1786856440.0
+},
+{
+"source": "少数派",
+"title": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」",
+"link": "https://sspai.com/post/113495",
+"summary": "在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？查看全文",
+"published": 1786855701.0
+},
+{
+"source": "36氪",
+"title": "中国银幕数量世界第一 “龙餐馆”“奥德赛”特效厅一票难求",
+"link": "https://36kr.com/newsflashes/3941653927345286?f=rss",
+"summary": "这个暑期，电影市场持续火热。截至目前，2026年度电影票房已突破255亿元，暑期档连续37天单日票房过亿；今年暑期档票房（含预售）已突破98亿元，观影人次超2.6亿。市场热度的背后，既有优质内容点燃的观影热潮，也离不开影院持续升级影厅、丰富观影体验的助力。根据国家电影局2026年1月发布的官方统计，2025年全国城市院线银幕总数达93187块，较2024年净增2219块，持续稳居全球银幕数量首位。",
+"published": 1786854634.0
+},
+{
+"source": "The Verge",
+"title": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
+"link": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
+"summary": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera wi…",
+"published": 1786849200.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Stripe reportedly finalizes deal to buy AI model router OpenRouter for more than $7B",
+"link": "https://siliconangle.com/2026/08/16/stripe-reportedly-finalizes-deal-buy-ai-model-router-openrouter-7b/",
+"summary": "OpenRouter Inc., which sells developers a single door into more than 400 artificial intelligence models, has agreed to terms to sell itself to Stripe Inc. for north of $7 billion, according to a report from Bloomberg. The company’s pitch is…",
+"published": 1786919710.0
+}
+]
+}
+}

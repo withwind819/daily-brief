@@ -1,6 +1,6 @@
 {
 "date": "2026-08-15",
-"total": 64,
+"total": 69,
 "categories": {
 "AI": [
 {
@@ -11,6 +11,20 @@
 "published": 1786830751.0
 },
 {
+"source": "HN AI 热门",
+"title": "AI in drug discovery – what it is, where we stand and the path forward",
+"link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+"summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 179 # Comments: 89",
+"published": 1786821173.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
+"link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+"summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 582 # Comments: 484",
+"published": 1786817582.0
+},
+{
 "source": "The Decoder",
 "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
 "link": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
@@ -18,11 +32,25 @@
 "published": 1786808462.0
 },
 {
+"source": "HN AI 热门",
+"title": "Cloudflare's AI Psychosis",
+"link": "https://opensauce.it/cloudflare-ai-psychosis/",
+"summary": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 115 # Comments: 97",
+"published": 1786802920.0
+},
+{
 "source": "The Decoder",
 "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
 "link": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
 "summary": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropping for human-written titles too, in seven of eight genres. The findings could g…",
 "published": 1786791650.0
+},
+{
+"source": "HN AI 热门",
+"title": "Working with AI feels more like leadership than coding",
+"link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+"summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 320 # Comments: 197",
+"published": 1786790381.0
 },
 {
 "source": "InfoQ 中国",
@@ -86,6 +114,13 @@
 "link": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
 "summary": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin. Many supposed reasoning errors a…",
 "published": 1786771818.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+"link": "https://chenxiachan.github.io/thoughtdag/",
+"summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 132 # Comments: 59",
+"published": 1786768927.0
 },
 {
 "source": "量子位",

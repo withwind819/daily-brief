@@ -1,14 +1,28 @@
 {
 "date": "2026-08-16",
-"total": 54,
+"total": 60,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+"link": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+"summary": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll Comments URL: https://news.ycombinator.com/item?id=49323932 Points: 147 # Comments: 174",
+"published": 1786916046.0
+},
 {
 "source": "HN AI 热门",
 "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
 "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
 "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 98 # Comments: 73",
 "published": 1786912276.0
+},
+{
+"source": "HN AI 热门",
+"title": "Red queen hypothesis – A new way forward for self-improving AI",
+"link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+"summary": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai Comments URL: https://news.ycombinator.com/item?id=49323136 Points: 95 # Comments: 26",
+"published": 1786910473.0
 },
 {
 "source": "The Decoder",
@@ -23,6 +37,13 @@
 "link": "https://vectoral.com/blog/who-are-the-token-brokers",
 "summary": "Article URL: https://vectoral.com/blog/who-are-the-token-brokers Comments URL: https://news.ycombinator.com/item?id=49320611 Points: 205 # Comments: 78",
 "published": 1786891495.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: A public AI whose memory is shared across all users",
+"link": "https://wildstatic.com/",
+"summary": "Article URL: https://wildstatic.com/ Comments URL: https://news.ycombinator.com/item?id=49319814 Points: 80 # Comments: 69",
+"published": 1786886505.0
 },
 {
 "source": "量子位",
@@ -51,6 +72,13 @@
 "link": "https://www.qbitai.com/2026/08/474064.html",
 "summary": "“错过种一棵树最好的时间”",
 "published": 1786876607.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI Coding Without the Vibes",
+"link": "https://peterbloem.nl/blog/craft-coding",
+"summary": "Article URL: https://peterbloem.nl/blog/craft-coding Comments URL: https://news.ycombinator.com/item?id=49318735 Points: 96 # Comments: 55",
+"published": 1786876296.0
 },
 {
 "source": "InfoQ 中国",
@@ -144,6 +172,13 @@
 "link": "https://36kr.com/newsflashes/3942789547146375?f=rss",
 "summary": "8月以来，A股科技主线轮动修复，人形机器人、脑机接口、CPO、光纤光缆等多个细分赛道均有所表现。对于科技主线的后市演绎，券商策略展望报告认为，AI产业链基本面具备确定性，科技板块的修复趋势并未终结。但板块上涨仍受制于资金面压力及AI产业叙事能否出现重大变革，后续科技行情或将由普涨转向结构性机会。（上证报）",
 "published": 1786921200.0
+},
+{
+"source": "少数派",
+"title": "派早报：😭（放声大哭）成为最流行 emoji",
+"link": "https://sspai.com/post/113524",
+"summary": "😭（放声大哭）成为最流行 emoji美国要求合作方在中美 AI 竞赛中「选边站」ChatGPT 上线使用历史记录功能美国政府敦促苹果不要购买中国内存芯片uBlock Origin 放弃维护 Facebook 广告规则索尼加速向娱乐业务转型看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+"published": 1786920896.0
 },
 {
 "source": "The Verge",
@@ -378,6 +413,13 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Stripe reportedly finalizes deal to buy AI model router OpenRouter for more than $7B",
+"link": "https://siliconangle.com/2026/08/16/stripe-reportedly-finalizes-deal-to-buy-ai-model-router-openrouter-for-more-than-7b/",
+"summary": "OpenRouter Inc., which sells developers a single door into more than 400 artificial intelligence models, has agreed to terms to sell itself to Stripe Inc. for north of $7 billion, according to a report today from Bloomberg. The company’s pi…",
+"published": 1786919747.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Stripe reportedly finalizes deal to buy AI model router OpenRouter for more than $7B",

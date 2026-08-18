@@ -1,6 +1,6 @@
 {
 "date": "2026-08-17",
-"total": 135,
+"total": 138,
 "categories": {
 "AI": [
 {
@@ -840,6 +840,27 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Google pays $10M to get its hands on Spirit Airlines’ business data for AI training",
+"link": "https://siliconangle.com/2026/08/17/google-pays-10m-to-get-its-hands-on-spirit-airlines-business-data-for-ai-training/",
+"summary": "Alphabet Inc.’s Google LLC has won an auction to acquire massive volumes of internal business data from the bankrupt airline operator Spirit Airlines Inc. for a hefty $10 million price. A report by Bloomberg says that Google outbid a number…",
+"published": 1787010053.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AI cloud operator Groq raises $350M more in funding",
+"link": "https://siliconangle.com/2026/08/17/ai-cloud-operator-groq-raises-350m-more-in-funding/",
+"summary": "Artificial intelligence startup Groq Inc. today announced that it has raised $350 million in additional funding. The Series A round was led by returning backer Disruptive. Grok stated that Nvidia Corp. plans to join the round later down the…",
+"published": 1787009967.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Three insights you may have missed from theCUBE’s coverage of Black Hat USA",
+"link": "https://siliconangle.com/2026/08/17/three-cyber-resilience-insights-thecube-blackhat/",
+"summary": "Cyber resilience is becoming a business imperative as AI accelerates attacks, expands the enterprise attack surface and gives autonomous systems greater access to sensitive data and critical operations. Preventing every disruption is no lon…",
+"published": 1787009513.0
+},
 {
 "source": "SiliconANGLE",
 "title": "OpenAI leases 10-gigawatt AI data center campus from SoftBank’s SB Energy",

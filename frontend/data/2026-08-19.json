@@ -1,6 +1,6 @@
 {
 "date": "2026-08-19",
-"total": 145,
+"total": 147,
 "categories": {
 "AI": [
 {
@@ -250,6 +250,13 @@
 }
 ],
 "科技": [
+{
+"source": "36氪",
+"title": "8点1氪丨买火车票放零食被要求让座，12306回应；宇树科技上市庆功照流出；章子怡套现3个亿",
+"link": "https://36kr.com/p/3947086287158404?f=rss",
+"summary": "今日热点导览 智谱：GLM-5.3 API即日起正式上线 宇树创始人王兴兴身家超1300亿 2026七夕档票房破亿 迪士尼与旗下美国广播公司起诉美联邦通讯委员会 比尔盖茨名下豪华度假村因维护不善面临1亿美元索赔 TOP 3大新闻 2个人买3张火车票放零食占座，被无座乘客要求让座，12306回应 8月18日，据媒体报道，两个小女孩买了三张火车硬座票，旁边的一名无座女乘客想坐，商量无果找来列车员调解。女乘客：“大家都在一个车上，互相体谅对不对。”列车员：“座位是她们的，跟我说没用…",
+"published": 1787183339.0
+},
 {
 "source": "36氪",
 "title": "花旗称贝森特出手令美元付出代价，建议客户采用策略加以应对",
@@ -805,6 +812,13 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Rivian spinout Also raises $150M to take its small EVs autonomous",
+"link": "https://siliconangle.com/2026/08/19/rivian-spinout-also-raises-150m-to-take-its-small-evs-autonomous/",
+"summary": "Small electric vehicle maker Also Inc. said today it has raised $150 million in a Series D round to accelerate its work on autonomous driving. The money will fund several self-driving vehicle formats at once, all of them built on the electr…",
+"published": 1787181334.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Stripe buys AI model router OpenRouter in reported $7.5B deal",

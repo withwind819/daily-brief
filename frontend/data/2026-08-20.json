@@ -1,6 +1,6 @@
 {
 "date": "2026-08-20",
-"total": 133,
+"total": 136,
 "categories": {
 "AI": [
 {
@@ -227,6 +227,13 @@
 "title": "美股三大指数集体收跌，大型科技股普跌",
 "link": "https://36kr.com/newsflashes/3948453363416455?f=rss",
 "summary": "36氪获悉，8月20日收盘，美股三大指数集体下跌，纳指跌1%，道指跌1.31%，标普500指数跌0.86%。大型科技股普跌，亚马逊跌超2%，苹果、特斯拉、谷歌涨超1%，英伟达、微软、Meta小幅下跌；沃尔玛跌超9%，创下2022年5月以来最大单日跌幅。热门中概股多数下跌，爱奇艺跌超8%，网易跌近6%，微博跌超4%，哔哩哔哩跌超3%，蔚来跌超1%，百度、拼多多小幅下跌，阿里巴巴、理想汽车涨超1%，京东、小鹏集团小幅上涨。",
+"published": 1787266800.0
+},
+{
+"source": "少数派",
+"title": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
+"link": "https://sspai.com/post/113666",
+"summary": "影石推出竖拍云台相机 Luna Pro，森海塞尔发布 MOMENTUM True Wireless 5 真无线耳机等。查看全文",
 "published": 1787266800.0
 },
 {
@@ -770,6 +777,20 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Report: Anthropic hopes to surpass SpaceX’s record IPO raise when it finally floats",
+"link": "https://siliconangle.com/2026/08/20/report-anthropic-hopes-to-surpass-spacexs-record-ipo-raise-when-it-finally-goes-public/",
+"summary": "Anthropic PBC is privately hoping its upcoming initial public offering will match or even surpass the size of SpaceX Corp.’s record-breaking IPO as it doubles down on its bid to go public ahead of rival OpenAI Group PBC. Anonymous sources w…",
+"published": 1787269267.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Palo Alto Networks and NTT DATA target $1B in AI security sales by 2029",
+"link": "https://siliconangle.com/2026/08/20/palo-alto-networks-and-ntt-data-target-1b-in-ai-security-sales-by-2029/",
+"summary": "Palo Alto Networks Inc. and NTT DATA Group Corp. today signed a multiyear global alliance that targets $1 billion in joint business by the end of 2029. Palo Alto Networks said it’s the first alliance of its kind it has struck with a global …",
+"published": 1787268471.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Waymo details the custom chip in its autonomous driving system",

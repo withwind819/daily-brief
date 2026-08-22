@@ -1,0 +1,460 @@
+{
+"date": "2026-08-22",
+"total": 64,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
+"link": "https://www.infoq.cn/article/kyUdCw0IPHwuIHg2WJCu?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787419020.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
+"link": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787411700.0
+},
+{
+"source": "量子位",
+"title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+"link": "https://www.qbitai.com/2026/08/477253.html",
+"summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+"published": 1787410003.0
+},
+{
+"source": "量子位",
+"title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+"link": "https://www.qbitai.com/2026/08/477246.html",
+"summary": "直击WRC",
+"published": 1787408379.0
+},
+{
+"source": "量子位",
+"title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+"link": "https://www.qbitai.com/2026/08/477155.html",
+"summary": "一脑驱动多形落地",
+"published": 1787407880.0
+},
+{
+"source": "量子位",
+"title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+"link": "https://www.qbitai.com/2026/08/477094.html",
+"summary": "采集，从一条腕带开始",
+"published": 1787406960.0
+},
+{
+"source": "量子位",
+"title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
+"link": "https://www.qbitai.com/2026/08/477090.html",
+"summary": "将真实场景重建为持续更新、可计算的4D数字世界。",
+"published": 1787401267.0
+},
+{
+"source": "The Decoder",
+"title": "Study explains why AI agents benefit from \"skills\" and when they fail",
+"link": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
+"summary": "A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not through added knowledge. But as the skill library grows, agents have a harder and h…",
+"published": 1787400910.0
+},
+{
+"source": "量子位",
+"title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+"link": "https://www.qbitai.com/2026/08/477016.html",
+"summary": "具身智能赛道壁垒不在出货量",
+"published": 1787400683.0
+},
+{
+"source": "InfoQ 中国",
+"title": "npm 终于动手了：默认封杀 postinstall 脚本",
+"link": "https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787396700.0
+},
+{
+"source": "InfoQ 中国",
+"title": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
+"link": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787389500.0
+},
+{
+"source": "The Decoder",
+"title": "World models that ignore human beliefs predict the wrong actions, new research shows",
+"link": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/",
+"summary": "Current world models like Sora or Genie only simulate physics and ignore what people think, want, or feel. The new \"Mental World Modeling\" framework adds mental variables like beliefs and intentions. Even weaker language models using this a…",
+"published": 1787389220.0
+},
+{
+"source": "量子位",
+"title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+"link": "https://www.qbitai.com/2026/08/476965.html",
+"summary": "",
+"published": 1787388793.0
+},
+{
+"source": "量子位",
+"title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+"link": "https://www.qbitai.com/2026/08/476930.html",
+"summary": "让具身智能技术真正落地千行万业。",
+"published": 1787388101.0
+},
+{
+"source": "The Decoder",
+"title": "RayNeo's new AI glasses skip the camera, focus on text overlays",
+"link": "https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/",
+"summary": "RayNeo is launching a new headset without a camera or speakers. The article RayNeo's new AI glasses skip the camera, focus on text overlays appeared first on The Decoder.",
+"published": 1787385614.0
+},
+{
+"source": "The Decoder",
+"title": "Netflix tests language model as alternative to hand-built recommendation logic",
+"link": "https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/",
+"summary": "Netflix pitted its years-old recommendation engine against an in-house language model called GenRec and says it got better results. Instead of relying on thousands of hand-crafted features, GenRec converts viewing behavior into plain text. …",
+"published": 1787383816.0
+},
+{
+"source": "The Decoder",
+"title": "Psychological methods reveal major weaknesses in AI security testing",
+"link": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/",
+"summary": "Researchers at the UK AI Security Institute used psychometric methods to show that popular safety benchmarks for language models don't measure one consistent trait. Blanket blocking of requests can artificially inflate a safety score even a…",
+"published": 1787382005.0
+}
+],
+"科技": [
+{
+"source": "TechCrunch",
+"title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+"link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+"summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+"published": 1787435216.0
+},
+{
+"source": "TechCrunch",
+"title": "Will the DOJ’s investigation into a16z spook other VCs?",
+"link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+"summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+"published": 1787430260.0
+},
+{
+"source": "TechCrunch",
+"title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+"link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+"summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+"published": 1787425200.0
+},
+{
+"source": "The Verge",
+"title": "Doodle generative compositions in your browser with Musical Spirograph",
+"link": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+"summary": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spir…",
+"published": 1787418000.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI says California should strengthen its AI safety bill",
+"link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+"summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+"published": 1787416234.0
+},
+{
+"source": "TechCrunch",
+"title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+"link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+"summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+"published": 1787414400.0
+},
+{
+"source": "Solidot",
+"title": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同",
+"link": "https://www.solidot.org/story?sid=85165",
+"summary": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比骑行更大，但仍然远小于短暂的冲刺跑。冲刺跑还改变了逾 200 种代谢物，迅速提升了参与血管生长、组织重塑和激素信号传导的蛋白质水平。部分蛋白质是通过一种名为胞外域脱落（ectodo…",
+"published": 1787414362.0
+},
+{
+"source": "Solidot",
+"title": "Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份",
+"link": "https://www.solidot.org/story?sid=85164",
+"summary": "2022 年 9 月一名黑客泄漏了当时尚未宣布的 GTA6 的图片和视频，此事促使开发商 Rockstar Games 加强了安全措施。然而到了 2026 年 8 月游戏还有 3 个月即将发售时，自称 Cyber​​Leek 的个人或组织发布了 GTA6 的一系列新视频，视频显示泄密者手中可能有一个可运行的版本，也就是游戏本体被盗了。彭博社援引知情人士的消息称，Rockstar 尚未确定泄密者身份，也不知道游戏本体是如何泄漏出去的。该公司目前正全力查明泄露源头并追踪泄密者。为…",
+"published": 1787412651.0
+},
+{
+"source": "TechCrunch",
+"title": "US battery startups have found a lifeline in defense",
+"link": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+"summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+"published": 1787412000.0
+},
+{
+"source": "The Verge",
+"title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+"link": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+"summary": "W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political act…",
+"published": 1787410800.0
+},
+{
+"source": "TechCrunch",
+"title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
+"link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+"summary": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
+"published": 1787407200.0
+},
+{
+"source": "The Verge",
+"title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+"link": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+"summary": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's lineup were hit harde…",
+"published": 1787406061.0
+},
+{
+"source": "Solidot",
+"title": "因门把手安全隐患特斯拉在华召回近 300 万辆车",
+"link": "https://www.solidot.org/story?sid=85163",
+"summary": "特斯拉和另外 8 家汽车制造商 21 日宣布，将在中国召回总计约 430 万辆汽车，创下中国汽车召回规模纪录。此次召回的整改措施包括软件更新、加贴警示标签，以及改进门把手周围的标识等。大多数车企还将通过 OTA 远程升级软件。根据国家市场监督管理总局发布的公告，特斯拉将从 9 月 25 日起召回 298 万辆进口及中国制造的 Model 3、Model Y、Model S 和 Model X 汽车。特斯拉的召回规模最大，这也反映出该公司采用此类门把手设计的车型销量巨大。除特斯…",
+"published": 1787405538.0
+},
+{
+"source": "Solidot",
+"title": "使用胁迫密码删除手机数据的美国公民被控妨碍联邦执法的重罪",
+"link": "https://www.solidot.org/story?sid=85162",
+"summary": "2025 年 1 月，Samuel Tunick 从多米尼加共和国度假返回美国时，在亚特兰大 Hartsfield-Jackson 国际机场被拦下，美国海关和边境保护局官员要求搜查他的手机。他最终交出了手机以及一个密码，该密码删除了手机上的数据。他的 Pixel 智能手机运行的是安全加固的 Android 操作系统 GrapheneOS，它内置了被称为胁迫密码的安全功能，输入该密码后会删除手机上的数据。美国检方以妨碍联邦执法的重罪起诉了他，他因此面临最高五年的监禁。这是已知首…",
+"published": 1787404937.0
+},
+{
+"source": "The Verge",
+"title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+"link": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
+"summary": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference was often in build …",
+"published": 1787403600.0
+},
+{
+"source": "The Verge",
+"title": "Two great new repairable gadgets",
+"link": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+"summary": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.) This week, I've b…",
+"published": 1787400000.0
+},
+{
+"source": "36氪",
+"title": "科氪 | 你的下一副眼镜，会思考：雷鸟 iO 正式发布，首发 1996 元起",
+"link": "https://36kr.com/p/3950603951258756?f=rss",
+"summary": "8 月 21 日，全球领先的消费级 AR 品牌雷鸟创新（RayNeo）举办 2026 雷鸟 AI 眼镜新品发布会，正式发布全新产品系列——雷鸟 iO 系列。作为系列首款新品，雷鸟 iO 以回归眼镜本质为设计原点，重构整机结构、光学显示与镜框形态，一改 AI 眼镜粗重的固有印象，并通过全天候主动式 AI 提供知识、表达与记忆能力增强，打造行业首款“人类增强 AI 眼镜”。雷鸟 iO 首发到手价 1996 元起，提供 0 至 1000 度近视配镜方案，让 AI 眼镜从“科技尝鲜品…",
+"published": 1787397739.0
+},
+{
+"source": "Solidot",
+"title": "中国要求政府部门提前停用 Windows 10 政府版改用 Linux",
+"link": "https://www.solidot.org/story?sid=85161",
+"summary": "彭博社报道，中国政府下令部分机构提前停止使用 Windows 10 中国政府版，改用国产 Linux 发行版。为维护数字主权，中国已不再信任美国公司的软件。微软回应彭博社的询问时表示它没有发现影响该 Windows 系统的安全事件。Windows 10 中国政府版由微软和中国电子科技集团的合资企业神州网信开发。神州网信原计划到 2027 年 2 月停止支持该版本，但其生命结束时间被提前到今年下半年。中国政府机构采用的国产 Linux 发行版可能包括了麒麟操作系统（Kylin …",
+"published": 1787396450.0
+},
+{
+"source": "爱范儿",
+"title": "Windows 是 AI PC 路上的绊脚石",
+"link": "https://www.ifanr.com/1676189?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "你知道我不想离开 你知道我有多无奈#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1787392842.0
+},
+{
+"source": "36氪",
+"title": "工商银行：优化完善贴息配套政策，贴息上限由每年3000元提高至5000元",
+"link": "https://36kr.com/newsflashes/3950418609192324?f=rss",
+"summary": "日前财政部、中国人民银行、金融监管总局联合印发《关于进一步做好财政金融协同促内需政策有关工作的通知》。工商银行积极落实《通知》要求，优化完善贴息配套政策。本次贴息优化政策自2026年8月1日起施行。一是扩大贴息范围。将新发生的信用卡专项分期、消费分期、预借现金分期等各类信用卡分期业务纳入个人消费贷款财政贴息政策支持范围。二是适当提高额度。每名借款人在该行可享受的个人消费贷款和信用卡分期业务累计贴息上限由每年3000元提高至每年5000元。（财联社）",
+"published": 1787386417.0
+},
+{
+"source": "36氪",
+"title": "特斯拉无人驾驶电动车Cybercab发布会定档",
+"link": "https://36kr.com/newsflashes/3950417977785729?f=rss",
+"summary": "特斯拉在社交平台宣布，将于2026年9月3日在美国得州奥斯汀举行Cybercab发布会。据了解，今年4月，特斯拉无人驾驶电动车Cybercab在北美正式投产，称该车由AI驱动，无需方向盘、踏板和后视镜。（财联社）",
+"published": 1787386378.0
+},
+{
+"source": "36氪",
+"title": "2026年8月票房破45亿",
+"link": "https://36kr.com/newsflashes/3950416234888585?f=rss",
+"summary": "36氪获悉，据灯塔专业版，截至8月22日，2026年8月总票房（含预售）突破45亿，《欢迎来龙餐馆》《蜘蛛侠：崭新之日》《八仙！》《奥德赛》《功夫女足》暂列8月票房榜前五！ ​​​",
+"published": 1787386272.0
+},
+{
+"source": "36氪",
+"title": "8月沪牌拍卖结果出炉：最低成交价93800元",
+"link": "https://36kr.com/newsflashes/3950407072611718?f=rss",
+"summary": "据上海发布消息，8月沪牌拍卖结果出炉：个人额度合计拍卖总数4061个，参加拍卖人数28264人，中标率14.4%。最低成交价93800元，平均成交价为93868元，比上个月93679元增加了189元。最低成交价的截止时间是11:29:51第1262位。（财联社）",
+"published": 1787385712.0
+},
+{
+"source": "36氪",
+"title": "都是谁在买WRC上的机器人啊！",
+"link": "https://36kr.com/p/3950374720306563?f=rss",
+"summary": "撰文 | 刘思洁 刘孜妍 刘辰艺 编辑 | 张薇 头图设计 | 曲枚 做爆米花、打冰淇淋，机器人偶尔会出错，但没关系，一旁有工作人员协助。 在世界机器人大会现场，跨维智能的人形机器人，在一个便利店的模拟场景里“施展拳脚”。 这款机器人去年9月开始销售，早期不好卖，直到硬件迭代、成本下降，销售情况才有所改善，目前总出货量三十多台。买方有景区便利店，也有政府开办的数据采集中心。这些机器人被用来采集真机操作数据，采集来的数据则被用于模型的后训练。 和跨维智能的机器人一样，WRC上所…",
+"published": 1787383893.0
+},
+{
+"source": "36氪",
+"title": "电影《八仙！》总票房破17亿",
+"link": "https://36kr.com/newsflashes/3950257665686914?f=rss",
+"summary": "36氪获悉，据猫眼专业版数据，电影 《八仙！》 上映36天， 总票房破17亿 ​​。",
+"published": 1787376593.0
+},
+{
+"source": "36氪",
+"title": "民生人寿回应开除属相不合员工传闻",
+"link": "https://36kr.com/newsflashes/3950252778486914?f=rss",
+"summary": "近日，网上流传的一张爆料截图显示，民生人寿董事长把和自己生肖属相不合的人全部裁员。另有报道称，工作多年的员工如果学历不是一本也要被裁。对此，民生人寿客服表示，公司已对网络上的造谣内容进行证据保全。对于编造、扩散此类虚假信息的机构或个人，公司将通过法律途径追究其法律责任，提醒广大网友甄别网络信息真伪，不信谣、不传谣。公司一切信息均以官方发布内容为准。（中国新闻网）",
+"published": 1787376295.0
+},
+{
+"source": "36氪",
+"title": "东方甄选2026财年业绩：自营产品GMV占比超过一半",
+"link": "https://36kr.com/newsflashes/3950242277112964?f=rss",
+"summary": "8月22日消息，东方甄选发布的2026财年业绩报告显示，财年总营收同比增长36.3%。本财年，东方甄选毛利为20亿元，同比增加45.2%，经营利润为6.6亿元人民币。截至2026年5月31日，东方甄选总体GMV达102亿元，其中，自营产品带来的GMV为54亿元，占总GMV约52.6%。报告期内，东方甄选累计推出1009款自营产品。东方甄选执行总裁孙进表示，新财年，自营品研发和上新会继续加速。今年东方甄选在杭州新开直播间，包括自营服饰号、自营食品号、自营个护美妆号，杭州基地两个…",
+"published": 1787375654.0
+},
+{
+"source": "36氪",
+"title": "央视曝光特大跨境荐股诈骗案，男子轻信荐股直播被骗近500万元",
+"link": "https://36kr.com/newsflashes/3950237259185285?f=rss",
+"summary": "据央视财经，股市直播中精准预判涨跌、专属导师一对一荐股，看似稳赚不赔的投资理财渠道，实则是一套全程造假的跨境精准围猎陷阱。于先生就落入了这样的圈套，被骗走近500万元。由于涉案金额巨大，甘肃警方启动重特大电诈案件侦办机制，省市两级成立了“3.10”专案组。通过国际警务执法合作机制，中国警方促使柬埔寨警方对3处诈骗窝点开展集中收网。5月25日，82名犯罪嫌疑人被押解回国，其中25名为境外逃犯。从上游技术开发、中游引流推广，到下游跑分洗钱、境外诈骗实施，案件实现了对荐股类诈骗犯罪…",
+"published": 1787375348.0
+},
+{
+"source": "36氪",
+"title": "淘宝闪购：梭子蟹全国数百城市开售，近一周订单量环比上涨260%",
+"link": "https://36kr.com/newsflashes/3950226207538311?f=rss",
+"summary": "近日，淘宝闪购联合盒马、永辉超市、三江购物、乐家超惠等连锁商超以及菜老包生鲜菜场在全国数百城市开售梭子蟹。淘宝闪购数据显示，开渔近一周梭子蟹订单量环比上涨260％，其他水产品也呈现上涨态势。",
+"published": 1787374673.0
+},
+{
+"source": "36氪",
+"title": "苹果拟在Siri和Vision Pro团队裁员超200人",
+"link": "https://36kr.com/newsflashes/3950185027501440?f=rss",
+"summary": "据报道，苹果公司将裁减Siri和Vision Pro团队员工，涉及超200个岗位。苹果在一份声明中表示，做出这些调整旨在“推动业务发展，为用户提供最佳体验”，公司同时也会新设岗位。（界面新闻）",
+"published": 1787372160.0
+},
+{
+"source": "36氪",
+"title": "金饰克价逼近1400元",
+"link": "https://36kr.com/newsflashes/3950184094842242?f=rss",
+"summary": "8月22日，现货黄金现涨1.86%，达4603.25美元/盎司。国内黄金饰品价格对比显示，多家黄金珠宝品牌当日公布的境内足金首饰价格较昨日有所上调，老凤祥报价1388元/克，单日涨32元；老庙黄金报价1391元/克，单日涨34元；周生生报价1387元/克，单日涨22元。（界面新闻）",
+"published": 1787372103.0
+},
+{
+"source": "36氪",
+"title": "东山精密加码AI光芯片光模块扩产，项目总投资上调至17亿美元",
+"link": "https://36kr.com/newsflashes/3950182513884297?f=rss",
+"summary": "8月21日晚间，苏州东山精密制造股份有限公司发布公告称，公司拟对子公司Source Photonics Holdings（Cayman）Limited及其子公司、子公司Multi‑Fineline Electronic（Thailand）Co.，Ltd.及子公司盐城东山精密制造有限公司在常州、盐城等地及泰国实施的光芯片及光模块扩建项目新增投资额5亿美元，项目总投资额由原来的12亿美元调增至17亿美元。（证券时报）",
+"published": 1787372006.0
+},
+{
+"source": "36氪",
+"title": "科大讯飞与中国药科大学签署战略合作协议",
+"link": "https://36kr.com/newsflashes/3950179929210248?f=rss",
+"summary": "据科大讯飞消息，近日，中国药科大学与科大讯飞正式签署战略合作协议。此次战略合作签约是科大讯飞以人工智能核心技术赋能生物医药产业的重要实践。未来，科大讯飞将与中国药科大学深化产学研合作，细化合作清单、落地专项项目，共同打造“人工智能+医药”产教融合标杆，为生物医药产业高质量发展注入新动能。（证券时报）",
+"published": 1787371849.0
+},
+{
+"source": "36氪",
+"title": "国民信托获批增加注册资本30亿元",
+"link": "https://36kr.com/newsflashes/3950178694118788?f=rss",
+"summary": "8月21日，北京金融监管局网站发布批复，同意国民信托有限公司增加注册资本30亿元人民币，由10亿元人民币变更为40亿元人民币。（界面新闻）",
+"published": 1787371773.0
+},
+{
+"source": "36氪",
+"title": "中信证券：建议优先关注电池组件、胶膜、光伏玻璃、浆料等环节的结构性机会",
+"link": "https://36kr.com/newsflashes/3950171706539397?f=rss",
+"summary": "中信证券最新研报指出，当前光伏行业需求已基本触底，2026H2起国内外装机有望逐季改善；供给侧“反内卷”从自律倡议走向硬性制度约束，能效标准与成本核算通则推动落后产能加速出清，行业竞争重心转向技术及效率比拼。产业链价格及盈利有望迎来修复，具备高效技术、格局优势与盈利确定��的细分龙头有望率先受益，建议优先关注电池组件、胶膜、光伏玻璃、浆料等环节的结构性机会。（财联社）",
+"published": 1787371347.0
+},
+{
+"source": "36氪",
+"title": "美对部分加拿大商品加征50%关税",
+"link": "https://36kr.com/newsflashes/3950168505793666?f=rss",
+"summary": "美国贸易代表格里尔当地时间8月21日深夜表示，加拿大拒绝在最后期限前与美国最终敲定贸易协议，并仍在继续对美国采取报复性措施。加拿大总理卡尼表示，已决定暂停与美国的贸易谈判。卡尼称，谈判进展还不足以实现为加拿大国民设定的目标。格里尔称，美国已向加拿大提供了“更为优惠的市场准入条件”，若达成协议，本可“大幅降低关税”。但他指责加方拒绝接受，导致谈判破裂。美国海关与边境保护局随后发布指引，宣布依据第338条款，对特定加拿大进口商品加征额外关税。一名特朗普政府高级官员证实，对部分加拿…",
+"published": 1787371151.0
+},
+{
+"source": "少数派",
+"title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+"link": "https://sspai.com/post/113675",
+"summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...查看全文",
+"published": 1787367600.0
+},
+{
+"source": "36氪",
+"title": "钱大妈递表港交所，全国门店超3000家",
+"link": "https://36kr.com/newsflashes/3950092174802050?f=rss",
+"summary": "8月21日，社区连锁生鲜企业钱大妈国际控股有限公司向港交所递交IPO更新申报材料。最新财务数据显示，2026年上半年经调整净利润为1.04亿元，较2025年同期增长3.7%。整体毛利率从2025年上半年的11.2%稳步提升至11.5%，盈利水平稳步提升。截至2026年7月31日，全国门店达3020家。2026年上半年加盟门店日均客数近600人次，较2023年提升近6%，经营活力持续释放。",
+"published": 1787366493.0
+},
+{
+"source": "36氪",
+"title": "21家公募中报放榜：南方基金15亿净利暂领跑，永赢反超银华、大成",
+"link": "https://36kr.com/newsflashes/3950085715131524?f=rss",
+"summary": "据澎湃新闻记者不完全统计，截至8月21日晚间，已有至少21家基金公司（包括有公募牌照的券商资管机构）2026年上半年营业收入和净利润的数据出炉。南方基金上半年净利润达到15.03亿元，同比增长25.86%，暂时领跑。华夏基金则以14.13亿元的净利润紧随其后，同比增幅达25.82%。富国基金净利润暂列第三，上半年实现营收43.49亿元、净利润11.43亿元，重返“10亿俱乐部”。此外，兴证全球基金也时隔5年重新跻入十亿阵营，上半年净利润达到10.12亿元，同比大幅增长40.7…",
+"published": 1787366098.0
+},
+{
+"source": "36氪",
+"title": "东方财富上半年净利润增45%至80.64亿元，披露两项处罚已完成整改",
+"link": "https://36kr.com/newsflashes/3950083613949316?f=rss",
+"summary": "8月21日晚间，东方财富发布的《2026年半年度报告》显示，今年上半年，公司实现营业收入105.05亿元，同比增加53.22%；归属于上市公司股东的净利润（下称“净利润”）80.64亿元，同比增加44.85%。2026年上半年，东方财富基本每股收益0.5102元/股，同比增加44.70%。截至报告期末，公司总资产5057.41亿元，较2025年末增长28.71%。Wind数据显示，自上市以来，东方财富中报营收规模首次突破百亿。（澎湃新闻）",
+"published": 1787365970.0
+},
+{
+"source": "36氪",
+"title": "OpenAI将GPT-5.6 Sol模型API定价下调两成以上",
+"link": "https://36kr.com/newsflashes/3950062675377280?f=rss",
+"summary": "当地时间8月21日，OpenAI官方在其开发者社区公告称，GPT-5.6 Sol模型API和��分定价将在未来3个月内下调20%以上。现已通过API提供，并逐步向符合条件的ChatGPT Work和Codex积分套餐开放。Pro、Plus 和 Business 订阅用户的使用价格保持不变。（界面新闻）",
+"published": 1787364692.0
+},
+{
+"source": "TechCrunch",
+"title": "Michael Polansky is training an AI model on skin that’s still alive",
+"link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+"summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover …",
+"published": 1787362264.0
+},
+{
+"source": "36氪",
+"title": "9点1氪丨有医院能领结婚证了，与婚前检查无缝衔接；阿里巴巴发布财报，2027财年Q1营收2690亿；OpenAI进一步开放Codex的底层能力",
+"link": "https://36kr.com/p/3949992200928641?f=rss",
+"summary": "今日热点导览 抗癌疫苗引爆资本市场，多家公司涉及相关研发 贵州茅台回应上半年茅台酒产量下降：阶段性统计差异，全年累计产量不受影响 广州市中级人民法院依法受理恒大地产集团有限公司破产清算案 张雪回应“台湾首辆张雪机车遭查扣” 全球首个开源太空具身智能合作项目SpaceClaw（太空龙虾）达成战略合作 TOP 3 大新闻 医院也能领结婚证了，淄博一妇幼保健院内设立婚姻登记 不仅地铁站、银行、音乐节等场所可以陆续设立婚姻登记点位，部分地区的医院也开始提供类似便民服务。据界面新闻查询…",
+"published": 1787360672.0
+},
+{
+"source": "TechCrunch",
+"title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+"link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+"summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+"published": 1787360586.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜摄像头AirPods或配备拍摄指示灯/问界儿童车售价1.58万元/LV否认「起诉国家知识产权局遭驳回」",
+"link": "https://www.ifanr.com/1676129?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 阿里二季度重组电商与 AI 业务架构 · 腾讯芯片负责人高剑林被曝离职创业，瞄准 RISC-V AI CPU · 旺旺被曝启动裁员，并要求员工提交自评报告#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1787359806.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "From tokenmaxxing to sovereign alpha: Who controls your AI economics?",
+"link": "https://siliconangle.com/2026/08/22/from-tokenmaxxing-to-sovereign-alpha-who-controls-your-ai-economics/",
+"summary": "The artificial intelligence industry wants enterprises to measure progress in tokens, model calls and usage. But those are largely vendor-revenue metrics — not enterprise-value metrics. The Canva example shows why. On Aug. 6, The Informatio…",
+"published": 1787418000.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AI data center builder Nscale reportedly seeking $3B IPO",
+"link": "https://siliconangle.com/2026/08/21/ai-data-center-builder-nscale-reportedly-seeking-3b-ipo/",
+"summary": "Nscale Global Holdings Ltd. reportedly plans to raise $3 billion in an initial public offering that could take place as soon as next month. Bloomberg today cited sources as saying that the London-based company intends to list its shares on …",
+"published": 1787360348.0
+}
+]
+}
+}

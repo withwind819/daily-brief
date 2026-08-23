@@ -1,8 +1,15 @@
 {
 "date": "2026-08-22",
-"total": 64,
+"total": 66,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Why your local LLM feels dumber than it is",
+"link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+"summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 417 # Comments: 171",
+"published": 1787422456.0
+},
 {
 "source": "InfoQ 中国",
 "title": "Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
@@ -121,6 +128,13 @@
 "link": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/",
 "summary": "Researchers at the UK AI Security Institute used psychometric methods to show that popular safety benchmarks for language models don't measure one consistent trait. Blanket blocking of requests can artificially inflate a safety score even a…",
 "published": 1787382005.0
+},
+{
+"source": "HN AI 热门",
+"title": "GPT 5.6 Sol 20% price reduction",
+"link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+"summary": "Article URL: https://developers.openai.com/api/docs/models/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49396590 Points: 90 # Comments: 77",
+"published": 1787373186.0
 }
 ],
 "科技": [

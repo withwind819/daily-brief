@@ -1,6 +1,6 @@
 {
 "date": "2026-08-20",
-"total": 136,
+"total": 141,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,13 @@
 "link": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/",
 "summary": "Adobe is making three AI audio tools broadly available in Firefly. Generate Music, Generate Speech, and Generate Sound Effects create royalty-free music, voiceovers, and sound effects for video projects. Adobe has also added Gemini Omni Fla…",
 "published": 1787254174.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: Huzzah – a novel approach to coding with AI",
+"link": "https://www.danielvaughn.dev/posts/huzzah/",
+"summary": "Hello everyone. I've been working on this experimental editor called Huzzah.I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're …",
+"published": 1787252736.0
 },
 {
 "source": "InfoQ 中国",
@@ -60,6 +67,20 @@
 "published": 1787240340.0
 },
 {
+"source": "HN AI 热门",
+"title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+"link": "https://github.com/zachahn/vomit",
+"summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 303 # Comments: 297",
+"published": 1787239562.0
+},
+{
+"source": "HN AI 热门",
+"title": "Anti-AI fonts are useless and harmful",
+"link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+"summary": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/ Comments URL: https://news.ycombinator.com/item?id=49375719 Points: 210 # Comments: 165",
+"published": 1787238413.0
+},
+{
 "source": "The Decoder",
 "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?",
 "link": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/",
@@ -93,6 +114,13 @@
 "link": "https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/",
 "summary": "Turing Award winner Richard Sutton calls synthetic data a \"big mistake\" for scaling large language models. The world is infinitely complex, and any simulation of it is \"microscopic,\" with human expertise acting as a bottleneck that blocks r…",
 "published": 1787228047.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI didn't erase the junior engineer's value, it increased it it",
+"link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+"summary": "Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/ Comments URL: https://news.ycombinator.com/item?id=49373269 Points: 89 # Comments: 143",
+"published": 1787226140.0
 },
 {
 "source": "InfoQ 中国",
@@ -149,6 +177,13 @@
 "link": "https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/",
 "summary": "In a new essay, Terence Tao warns that AI could push mathematics into a crisis on par with the foundational upheaval around 1900. What's being tested this time isn't mathematical truth but the values of the field: what counts as a contribut…",
 "published": 1787215776.0
+},
+{
+"source": "HN AI 热门",
+"title": "Don't paste the AI, please",
+"link": "https://dontpastetheai.com/",
+"summary": "Article URL: https://dontpastetheai.com/ Comments URL: https://news.ycombinator.com/item?id=49371857 Points: 1044 # Comments: 579",
+"published": 1787214044.0
 },
 {
 "source": "The Decoder",

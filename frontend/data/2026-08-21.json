@@ -1,6 +1,6 @@
 {
 "date": "2026-08-21",
-"total": 131,
+"total": 136,
 "categories": {
 "AI": [
 {
@@ -67,6 +67,13 @@
 "published": 1787330875.0
 },
 {
+"source": "HN AI 热门",
+"title": "AI boosted homework scores, then exam scores dropped: Study",
+"link": "https://canews24.online/?p=71",
+"summary": "Article URL: https://canews24.online/?p=71 Comments URL: https://news.ycombinator.com/item?id=49389565 Points: 165 # Comments: 11",
+"published": 1787325942.0
+},
+{
 "source": "The Decoder",
 "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race",
 "link": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/",
@@ -81,11 +88,25 @@
 "published": 1787322300.0
 },
 {
+"source": "HN AI 热门",
+"title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+"link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+"summary": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 188 # Comments: 98",
+"published": 1787319813.0
+},
+{
 "source": "InfoQ 中国",
 "title": "初级岗位消失、高级人才断层：下一代高级工程师从哪里来？",
 "link": "https://www.infoq.cn/article/xL611mlF8NKR0zTB7aMl?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1787313600.0
+},
+{
+"source": "HN AI 热门",
+"title": "I'm becoming AI-blind",
+"link": "https://cymerys.com/w/im-becoming-ai-blind",
+"summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 487 # Comments: 492",
+"published": 1787312885.0
 },
 {
 "source": "量子位",
@@ -221,11 +242,25 @@
 "published": 1787282080.0
 },
 {
+"source": "HN AI 热门",
+"title": "AI companies destroy physical books – let's scan rare books before it's too late",
+"link": "https://annas-archive.gl/blog/physical-destruction.html",
+"summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 623 # Comments: 898",
+"published": 1787279867.0
+},
+{
 "source": "量子位",
 "title": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
 "link": "https://www.qbitai.com/2026/08/476409.html",
 "summary": "",
 "published": 1787279470.0
+},
+{
+"source": "HN AI 热门",
+"title": "Copyright does not protect AI-generated content in EU",
+"link": "https://mathstodon.xyz/@maxpool/117128107757895678",
+"summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 189 # Comments: 209",
+"published": 1787271312.0
 }
 ],
 "科技": [

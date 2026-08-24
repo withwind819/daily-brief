@@ -1,14 +1,56 @@
 {
 "date": "2026-08-23",
-"total": 58,
+"total": 67,
 "categories": {
 "AI": [
+{
+"source": "量子位",
+"title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+"link": "https://www.qbitai.com/2026/08/478358.html",
+"summary": "Tim和胡彦斌亲自颁奖",
+"published": 1787527146.0
+},
+{
+"source": "HN AI 热门",
+"title": "I built a low-latency AI companion that plays Skyrim with me",
+"link": "https://pantel.is/projects/ai-gaming-companion/",
+"summary": "Article URL: https://pantel.is/projects/ai-gaming-companion/ Comments URL: https://news.ycombinator.com/item?id=49413561 Points: 332 # Comments: 69",
+"published": 1787527097.0
+},
+{
+"source": "HN AI 热门",
+"title": "Implementation of GPT-2 in pure CMake",
+"link": "https://github.com/AlpinDale/gpt2.cmake",
+"summary": "Article URL: https://github.com/AlpinDale/gpt2.cmake Comments URL: https://news.ycombinator.com/item?id=49412909 Points: 90 # Comments: 19",
+"published": 1787521277.0
+},
+{
+"source": "HN AI 热门",
+"title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+"link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+"summary": "Article URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245 Comments URL: https://news.ycombinator.com/item?id=49411102 Points: 759 # Comments: 665",
+"published": 1787508997.0
+},
+{
+"source": "HN AI 热门",
+"title": "My agent.md to improve LLM-assisted code quality",
+"link": "https://fabiensanglard.net/agent.md/index.html",
+"summary": "Article URL: https://fabiensanglard.net/agent.md/index.html Comments URL: https://news.ycombinator.com/item?id=49410932 Points: 393 # Comments: 170",
+"published": 1787507992.0
+},
 {
 "source": "InfoQ 中国",
 "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
 "link": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1787504400.0
+},
+{
+"source": "HN AI 热门",
+"title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+"link": "https://ericpardee.github.io/fire-hd-ownership/",
+"summary": "Article URL: https://ericpardee.github.io/fire-hd-ownership/ Comments URL: https://news.ycombinator.com/item?id=49409073 Points: 679 # Comments: 289",
+"published": 1787494989.0
 },
 {
 "source": "InfoQ 中国",
@@ -128,9 +170,30 @@
 "link": "https://www.qbitai.com/2026/08/478007.html",
 "summary": "",
 "published": 1787469142.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI Chip Architectures",
+"link": "https://www.jepeake.com/ai-chip-architectures",
+"summary": "Article URL: https://www.jepeake.com/ai-chip-architectures Comments URL: https://news.ycombinator.com/item?id=49405657 Points: 139 # Comments: 45",
+"published": 1787451910.0
 }
 ],
 "科技": [
+{
+"source": "36氪",
+"title": "8点1氪丨小红书“因遭举报上市失败”？警方：造谣者已被行拘；加拿大9月8日起对美国征收报复性关税 ；多个高职专业起薪超过部分本科专业",
+"link": "https://36kr.com/p/3952761839795331?f=rss",
+"summary": "今日热点导览 DeepSeek调整峰谷计费规则，周末全天按低谷时段价格计费 TikTok将支付4亿美元与美国司法部和解 阿里巴巴拟配售800亿港元新股，全部投入AI建设 民生人寿回应开除属相不合员工传闻 电影《牛来》票房突破4000万 TOP 3 大新闻 小红书“因遭举报上市失败”？警方：造谣者已被行拘 近日，上海黄浦区一企业向黄浦警方报案称某自媒体博主发布内容为“知名企业上市失败”的不实帖文，对公司声誉造成负面影响。黄浦公安分局网安部门接报后迅速开展调查，锁定了该账号运营者…",
+"published": 1787529451.0
+},
+{
+"source": "少数派",
+"title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
+"link": "https://sspai.com/post/113767",
+"summary": "九家车企召回近 430 万辆不易识别应急拉手汽车英伟达达成 70 亿美元合作，研发顶级开放权重模型高院发布著作权新司法解释，网络转载不允许先转后付买家利用仅退款漏洞倒卖 13 万元火鸡面被刑拘国际加紧制定统一月球时间个人消费贷贴息政策扩展覆盖买车、装修等看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文",
+"published": 1787526835.0
+},
 {
 "source": "36氪",
 "title": "新型电子皮肤大幅提升温度与压力感知能力",

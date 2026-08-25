@@ -1,6 +1,6 @@
 {
 "date": "2026-08-24",
-"total": 124,
+"total": 126,
 "categories": {
 "AI": [
 {
@@ -763,6 +763,20 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation",
+"link": "https://siliconangle.com/2026/08/24/nvidia-reportedly-eyes-another-investment-in-perplexity-ai-at-a-30b-valuation/",
+"summary": "Nvidia Corp. is reportedly considering making another investment in the artificial intelligence search startup Perplexity AI Inc. A report by The Information today says the chipmaker is holding talks with Perplexity about an investment that…",
+"published": 1787614808.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Quintessent bags $40M to develop lasers for AI clusters",
+"link": "https://siliconangle.com/2026/08/24/quintessent-bags-40m-to-develop-lasers-for-ai-clusters/",
+"summary": "Optical interconnect startup Quintessent Inc. today announced that it has raised $40 million in early-stage funding to gear up production of its hardware. Cycle Capital led the Series A raise. It was joined by Goldman Sachs, Susquehanna Int…",
+"published": 1787614693.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Trump defends AI data center buildout amid pushback",

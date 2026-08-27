@@ -1,6 +1,6 @@
 {
 "date": "2026-08-25",
-"total": 143,
+"total": 146,
 "categories": {
 "AI": [
 {
@@ -791,6 +791,27 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Data center power startup Emerald AI raises $150M at $1.05B valuation",
+"link": "https://siliconangle.com/2026/08/25/data-center-power-startup-emerald-ai-raises-150m-at-1-05b-valuation/",
+"summary": "Data center power startup Emerald AI Inc. today said that it has raised $150 million in new funding in an oversubscribed round at a valuation of $1.05 billion. Emerald will put the money into scaling up commercial deployments worldwide. The…",
+"published": 1787701963.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Agentic web search infrastructure startup Keenable raises $26M",
+"link": "https://siliconangle.com/2026/08/25/agentic-web-search-infrastructure-startup-keenable-raises-26m/",
+"summary": "Artificial intelligence startup Keenable.ai Inc. said today it’s launching with $26 million in funding to try to revamp a web search infrastructure that was built for humans, not the billions of autonomous agents that many believe will soon…",
+"published": 1787701901.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Gatik raises $200M to grow driverless fleet past 100 trucks this year",
+"link": "https://siliconangle.com/2026/08/25/gatik-raises-200m-to-grow-driverless-fleet-past-100-trucks-this-year/",
+"summary": "Autonomous trucking company Gatik AI Inc. today announced a $200 million Series D round to expand its driverless fleet. Gatik said the money will take it from dozens of trucks on the road today to more than 100 by the end of this year. Foun…",
+"published": 1787700285.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Alice raises $140M as its AI security business grows more than 500%",

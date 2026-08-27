@@ -1,6 +1,6 @@
 {
 "date": "2026-08-20",
-"total": 141,
+"total": 142,
 "categories": {
 "AI": [
 {
@@ -197,6 +197,13 @@
 "title": "Introducing AI Futures",
 "link": "https://openai.com/index/introducing-ai-futures",
 "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+"published": 1787209200.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Introducing Intelligence Age",
+"link": "https://openai.com/index/introducing-intelligence-age",
+"summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
 "published": 1787209200.0
 },
 {

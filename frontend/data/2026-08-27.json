@@ -1,0 +1,320 @@
+{
+"date": "2026-08-27",
+"total": 44,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "Flux 推出 Mirror 插件：只让可信制品进入 Kubernetes 集群",
+"link": "https://www.infoq.cn/article/p8qELFuWcdBic11PXG72?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787832000.0
+},
+{
+"source": "InfoQ 中国",
+"title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+"link": "https://www.infoq.cn/article/QEG6h1VpkiaFYUL1jUyc?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787826522.0
+},
+{
+"source": "InfoQ 中国",
+"title": "ARR 超 8 亿美元，B 端收入占比升至 80%！MiniMax 第二份财报：增长与商业化来到验证时刻",
+"link": "https://www.infoq.cn/article/OtZAGeLtUBgd9UzkO7eC?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787826438.0
+},
+{
+"source": "InfoQ 中国",
+"title": "“我们把同一个应用构建了两次”：Harper 挑战 Vercel，性能最高相差 14 倍",
+"link": "https://www.infoq.cn/article/jbOa8ChckHTgVVKh5AKb?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787825446.0
+},
+{
+"source": "InfoQ 中国",
+"title": "如何把 Agent 的判断与行动变成可恢复的软件事实 | KDC 工程补篇",
+"link": "https://www.infoq.cn/article/AkgUFEFE4uG7WIlqaO2g?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787824800.0
+},
+{
+"source": "量子位",
+"title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+"link": "https://www.qbitai.com/2026/08/480005.html",
+"summary": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。",
+"published": 1787798795.0
+},
+{
+"source": "量子位",
+"title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+"link": "https://www.qbitai.com/2026/08/480001.html",
+"summary": "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。",
+"published": 1787795108.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "海致科技与京东科技达成战略合作",
+"link": "https://36kr.com/newsflashes/3957251199614088?f=rss",
+"summary": "近日，北京海致科技集团股份有限公司与京东科技信息技术有限公司正式达成战略合作。双方将深度融合海致图智能核心技术与京东科技产业云底座能力，围绕技术共建、行业赋能等四大维度协同发力，联手打造高可信、可解释的产业AI解决方案，加速AI技术在金融、能源、政务等重点行业的规模化落地。目前，海致科技的Atlas图谱解决方案与Atlas智能体已在政务、金融、能源等核心领域实现规模化落地，服务数百家行业头部客户。",
+"published": 1787803445.0
+},
+{
+"source": "36氪",
+"title": "恒指午间休盘跌0.42%，恒生科技指数涨0.19%",
+"link": "https://36kr.com/newsflashes/3957249780448648?f=rss",
+"summary": "36氪获悉，恒指午间休盘跌0.42%，恒生科技指数涨0.19%；半导体、硬件、化工板块领涨，东光化工涨超18%，澜起科技涨超10%，剑桥科技涨超7%，中际旭创涨超5%；食品饮料、银行、汽车板块跌幅居前，海天味业跌超9%，小鹏集团跌超3%，工商银行跌超2%；南向资金净买入19.43亿港元。",
+"published": 1787803358.0
+},
+{
+"source": "36氪",
+"title": "温氏股份：看好下半年消费旺季的鸡价，养鸡业务全年有望贡献合理利润",
+"link": "https://36kr.com/newsflashes/3957231676275840?f=rss",
+"summary": "36氪获悉，温氏股份8月26日在半年报业绩解读电话会议上表示，8月份以来，鸡价受旺季需求提升等因素影响快速上涨，截至8月24日已涨至6.9元/斤。公司看好下半年消费旺季的鸡价，预计养鸡业务全年有望贡献合理的利润。",
+"published": 1787802801.0
+},
+{
+"source": "36氪",
+"title": "半日主力资金加仓电子板块，抛售银行股",
+"link": "https://36kr.com/newsflashes/3957238697000067?f=rss",
+"summary": "主力资金早间净流入电子、通信、有色金属等板块，净流出银行、电力设备、交通运输等板块。具体到个股来看，长飞光纤、亨通光电、生益科技获净流入24.28亿元、22.41亿元、21.93亿元。净流出方面，阳光电源、宁德时代、洛阳钼业遭抛售18.99亿元、5.04亿元、4.08亿元。（第一财经）",
+"published": 1787802682.0
+},
+{
+"source": "36氪",
+"title": "贵州省与中国电信集团有限公司签署战略合作协议",
+"link": "https://36kr.com/newsflashes/3957225857203331?f=rss",
+"summary": "8月26日，贵州省委书记徐麟，省委副书记、省长李炳军在贵阳会见中国电信集团有限公司党组书记、董事长柯瑞文一行，共同出席《贵州省人民政府 中国电信集团有限公司战略合作协议》签约仪式。根据协议，双方将在新型信息基础设施建设、壮大数据标注产业、数智赋能等领域深化合作。（贵州日报）",
+"published": 1787802250.0
+},
+{
+"source": "36氪",
+"title": "阿里速卖通：Brand+品牌货盘在欧盟市场同比增长97%",
+"link": "https://36kr.com/newsflashes/3957224388345216?f=rss",
+"summary": "36氪获悉，面对欧盟税改，速卖通Brand+表现出强大的韧性。根据最新数据，速卖通8月大促期间，Brand+品牌货盘在欧盟市场同比增长97%。",
+"published": 1787801808.0
+},
+{
+"source": "36氪",
+"title": "除了找投资人，FA还能怎么玩？这个“新武器”正在提升项目曝光",
+"link": "https://36kr.com/p/3957199690022274?f=rss",
+"summary": "在融资服务越来越精细化的今天，FA（财务顾问）的价值已经不只是“帮企业找到投资人”。 对于创业公司而言，融资过程中除了资金和资源，如何让项目获得更多关注、建立市场认知，同样重要。尤其是早期项目和新兴赛道企业，在缺乏品牌知名度的情况下，“让更多人看到”本身就是一种价值。 这也让AI报道工具开始成为FA提升服务附加值的新选择。 从“融资撮合”到“项目传播” 传统FA服务通常围绕项目梳理、投资人匹配、融资沟通等环节展开。但一个项目能否获得关注，并不完全取决于BP写得多漂亮。 好的项…",
+"published": 1787801699.0
+},
+{
+"source": "36氪",
+"title": "A股三大指数午间休盘集体上涨，半导体板块领涨",
+"link": "https://36kr.com/newsflashes/3957220983667841?f=rss",
+"summary": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.6%，深成指涨1.19%，创业板指涨1.51%；半导体、通信设备、电子元件板块领涨，赛微电子、大普微、长飞光纤涨停，中英科技涨超14%；银行、电工电网、运输板块跌幅居前，阳光电源跌超11%，京沪高铁、重庆银行跌超2%。",
+"published": 1787801601.0
+},
+{
+"source": "36氪",
+"title": "吴柏志任中国海油副总经理",
+"link": "https://36kr.com/newsflashes/3957205633465476?f=rss",
+"summary": "36氪获悉，中国海油官网更新显示，吴柏志任中国海油集团公司党组成员、副总经理。",
+"published": 1787800664.0
+},
+{
+"source": "36氪",
+"title": "最前线｜奇点能源磴口GWh级网侧储能项目运行数据披露，综合效率超行业均值6个百分点",
+"link": "https://36kr.com/p/3957200338205828?f=rss",
+"summary": "随着新能源装机规模持续攀升，电网对灵活调节资源的需求日益迫切，大规模储能电站正成为支撑新能源消纳、保障电力系统安全稳定运行的关键基础设施。 近日，奇点能源披露了其位于巴彦淖尔市磴口县的500MW/2000MWh储能项目最新运行数据。该项目是奇点能源交付的首个GWh级单体项目，也是旗舰产品Galaxy-1组串式预制舱在源网侧的规模化应用标杆。自2026年1月转入商业运营以来，电站已持续稳定运行超半年。 （图源/企业） 运行数据显示，截至2026年6月底，电站累计充电量已超过40…",
+"published": 1787800371.0
+},
+{
+"source": "36氪",
+"title": "业绩快报｜提效保质，古茗上半年营收净利双增",
+"link": "https://36kr.com/p/3957195146247559?f=rss",
+"summary": "文 | 杨烁 8月26日晚间，古茗发布2026年中期业绩，上半年实现收入74.7亿元，同比增长31.9%；经调整利润15.7亿元，同比大增44.4%。 这是一份相当出色的成绩单。在整个行业陷入内卷、国内新茶饮市场呈现饱和的情况下，古茗的利润增速显著快于收入增速。这足以说明，公司在规模扩张的同时，成本控制与运营提效取得实质进展。 而在最能反映门店经营质量的GMV层面，古茗上半年单店日均GMV为7800元，与上年同期基本持平；门店总GMV为197亿元，同比增长40.1%。 实际上…",
+"published": 1787800214.0
+},
+{
+"source": "36氪",
+"title": "日立、三菱研究公司将推出电力交易服务",
+"link": "https://36kr.com/newsflashes/3957177116097929?f=rss",
+"summary": "日立、三菱研究公司将推出电力交易服务。（新浪财经）",
+"published": 1787799987.0
+},
+{
+"source": "少数派",
+"title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
+"link": "https://sspai.com/post/113222",
+"summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+"published": 1787799702.0
+},
+{
+"source": "36氪",
+"title": "瑞萨电子在北京启用物理AI与机器人实验室",
+"link": "https://36kr.com/newsflashes/3957188235508864?f=rss",
+"summary": "瑞萨电子8月27日宣布正式在北京启用物理AI与机器人实验室，将支持客户开展下一代机器人系统的演示、验证及联合开发工作。声明称，设立该实验室是在今年7月公司成立物理AI事业部后的重要一步。（界面）",
+"published": 1787799602.0
+},
+{
+"source": "36氪",
+"title": "汇丰考虑重组新加坡业务部门以简化运营",
+"link": "https://36kr.com/newsflashes/3957176023809159?f=rss",
+"summary": "据知情人士透露，汇丰控股计划调整新加坡业务，将主要银行业务合并到一个实体之下，以精简结构。此举将使汇丰在当地的批发、零售和私人银行业务集中到同一屋檐下。自艾桥智于2024年9月接任集团行政总裁一职以来，过去两年汇丰一直在进行大规模的重组。为了简化银行业务并降低成本，他关闭、合并并出售了多家公司。今年7月，这家银行同意以21亿美元的价格出售其新加坡保险业务部门。“我们持续审视组织架构，寻求简化方案。”汇丰发言人表示，“我们所有亚太地区的银行业务实体仍由香港上海汇丰银行有限公司所…",
+"published": 1787799205.0
+},
+{
+"source": "36氪",
+"title": "美国纽约州和新泽西州获美加墨世界杯35亿美元经济效益，超出预期",
+"link": "https://36kr.com/newsflashes/3957170947390852?f=rss",
+"summary": "2026年国际足联世界杯纽约州和新泽西州组委会8月26日发布报告称，本届赛事为该地区带来35亿美元经济效益，超过最初预计的33亿美元。报告称，2026年男足世界杯在这两州带动19亿美元直接消费，涉及住宿、餐饮、酒吧、购物和交通等方面。本届赛事共支持27424个就业岗位，其中近1.8万个岗位直接由世界杯运营和游客消费支撑，同时为州和地方政府带来4.142亿美元税收收入，主要源自销售税。（界面）",
+"published": 1787799144.0
+},
+{
+"source": "爱范儿",
+"title": "MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的",
+"link": "https://www.ifanr.com/1676874?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "8 亿美元 ARR 背后，MiniMax 的 Agent 基建与效率暗战.#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1787798910.0
+},
+{
+"source": "36氪",
+"title": "沪深两市成交额突破1万亿元",
+"link": "https://36kr.com/newsflashes/3957167506587017?f=rss",
+"summary": "36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时放量超500亿元。",
+"published": 1787798337.0
+},
+{
+"source": "36氪",
+"title": "鼻病毒疫苗1期临床试验取得积极初步结果",
+"link": "https://36kr.com/newsflashes/3957165649313159?f=rss",
+"summary": "英国帝国理工学院26日发布新闻公报说，一种旨在防范鼻病毒感染的候选疫苗在1期临床试验中取得令人鼓舞的初步结果。健康志愿者对该疫苗耐受性良好，单剂接种后产生了针对3类主要鼻病毒的免疫反应。（新华社）",
+"published": 1787798223.0
+},
+{
+"source": "36氪",
+"title": "日本央行副行长：延迟加息或致通胀急升，短期实际利率仍为负",
+"link": "https://36kr.com/newsflashes/3957154608004484?f=rss",
+"summary": "日本央行副行长冰见野良三表示，日本金融环境依然宽松，支撑经济，但应避免因延迟加息导致通货膨胀急剧上升的情况，并在此之后迅速加息。冰见野良三认为，日本央行应继续提高政策利率，并根据经济活动、价格和金融状况的发展调整货币宽松程度。冰见野良三指出，短期和中期实际利率为负值，意味着当前货币政策仍处于实质性宽松状态。（新华财经）",
+"published": 1787797902.0
+},
+{
+"source": "36氪",
+"title": "泰晶科技76.8MHz热敏晶体谐振器进入高通五大平台PVL",
+"link": "https://36kr.com/newsflashes/3957150417419397?f=rss",
+"summary": "36氪获悉，据泰晶科技消息，近日，泰晶科技自主研发的76.8 MHz热敏晶体谐振器已进入高通SM8750、SM8850、SM8975、SM8845、SM8950五个平台的参考时钟器件PVL（首选供应商清单）。该产品采用1612微型封装和QonQ TH+Xtal结构，生产状态为MP。此次平台导入进一步拓展了泰晶科技在新一代高端及中高端移动计算平台的频控器件布局。",
+"published": 1787797860.0
+},
+{
+"source": "36氪",
+"title": "绿城老库存首次降至50%以下",
+"link": "https://36kr.com/p/3957154259500162?f=rss",
+"summary": "8月25日，绿城中国发布截至2026年中期业绩。报告期内，绿城实现营业收入394.81亿元，同比下降26%；毛利润43.88亿元，同比下降38.7%；归母净利润8171.5万元，同比大幅下滑60.77%。早在8月10日，公司已经发布盈利预警，提前向市场提示利润大幅下滑风险。 上半年绿城整体毛利率下行至11.1%，较2025年同期下降2.3个百分点，其中核心的物业销售毛利率仅9.7%。 在业绩会上，绿城执行董事、执行总裁江峰表示，利润下降的核心原因是受行业持续调整、物业销售结转…",
+"published": 1787797536.0
+},
+{
+"source": "36氪",
+"title": "“沐创集成电路”完成数亿元B轮融资",
+"link": "https://36kr.com/newsflashes/3957146009910659?f=rss",
+"summary": "36氪获悉，据联想创投消息，“沐创集成电路”本月宣布完成数亿元B轮融资，沐曦股份、联想创投作为战略产业资本入局；广州白云金控、广花金控地方政府基金及晨晖资本等市场化基金联合参投；清控银杏、元禾资本等老股东持续加码。本轮融资资金将致力于推动400G/800G Scale out智能网卡芯片的研发与产业化落地，同步布局GPU Scale Up高速互联芯片。",
+"published": 1787797532.0
+},
+{
+"source": "36氪",
+"title": "市场监管总局发布7月企业信用指数，企业信用基础保持稳固",
+"link": "https://36kr.com/newsflashes/3957145671630209?f=rss",
+"summary": "市场监管总局今天（27日）公布，今年7月中国企业信用指数为158.87，较前期高位呈现阶段性回调，但企业信用韧性持续显现。全国企业信用基础保持稳固。今年7月，中国企业信用指数较6月下降2.35点，受新列入经营异常名录企业数量增长等因素影响，监管性分指标降幅明显。同时，信用修复进程加速，新移出经营异常名录企业数量同步增长，监管活跃度持续提升，企业注销数量环比减少，经营主体存续意愿增强，企业信用向好的基本面没有改变。（央视新闻）",
+"published": 1787797004.0
+},
+{
+"source": "36氪",
+"title": "软银洽谈以60亿美元估值收购人形机器人制造商1X多数股权",
+"link": "https://36kr.com/newsflashes/3957142950231168?f=rss",
+"summary": "软银洽谈以60亿美元估值收购人形机器人制造商1X多数股权。（新浪财经）",
+"published": 1787796838.0
+},
+{
+"source": "36氪",
+"title": "36氪项目推荐周榜|第15期，本期热度TOP10",
+"link": "https://36kr.com/p/3957138356206978?f=rss",
+"summary": "上一周，AI项目的竞争重点正在从“有没有模型”转向“能否进入真实业务”。有人试图把业务流程编译成智能体可调用的能力，有人从游戏、机器人数据、药企合规等细分场景切入，也有人在算力供给与冷链基础设施中寻找更具体的效率空间。 本期上榜项目横跨企业服务、具身智能、医疗健康、合成生物与供应链服务。它们共同指向一个变化：技术不再只为制造新功能，而是在重新组织一套行业的工作方式。 本周榜单 榜单 项目介绍 TOP1｜独到科技 独到科技提出“业务世界的 Agent 编译器”概念，试图将企业中…",
+"published": 1787796759.0
+},
+{
+"source": "36氪",
+"title": "Thinking Machines联合创始人巴雷特佐夫加盟谷歌",
+"link": "https://36kr.com/newsflashes/3957140312980608?f=rss",
+"summary": "Thinking Machines Lab联合创始人巴雷特．佐夫（Barret Zoph）再次更换了雇主。今年早些时候，他因与Thinking Machines Lab首席执行官米拉．穆拉蒂（Mira Murati）发生争执而突然跳槽至OpenAI。Alphabet旗下的谷歌周四表示，佐夫将加盟该公司出任研究副总裁。（新浪财经）",
+"published": 1787796677.0
+},
+{
+"source": "36氪",
+"title": "36氪首发 | 南洋理工院士团队做全域具身智能系统，种子轮获同创伟业领投，卧安机器人、旭源资本跟投",
+"link": "https://36kr.com/p/3957129659497600?f=rss",
+"summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，全域场景下具身智能系统供应商「星际觅元」近日完成千万元种子轮融资，由同创伟业领投，家庭具身智能机器人企业卧安机器人和旭源资本跟投。目前客户群体包括国内主流智能具身智能厂商，以及能源、高端制造等行业场景客户。 「星际觅元」成立于2026年7月，由中新国际联合研究院智能感知创新研发中心执行主任温明星博士创立，新加坡工程院院士王郸维教授担任首席科学家。公司核心团队成员来自新加坡南洋理工大学、哈尔滨工业大学、北京理工大学、华南理工大学以及…",
+"published": 1787796166.0
+},
+{
+"source": "36氪",
+"title": "潜伏独角兽 | 从手机摄像头做到宇树、科沃斯视觉底座，这家影像供应商年营收20亿",
+"link": "https://36kr.com/p/3957086357421441?f=rss",
+"summary": "图源/企业 本文约3200字，建议阅读7分钟 作者丨欧雪 编辑丨袁斯来 当联合影像营收做到20亿时，外界仍然不太了解这家公司。 2014年，张枫刚创办联合影像的时候，做的是一门他觉得“相对简单”的生意——手机摄像头模组。 他在手机行业沉浮多年，经历了从品牌到白牌、再到运营商、又回到品牌的完整周期，所以选择从自己最熟悉的地方出发。他也很清楚，这是一件“比较简单的、没有什么门槛的事。” 很长一段时间中，联合影像作为头部手机品牌供应商活得很稳定。但作为一个行业老兵，张枫很清楚手机供…",
+"published": 1787793424.0
+},
+{
+"source": "36氪",
+"title": "AI时代的《旅行青蛙》，这款产品正在给出一个新答案",
+"link": "https://36kr.com/p/3956380165684352?f=rss",
+"summary": "文丨小葵 编辑丨果脯 还记得 10 年前爆火的《旅行青蛙》吗？它曾在一个月内创下 2000 万下载量，日活巅峰高达 763 万。10 年后，这只青蛙有了AI 版——但这次陪你的，不是青蛙，是一群动物朋友。 “今天走了这么多步，你是去征服世界了吗？” 这是「爪步」app里的狐獴艾迪今天和我说的第一句话。昨天我只走了三百步的时候，它的原话是：“我在房间里找遥控器都比你走得多。” 主界面 我很难跟人解释清楚，为什么一个AI的损话能让我真的穿上鞋出了门。但事实就是，我最终确实多走了两…",
+"published": 1787792292.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜苹果新iPhone 9月10日见/特斯拉中国辟谣上海数据中心撤离/工信部:严禁未经充分测试验证的汽车产品进入市场",
+"link": "https://www.ifanr.com/1676848?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· ChatGPT Business 开放 Premium 席位，用量提高至 5 倍 · 顺丰回应薪酬结构调整：15% 纳入季度考核，不涉及一、二线员工 · 百度股东会通过双重主要上市相关决议#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1787791291.0
+},
+{
+"source": "TechCrunch",
+"title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+"link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+"summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+"published": 1787790297.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨苹果宣布9月9日发布首款折叠式手机；英伟达预计下一财年销售额将增长约70%；西藏泥石流已造成265人失联3人遇难",
+"link": "https://36kr.com/p/3957017574030727?f=rss",
+"summary": "今日热点导览 OpenAI又一位销售高管将重返Salesforce 苹果为库克举行告别派对 铁路新增教师积分优惠：为普通常旅客会员的两倍 挪威拟监管智能眼镜，考虑禁止公共场所人脸识别功能 乐高集团倪志伟：中国市场依然大，未来会继续投资 TOP3大新闻 苹果将于9月9日发布首款折叠式手机 苹果公司定于9月9日举行今年最重要的一场产品发布会，这将拉开新任首席执行官John Ternus任期内首场重大新品发布的序幕。Ternus一直是推动折叠屏iPhone项目的核心人员，而其接任C…",
+"published": 1787789470.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Salesforce scoffs at SaaSpocalypse fears with a crushing earnings beat",
+"link": "https://siliconangle.com/2026/08/26/salesforce-scoffs-at-saaspocalypse-fears-with-a-crushing-earnings-beat/",
+"summary": "Shares of Salesforce Inc. jumped more than 13% in late trading after the customer relationship management software provider delivered strong second-quarter earnings and revenue and issued guidance that exceeded Wall Street’s expectations. T…",
+"published": 1787794924.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Bill Gates issues stark warning about AI and the future of humanity",
+"link": "https://siliconangle.com/2026/08/26/bill-gates-issues-stark-warning-about-ai-and-the-future-of-humanity/",
+"summary": "Microsoft Corp. co-founder Bill Gates has sounded the alarm regarding how artificial intelligence will cause profound disruption in the labor market, warning that millions of jobs are at risk and there’s no plan yet to help those who will l…",
+"published": 1787794570.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Z.ai open-sources ‘Ox Alpha’ model as GLM-5.3-Flash",
+"link": "https://siliconangle.com/2026/08/26/z-ai-open-sources-ox-alpha-model-as-glm-5-3-flash/",
+"summary": "Z.ai Co. today released the code for GLM-5.3-Flash, a large language model that’s 10 times more cost-efficient than its predecessor. The algorithm made its original debut last week under the codename Ox Alpha. LLM marketplace operator OpenR…",
+"published": 1787790384.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Nvidia’s next multibillion-dollar market: Breaking the AI factory out of the data center",
+"link": "https://siliconangle.com/2026/08/26/nvidias-next-billion-dollar-market-breaking-ai-factory-out-data-center/",
+"summary": "Nvidia Corp.’s first AI infrastructure boom concentrated enormous amounts of compute. The next opportunity will be distributing it through high-speed network fabrics. Everyone knows that I love stories that connect Silicon Valley to Wall St…",
+"published": 1787789350.0
+}
+]
+}
+}

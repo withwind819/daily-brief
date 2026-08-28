@@ -1,6 +1,6 @@
 {
 "date": "2026-08-25",
-"total": 146,
+"total": 149,
 "categories": {
 "AI": [
 {
@@ -30,6 +30,27 @@
 "link": "https://www.infoq.cn/article/4mIQfr4w5gPLXSIW7YST?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1787674560.0
+},
+{
+"source": "HN AI 热门",
+"title": "How much of HN is AI?",
+"link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+"summary": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 274 # Comments: 354",
+"published": 1787671421.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: I made a Raspberry with Qwen my local car AI",
+"link": "https://github.com/ThinkOffApp/CarWatch",
+"summary": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ …",
+"published": 1787671220.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+"link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+"summary": "Article URL: https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49435147 Points: 145 # Comments: 174",
+"published": 1787669338.0
 },
 {
 "source": "InfoQ 中国",

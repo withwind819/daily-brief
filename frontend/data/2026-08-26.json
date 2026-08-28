@@ -1,8 +1,15 @@
 {
 "date": "2026-08-26",
-"total": 111,
+"total": 119,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Serve Markdown to AI Agents with Accept Headers",
+"link": "https://acceptmarkdown.com/",
+"summary": "Article URL: https://acceptmarkdown.com/ Comments URL: https://news.ycombinator.com/item?id=49454764 Points: 174 # Comments: 107",
+"published": 1787773559.0
+},
 {
 "source": "MIT科技评论 AI",
 "title": "The inside story on why OpenAI agents hacked Hugging Face",
@@ -44,6 +51,20 @@
 "link": "https://www.infoq.cn/article/RJDrRaDC1drafw0Kvoki?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1787760040.0
+},
+{
+"source": "HN AI 热门",
+"title": "The turbulent AI era is here",
+"link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+"summary": "Article URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49451313 Points: 358 # Comments: 361",
+"published": 1787759715.0
+},
+{
+"source": "HN AI 热门",
+"title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+"link": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+"summary": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49450898 Points: 251 # Comments: 171",
+"published": 1787758205.0
 },
 {
 "source": "InfoQ 中国",
@@ -88,6 +109,13 @@
 "published": 1787749744.0
 },
 {
+"source": "HN AI 热门",
+"title": "The turbulent AI era is here",
+"link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+"summary": "Article URL: https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make Comments URL: https://news.ycombinator.com/item?id=49448137 Points: 189 # Comments: 1",
+"published": 1787748467.0
+},
+{
 "source": "The Decoder",
 "title": "Pro-Kremlin deepfakes put surrender rhetoric in the mouths of Ukrainian lawmakers",
 "link": "https://the-decoder.com/pro-kremlin-deepfakes-put-surrender-rhetoric-in-the-mouths-of-ukrainian-lawmakers/",
@@ -95,11 +123,25 @@
 "published": 1787747784.0
 },
 {
+"source": "HN AI 热门",
+"title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+"link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+"summary": "Article URL: https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda Comments URL: https://news.ycombinator.com/item?id=49447600 Points: 244 # Comments: 49",
+"published": 1787746279.0
+},
+{
 "source": "The Decoder",
 "title": "Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google",
 "link": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/",
 "summary": "A Chinese AI company could land its model on major US cloud platforms for the first time, taking a cut of the revenue. The article Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google appeared first on The Decoder…",
 "published": 1787745257.0
+},
+{
+"source": "HN AI 热门",
+"title": "The turbulent AI era is here",
+"link": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+"summary": "Article URL: https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med Comments URL: https://news.ycombinator.com/item?id=49447057 Points: 263…",
+"published": 1787743434.0
 },
 {
 "source": "InfoQ 中国",
@@ -156,6 +198,13 @@
 "link": "https://www.qbitai.com/2026/08/479834.html",
 "summary": "具身智能迈向GPT时刻",
 "published": 1787738829.0
+},
+{
+"source": "HN AI 热门",
+"title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+"link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+"summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek Comments URL: https://news.ycombinator.com/item?id=49446422 Points: 431 # Comments: 146",
+"published": 1787738695.0
 },
 {
 "source": "The Decoder",
@@ -515,6 +564,13 @@
 "link": "https://www.ifanr.com/1676793?utm_source=rss&utm_medium=rss&utm_campaign=",
 "summary": "特斯拉的车主们仍在等待。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
 "published": 1787741966.0
+},
+{
+"source": "爱范儿",
+"title": "为什么 AI 手机必须要有 AI 按键？| AG&I",
+"link": "https://www.ifanr.com/1677238?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "给 AI 以按键，而不是给按键以 AI#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1787738427.0
 },
 {
 "source": "爱范儿",

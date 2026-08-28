@@ -1,0 +1,411 @@
+{
+"date": "2026-08-28",
+"total": 57,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+"link": "https://www.infoq.cn/article/REPGvBlF661I4hRmvV8J?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787926817.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+"link": "https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787925600.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从云原生数据库到数据基础设施：架构、弹性与智能化演进 | 腾讯云数据库 DBTalk",
+"link": "https://www.infoq.cn/video/gaAV7GRNCXWITqLRGu0H?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787920269.0
+},
+{
+"source": "InfoQ 中国",
+"title": "S3 兼容不代表具备 S3 级别的安全性",
+"link": "https://www.infoq.cn/article/xr3L0bkiFZGzYmtZwscB?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787920200.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从数据格式到完整引擎：2026 数据库系统演进趋势与 TDSQL 实践 | 腾讯云数据库 DBTalk",
+"link": "https://www.infoq.cn/video/7Idl1NaRyb6MPku1W1Vv?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787918853.0
+},
+{
+"source": "InfoQ 中国",
+"title": "你的 Agent 已经上线生产环境，下一步怎么办？ | 技术实践",
+"link": "https://www.infoq.cn/article/mKFB15kPm6Uw8fNG4Y7e?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787917983.0
+},
+{
+"source": "InfoQ 中国",
+"title": "1周半写64个PR、完成30%项目重构：一家成熟SaaS公司把Agent塞进研发全流程后",
+"link": "https://www.infoq.cn/article/0yv69MyNwHiwY3IZXPQt?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787917397.0
+},
+{
+"source": "InfoQ 中国",
+"title": "智谱认领“牛来”模型，实测：“牛马”友好",
+"link": "https://www.infoq.cn/article/sTYSudHtvkbNJvuSbp31?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787916753.0
+},
+{
+"source": "InfoQ 中国",
+"title": "谷歌落后一个时代？CEO 亲自官宣“语音转文字”模型，网友：你们看不清形势啊",
+"link": "https://www.infoq.cn/article/MCTm2NvWob0ZHulXe0AQ?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787914722.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Cloudflare 将工程规范改造为 AI 强制执行的管控系统",
+"link": "https://www.infoq.cn/article/TEgX02zINMmLVbYPyP0N?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787914387.0
+},
+{
+"source": "InfoQ 中国",
+"title": "曝英伟达129 亿美元收购Hugging Face！黄仁勋：我只后悔没有更早、更多投资OpenAI、Anthropic",
+"link": "https://www.infoq.cn/article/Z9bIWfsMCIA9yiLUSDvJ?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1787909362.0
+},
+{
+"source": "量子位",
+"title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
+"link": "https://www.qbitai.com/2026/08/480227.html",
+"summary": "国产算力跑通视频生成规模化应用",
+"published": 1787890179.0
+},
+{
+"source": "量子位",
+"title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
+"link": "https://www.qbitai.com/2026/08/480223.html",
+"summary": "国产异构助力前沿智能进入普惠时代",
+"published": 1787889976.0
+},
+{
+"source": "HN AI 热门",
+"title": "Please stop flooding our projects with AI slop to furnish your CV",
+"link": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+"summary": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions Comments URL: https://news.ycombinator.com/item?id=49474143 Points: 116 # Comments: 52",
+"published": 1787888973.0
+},
+{
+"source": "量子位",
+"title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
+"link": "https://www.qbitai.com/2026/08/480208.html",
+"summary": "8月28日，阿里巴巴集团旗下高德正式发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon。",
+"published": 1787888745.0
+},
+{
+"source": "量子位",
+"title": "34克、全天候AI，1996元起，雷鸟iO热卖加速智能眼镜全民普及",
+"link": "https://www.qbitai.com/2026/08/480202.html",
+"summary": "8 月 27 日，全球领先消费级 AR 品牌雷鸟创新（RayNeo）公布雷鸟 iO 首销战报",
+"published": 1787886222.0
+},
+{
+"source": "量子位",
+"title": "全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力",
+"link": "https://www.qbitai.com/2026/08/480083.html",
+"summary": "8月27日，网易有道正式发布OpenPods有道AI耳机。",
+"published": 1787885317.0
+},
+{
+"source": "量子位",
+"title": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄",
+"link": "https://www.qbitai.com/2026/08/480186.html",
+"summary": "Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o",
+"published": 1787881222.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "Hy4 preview正式发布，ima已接入",
+"link": "https://36kr.com/newsflashes/3958801487608965?f=rss",
+"summary": "36氪获悉，8月28日，腾讯混元发布并开源新一代大语言模型Hy4 preview ，总参数770B、激活参数49B，上下文长度突破1M。据了解，ima已接入Hy4 preview。",
+"published": 1787898067.0
+},
+{
+"source": "36氪",
+"title": "亚马逊与瑞典四座风力发电场达成电力供应协议",
+"link": "https://36kr.com/newsflashes/3958776371018883?f=rss",
+"summary": "亚马逊公司宣布签署了长期协议，从瑞典的四个风力发电场购买电力，以帮助满足其在北欧国家数据中心扩容期间的电力需求。这些交易将新增近200兆瓦的电力，亚马逊表示，一旦全面运营，其在瑞典的电力供应将超过1吉瓦。随着云计算和人工智能服务需求的增长，亚马逊和其他超大规模数据中心运营商正在加大电力采购力度，并投资扩建自身数据中心。这家电商巨头计划在2027年和2028年为其数据中心新增200万个英伟达GPU，此前该公司曾表示今年将开始部署100万个。（新浪财经）",
+"published": 1787897879.0
+},
+{
+"source": "36氪",
+"title": "常宝股份：目前公司HRSG管产线保持良好运行",
+"link": "https://36kr.com/newsflashes/3958774194765188?f=rss",
+"summary": "36氪获悉，常宝股份8月27日在机构调研时表示，公司HRSG管业务已形成特色品牌和核心竞争力，与国内外品牌企业建立了稳定的业务合作关系，目前公司HRSG管产线保持良好运行。当前，公司正依托特材项目开发高端不锈钢及镍基HRSG管产能，并推进高端合金管精整线项目，完善HRSG管后道加工能力，进一步提升高钢级HRSG管的制造能力。",
+"published": 1787897399.0
+},
+{
+"source": "36氪",
+"title": "韩国国民年金公团上半年投资回报率达27%",
+"link": "https://36kr.com/newsflashes/3958789509856644?f=rss",
+"summary": "韩国规模达1866万亿韩元的国民年金公团（NPS）公布，今年上半年收益率达27.2%，创下自2022年以来同期最佳表现。（新浪财经）",
+"published": 1787897336.0
+},
+{
+"source": "36氪",
+"title": "Marshall Wace据悉将在日本设办事处，加入其他对冲基金的行列",
+"link": "https://36kr.com/newsflashes/3958744634866824?f=rss",
+"summary": "据知情人士透露，管理900亿美元资产的英国资产管理公司Marshall Wace计划明年在日本开设办事处，加入其他对冲基金进军日本的行列。知情人士透露，东京办公室初期规模较小，进驻投资人员。他还补充说，待监管部门批准后，该办事处可能在2027年下半年开业。Marshall Wace长期以来一直在亚洲进行交易，其中日本是其关键市场。该公司于2006年在香港开设了办事处，将其开创性的系统化TOPS市场中性策略引进该地区，该策略旨在搜集股票销售人员的构想。目前，该公司仍在运行着一项…",
+"published": 1787896620.0
+},
+{
+"source": "36氪",
+"title": "比亚迪第10000座闪充站落成",
+"link": "https://36kr.com/newsflashes/3958741543386501?f=rss",
+"summary": "36氪获悉，据比亚迪消息，8月28日，比亚迪第10000座闪充站暨深圳龙华闪充旗舰站正式落成。截至目前，比亚迪全国闪充站总用户量突破183万，其他品牌用户占比接近三分之一。",
+"published": 1787896430.0
+},
+{
+"source": "36氪",
+"title": "竞价201轮，华润置地80.6亿元摘取广州海珠琶洲南区一地块",
+"link": "https://36kr.com/newsflashes/3958739358710917?f=rss",
+"summary": "广州今日出让3宗涉宅用地，起始总价96.09亿元，其中，上午出让的海珠区琶洲南区石榴岗路涉宅用地，引发激烈争夺。该地块为二类居住用地兼容商业设施用地，规划建筑面积131160平方米，起始价60.56亿元。该地块吸引了越秀&保利、中海、华润置地等5家竞买人参与竞拍，经过201轮竞价，最终被华润置地以80.56亿元的价格竞得，成交楼面价61423元/平方米，溢价率33.02%，这一成交楼面价也刷新了广州涉宅用地成交楼面价TOP3位置。（财联社）",
+"published": 1787895760.0
+},
+{
+"source": "36氪",
+"title": "创业板指午后跌超1%，早盘一度涨超1.3%",
+"link": "https://36kr.com/newsflashes/3958761246489730?f=rss",
+"summary": "36氪获悉，创业板指午后跌超1%，早盘一度涨超1.3%，沪指跌0.02%，深成指跌0.53%，生物科技、半导体板块跌幅居前，沪深京三市超2400股下跌。",
+"published": 1787895611.0
+},
+{
+"source": "36氪",
+"title": "消息称美团LongCat通用Agent团队负责人顾奇将离职创业",
+"link": "https://36kr.com/newsflashes/3958708503198850?f=rss",
+"summary": "消息称美团LongCat Team主任研究员、通用Agent团队负责人顾奇即将离职。顾奇将在多模态模型领域创业，正在跟VC接触。公开资料，顾奇是LongCat系列模型核心贡献者，LongCat-Flash-Thinking-2601模型负责人。他毕业于清华大学数学科学系，加入美团之前，他曾在字节跳动Seed-LLM-Code团队以及蚂蚁集团担任研究员。（新浪财经）",
+"published": 1787895185.0
+},
+{
+"source": "36氪",
+"title": "云南：优化上市专业服务体系，加大对上市后备企业的融资支持",
+"link": "https://36kr.com/newsflashes/3958707319602307?f=rss",
+"summary": "36氪获悉，云南省人民政府印发《发挥资本市场作用助力云南高质量发展的若干措施》，其中提出，优化上市专业服务体系。组建专业化上市服务专家团队，为上市后备企业提供“一对一”联系服务。建立从事证券业务中介机构的执业档案，完善分类评价机制，引导中介机构诚信执业。常态化向金融机构推送上市后备企业名单及融资需求。建立上市后备企业主办银行制度，选派有专业特长的金融特派员担任企业政企联络员，强化信贷服务。支持金融机构开展投贷联动、投债联动、投保联动，加大对上市后备企业的融资支持。",
+"published": 1787894388.0
+},
+{
+"source": "36氪",
+"title": "特朗普政府钨废料出口禁令正式生效，美国钨矿股本月暴涨",
+"link": "https://36kr.com/newsflashes/3958691919084935?f=rss",
+"summary": "当地时间本周四，美国特朗普政府对钨废料及电池碎料的出口禁令正式生效，这成为了美方将关键战略资源保留在本土的最新举措。而在美股市场上，部分美股钨矿股则在本月迎来了大涨。行情数据显示，钨矿商Almonty Industries的股价周四再度大涨了3.6%，本月有望创下自2025年6月以来的最佳单月表现，迄今涨幅已高达70%。另一家钨矿企业American Tungsten的股价本月迄今亦大幅上涨。（财联社）",
+"published": 1787893867.0
+},
+{
+"source": "36氪",
+"title": "Omdia：预计2028年AI ASIC出货量将超过GPU",
+"link": "https://36kr.com/newsflashes/3958690153954436?f=rss",
+"summary": "36氪获悉，Omdia最新的预测分析显示，2028年定制AI ASIC的出货量将超过GPU。Omdia预计，2028年AI ASIC出货量将达到1050万颗，而GPU出货量为1010万颗。Omdia数据显示，从收入来看，情况则有所不同：GPU收入预计将一直领先至2032年，不过两者之间的差距将从2029年开始逐步缩小。其背后的基本逻辑很简单：GPU价格非常高，且仍在上涨，这一因素目前足以抵消AI ASIC更快的出货量增长。",
+"published": 1787893239.0
+},
+{
+"source": "36氪",
+"title": "香港交易所将于希音上市日向投资者提供多项产品选择",
+"link": "https://36kr.com/newsflashes/3958684550888834?f=rss",
+"summary": "36氪获悉，香港交易所今天宣布，将于希音国际控股有限公司在2026年9月1日上市时，推出下列产品和措施：一、希音每周及每月期权将于2026年9月1日希音股份上市日同日推出；二、与希音股份相关的衍生权证可于该股份在香港交易所证券市场上市当日挂牌；三、希音股份于2026年9月1日在香港交易所上市后，将于同日纳入可进行卖空的指定证券名单。",
+"published": 1787892718.0
+},
+{
+"source": "36氪",
+"title": "全国用电负荷四创历史新高，最高达15.57亿千瓦",
+"link": "https://36kr.com/newsflashes/3958679189601667?f=rss",
+"summary": "国家发展改革委今天召开新闻发布会，新闻发言人介绍，截至目前，今年迎峰度夏期间全国用电负荷四创历史新高，最高达到15.57亿千瓦，较去年极值增长约5000万千瓦。（央视新闻）",
+"published": 1787892205.0
+},
+{
+"source": "36氪",
+"title": "龙湖集团：上半年公司拥有人应占溢利为19.6亿元",
+"link": "https://36kr.com/newsflashes/3958677607283847?f=rss",
+"summary": "36氪获悉，龙湖集团公告，2026年上半年实现营收398亿元，其中，地产开发业务收入为261.0亿元，运营业务收入为73.0亿元，服务业务收入为64.0亿元。运营及服务业务收入合计为137.0亿元，同比增长3.2%，占总营业收入34.4%。上半年公司拥有人应占溢利为19.6亿元，剔除投资物业及其他衍生金融工具公平值变动影响后之公司拥有人应占核心溢利为0.64亿元。",
+"published": 1787891786.0
+},
+{
+"source": "36氪",
+"title": "上海莱士：广西莱士目前处于试生产阶段，尚未正式投产",
+"link": "https://36kr.com/newsflashes/3958670333213830?f=rss",
+"summary": "36氪获悉，上海莱士在互动平台表示，广西莱士目前处于试生产阶段，尚未正式投产，其下属浆站采浆工作正常开展，将为后续投产提供血浆原料保障。研发层面相关工作正在有序推进，具体进展及对公司的影响请以公司后续披露的相关公告为准。",
+"published": 1787891246.0
+},
+{
+"source": "36氪",
+"title": "茶百道：上半年营收利润双增长",
+"link": "https://36kr.com/newsflashes/3958686933941380?f=rss",
+"summary": "8月28日，茶百道发布2026年半年报，实现营收利润双增长。上半年茶百道营收26.55亿元，同比增长6.2%；期内利润3.45亿元，同比增长3.5%；全球门店数增至8863家，注册会员数超2亿。茶百道坚持稳健的门店拓展策略，有效把握下沉市场结构性增长机遇，三线及以下城市门店同比增长7.2%。",
+"published": 1787891075.0
+},
+{
+"source": "36氪",
+"title": "恩华药业：获得布瑞哌唑片药品注册证书",
+"link": "https://36kr.com/newsflashes/3958668270894216?f=rss",
+"summary": "36氪获悉，恩华药业公告，公司于近日获得国家药监局核准签发的化学药品布瑞哌唑片的《药品注册证书》，布瑞哌唑片用于治疗成人精神分裂症。",
+"published": 1787890581.0
+},
+{
+"source": "36氪",
+"title": "赵长鹏在香港，回答了15个问题｜现场直击",
+"link": "https://36kr.com/p/3958638529117569?f=rss",
+"summary": "8月27日清晨5时05分，香港发出红色暴雨警告，所有上午校和全日制学校停课。 赵长鹏的航班也被暴风雨耽搁，凌晨3点才抵达香港。大约六个半小时后，他出现在《币安人生》书友会现场。原本只准备开放一半的会场坐满了人，活动方临时打开了全部区域。 赵长鹏，大家更熟悉的名字是CZ。他坐在港交所40楼的一间会议室里，面对一群从港大、科大、中大，以及帝国理工、伦敦政经、UC Irvine、约翰霍普金斯赶回来的年轻人，聊了一个多小时。 本次活动由资深媒体人、亚芳创变派创始人谢亚芳主持，她开场时…",
+"published": 1787890041.0
+},
+{
+"source": "36氪",
+"title": "恒指午间休盘涨0.47%，恒生科技指数涨0.6%",
+"link": "https://36kr.com/newsflashes/3958666740857989?f=rss",
+"summary": "36氪获悉，恒指午间休盘涨0.47%，恒生科技指数涨0.6%；有色金属、消费品、软件服务板块领涨，讯飞医疗科技涨超8%，中国黄金国际涨近6%，泡泡玛特涨超1%；半导体、家电、医药生物板块跌幅居前，峰岹科技跌超7%，康希诺生物跌超5%，创科实业跌超2%；南向资金净买入20.96亿港元。",
+"published": 1787889843.0
+},
+{
+"source": "少数派",
+"title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+"link": "https://sspai.com/post/113883",
+"summary": "继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...查看全文",
+"published": 1787889600.0
+},
+{
+"source": "36氪",
+"title": "“Popi AI”完成种子轮融资",
+"link": "https://36kr.com/newsflashes/3958643622296706?f=rss",
+"summary": "36氪获悉，近日，AI内容创业公司“Popi AI”完成种子轮融资，本轮投资方为浦东AI种子基金。公司此前已获得百度风投数千万元融资。本轮融资后，Popi AI将继续推进Creator Agent、Popi.MCN以及自有IP矩阵建设，并进一步完善AI内容生产、运营和商业化体系。",
+"published": 1787889313.0
+},
+{
+"source": "Solidot",
+"title": "气候变暖放大东太平洋的厄尔尼诺变率",
+"link": "https://www.solidot.org/story?sid=85217",
+"summary": "发表在《科学》期刊上的一项研究分析了加拉帕戈斯群岛（Galápagos）珊瑚长达千年的记录，发现随着地球变暖，厄尔尼诺现象正在加剧，东太平洋的厄尔尼诺-南方涛动（ENSO）变率比工业化前时代高出了约 36.5%。这些发现表明，气候变化已经在放大全球最重要的极端天气来源之一，并可能对生态系统、基础设施和人类社会带来日益增长的风险。ENSO 是导致年际气候极端事件的主要原因，它与干旱、洪水、野火、珊瑚白化事件以及对农业和人类健康的影响相关。该现象源于热带太平洋与大气之间的复杂相互…",
+"published": 1787889083.0
+},
+{
+"source": "The Verge",
+"title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+"link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+"summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in Marc…",
+"published": 1787886846.0
+},
+{
+"source": "36氪",
+"title": "硬氪专访丨几百个投资人不想投的光芯片公司，现在估值快200亿了",
+"link": "https://36kr.com/p/3958587575975049?f=rss",
+"summary": "作者 | 邱晓芬 编辑 | 袁斯来 2023年，「光本位」的创始人熊胤江跑遍了四五百家投资机构，几乎把中国能见的VC都聊了一遍，嗓子都聊哑了。 有一次，他拖着病体，还飞去北京见了两家机构，“身体非常难受”。即便如此，他得到的仍然是敷衍的套话： “我们很感兴趣”、“会继续跟进“。 见完几百个人，他拿到的TS还是个位数。那时熊胤江27岁，刚刚回国，第一次体会到资本市场的现实和冷酷。 熊胤江其实知道，自己不是投资人钟爱的那种创业者。没有大厂履历、没有学界大佬背书、还选了光芯片这样的…",
+"published": 1787885262.0
+},
+{
+"source": "36氪",
+"title": "1699元跌到500元，跑鞋黄金五年结束丨深氪",
+"link": "https://36kr.com/p/3958572354715014?f=rss",
+"summary": "文｜贺哲馨 编辑｜乔芊 杨轩 2026年7月1日中午，59岁的陕西商人严鹏从西安赛格国际购物中心七层坠亡。 严鹏是利和商贸负责人。利和商贸是耐克、阿迪达斯、彪马、New Balance等运动品牌在陕西的省级代理商。巅峰时期，他拥有四五百家门店，年销售额达到8.5亿元。 导火索之一是一笔发生在四年前的合同纠纷：店员将一张订单拆成两单，多使用了一张商场购物券，商场据此核定1145.6万元违约金。持续多年经营下滑之后，今年六月，商场方按照所谓的末位淘汰制度，对严鹏的门店发出了清退通…",
+"published": 1787884242.0
+},
+{
+"source": "36氪",
+"title": "36氪首发｜上科大团队做具身世界模型基础设施，完成千万美元种子轮融资",
+"link": "https://36kr.com/p/3957651741949056?f=rss",
+"summary": "作者 | 乔钰杰 编辑 | 袁斯来 本文约3200字，建议阅读7分钟 硬氪获悉，具身智能基础设施公司「瞬适科技」（InstAdapt）近日完成千万美元种子轮融资，由协创智慧、云晖资本、浦东创投和吴越天使等机构联合投资，芯湃资本担任融资顾问。本轮资金将主要用于物理AI数据基础设施建设、具身世界模型研发以及核心团队扩充。 瞬适科技由上海科技大学团队孵化，定位于物理AI（Physical AI）时代的具身世界模型基础设施（Embodied World Model Infrastru…",
+"published": 1787882825.0
+},
+{
+"source": "TechCrunch",
+"title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+"link": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+"summary": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture eco…",
+"published": 1787882564.0
+},
+{
+"source": "少数派",
+"title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
+"link": "https://sspai.com/post/113909",
+"summary": "2017年，明基推出第一代ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ...查看全文",
+"published": 1787882160.0
+},
+{
+"source": "36氪",
+"title": "业绩快报｜“全球空间智能第一股”群核科技AI收入大增177%，9月初有望进入港股通",
+"link": "https://36kr.com/p/3957831557954945?f=rss",
+"summary": "8月27日，“全球空间智能第一股”群核科技（00068.HK）发布2026年中期业绩。 报告期内，公司实现营业收入4.05亿元，整体毛利率提升至83%，创历史新高；同时，公司经调整净利润达到5542万元，同比增长211%，已接近去年全年水平。 同日，公司推出3D生成模型 Lux3D，同时启动新一代世界模型产品内测。技术利好带动市场情绪，公司股价收盘上涨 6.97%。 业绩发布之外，群核科技9月初还有望进入港股通，有助于拓宽投资者基础，提升股票流动性和市场关注度。日前，公司已入…",
+"published": 1787879700.0
+},
+{
+"source": "36氪",
+"title": "曦望再融20亿元，四个月估值翻倍至200亿 | 独家",
+"link": "https://36kr.com/p/3957213787995526?f=rss",
+"summary": "文 | 海若镜 近一年间，国产GPU处于资本热潮中。 暗涌Waves独家获悉，曦望Sunrise近日再获新一轮20亿元融资，投后估值达到约200亿元。就在今年4月，曦望完成了由杭州资本领投的超10亿元融资，估值破百亿人民币。不到半年时间里，估值接近翻倍。 粗略计算，自2024年底从商汤科技分拆至今，曦望已累计融资接近60亿元。 针对上述消息，曦望方面回应称：暂不便做进一步评论。 曦望的独立时间不长，芯片团队却已经存在多年。2024年底，商汤推进“1+X”架构调整，将高投入、长…",
+"published": 1787879542.0
+},
+{
+"source": "The Verge",
+"title": "The GTA VI ‘extended look’ is now streaming on YouTube",
+"link": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
+"summary": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially premiered …",
+"published": 1787879118.0
+},
+{
+"source": "爱范儿",
+"title": "用了阔直板华为，忘了回忆里的黑莓｜华为 Pura X View 评测",
+"link": "https://www.ifanr.com/1677161?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "华为 Passport#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1787878805.0
+},
+{
+"source": "少数派",
+"title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等",
+"link": "https://sspai.com/post/113922",
+"summary": "Perplexity AI 推出 Portable Computer，明基推出 Creative Pro PV50 系列专业显示器。查看全文",
+"published": 1787876977.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨西藏吉隆泥石流原因查明；黄仁勋称“我和谁吃饭谁股价翻倍”；星宇股份为“劝退上百名应届生”致歉：发放3个月补贴",
+"link": "https://36kr.com/p/3958435226877064?f=rss",
+"summary": "今日热点导览 剑网3制作人郭炜炜离职：天下无不散筵席 去哪儿旅行：9月27日至10月1日机票价格为三年来最低 三星被判赔斯沃琪1160万美元 韩国计划到2030年投入2.3万亿韩元支持全栈人形机器人研发 SK拟向KKR等出售韩国蔚山AI数据中心49%股权 TOP3大新闻 西藏吉隆泥石流原因查明，专家组将围绕冰崩源区开展调查 8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。自然资源部专家分析，此次灾害是由尼泊尔境内高位冰川…",
+"published": 1787875883.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜iPhone 17登顶Q2最畅销智能手机/《GTA6》公布26分钟实机演示/追觅咖啡回应多店闭店",
+"link": "https://www.ifanr.com/1677210?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 小鹏 Robotaxi 获广州全无人道路测试资质 · Anthropic 与 Nscale 签下 450 亿美元算力合同 · B 站第二季度营收 79.4 亿元，净利润同比增长 55%#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1787875761.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "After posting a solid earnings beat, Elastic’s stock bounces higher in extended trading",
+"link": "https://siliconangle.com/2026/08/27/after-posting-a-solid-earnings-beat-elastics-stock-bounces-higher-in-extended-trading/",
+"summary": "Shares of the enterprise search software company Elastic N.V. soared more than 19% in extended trading today after the company delivered fiscal first-quarter results that easily beat Wall Street’s targets. The company reported earnings befo…",
+"published": 1787881277.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Marvell’s stock sinks despite earnings beat and strong guidance",
+"link": "https://siliconangle.com/2026/08/27/marvells-stock-sinks-despite-earnings-beat-and-strong-guidance/",
+"summary": "Chipmaker Marvell Technology Inc. beat expectations and posted guidance that came in just above Wall Street’s estimates, but it wasn’t enough to impress investors, and its stock was headed south in after-hours trading. The company, which de…",
+"published": 1787879496.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Anthropic previews MHS standard for AI agents that operate machines",
+"link": "https://siliconangle.com/2026/08/27/anthropic-previews-mhs-standard-for-ai-agents-that-operate-machines/",
+"summary": "Anthropic PBC today previewed a standard that makes it easier for artificial intelligence agents to control machines such as microscopes. The Model Hardware Standard, or MHS, is the fruit of a collaboration between the Claude developer and …",
+"published": 1787876392.0
+}
+]
+}
+}

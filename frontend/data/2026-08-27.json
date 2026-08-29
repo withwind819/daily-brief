@@ -1,8 +1,15 @@
 {
 "date": "2026-08-27",
-"total": 150,
+"total": 151,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+"link": "https://github.com/calmrocks/ai-engineer-notebooks",
+"summary": "Article URL: https://github.com/calmrocks/ai-engineer-notebooks Comments URL: https://news.ycombinator.com/item?id=49471714 Points: 111 # Comments: 14",
+"published": 1787867199.0
+},
 {
 "source": "HN AI 热门",
 "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",

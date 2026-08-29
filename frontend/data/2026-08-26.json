@@ -1,6 +1,6 @@
 {
 "date": "2026-08-26",
-"total": 119,
+"total": 120,
 "categories": {
 "AI": [
 {
@@ -727,6 +727,13 @@
 "link": "https://siliconangle.com/2026/08/26/data-pipeline-amd-supermicro-minio-lakehouse-supermicroopenstoragesummit/",
 "summary": "Despite rapid advances in artificial intelligence, the enterprise world is still dealing with a data pipeline problem. More than 80% of enterprise data is unstructured, and 99% of this data is dark to AI because there is no easy solution to…",
 "published": 1787768151.0
+},
+{
+"source": "Crunchbase",
+"title": "The Crunchbase Tech Layoffs Tracker",
+"link": "https://news.crunchbase.com/startups/tech-layoffs/",
+"summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
+"published": 1787764230.0
 },
 {
 "source": "TechCrunch VC",

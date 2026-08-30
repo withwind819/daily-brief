@@ -1,8 +1,402 @@
 {
 "date": "2026-08-29",
-"total": 18,
+"total": 75,
 "categories": {
+"AI": [
+{
+"source": "HN AI 热门",
+"title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+"link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+"summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 238 # Comments: 53",
+"published": 1788023987.0
+},
+{
+"source": "HN AI 热门",
+"title": "Debian votes to allow \"responsible use of generative AI\"",
+"link": "https://lwn.net/Articles/1091231/",
+"summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 470 # Comments: 435",
+"published": 1788012130.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
+"link": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
+"summary": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts. Cursor co-founder Michael Truell downplays the move, saying OpenAI models account for just five percen…",
+"published": 1788010415.0
+},
+{
+"source": "The Decoder",
+"title": "AI-generated videos are already displacing actors and livestreamers across China's entertainment industry",
+"link": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/",
+"summary": "In China, 95 percent of the 128,000 short dramas released in Q1 2026 were AI-generated. Some actors are being forced to hand over their voice and likeness to AI tools before getting fired, the Financial Times reports. AI-related labor dispu…",
+"published": 1788009956.0
+},
+{
+"source": "InfoQ 中国",
+"title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+"link": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788009557.0
+},
+{
+"source": "量子位",
+"title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+"link": "https://www.qbitai.com/2026/08/481372.html",
+"summary": "推理软件栈的微小差异，就能改变输出token",
+"published": 1788009068.0
+},
+{
+"source": "量子位",
+"title": "去年归国的徐梦迪，成了清华姚班班主任",
+"link": "https://www.qbitai.com/2026/08/481318.html",
+"summary": "本科读车辆工程，如今教AI第一班",
+"published": 1788008494.0
+},
+{
+"source": "The Decoder",
+"title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance",
+"link": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/",
+"summary": "Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, agents document both failures and successes in a wiki-like structure and use tha…",
+"published": 1788007884.0
+},
+{
+"source": "量子位",
+"title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+"link": "https://www.qbitai.com/2026/08/481223.html",
+"summary": "AI「自进化」，越来越近了",
+"published": 1788007831.0
+},
+{
+"source": "量子位",
+"title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+"link": "https://www.qbitai.com/2026/08/481075.html",
+"summary": "3秒可处理200份PDF",
+"published": 1788006409.0
+},
+{
+"source": "量子位",
+"title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+"link": "https://www.qbitai.com/2026/08/480940.html",
+"summary": "Coding正在变成Al世界的数字执行力",
+"published": 1788005497.0
+},
+{
+"source": "量子位",
+"title": "OpenClaw：红过，爱过，散了",
+"link": "https://www.qbitai.com/2026/08/480855.html",
+"summary": "龙虾退潮，Harness上位",
+"published": 1788004851.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Agent 时代，为什么有人开始重新造 Google？",
+"link": "https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788004800.0
+},
+{
+"source": "量子位",
+"title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+"link": "https://www.qbitai.com/2026/08/480787.html",
+"summary": "从剧本到成片",
+"published": 1788003357.0
+},
+{
+"source": "The Decoder",
+"title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
+"link": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/",
+"summary": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVi…",
+"published": 1787996208.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software",
+"link": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/",
+"summary": "Anthropic's Model Hardware Standard (MHS) gives AI agents a unified interface to physical devices like robotic arms and lab instruments. In early tests, integration time dropped from weeks to hours. But Claude sometimes failed to grasp phys…",
+"published": 1787994870.0
+},
+{
+"source": "HN AI 热门",
+"title": "StemDeck, a free, open-source and local AI stem separator",
+"link": "https://github.com/stemdeckapp/stemdeck",
+"summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 204 # Comments: 58",
+"published": 1787966653.0
+}
+],
 "科技": [
+{
+"source": "The Verge",
+"title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+"link": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+"summary": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you…",
+"published": 1788037166.0
+},
+{
+"source": "The Verge",
+"title": "Alt-right troll Milo Yiannopoulos has been deported",
+"link": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+"summary": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, …",
+"published": 1788032999.0
+},
+{
+"source": "TechCrunch",
+"title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+"link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+"summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+"published": 1788028919.0
+},
+{
+"source": "The Verge",
+"title": "Sony Music and Warner Chappell are suing Anthropic",
+"link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+"summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per wor…",
+"published": 1788027593.0
+},
+{
+"source": "TechCrunch",
+"title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+"link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+"summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+"published": 1788025870.0
+},
+{
+"source": "TechCrunch",
+"title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+"link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+"summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are …",
+"published": 1788025007.0
+},
+{
+"source": "TechCrunch",
+"title": "Hollywood celebs are getting into microdrama apps",
+"link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+"summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+"published": 1788019800.0
+},
+{
+"source": "The Verge",
+"title": "Distraction-free writing gadget BYOK is adding custom extensions",
+"link": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+"summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think …",
+"published": 1788019273.0
+},
+{
+"source": "The Verge",
+"title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+"link": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+"summary": "Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic h…",
+"published": 1788015600.0
+},
+{
+"source": "Solidot",
+"title": "女性在产后遭遇 PTSD",
+"link": "https://www.solidot.org/story?sid=85231",
+"summary": "东英吉利大学的一项研究认为，英国可能有数万女性在产后经历未诊断的 PTSD（创伤后应激障碍）。PTSD 可能在经历艰难的妊娠或分娩后出现，其症状包括闪回、噩梦、焦虑和持续的负面想法。最新数据显示，2021-2023 年间自杀是英国产后六周至一年内女性死亡的首要原因。研究人员称这些死亡只是冰山一角，有更多女性正遭受严重的心理健康问题困扰，却无法获得所需的帮助。他们的研究表明，每 20 名产后女性就有1人会患上 PTSD。",
+"published": 1788015130.0
+},
+{
+"source": "Solidot",
+"title": "日韩上半年人口都出现增长",
+"link": "https://www.solidot.org/story?sid=85230",
+"summary": "韩国和日本两国今年上半年人口都恢复了增长： 韩国上半年累计出生人口为 14.5804 万人，同比增加 1.943 万人，增幅为 15.4%，出生人口规模为近7年同期之最，增加规模和增幅双双创下历史最高纪录。分析认为出生人数增加主要是因为婚姻登记数自疫后的 2023 年 5 月起呈现增加势头、30 多岁女性人口增加，以及婚姻及生育的观念变化。2024 年和 2025 年的下半年出生人口均高于同年上半年，若按照这一趋势下去，今年全年总和生育率有可能回升至 0.9 以上。 日本厚生…",
+"published": 1788012915.0
+},
+{
+"source": "TechCrunch",
+"title": "The Theragun Sense makes everyday recovery surprisingly easy",
+"link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+"summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mo…",
+"published": 1788012000.0
+},
+{
+"source": "Solidot",
+"title": "Debian 项目将允许以负责任的方式使用生成式 AI",
+"link": "https://www.solidot.org/story?sid=85229",
+"summary": "Debian 项目对是否允许使用 AI 进行了投票表决，投票采用孔多塞投票法，共有 9 个选项，最终结果是第 5 选项“负责任的使用生成式 AI”获胜。Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的工作中。无论是否使用生成式 AI 工具，Debian 项目希望提交的内容都符合相同的质量、正确性、…",
+"published": 1788010620.0
+},
+{
+"source": "TechCrunch",
+"title": "Nvidia’s AI advantage is moving beyond the GPU",
+"link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+"summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+"published": 1788008400.0
+},
+{
+"source": "The Verge",
+"title": "The Galaxy Z Flip 8 is at its best when there’s friction",
+"link": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
+"summary": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung has …",
+"published": 1788008400.0
+},
+{
+"source": "The Verge",
+"title": "Musicians-turned-detectives are hunting for AI grifters",
+"link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+"summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While …",
+"published": 1788004800.0
+},
+{
+"source": "Solidot",
+"title": "人形机器人的跑步方式与人类不同",
+"link": "https://www.solidot.org/story?sid=85228",
+"summary": "北京人形机器人创新中心研发的通用人形机器人天工在世界人形机器人运动会上跑出了 100 米 8.64 秒的成绩，远超博尔特（Usain Bolt）于 2009 年创下的 100 米 9.58 秒的人类世界纪录。机器人的平均速度接近 42 公里/时。专家表示，这一成绩凸显了机器人的强大，也凸显了它们在决策和感知等方面的不足——人形机器人都是靠撞软垫的方式刹车的。人形机器人的跑步方式与人类不同：首先是博尔特的起跑仅仅花了 0.146 秒，相比下机器人等了近 1 秒钟才反应过来开始移…",
+"published": 1788000404.0
+},
+{
+"source": "Solidot",
+"title": "程序员在公司厕所猝死，人社局以电脑没开不认定工伤",
+"link": "https://www.solidot.org/story?sid=85227",
+"summary": "39 岁的深圳程序员邢志（化名）于 2026 年 4 月 23 日 8 时 56 分驾车进入公司所在办公楼负 2 楼停车，9 时步行至电梯厅询问值班安保 2 楼卫生间位置，1 分钟后，其到达卫生间一直未出，直至 11 时 28 分被发现失去意识躺坐在马桶上。公司随即用 AED 进行急救并拨打 120。12 时 50 分，医生停止急救，确认邢志死亡。邢志去世后，公司进行了一定补偿，向深圳市人社局申请工伤认定。7 月 3 日，人社局发出了《深圳市不予认定工伤决定书》。决定书显示，…",
+"published": 1787997426.0
+},
+{
+"source": "36氪",
+"title": "业绩快报 | 荔枝冰奶五十天卖出1700万杯，茶百道上半年“质效双增”",
+"link": "https://36kr.com/p/3960415196052873?f=rss",
+"summary": "文 | 杨烁 8月28日，茶百道披露中期业绩。上半年营收26.55亿元，同比增长6.2%；期内利润实现3.45亿元，同比增长3.5%。 业绩会上，公司管理层将增长归因于一个核心逻辑——不盲目追求门店数量的堆砌，而是以产品创新和供应链效率为双轮，驱动终端经营质量的实质性提升。 今年上半年，茶百道加大了产品研发力度，围绕“鲜果、鲜奶、咖啡”等核心原料建立品类矩阵。 其中，“荔枝冰奶”在五十余天的销售周期内，累计销量超过1700万杯。茶百道也围绕这一优势品类，陆续推出“芭乐、葡萄、…",
+"published": 1787996831.0
+},
+{
+"source": "36氪",
+"title": "快手内容运营副总裁黄咪咪：两大创作者计划助推好内容生长",
+"link": "https://36kr.com/newsflashes/3960412222323844?f=rss",
+"summary": "8月29日，快手内容运营副总裁黄咪咪在2026快手光合创作者大会上表示，将持续加大在社区感、专业力、产业力三大方向的投入。即将于九月上线的“快手味计划”将聚焦有烟火气、人情味、同好连接的社区感创作者，提供专属运营、内容调优与全域经营服务。“快手优创计划”面向具备圈层深耕、稳定产出、深度表达的专业力创作者，投入5亿现金与五百亿流量，并配套活动、商单、IP合作全方位托举。“快手内容开放平台”9月也将上线，帮助文体娱产业伙伴更低成本找到用户、更清楚地看到从内容到交易的链路 。",
+"published": 1787996378.0
+},
+{
+"source": "36氪",
+"title": "WPS多维表格“灵感应用”首次亮相：一句自然语言搭出业务应用",
+"link": "https://36kr.com/newsflashes/3960320361790599?f=rss",
+"summary": "8月28日，WPS AI NEXT系列媒体沟通会在北京举行，WPS多维表格全新功能“灵感应用”首次亮相：用自然语言描述业务需求，AI即可生成可直接使用、持续迭代的个性化业务应用，让不懂代码的业务人员也能搭建自己的业务应用。该功能不从零建系统，而是长在WPS多维表格已有的数据、权限与协作能力之上，口径可追溯、流程可调整。该功能目前正逐步开放体验，未来将覆盖更多用户。",
+"published": 1787991303.0
+},
+{
+"source": "36氪",
+"title": "2025年欧盟商业航班数量增至690万架次",
+"link": "https://36kr.com/newsflashes/3960260825627784?f=rss",
+"summary": "数据显示，2025年，欧盟商业航班数量为690万架次，较2024年的670万架次增长3.8%，继续保持2021年以来的增长势头，接近2019年(新冠疫情前)700万架次的水平。 从航班类型看，2025年欧盟定期商业航班占比91.5%，不定期商业航班(包机、空中出租车、海上作业飞机、观光飞机等)占比8.5%。数据显示，夏季为欧盟不定期商业航班运营旺季，2025年6月、7月和8月，起降的不定期商业航班较多。",
+"published": 1787990428.0
+},
+{
+"source": "36氪",
+"title": "2026暑期全国科技馆累计接待观众超3000万人次",
+"link": "https://36kr.com/newsflashes/3960260210736517?f=rss",
+"summary": "中国科技馆8月28日晚向媒体通报，2026年暑期，据不完全统计，全国科技馆累计接待观众超3000万人次，开展教育活动及展品体验类活动超10万场，各地推动科普服务从“流量热闹观展”向“深度沉浸探究”转型。",
+"published": 1787989548.0
+},
+{
+"source": "36氪",
+"title": "俄开始量产星链干扰器",
+"link": "https://36kr.com/newsflashes/3960259011689863?f=rss",
+"summary": "据塔斯社8月28日报道，俄罗斯国防工业综合体消息人士透露，俄已开始量产名为“波穹保护”的最新型无线电电子压制系统，能够有效对抗“星链”系统。该消息人士说：“‘波穹保护’系统被证明是有效的，我们已开始对其加以复制并投入量产。事实上，凡需之处，我们都已封锁了‘星链’的作用空域。敌人开始感到难以忍受的痛苦……不久前有报道称，俄罗斯出现了一款新型防护工具，用于对抗乌克兰军队深入打击俄罗斯腹地时所使用的‘星链’。如今‘波穹保护’不仅成为对乌特别军事行动中的有效因素，更变成了具有全球影响…",
+"published": 1787988639.0
+},
+{
+"source": "36氪",
+"title": "程一笑：快手持续创作超10年的作者超过1700万",
+"link": "https://36kr.com/newsflashes/3960257943895168?f=rss",
+"summary": "8月29日，快手科技创始人、董事长兼首席执行官程一笑在2026快手光合创作者大会上表示，目前，快手冷启动流量中，给到万粉以下创作者的占比达到75%。现阶段，每天在快手上发布的作品数量超过5800万；持续发布作品超过10年的创作者已超过1700万。 长期创作也在不断沉淀信任关系。2026年以来，快手上诞生了超过170亿对关注关系，用户年私域人均互动次数超过1300次，私域人均变现效率达到公域的2至3倍。",
+"published": 1787987730.0
+},
+{
+"source": "36氪",
+"title": "国家数据局：词元市场需求呈现爆发式增长",
+"link": "https://36kr.com/newsflashes/3960187423735168?f=rss",
+"summary": "2026中国国际大数据产业博览会正在贵州贵阳举办。今天，国家数据局负责人在数博会上表示，当前大模型加速向千行百业深度落地，带动我国词元调用量快速攀升，市场需求呈现爆发式增长。词元是人工智能理解世界的最小单元，本届数博会的主题就是“词元——数据要素价值释放新路径”。国家数据局局长刘烈宏在词元专题交流活动上表示，模型综合能力越强，词元生产的效率越高，输出内容的逻辑性、准确性和质量也更优。词元为人工智能服务的计量、定价、交易和结算提供了重要的标尺。当前，词元产业链条上已聚集算力租赁…",
+"published": 1787986850.0
+},
+{
+"source": "36氪",
+"title": "国家数据局：算力网与“五张网”形成深度耦合",
+"link": "https://36kr.com/newsflashes/3960186927856775?f=rss",
+"summary": "2026数博会正在贵州贵阳举办。今天，国家数据局相关负责人在“数算一体 驱动未来”交流活动上表示，算力网与水网、新型电网、新一代通信网、城市地下管网、物流网是深度耦合、相互赋能、协同支撑的有机整体。据介绍，算力网作为“大脑”，助力新型电网智能化调度和新能源消纳；协同新一代通信网促进数据流通、模型训练和应用创新；赋能水网实现流域水情精准预报、水资源动态调配；支撑城市地下管网驱动燃气、排水、供热等生命线工程的实时监测、风险预警与应急联动；贯通物流网，推动供应链全链条降本增效。会上…",
+"published": 1787985916.0
+},
+{
+"source": "36氪",
+"title": "关注“沙德尔”路径变化 铁路部门动态调整列车运行方案",
+"link": "https://36kr.com/newsflashes/3960186160626820?f=rss",
+"summary": "铁路部门密切关注“沙德尔”路径变化，动态调整列车运行方案。今天，途经湖南、江西、福建等省运行的列车不同程度受到影响。随着“沙德尔”向西偏南方向移动，影响逐步减弱，国铁南昌局动态调整列车运行方案，8月29日，逐步恢复赣闽两省前期受台风影响的列车运输秩序。同时，加开广州东到厦门G4770次、福州南到武汉G4392次等旅客列车，满足旅客出行需要。受湖南地区持续降雨影响，国铁广州局对京广铁路、衡柳铁路等线路部分列车采取停运措施，部分列车也将出现不同程度晚点。铁路部门提醒旅客，列车开行…",
+"published": 1787985029.0
+},
+{
+"source": "36氪",
+"title": "股价月内翻倍后高位回调，百花医药回应：公司创新药CRO占比很小",
+"link": "https://36kr.com/newsflashes/3960185537904004?f=rss",
+"summary": "8月28日，百花医药盘中触及跌停。Wind数据显示，截至8月28日收盘，公司股价报15.44元/股，收盘跌幅为7.43%。不过，8月以来公司累计涨幅仍达到119.63%。对于百花医药股价大跌，百花医药方面回应记者，股价受多重因素影响。公司主要做仿制药CRO，创新药CRO占比很小。相比仿制药，创新药投入大、回报不及预期的风险也大。公司属于药厂的上游环节，CRO业务对接药厂。按照仿制的难度不一样，订单的总价也有区别，订单一般不会少于1年，一般是2—3年。仿制药CRO行业竞争加剧，…",
+"published": 1787984156.0
+},
+{
+"source": "36氪",
+"title": "足金饰品集体大跌",
+"link": "https://36kr.com/newsflashes/3960091554086021?f=rss",
+"summary": "老庙黄金足金饰品报1345元/克，单日大跌39元；老凤祥足金饰品报1348元/克，单日大跌36元；周生生足金饰品报1344元/克。",
+"published": 1787983219.0
+},
+{
+"source": "36氪",
+"title": "美加关系持续恶化 加拿大开始从美国顶尖高校“挖人",
+"link": "https://36kr.com/newsflashes/3960089418284423?f=rss",
+"summary": "据美国有线电视新闻网（CNN）、英国广播公司（BBC）等媒体8月28日报道，随着加拿大与美国的关系持续恶化，加拿大正在从哈佛大学等美国顶尖研究机构挖走数十名研究人员。CNN称，加拿大工业部长梅拉妮·乔利27日宣布，加拿大将聘用64名学者，并将在加拿大多所大学为他们提供为期八年、总额超过5亿加元（约合3.5亿美元）的资金支持。报道提到，这64名学者中的48名来自美国各高校，包括哈佛大学、康奈尔大学和麻省理工学院，专业领域涵盖医学、工程学和气候科学等多个学科。",
+"published": 1787982306.0
+},
+{
+"source": "36氪",
+"title": "国家发展改革委员会宏观经济研究院研究员刘琳：土地财政减退为推进房屋销售制度改革提供了时机窗口",
+"link": "https://36kr.com/newsflashes/3960087989271684?f=rss",
+"summary": "国家发展改革委员会宏观经济研究院研究员刘琳表示，今年1-7月全国土地出让收入同比减少30.8%，对地方财政贡献继续大幅降低，这为推动房屋销售制度改革提供了时机窗口。商品房屋销售制度改革要求新供地项目和已购土地但未取得工程规划许可证项目，单体建筑完成主体结构封顶，才可预售，且鼓励优先选择现房销售方式。与传统商品房预售制度相比，一方面，新销售制度将导致房屋销售回款后移，会推迟房企拿地计划，短期内影响购地数量；另一方面，现房销售要求下的土地出让价格也会降低，这两方面影响将导致短期内…",
+"published": 1787981441.0
+},
+{
+"source": "36氪",
+"title": "上半年全国新设外商投资企业3.5万户 同比增长7.0%",
+"link": "https://36kr.com/newsflashes/3960087353883784?f=rss",
+"summary": "市场监管总局今天（29日）公布数据显示，上半年，全国新设外商投资企业3.5万户，同比增长7.0%。 从投资区域看，出口大省、沿边省份外商投资企业增长“双轮驱动”。上半年，海南、山东、广东、江苏等出口大省新设外商投资企业增速分别为38.6%、15.2%、8.1%、6.8%；黑龙江、内蒙古、广西、吉林等沿边省份新设外商投资企业增速分别达到79.5%、29.1%、16.6%、12.0%。 从来源国看，共建“一带一路”国家在华新设企业全面增长。上半年，共建“一带一路”国家、阿拉伯国家…",
+"published": 1787980502.0
+},
+{
+"source": "36氪",
+"title": "空客拟出售美国航天业务 转向欧洲制造卫星",
+"link": "https://36kr.com/newsflashes/3960086753852544?f=rss",
+"summary": "空客正探索出售旗下美国航天业务，同时计划通过三方合并，打造一家泛欧洲卫星龙头企业。 知情人士透露，空客正在评估潜在收购方对其美国航天业务的收购意向。空客美国航天系统业务包含佛罗里达州一处工厂，以及“箭”系列小型卫星。该系列卫星可实现规模化量产，面向商业及政府通信、对地成像业务，也可满足国家安全相关需求。针对“市场传闻与猜测”，空客拒绝置评。",
+"published": 1787979625.0
+},
+{
+"source": "36氪",
+"title": "房产投资大V称被MCN追索2亿违约金 合作方回应称已报警",
+"link": "https://36kr.com/newsflashes/3960078183562373?f=rss",
+"summary": "房产投资圈一场合约纠纷近期持续发酵。8月22日，自称“房产投资教父”的欧成效在上海举办粉丝见面会，公开披露其与合作方京鼎世家文化传媒（深圳）有限公司的矛盾。欧成效直指一份续约至2029年的独家经纪合同存在首页被替换问题，并由此牵出高达2.09亿元的违约金争议，同时指控对方存在合同伪造、合同诈骗行为，相关言论迅速在房产圈引发热议。8月25日，京鼎世家方面回应称，相关说法严重失实。针对“诈骗犯”“合同诈骗”等不实指控，公司已向公安机关报警并全面提交材料，同时将根据后续新增的权益侵…",
+"published": 1787978740.0
+},
+{
+"source": "36氪",
+"title": "我国首次实现地月双向高速激光通信",
+"link": "https://36kr.com/newsflashes/3960077054311817?f=rss",
+"summary": "记者从中国科学院空间应用工程与技术中心获悉，日前，我国在地月激光通信试验任务中取得重要突破，成功在超过40万公里的地月距离上建立起双向激光链路，首次实现地月双向高速激光通信。这标志着我国空间激光通信正式从近地轨道迈入地月空间。",
+"published": 1787977829.0
+},
+{
+"source": "36氪",
+"title": "神州控股发布中期业绩",
+"link": "https://36kr.com/newsflashes/3960037447318663?f=rss",
+"summary": "8月28日，神州数码控股有限公司（股票代码：00861.HK，简称“神州控股”）发布了2026年中期业绩公告。报告期内，公司实现整体收入66.41亿元人民币，毛利9.93亿元人民币。虽然受到间接非全资附属公司神州信息（000555.SZ）因合同纠纷计提诉讼拨备影响，归母净亏损5215万元人民币，但若排除该事项及相关的税金影响，公司归母净利润则有约3600万元人民币。此外，公司在手订单充足，报告期内新签约64.27亿元人民币，其中 AI 相关签约金额达2.19亿元人民币，主营业…",
+"published": 1787976916.0
+},
+{
+"source": "36氪",
+"title": "茶百道管理层：境外业务进入规模化拓展阶段，签约门店已超100家",
+"link": "https://36kr.com/newsflashes/3960086762683782?f=rss",
+"summary": "8月28日，茶百道召开2026年中期业绩发布会，管理层表示，公司境外业务已逐步进入规模化拓展阶段，境外签约门店已超100家，新增覆盖加拿大、新西兰、越南市场。在韩国，茶百道已率先完成战略布局并实现整体盈利，覆盖首尔、釜山、济州岛等核心城市，签约门店超过50家，成为在韩门店数最多的中国餐饮品牌，本地消费者占比超过80%。业绩会上管理层透露，上半年境外市场完成超过120次SKU上新，未来韩国及东南亚仍将是公司规模扩张的重点市场，同时也会将部分重点国家作为战略市场持续深耕、稳步推进…",
+"published": 1787976514.0
+},
+{
+"source": "36氪",
+"title": "长鑫科技宣布LPDDR6量产，峰值速率达12800Mbps",
+"link": "https://36kr.com/newsflashes/3960031907315076?f=rss",
+"summary": "长鑫科技宣布自主研发的新一代低功耗内存LPDDR6实现量产，并将首批搭载于小米18 Fold折叠旗舰手机。据悉，这是全球LPDDR6产品首次落地商用，标志着国内存储企业首次在高端内存标准上实现全球首发量产跨越。据长鑫半年报披露，长鑫LPDDR6芯片通过架构创新及数据传输优化技术，充分释放数据传输潜力，峰值速率达12800Mbps，芯片最高容量 16GB。",
+"published": 1787976039.0
+},
 {
 "source": "36氪",
 "title": "网易《燕云十六声》斩获科隆展大奖“最佳移动游戏”，全球玩家破亿",
@@ -124,6 +518,13 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "CrowdStrike’s post-Mythos surge: Moat, momentum and the blast-radius test",
+"link": "https://siliconangle.com/2026/08/29/crowdstrikes-post-mythos-surge-moat-momentum-and-the-blast-radius-test/",
+"summary": "CrowdStrike Holdings Inc.’s most recent earnings print shows that Anthropic PBC’s Mythos model transformed artificial intelligence security from something chief information security officers needed to worry about down the road into an immed…",
+"published": 1788021512.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Owner raises $240M for its restaurant management platform",

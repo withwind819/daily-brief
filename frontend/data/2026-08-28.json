@@ -1,8 +1,15 @@
 {
 "date": "2026-08-28",
-"total": 140,
+"total": 141,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "I accidentally turned LLM memory into program analysis",
+"link": "https://pwning.systems/posts/llm-memory-program-analysis/",
+"summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 277 # Comments: 73",
+"published": 1787959665.0
+},
 {
 "source": "The Decoder",
 "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers",

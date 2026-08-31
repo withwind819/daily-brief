@@ -1,6 +1,6 @@
 {
 "date": "2026-08-29",
-"total": 75,
+"total": 77,
 "categories": {
 "AI": [
 {
@@ -125,6 +125,13 @@
 ],
 "科技": [
 {
+"source": "Solidot",
+"title": "Pixel 11 取消了对硬件 MTE 的支持",
+"link": "https://www.solidot.org/story?sid=85233",
+"summary": "Android 安全加固项目 GrapheneOS 发现，Google 新一代旗舰智能手机 Pixel 11 取消了对硬件 MTE（hardware memory tagging）的支持，导致该项目无法完成对 Pixel 11 的支持。MTE（Memory Tagging Extension）是 ARMv8.5-A 架构引入的安全特性，通过标记分配的内存去跟踪非法内存操作，改进内存安全性。Google 是从 2023 年发布的 Pixel 8 起开始支持硬件 MTE。但 An…",
+"published": 1788047043.0
+},
+{
 "source": "The Verge",
 "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
 "link": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
@@ -179,6 +186,13 @@
 "link": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
 "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think …",
 "published": 1788019273.0
+},
+{
+"source": "Solidot",
+"title": "中国账户试图悄悄煽动美国反数据中心情绪？",
+"link": "https://www.solidot.org/story?sid=85232",
+"summary": "在 OpenAI 之后，另一家美国 AI 关联公司 X/SpaceX 称，有约 200 个中国关联水军账号在社媒上悄悄煽动美国民众的反数据中心情绪。相关账号的推文内容包括 AI 如何加剧电网压力并推高电价，以及“描绘数据中心运营商如何以牺牲公众利益为代价中饱私囊的漫画”。前 Twitter 通信主管 Jim Prosser 反驳了硅谷关于反对数据中心是中国心理战的说法，他认为大型科技公司利用中国心理战的说法忽视当地民众的合理担忧。 “如果 Greg Abbott 和 Kath…",
+"published": 1788018217.0
 },
 {
 "source": "The Verge",

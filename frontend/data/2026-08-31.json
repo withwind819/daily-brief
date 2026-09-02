@@ -1,6 +1,6 @@
 {
 "date": "2026-08-31",
-"total": 141,
+"total": 144,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,13 @@
 "link": "https://www.infoq.cn/article/L7P7cA3UMXXQJcBfyHuJ?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1788200861.0
+},
+{
+"source": "HN AI 热门",
+"title": "The safest job from AI may be writing",
+"link": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+"summary": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html Comments URL: https://news.ycombinator.com/item?id=49512856 Points: 146 # Comments: 203",
+"published": 1788199940.0
 },
 {
 "source": "The Decoder",
@@ -172,6 +179,13 @@
 "published": 1788182429.0
 },
 {
+"source": "HN AI 热门",
+"title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+"link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+"summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=49508982 Points: 491 # Comments: 582",
+"published": 1788180082.0
+},
+{
 "source": "InfoQ 中国",
 "title": "Netflix采用云原生作业队列系统Kueue替代内部解决方案",
 "link": "https://www.infoq.cn/article/d1qT2acYJodVCcKaBe4u?utm_source=rss&utm_medium=article",
@@ -225,6 +239,13 @@
 "title": "Polimill builds Japan's next-generation public AI infrastructure",
 "link": "https://openai.com/index/polimill",
 "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+"published": 1788159600.0
+},
+{
+"source": "OpenAI 博客",
+"title": "OpenAI supports California’s bill to advance youth AI safety",
+"link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+"summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
 "published": 1788159600.0
 },
 {

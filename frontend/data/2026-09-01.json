@@ -1,6 +1,6 @@
 {
 "date": "2026-09-01",
-"total": 157,
+"total": 159,
 "categories": {
 "AI": [
 {
@@ -240,6 +240,13 @@
 "link": "https://www.qbitai.com/2026/09/482300.html",
 "summary": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
 "published": 1788235969.0
+},
+{
+"source": "OpenAI 博客",
+"title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+"link": "https://openai.com/index/gilbert-tobin",
+"summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+"published": 1788224400.0
 }
 ],
 "科技": [
@@ -249,6 +256,13 @@
 "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
 "summary": "The company told TechCrunch he is \"pursuing new endeavors.\"",
 "published": 1788307199.0
+},
+{
+"source": "少数派",
+"title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
+"link": "https://sspai.com/post/114093",
+"summary": "索尼发布三款 ULT Tower 派对音箱，Starman Optical 收购 GoPro 等。查看全文",
+"published": 1788307120.0
 },
 {
 "source": "TechCrunch",

@@ -1,8 +1,612 @@
 {
 "date": "2026-09-02",
-"total": 24,
+"total": 145,
 "categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "Nuxt 4.5：实验性 SSR 流式传输、Vite 8 以及基于 Rsbuild 的 Rspack 构建器",
+"link": "https://www.infoq.cn/article/kggVXP7XclvALPskmSdq?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788392661.0
+},
+{
+"source": "The Decoder",
+"title": "US Department of Justice backs fair use for AI training in landmark copyright case",
+"link": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/",
+"summary": "In the class-action lawsuit involving The New York Times, the US Department of Justice argues that training AI models on copyrighted text qualifies as fair use. The filing directly contradicts a report from the US Copyright Office. Its dire…",
+"published": 1788373482.0
+},
+{
+"source": "InfoQ 中国",
+"title": "当 AI 开始重写负载，数据库该如何重新设计？",
+"link": "https://www.infoq.cn/article/rhKVS8RAdp4aVPZD0vZu?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788372435.0
+},
+{
+"source": "The Decoder",
+"title": "Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA",
+"link": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/",
+"summary": "Google's Gemini 3.8 Flash, the third Flash model in six weeks, matches Claude Opus 5 on some agentic coding benchmarks at lower cost. But its \"working harder\" reasoning burns about 30 percent more output tokens per task, making it pricier i…",
+"published": 1788368369.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Java 近期新闻：JDK 27-RC1、OpenJDK JEPs、Jakarta EE、BellSoft、Helidon、Micrometer、Tika 4.0",
+"link": "https://www.infoq.cn/article/el0IBcWagf1hxccJYUUP?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788365160.0
+},
+{
+"source": "The Decoder",
+"title": "US military adds ChatGPT and Grok to AI platform GenAI.mil",
+"link": "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/",
+"summary": "The Pentagon is expanding its AI platform with two new models, OpenAI's ChatGPT Mil and xAI's Grok for Government. The article US military adds ChatGPT and Grok to AI platform GenAI.mil appeared first on The Decoder.",
+"published": 1788360051.0
+},
+{
+"source": "The Decoder",
+"title": "Protests against AI data centers play into China's hands, Trump says",
+"link": "https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/",
+"summary": "President Trump has pushed back hard against growing opposition to AI data centers across the US. The article Protests against AI data centers play into China's hands, Trump says appeared first on The Decoder.",
+"published": 1788359031.0
+},
+{
+"source": "InfoQ 中国",
+"title": "优化平台工程规模，构建组织真正需要的平台",
+"link": "https://www.infoq.cn/article/PybEXW1fiP1O5vfteYdL?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788358920.0
+},
+{
+"source": "InfoQ 中国",
+"title": "倒计时21天！GOAI进入决赛月，120强全力冲刺",
+"link": "https://www.infoq.cn/article/JSgkNf4EBVRL6HPP8D1u?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788358877.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder",
+"link": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/",
+"summary": "OpenAI is officially rating its upcoming Astra model as the first system with \"critical\" cyber capabilities. The company plans to keep it in check by monitoring the chain of thought. Problem is, that monitoring already counts as an unreliab…",
+"published": 1788358828.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "Facilitating AI integration with simplicity at scale",
+"link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+"summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harde…",
+"published": 1788357600.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台",
+"link": "https://www.infoq.cn/article/ztbou1CqjAdzrT6GNSKV?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788354000.0
+},
+{
+"source": "The Decoder",
+"title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos",
+"link": "https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/",
+"summary": "World Labs, co-founded by AI researcher Fei-Fei Li, has announced Atlas, a world model that generates, reconstructs, and simulates 3D scenes from just a few images. The company claims it beats specialized models by anchoring all inputs in 3…",
+"published": 1788352116.0
+},
+{
+"source": "OpenAI 博客",
+"title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+"link": "https://openai.com/index/atv-big-air-tour",
+"summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+"published": 1788350400.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Fable 5.1 正式发布：性能翻倍、Agent成本下降45%，Anthropic 把顶级模型送进真实世界",
+"link": "https://www.infoq.cn/article/K8OwgoWM1gHNi2i4yLkU?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788350400.0
+},
+{
+"source": "InfoQ 中国",
+"title": "一次空指针问题引发的 Spring 生命周期思考",
+"link": "https://www.infoq.cn/article/eWdhZ7b2DjRetvtzcl7k?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788349932.0
+},
+{
+"source": "InfoQ 中国",
+"title": "关于 JDK 27 和 JDK 28，我们目前都知道些什么",
+"link": "https://www.infoq.cn/article/kJeDyClZsPiCEJFuGswL?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788348120.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Claude越狱后，Anthropic停掉训练、150人紧急转岗",
+"link": "https://www.infoq.cn/article/EPME6yOoJGusHdGZTGFJ?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788342156.0
+},
+{
+"source": "InfoQ 中国",
+"title": "如何让数据库更容易暴露 Bug？",
+"link": "https://www.infoq.cn/video/O8p3IB5iTYxpJ4OKgOQ2?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788341400.0
+},
+{
+"source": "量子位",
+"title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+"link": "https://www.qbitai.com/2026/09/483274.html",
+"summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
+"published": 1788340936.0
+},
+{
+"source": "InfoQ 中国",
+"title": "随着 AI 内存需求推高非 AI 基础设施价格，OVHcloud 将上调服务价格",
+"link": "https://www.infoq.cn/article/A1CMWgYYvtE64N1s3EHv?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788340200.0
+},
+{
+"source": "The Decoder",
+"title": "Google Gemini's new agent-based video analysis cuts token usage by up to 88 percent",
+"link": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/",
+"summary": "Google is adding agent-based video analysis to Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite. Instead of scanning videos frame by frame at a fixed rate, the model decides on its own which segments to examine and at what resolution. Google…",
+"published": 1788337298.0
+},
+{
+"source": "量子位",
+"title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+"link": "https://www.qbitai.com/2026/09/483104.html",
+"summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+"published": 1788330017.0
+},
+{
+"source": "量子位",
+"title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+"link": "https://www.qbitai.com/2026/09/483101.html",
+"summary": "",
+"published": 1788329426.0
+},
+{
+"source": "量子位",
+"title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+"link": "https://www.qbitai.com/2026/09/483097.html",
+"summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
+"published": 1788329210.0
+},
+{
+"source": "量子位",
+"title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+"link": "https://www.qbitai.com/2026/09/482967.html",
+"summary": "AI客服日扛1.5万通电话",
+"published": 1788317286.0
+},
+{
+"source": "量子位",
+"title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+"link": "https://www.qbitai.com/2026/09/482652.html",
+"summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
+"published": 1788315492.0
+},
+{
+"source": "量子位",
+"title": "香港首个真实开放场景服务机器人落地兰桂坊",
+"link": "https://www.qbitai.com/2026/09/482855.html",
+"summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
+"published": 1788314768.0
+},
+{
+"source": "量子位",
+"title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+"link": "https://www.qbitai.com/2026/09/482699.html",
+"summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
+"published": 1788313464.0
+},
+{
+"source": "量子位",
+"title": "李飞飞发布：全球首个多模态世界模型",
+"link": "https://www.qbitai.com/2026/09/482586.html",
+"summary": "一张图补全3D世界，还能给机器人造训练场",
+"published": 1788311233.0
+}
+],
 "科技": [
+{
+"source": "TechCrunch",
+"title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+"link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+"summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+"published": 1788390060.0
+},
+{
+"source": "The Verge",
+"title": "Uber beats Waymo as first to launch robotaxis in London",
+"link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+"summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The lau…",
+"published": 1788390000.0
+},
+{
+"source": "爱范儿",
+"title": "Gemini 3.8 Flash 光速发布：干活挺勤快，就是没开窍",
+"link": "https://www.ifanr.com/1678197?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "Gemini 圣质如初#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788389557.0
+},
+{
+"source": "TechCrunch",
+"title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+"link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+"summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+"published": 1788389096.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+"link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+"summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+"published": 1788387849.0
+},
+{
+"source": "TechCrunch",
+"title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+"link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+"summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+"published": 1788385114.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI’s new reasoning technique alarms AI safety experts",
+"link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+"summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+"published": 1788380354.0
+},
+{
+"source": "TechCrunch",
+"title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+"link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+"summary": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
+"published": 1788379961.0
+},
+{
+"source": "The Verge",
+"title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+"link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+"summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It…",
+"published": 1788379900.0
+},
+{
+"source": "TechCrunch",
+"title": "It sure looks like hackers breached a major ID card verification service",
+"link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+"summary": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
+"published": 1788377709.0
+},
+{
+"source": "TechCrunch",
+"title": "Delivery Hero board backs Uber’s $15B takeover bid",
+"link": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+"summary": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
+"published": 1788377135.0
+},
+{
+"source": "The Verge",
+"title": "Here are some of REI’s best Labor Day sale deals",
+"link": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
+"summary": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s clothing and REI Co-o…",
+"published": 1788375419.0
+},
+{
+"source": "The Verge",
+"title": "1Password wades into a right-wing mess after funding a Linux project",
+"link": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
+"summary": "1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularly published overtly racist blog posts that include comments calling for dep…",
+"published": 1788374894.0
+},
+{
+"source": "The Verge",
+"title": "Amazon’s AI assistant can now spot fake emails from the company",
+"link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+"summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shop…",
+"published": 1788371576.0
+},
+{
+"source": "TechCrunch",
+"title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+"link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+"summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving pla…",
+"published": 1788369493.0
+},
+{
+"source": "TechCrunch",
+"title": "X shifts US creator payouts from Stripe to X Money",
+"link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+"summary": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
+"published": 1788369147.0
+},
+{
+"source": "TechCrunch",
+"title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+"link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+"summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+"published": 1788368946.0
+},
+{
+"source": "The Verge",
+"title": "Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing",
+"link": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
+"summary": "I think automakers are finally getting the memo. Rather than try to reinvent the wheel with its new electric vehicle, Range Rover just made one that looks nearly identical to its lineup of gas-powered SUVs. They didn't try to pass off some …",
+"published": 1788368468.0
+},
+{
+"source": "TechCrunch",
+"title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+"link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+"summary": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
+"published": 1788368063.0
+},
+{
+"source": "Solidot",
+"title": "全世界快速发展太阳能",
+"link": "https://www.solidot.org/story?sid=85268",
+"summary": "全世界正在快速发展太阳能这一廉价电力来源，但各地发展并不均衡。以欧洲为例，除了罗马尼亚，其它欧洲国家几乎没有增长，原因是欧洲大陆电网的局限性。发电高峰期间电网拥堵，储能不足，导致能源浪费、负电价，甚至出现电网故障和灾难性停电风险，欧洲各国正竞相增加电网储能容量以解决这些问题。罗马尼亚太阳能装机量在 2025 年增长了 45%，该国在太阳能建设早期就对电池储能进行了投资。除此之外，巴基斯坦的屋顶太阳能和电池安装速度超过了其他任何市场，巴西、智利、萨尔瓦多、摩洛哥、肯尼亚和纳米比…",
+"published": 1788367775.0
+},
+{
+"source": "The Verge",
+"title": "The best tech and gadgets announced at IFA so far",
+"link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+"summary": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are …",
+"published": 1788367430.0
+},
+{
+"source": "The Verge",
+"title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+"link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+"summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are …",
+"published": 1788367250.0
+},
+{
+"source": "Solidot",
+"title": "每年全球近半农民因农药中毒",
+"link": "https://www.solidot.org/story?sid=85267",
+"summary": "根据发表在《Frontiers in Public Health》期刊上的一项研究，全世界每年有近五成农民因农药中毒。研究发现每年约有 4.02-4.33 亿农民和农场工人因意外急性农药中毒。全球农业人口约为 9.34 亿，这意味着每年约有 46% 的农民农药中毒。中毒人数最多的地区是南亚，其次是东南亚和东非。中毒率最高的国家是西非布基纳法索，该国近 84 %的农民和农场工人曾遭受农药中毒。研究还发现，每年约有 11,000 人死于农药中毒，其中近 60% 发生在印度。研究指…",
+"published": 1788366448.0
+},
+{
+"source": "Solidot",
+"title": "Steam 在一周内上架了逾 700 款游戏，大部分无人问津",
+"link": "https://www.solidot.org/story?sid=85266",
+"summary": "Steam 平台一周内上架的游戏数量首次突破 700 款，但大部分游戏无人问津。根据 ICO Partners CEO Thomas Bidaux 提供的数据，上周共有 720 款游戏在 Steam 平台上架。其中 520 款游戏的评论数在 0-9 条之间，190 款游戏的评论数超过 10 条，95 款游戏的评论数超过 50 条，62 款游戏超过 100 条，10 款游戏的评论数超过 1000 条。数据存在重叠，评论数超过 1000 条的游戏会被同时计入 50+ 和 100+…",
+"published": 1788365820.0
+},
+{
+"source": "The Verge",
+"title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+"link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+"summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems…",
+"published": 1788365545.0
+},
+{
+"source": "Solidot",
+"title": "AI 时代 Linux 7.x 系列每个版本修复的漏洞数接近 2000 个",
+"link": "https://www.solidot.org/story?sid=85265",
+"summary": "根据稳定版内核维护者 Greg Kroah-Hartman 制作的幻灯片，Linux 7.x 系列的 CVE 数量已从 7.1 的逾千增加到 7.2 的逾 1500，按照这一趋势，下个版本 7.3 将会超过 2000。这一切并非是因为 Linux 内核安全性变差，而是因为 AI 辅助安全检测工具对内核源代码的自动扫描发现了大量 bug，大部分 bug 并不严重属于低危级别。AI 工具产生了大量报告，而要从这些报告中发现有用的信息需要维护者耗费大量精力和时间。内核网络系统的维护…",
+"published": 1788365218.0
+},
+{
+"source": "TechCrunch",
+"title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+"link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+"summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+"published": 1788365050.0
+},
+{
+"source": "TechCrunch",
+"title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+"link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+"summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+"published": 1788364908.0
+},
+{
+"source": "The Verge",
+"title": "Google is sending MrBeast into the wilderness, armed with AI",
+"link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+"summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness surv…",
+"published": 1788364023.0
+},
+{
+"source": "TechCrunch",
+"title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+"link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+"summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+"published": 1788361283.0
+},
+{
+"source": "TechCrunch",
+"title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+"link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+"summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+"published": 1788360994.0
+},
+{
+"source": "爱范儿",
+"title": "50.98 万元！新理想 MEGA 发布：前两排零重力座椅，加入后轮转向，还要推出右舵版",
+"link": "https://www.ifanr.com/1678181?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "与 L9 Livis 同价。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788359314.0
+},
+{
+"source": "TechCrunch",
+"title": "Adobe acquires Indian market intelligence startup Rilo",
+"link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+"summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+"published": 1788357837.0
+},
+{
+"source": "TechCrunch",
+"title": "Norway considers ban on camera-enabled wearable ‘pervert glasses’",
+"link": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
+"summary": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
+"published": 1788354707.0
+},
+{
+"source": "TechCrunch",
+"title": "Adobe is making its tools available in Slack",
+"link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+"summary": "Users will be able to access Express, Premiere, and Acrobat in Slack",
+"published": 1788354567.0
+},
+{
+"source": "TechCrunch",
+"title": "Uber is laying off 10% of staff, or 3,300 people",
+"link": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+"summary": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ridesharing, delivery, and robotaxi divisions.",
+"published": 1788351275.0
+},
+{
+"source": "爱范儿",
+"title": "比亚迪六座新旗舰！海狮 08 正式上市，22.99 万元起",
+"link": "https://www.ifanr.com/1678169?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "海洋网终于把大六座 SUV 补上了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788349685.0
+},
+{
+"source": "36氪",
+"title": "亏掉1000亿后，蔚来终于赚钱了丨深氪",
+"link": "https://36kr.com/p/3966195340205313?f=rss",
+"summary": "老周至今都不敢相信，去年这个时候，他还蹲在蔚来公司边上，天天催促对方付款，“老板生怕他们倒闭”。现在，蔚来每月出货2-3万套，已经翻身成为他们的大客户之一。 在蔚来供应链中，老周这样的经历很普遍。 一家内饰供应商告诉36氪，去年公司生怕蔚来暴雷，催着蔚来尽快结算模具费，但蔚来缺钱，最后用数十台萤火虫，以及部分乐道L60、蔚来ES6来抵债。有些供应商当时想避开蔚来的生意，干脆就在蔚来循价时“报个天价”，劝退对方。 供应商的担心不是没有道理。过去10年来，蔚来公开可查的累计亏损约…",
+"published": 1788349377.0
+},
+{
+"source": "爱范儿",
+"title": "李飞飞的 World Labs，把赛博朋克的「超梦」做出来了",
+"link": "https://www.ifanr.com/1678150?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "世界模型的「ChatGPT 时刻」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788345034.0
+},
+{
+"source": "Solidot",
+"title": "联合国报告警告全球气温升幅数年内将超过 1.5 度",
+"link": "https://www.solidot.org/story?sid=85264",
+"summary": "联合国环境规划署（UNEP）2 日发布报告，警告称地球变暖导致全球平均气温较工业革命前上升的幅度将在数年内超过 1.5 度，灾害、健康危害等风险将上升至危机水平。报告指出若要减轻负面影响，重要的是将超过 1.5 度的持续时间缩至最短。报告称，若保持当前的气候变暖对策，到 2100 年全球平均气温将上升约 2.6 度。即使《巴黎协定》框架下各国自主设定的温室气体减排目标全部达成，排放量和森林等吸收量相抵达到净零，预计气温仍将上升约 1.8 度，估计 10 年内将超过 1.5 度…",
+"published": 1788344804.0
+},
+{
+"source": "36氪",
+"title": "前字节、腾讯AI核心研发孙鹏加入星尘智能，负责机器人强化学习后训练｜最前线",
+"link": "https://36kr.com/p/3966117507947780?f=rss",
+"summary": "作者｜黄楠 编辑｜袁斯来 36氪获悉，9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能，将重点负责机器人强化学习方向的技术研发与应用探索。 孙鹏博士毕业于清华大学，此后先后在康奈尔大学和罗格斯大学从事博士后研究。他长期专注强化学习（RL）、智能体（Agent）及多智能体强化学习（MARL）研究，拥有横跨机器人强化学习、大规模分布式RL系统与大模型强化学习的研究与产业实践经历，兼具算法研究与系统工程的技术积累。 早前在腾讯 A…",
+"published": 1788344736.0
+},
+{
+"source": "Solidot",
+"title": "ChatGPT/Codex 应用捆绑了完整的 LibreOffice 副本",
+"link": "https://www.solidot.org/story?sid=85263",
+"summary": "OpenAI 的 ChatGPT/Codex 桌面应用被发现捆绑了完整的 LibreOffice 副本、完整的 Python 安装包、完整的 Node.js 安装包，以及 Poppler 和 git 等常用工具，这些文件位于名为 codex-primary-runtime 的文件夹内，占据了数 GB 的空间。此前 Anthropics 的 Claude 桌面应用被发现捆绑了 10GB 的虚拟机。",
+"published": 1788343468.0
+},
+{
+"source": "36氪",
+"title": "万向德农这波上涨，早有信号？",
+"link": "https://36kr.com/p/3966082304089352?f=rss",
+"summary": "头图 今日A股收盘数据 上证指数：3941.39 点，-0.97% 深证成指：13611.55 点，-1.88% 创业板指：3312.24 点，-2.39% 从一则市场信号，提前发现万向德农的上涨机会 14.42 +0.46 +3.30% 当日开盘价14.20元；交易量101.99万手；换手率34.86%；成交额14.53亿元；总市值42.19亿元。 值得关注的是，万向德农并非当日才出现异动。 截至9月2日，近3日涨幅达到37.46%，近5日涨幅达到66.31%。在股价快速上…",
+"published": 1788343258.0
+},
+{
+"source": "少数派",
+"title": "折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？",
+"link": "https://sspai.com/post/114084",
+"summary": "上周，Apple公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间9月10日凌晨一点在ApplePark举行。与过去两年的秋季发布会不同，今年的「科技春 ...查看全文",
+"published": 1788342056.0
+},
+{
+"source": "36氪",
+"title": "拆解希音上市后的长期主义账本",
+"link": "https://36kr.com/p/3966060125625605?f=rss",
+"summary": "港股又迎来一个时尚龙头。 9月1日上午9时，希音（SHEIN）在港交所挂牌上市，成为2026年港股规模最大的时尚品牌IPO。 希音方面表示：“港股上市是希音的新起点。未来，我们将持续创新、优化供给，与供应链伙伴同创共赢，并将合规、透明和ESG的理念贯穿全价值链，让全球消费者尽享时尚之美。” 本次全球发售共募集资金净额约132.14亿港元；基石投资者名单上，博裕、Tiger Global、腾讯、景林等顶级机构悉数在列。 2025年，希音服务全球160个市场的约2.73亿活跃顾客…",
+"published": 1788341553.0
+},
+{
+"source": "Solidot",
+"title": "鳄梨树为何能一天数次变换性别",
+"link": "https://www.solidot.org/story?sid=85262",
+"summary": "鳄梨/牛油果树是雌雄同株，它的花既能作为雌蕊接收花粉，也能作为雄蕊释放花粉。鳄梨树会在一天中数次切换性别。为了避免自花授粉，半数鳄梨树（被称为A 型）被设定为早上开雌蕊，下午开雄蕊，B 型树则与之相反。根据发表在 PNAS 期刊上的一项研究，科学家分析了数百棵鳄梨树的基因组，发现名为 SDMYB 的基因与 A/B 型树开花模式密切相关。该基因有两个等位基因，一个显性一个隐性，A 型树有一个显性一个隐性，B 型树有两个隐性。这种遗传机制并非鳄梨树所独有，其它 26 种相近树种也…",
+"published": 1788338072.0
+},
+{
+"source": "Solidot",
+"title": "LWN 上调订阅价格",
+"link": "https://www.solidot.org/story?sid=85261",
+"summary": "所有东西都在慢慢涨价，包括订阅服务。历史悠久的自由软件和开源新闻网站 LWN 宣布它将从 9 月 15 日起上调订阅费用。LWN 从 2002 年起采用订阅模式，过去 24 年只涨价过两次，最近一次是 2022 年。根据美国官方的数据，2022 年以来消费者价格通胀率累计接近 20%，因此 LWN 的订阅价格也将上调 20%。 订阅级别： Starving hacker $6.00 Professional hacker $11.00 Project leader $19.0…",
+"published": 1788335161.0
+},
+{
+"source": "Solidot",
+"title": "Starman Holding 以 2.85 亿美元现金收购 GoPro",
+"link": "https://www.solidot.org/story?sid=85260",
+"summary": "Starman Holding 以 2.85 亿美元现金收购了知名运动相机制造商 GoPro 几乎所有股份。股东将保留公司 10% 的股份；YouTube 主播 Mark“Markiplier”Fischbach 此前收购了 GoPro 8.5% 的股份——但不清楚是否还会继续持续股份。Starman 的业务相当复杂，涉及多个领域，包括手机壳品牌 Incipio、Incase、Griffin 和 Survivor，曾获得新冠病毒检测合同的 Digital Gadgets，On…",
+"published": 1788334525.0
+},
+{
+"source": "爱范儿",
+"title": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+"link": "https://www.ifanr.com/1678079?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "大模型理解文字，李飞飞想让 Atlas 理解空间#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788334299.0
+},
+{
+"source": "少数派",
+"title": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间",
+"link": "https://sspai.com/post/80562",
+"summary": "Windows 下的累计更新会修复大量的安全漏洞，虽然可以暂停更新但是最长只能暂停 35 天，35 天后 Windows 电脑就要强行帮你更新了，而本文介绍了一种突破暂停最大时间的方法。查看全文",
+"published": 1788333747.0
+},
+{
+"source": "Solidot",
+"title": "Firefox 155 释出",
+"link": "https://www.solidot.org/story?sid=85259",
+"summary": "Mozilla 释出了 Firefox 155。从该版本起 Firefox 将每隔两周发布一个新版本。Firefox 155 主要变化包括： 地址栏中新增 Firefox 已拦截广告追踪器的数量；容器重排序；mailto: 链接仅在用户明确操作后打开；用于登录酒店 Wi-Fi 的域名 detectportal.firefox.com 改为 firefox-portal-detection.com；Smart Window 对所有美国、加拿大和法国用户可用；bug 修正和安全补…",
+"published": 1788332308.0
+},
+{
+"source": "Solidot",
+"title": "苹果地图在 Google 地图之后将安大略湖更名为美国湖",
+"link": "https://www.solidot.org/story?sid=85258",
+"summary": "苹果在 Google 之后将其地图服务中的安大略湖（Lake Ontario）更名为美国湖（Lake America）。和 Google Maps 类似，这一改名主要针对美国地区的用户，加拿大地区用户仍然看到的是安大略湖，而世界其它地方的用户则同时看到两个名字。此前 Apple Maps 也以类似的方式将墨西哥湾改名为美国湾。与此同时，拒绝改名的美国地图服务 MapQuest 则成为美国 App Store 下载量最高的地图应用。",
+"published": 1788331412.0
+},
+{
+"source": "爱范儿",
+"title": "13 年前被喷爆的 XBOX 功能，怎么成了游戏光盘最后的救命稻草？",
+"link": "https://www.ifanr.com/1677973?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "微软终于想通了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788322556.0
+},
+{
+"source": "少数派",
+"title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
+"link": "https://sspai.com/post/113581",
+"summary": "近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是Sonos一直 ...查看全文",
+"published": 1788318000.0
+},
+{
+"source": "36氪",
+"title": "香飘飘扛过了外卖大战",
+"link": "https://36kr.com/p/3965664392404482?f=rss",
+"summary": "作者 | 谢芸子 编辑 | 张帆 外卖大战确实按下了“暂停键”。 从今年二季度的财报表现看，京东新业务板块（含外卖）同比大幅减亏，外卖业务投入规模明显收窄，核心策略从“烧钱抢份额”转向“减亏保品质”。 阿里财报也显示，旗下淘宝闪购外卖市场份额已达40%-45%，高价值订单份额从战前20%跃升至30%，成为本轮大战的最大格局改变者。至此，外卖市场已从美团一家独大，转变为美团、阿里、京东三方共存的稳定格局。 硝烟暂歇，香飘飘也似乎等来了喘息的机会。 近日，一则人事变动让这个“奶茶…",
+"published": 1788317348.0
+},
+{
+"source": "36氪",
+"title": "硬氪首发｜东莞人工智能研究院孵化，瞄准模具制造领域物理AI研发，这家企业获创新工场数千万种子轮融资",
+"link": "https://36kr.com/p/3963006194728324?f=rss",
+"summary": "作者｜乔钰杰 编辑｜袁斯来 本文2100字，预计阅读5分钟。 硬氪获悉，制造物理AI公司合木人工智能科技（成都）有限公司（以下简称“合木智能”）日前完成种子轮千万级融资，投资方为创新工场。 合木智能成立于2026年5月，由东莞市新一代人工智能产业技术研究院联合模具制造企业端品精密孵化成立，是一家专注于模具物理AI、制造语义计算及落地的公司。 具体来看，合木智能希望在机械图纸深度学习的基础上，进一步学习和复刻老师傅积累的工艺经验，为模具制造企业构建AI工艺大脑，并将能力覆盖产品…",
+"published": 1788315200.0
+},
 {
 "source": "36氪",
 "title": "设立五周年，北交所含“新”量不断提升",
@@ -159,6 +763,251 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Broadcom beats expectations as AI labs double down on custom chips",
+"link": "https://siliconangle.com/2026/09/02/broadcom-beats-expectations-as-ai-labs-double-down-on-custom-chips/",
+"summary": "Custom chipmaker Broadcom Inc. beat expectations on earnings and revenue in its third-quarter financial report and hinted at the prospect of doing more business with leading artificial intelligence labs. However, its stock came under pressu…",
+"published": 1788392475.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AI demand lifts HPE and NetApp to record quarters, but investors sell both",
+"link": "https://siliconangle.com/2026/09/02/ai-demand-lifts-hpe-and-netapp-to-record-quarters-investors-sell-both/",
+"summary": "Shares of Hewlett Packard Enterprise Co. and NetApp Inc. both fell in late trading today despite the two compute, storage and networking companies beating Wall Street expectations for their July quarters and raising their full-year outlooks…",
+"published": 1788392001.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Broadcom and Cisco tie AI factory deployment to workload needs",
+"link": "https://siliconangle.com/2026/09/02/broadcom-and-cisco-tie-ai-factory-deployment-to-workload-needs-vmwareexplore/",
+"summary": "AI factory deployment is becoming a workload-sizing exercise rather than a custom infrastructure project. Enterprises need infrastructure spanning edge inference and large-model training. Broadcom Inc. and Cisco Systems Inc. are addressing …",
+"published": 1788390803.0
+},
+{
+"source": "SiliconANGLE",
+"title": "CrowdStrike gives AI agents an identity provider, parallel SOC investigations and package blocking",
+"link": "https://siliconangle.com/2026/09/02/crowdstrike-gives-ai-agents-an-identity-provider-parallel-soc-investigations-and-package-blocking/",
+"summary": "CrowdStrike Holdings Inc. today announced three additions to its Falcon platform: an identity provider built for artificial intelligence agents, a rebuilt investigation layer that runs multiple Charlotte AI agents across security domains at…",
+"published": 1788389392.0
+},
+{
+"source": "SiliconANGLE",
+"title": "In landmark ruling, court declines to break up Google’s advertising business",
+"link": "https://siliconangle.com/2026/09/02/court-declines-to-break-up-googles-advertising-business-in-landmark-ruling/",
+"summary": "A federal court today rejected a proposal by the U.S. Justice Department to break up Google LLC’s ad business. The ruling came in connection with an antitrust lawsuit that began more than three years ago. In January 2023, the Justice Depart…",
+"published": 1788387183.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Frontier AI research moves into cyber defense as attackers gain speed",
+"link": "https://siliconangle.com/2026/09/02/cyber-superintelligence-lab-aims-tilt-ai-edge-defenders-falcon/",
+"summary": "Frontier artificial intelligence research is moving into security operations, and the arrival of a cyber superintelligence lab at one of the industry’s largest platform companies marks how far that shift has traveled. The question is no lon…",
+"published": 1788386154.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Lenovo and Broadcom target server costs with memory tiering",
+"link": "https://siliconangle.com/2026/09/02/lenovo-and-broadcom-target-server-costs-with-memory-tiering-vmwareexplore/",
+"summary": "Memory tiering is emerging as a way to reduce server costs as dynamic random-access memory prices rise. In VMware Cloud Foundation 9.1, the technology shifts less frequently accessed pages to lower-cost nonvolatile memory express flash whil…",
+"published": 1788381323.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Wonderful raises $550M at $5B valuation for its AI automation platform",
+"link": "https://siliconangle.com/2026/09/02/wonderful-raises-550m-at-5b-valuation-for-its-ai-automation-platform/",
+"summary": "Artificial intelligence agent startup Wonderful AI BV today announced that it has raised $550 million in funding. The Series C round was led by Insight Partners, which was also the headline backer of the company’s previous raise in March. S…",
+"published": 1788380748.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Continuous identity becomes the new front line for AI agents: theCUBE’s Fal.Con 2026 day two keynote analysis",
+"link": "https://siliconangle.com/2026/09/02/continuous-ai-agent-identity-falcon/",
+"summary": "Identity security has always worked the same way: log in once, get trusted until you log out. That model breaks down the moment an AI agent does the logging in, since an agent can call a dozen tools in the time it takes a human to read one …",
+"published": 1788372894.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Storage leaders target AI’s unstructured data challenge",
+"link": "https://siliconangle.com/2026/09/02/unstructured-data-hammerspace-cloudian-seagate-supermicro-supermicroopenstoragesummit/",
+"summary": "Data has become the fuel for artificial intelligence, and the largest untapped reserve to power AI is unstructured data. Industry estimates cited by theCUBE Research indicate that more than 80% of enterprise data is unstructured, yet this c…",
+"published": 1788372000.0
+},
+{
+"source": "Crunchbase",
+"title": "Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation",
+"link": "https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/",
+"summary": "Lyte, a physical AI startup building sensing and perception technology for robots, has raised a Maverick Silicon-led $165 million Series C funding at a $1.6 billion post-money valuation.",
+"published": 1788370469.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Broadcom enlists partners to tie VCF adoption to business outcomes",
+"link": "https://siliconangle.com/2026/09/02/broadcom-enlists-partners-tying-vcf-adoption-to-business-outcomes-vmwareexplore/",
+"summary": "VMware Cloud Foundation adoption is moving beyond platform deployment toward measurable business outcomes. Broadcom Inc. is leaning on partners to connect VCF with customers’ wider security, automation and infrastructure strategies as artif…",
+"published": 1788369177.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Lyte raises $165M at $1.6B valuation to bring accurate perception to robots",
+"link": "https://siliconangle.com/2026/09/02/lyte-raises-165m-at-1-6b-valuation-to-bring-accurate-perception-to-robots/",
+"summary": "Robotics perception startup Lyte AI Inc. today announced it has raised $165 million in a Series C round led by Maverick Silicon, bringing the company’s post-money valuation to $1.6 billion. Since its stealth launch in January 2026, Lyte now…",
+"published": 1788365415.0
+},
+{
+"source": "SiliconANGLE",
+"title": "CEO George Kurtz says the AI control plane is CrowdStrike’s next security frontier",
+"link": "https://siliconangle.com/2026/09/02/ai-control-plane-george-kurtz-safemind-falcon/",
+"summary": "The artificial intelligence control plane is emerging as the next contested layer of enterprise security, as autonomous agents spread across endpoints, cloud workloads and identity systems faster than most organizations can inventory them. …",
+"published": 1788365309.0
+},
+{
+"source": "EU-Startups",
+"title": "UK startup Pharosyn raises €2.5 million for pharma competitive intelligence platform",
+"link": "https://www.eu-startups.com/2026/09/uk-startup-pharosyn-raises-e2-5-million-for-pharma-competitive-intelligence-platform/",
+"summary": "London-based Pharosyn, which builds AI infrastructure for commercial decision-making in pharma, has raised €2.5 million to expand its platform and support wider adoption across pharmaceutical commercial and portfolio strategy teams. The rou…",
+"published": 1788363219.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Celigo launches intelligent enterprise automation builder into general availability",
+"link": "https://siliconangle.com/2026/09/02/celigo-launches-intelligent-enterprise-automation-builder-into-general-availability/",
+"summary": "Celigo Inc., an intelligent enterprise automation platform built for artificial intelligence, today announced the general availability of Ora, the company’s interface for building and troubleshooting automations. Since Ora launched in beta …",
+"published": 1788362743.0
+},
+{
+"source": "EU-Startups",
+"title": "MIRAVA raises €4.2 million to build a new category in recreational boating (Sponsored)",
+"link": "https://www.eu-startups.com/2026/09/mirava-raises-e4-2-million-to-build-a-new-category-in-recreational-boating-sponsored/",
+"summary": "MIRAVA, a smart recreational boat startup, has raised €4.2 million ($5 million) in angel funding to move from three years of product development into small-batch production and customer deliveries. The company has spent the past three years…",
+"published": 1788358153.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AI adoption is outpacing security in critical infrastructure",
+"link": "https://siliconangle.com/2026/09/02/critical-infrastructure-cybersecurity-lags-ai-adoption-ey-says-falcon/",
+"summary": "Energy, manufacturing and utility operators are wiring decades-old plants into modern networks just as attackers gain machine-speed tooling, and critical infrastructure cybersecurity is where that mismatch bites hardest. Awareness of the ri…",
+"published": 1788354836.0
+},
+{
+"source": "SiliconANGLE",
+"title": "OpenMatter adds an AI model gateway and privacy-preserving machine learning",
+"link": "https://siliconangle.com/2026/09/02/openmatter-adds-an-ai-model-gateway-and-privacy-preserving-machine-learning/",
+"summary": "OpenMatter Network Inc. today announced the first significant expansion of its platform since its commercial launch three months ago, adding a developer kit, a gateway for managing access to artificial intelligence models from multiple prov…",
+"published": 1788354034.0
+},
+{
+"source": "SiliconANGLE",
+"title": "ZeroDrift launches service to check agent-generated messages against company policies",
+"link": "https://siliconangle.com/2026/09/02/zerodrift-launches-service-to-check-agent-generated-messages-against-company-policies/",
+"summary": "ZeroDrift Inc., a startup that automates compliance for artificial intelligence communications, today introduced Guard for Agents, a service that lets developers turn written company policies into enforceable rules to check AI agents’ commu…",
+"published": 1788354031.0
+},
+{
+"source": "SiliconANGLE",
+"title": "IBM Ventures backs BQP as quantum-accelerated simulation reaches production",
+"link": "https://siliconangle.com/2026/09/02/ibm-ventures-backs-bqp-as-quantum-accelerated-simulation-reaches-production/",
+"summary": "Physics acceleration startup BQP announced today that IBM Ventures has invested in the company, though neither side revealed how much. IBM Ventures is the investment arm of IBM Corp. BQP plans to spend the money taking its simulation platfo…",
+"published": 1788354024.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Critical Materials Group raises $10.3M to automate production of military-grade explosives",
+"link": "https://siliconangle.com/2026/09/02/critical-munitions-group-raises-10-3m-to-automate-the-production-of-military-grade-explosives/",
+"summary": "A startup called Critical Materials Group wants to automate military munitions production and fix a critical bottleneck in the supply chain for explosive materials after raising $10.3 million in seed funding. Today’s round was led by Overma…",
+"published": 1788354004.0
+},
+{
+"source": "EU-Startups",
+"title": "From the frontline: Ukraine’s cyber security learnings for EU founders",
+"link": "https://www.eu-startups.com/2026/09/from-the-frontline-ukraines-cyber-learnings-for-eu-founders/",
+"summary": "In December 2015, Russian hackers managed to cut electricity for about 225,000 customers across three Ukrainian regions. They had been inside those networks for months, and nobody had noticed. By 2024, Ukraine faced 4,315 registered inciden…",
+"published": 1788353788.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Security becomes a shared job as AI widens the attack surface",
+"link": "https://siliconangle.com/2026/09/02/aws-crowdstrike-partnership-takes-agentic-ai-threats-falcon/",
+"summary": "Cloud providers and security companies are being pulled into tighter formation as artificial intelligence widens the enterprise attack surface faster than any single supplier can cover it. The AWS CrowdStrike partnership is one of the clear…",
+"published": 1788353169.0
+},
+{
+"source": "Crunchbase",
+"title": "The IPO Window Is Closing. Here Are 8 Startups To Watch.",
+"link": "https://news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026/",
+"summary": "In the first half of this year, 58 venture-backed companies joined the public listings at $1 billion or above, per Crunchbase data. With the year’s end now in sight, a small window remains for other startups to launch 2026 IPOs, so we took …",
+"published": 1788346810.0
+},
+{
+"source": "EU-Startups",
+"title": "British Business Bank commits €53.6 million to Zinc’s €81.5 million Science-for-Impact Fund",
+"link": "https://www.eu-startups.com/2026/09/british-business-bank-commits-e53-6-million-to-zincs-e81-5-million-science-for-impact-fund/",
+"summary": "The British Business Bank has agreed to commit up to €53.6 million (£46 million) to Zinc Capital Management‘s second institutional fund, the Science-for-Impact Fund. The commitment was made through the Enterprise Capital Funds programme. It…",
+"published": 1788345252.0
+},
+{
+"source": "EU-Startups",
+"title": "Adressing complicated pregnancies, iPremom raises €15 million to advance early detection",
+"link": "https://www.eu-startups.com/2026/09/adressing-complicated-pregnancies-ipremom-raises-e15-million-to-advance-early-detection/",
+"summary": "iPremom, a Spanish molecular diagnostics company addressing the early identification of pregnancy complications, has raised €15 million in Seed funding to support clinical validation and the commercial rollout of its MaiRa platform, which a…",
+"published": 1788344100.0
+},
+{
+"source": "EU-Startups",
+"title": "Oslo-based Pistachio acquires Hugin.io to expand into cybersecurity compliance",
+"link": "https://www.eu-startups.com/2026/09/oslo-based-pistachio-acquires-hugin-io-to-expand-into-cybersecurity-compliance/",
+"summary": "Pistachio, an Oslo-based AI-powered human risk platform, today announced its IP acquisition of Hugin.io, a Norwegian cyber-risk management platform that helps growing businesses assess, manage and demonstrate their cybersecurity posture and…",
+"published": 1788338224.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Lasso Security launches CPU-only AI guardrail, raises $30M",
+"link": "https://siliconangle.com/2026/09/02/lasso-security-launches-cpu-only-ai-guardrail-raises-30m/",
+"summary": "Artificial intelligence security startup Lasso Security Ltd. today launched a guardrail for AI applications that runs on ordinary server processors, with no graphics chip required. The product is called LEAP. Lasso also announced $30 millio…",
+"published": 1788336053.0
+},
+{
+"source": "EU-Startups",
+"title": "Germany’s Uplift Ventures debuts €100 million fund to bridge Europe’s DeepTech financing gap",
+"link": "https://www.eu-startups.com/2026/09/germanys-uplift-ventures-debuts-e100-million-fund-to-bridge-europes-deeptech-financing-gap/",
+"summary": "Uplift Ventures, the Hamburg- and Berlin-based venture platform, has launched its inaugural €100 million venture capital fund to back Europe’s next generation of DeepTech founders. The fund is backed by Jungheinrich, the German intralogisti…",
+"published": 1788333633.0
+},
+{
+"source": "EU-Startups",
+"title": "German SpaceTech HyImpulse secures over €50 million to accelerate Europe’s sovereign launch capabilities",
+"link": "https://www.eu-startups.com/2026/09/german-spacetech-hyimpulse-secures-over-e50-million-to-accelerate-europes-sovereign-launch-capabilities/",
+"summary": "HyImpulse Technologies, a Neuenstadt am Kocher-based manufacturer and system provider of commercial rockets for suborbital and orbital launch services, today announced a Series A Extension round of more than €50 million in equity. The round…",
+"published": 1788332455.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Pistachio acquires Hugin.io to launch cybersecurity compliance platform",
+"link": "https://siliconangle.com/2026/09/02/pistachio-acquires-hugin-io-to-launch-cybersecurity-compliance-platform/",
+"summary": "Human risk management cybersecurity firm Pistachio AS today announced it acquired Hugin Cybersecurity AS, a Norwegian cyber-risk management platform, to launch a new cybersecurity compliance and posture management service. Founded in 2023, …",
+"published": 1788328806.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Fei-Fei Li’s World Labs debuts Atlas, a world model showcase for advanced spatial intelligence",
+"link": "https://siliconangle.com/2026/09/01/fei-fei-lis-world-labs-debuts-atlas-a-world-model-showcase-for-advanced-spatial-intelligence/",
+"summary": "World Labs Inc., the high-profile and well-funded artificial intelligence startup co-founded by the renowned computer vision pioneer Fei-Fei Li, has just dropped Atlas, which promises to be a game-changer in the world of “world models.” In …",
+"published": 1788319324.0
+},
+{
+"source": "SiliconANGLE",
+"title": "From metal to model: Private cloud gets an assembly line for production AI",
+"link": "https://siliconangle.com/2026/09/01/ai-factory-automation-brings-production-private-cloud-vmwareexplore/",
+"summary": "Enterprises moving artificial intelligence from pilot projects into production are discovering that the hard part is no longer the model. It’s the infrastructure beneath it. Cost, tokenomics, data privacy and the manual labor of stitching t…",
+"published": 1788319217.0
+},
+{
+"source": "SiliconANGLE",
+"title": "MongoDB delivers stellar earnings and revenue beat, but its stock tanks anyway",
+"link": "https://siliconangle.com/2026/09/01/mongodb-delivers-stellar-earnings-and-revenue-beat-but-its-stock-tanks-anyway/",
+"summary": "Database company MongoDB Inc. crushed Wall Street’s forecasts as it delivered its second-quarter financial results today and followed up with strong guidance for the current quarter and even raised its full-year outlook. But if anyone was t…",
+"published": 1788313169.0
+},
 {
 "source": "SiliconANGLE",
 "title": "SoftBank’s SB Energy AI infrastructure unit files to go public",

@@ -1,6 +1,6 @@
 {
 "date": "2026-09-03",
-"total": 153,
+"total": 159,
 "categories": {
 "AI": [
 {
@@ -25,11 +25,32 @@
 "published": 1788470360.0
 },
 {
+"source": "HN AI 热门",
+"title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+"link": "https://arcprize.org/blog/astra",
+"summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 234 # Comments: 153",
+"published": 1788464700.0
+},
+{
 "source": "The Decoder",
 "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
 "link": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/",
 "summary": "OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the \"AGI era.\" Astra tops benchmarks in math, coding, and cybersecurity and is the first model OpenAI rates as \"critical\" under …",
 "published": 1788463540.0
+},
+{
+"source": "HN AI 热门",
+"title": "GPT-6 Astra",
+"link": "https://openai.com/index/gpt-6-astra/",
+"summary": "System Card: https://deploymentsafety.openai.com/gpt-6-astraRelated ongoing threads:OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index…",
+"published": 1788460865.0
+},
+{
+"source": "HN AI 热门",
+"title": "OpenAI begins rolling out GPT-6 Astra",
+"link": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+"summary": "https://thenewstack.io/openai-gpt6-astra-benchmarks/, image: https://cdn.thenewstack.io/media/2026/09/358eb84a-screenshot...https://venturebeat.com/technology/welcome-to-the-agi-era-op...https://www.theverge.com/ai-artificial-intelligence/9…",
+"published": 1788459502.0
 },
 {
 "source": "The Decoder",
@@ -86,6 +107,13 @@
 "link": "https://www.infoq.cn/article/cg5y0kCfmWKrIjCraZeH?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1788452160.0
+},
+{
+"source": "HN AI 热门",
+"title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+"link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+"summary": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday. It took an evening! Getting the feel right and shipping it took a few m…",
+"published": 1788445698.0
 },
 {
 "source": "The Decoder",
@@ -179,6 +207,13 @@
 "published": 1788434729.0
 },
 {
+"source": "OpenAI 博客",
+"title": "GPT-6 Astra: A new generation of intelligence",
+"link": "https://openai.com/index/gpt-6-astra",
+"summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+"published": 1788433200.0
+},
+{
 "source": "InfoQ 中国",
 "title": "BMC 漏洞致数千台服务器面临硬件级入侵风险",
 "link": "https://www.infoq.cn/article/PfVEf7xZJBSkrYib9R8z?utm_source=rss&utm_medium=article",
@@ -233,6 +268,13 @@
 "link": "https://www.qbitai.com/2026/09/483462.html",
 "summary": "4激光雷达+双M100上车",
 "published": 1788398825.0
+},
+{
+"source": "HN AI 热门",
+"title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+"link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+"summary": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 465 # Comments: 185",
+"published": 1788397882.0
 },
 {
 "source": "量子位",

@@ -1,8 +1,460 @@
 {
 "date": "2026-09-05",
-"total": 1,
+"total": 65,
 "categories": {
+"AI": [
+{
+"source": "The Decoder",
+"title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
+"link": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
+"summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actual progress. Astra now scores four points above its predecessor but still trails…",
+"published": 1788632462.0
+},
+{
+"source": "InfoQ 中国",
+"title": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+"link": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788627600.0
+},
+{
+"source": "量子位",
+"title": "GPT-6带火循环Transformer，阿里早已布局",
+"link": "https://www.qbitai.com/2026/09/484726.html",
+"summary": "手握两篇顶会论文",
+"published": 1788620828.0
+},
+{
+"source": "量子位",
+"title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+"link": "https://www.qbitai.com/2026/09/484683.html",
+"summary": "当AI开始“预演”一场暴雨",
+"published": 1788619575.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+"link": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/",
+"summary": "OpenAI ships a detailed prompting guide for GPT-6 Astra that shows developers how to make the model take more initiative, avoid AI \"slop\" phrases, and stop it from overtesting code. The article OpenAI shares prompting tips for GPT-6 Astra i…",
+"published": 1788615064.0
+},
+{
+"source": "The Decoder",
+"title": "Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments",
+"link": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/",
+"summary": "Researchers found that even a roughly seven-minute conversation with Google Gemini can reduce conspiracy beliefs about current crises, even when few verified facts are available. The effect beat a static fact sheet and, in follow-up surveys…",
+"published": 1788611952.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Uber GitFarm：面向大规模单体代码库的 Git 即服务平台",
+"link": "https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788607020.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
+"link": "https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/",
+"summary": "OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalignment caused \"new types of real-world impact\" for the first time and plans to rel…",
+"published": 1788605871.0
+},
+{
+"source": "The Decoder",
+"title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
+"link": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/",
+"summary": "Google Deepmind set up a simulated research conference where 100 Gemini agents were supposed to prove mathematical conjectures together. Instead, one agent found a loophole in the grading system, and within 27 minutes every remaining proble…",
+"published": 1788603758.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+"link": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788602160.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI handles incidents, engineers lose touch with their systems",
+"link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+"summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 364 # Comments: 316",
+"published": 1788594770.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+"link": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/",
+"summary": "OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon. Message allowances for the standard model are roughly half of what GPT-5.6 Sol offers: Plus users get an estimated 5 …",
+"published": 1788594063.0
+},
+{
+"source": "量子位",
+"title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+"link": "https://www.qbitai.com/2026/09/484649.html",
+"summary": "AI直接吐出正确答案，但最关键的可能不是答案",
+"published": 1788582265.0
+},
+{
+"source": "量子位",
+"title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+"link": "https://www.qbitai.com/2026/09/484611.html",
+"summary": "如此“反骨”的方法，具体又是怎么实现的？",
+"published": 1788581934.0
+},
+{
+"source": "量子位",
+"title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+"link": "https://www.qbitai.com/2026/09/484551.html",
+"summary": "最后靠Harness救回来",
+"published": 1788571076.0
+}
+],
+"科技": [
+{
+"source": "TechCrunch",
+"title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+"link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+"summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+"published": 1788648595.0
+},
+{
+"source": "The Verge",
+"title": "Explore the globe in field recordings",
+"link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+"summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances o…",
+"published": 1788643894.0
+},
+{
+"source": "The Verge",
+"title": "iPhone Handoff will seamlessly share one number between two phones",
+"link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+"summary": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the …",
+"published": 1788641638.0
+},
+{
+"source": "TechCrunch",
+"title": "Hikers rescued after using Google Gemini for planning",
+"link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+"summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+"published": 1788636924.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+"link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+"summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+"published": 1788631527.0
+},
+{
+"source": "TechCrunch",
+"title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+"link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+"summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+"published": 1788627600.0
+},
+{
+"source": "The Verge",
+"title": "CD sales are booming as physical media continues its resurgence",
+"link": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
+"summary": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million …",
+"published": 1788626973.0
+},
+{
+"source": "Solidot",
+"title": "食用加工肉增加肺癌食道癌风险",
+"link": "https://www.solidot.org/story?sid=85297",
+"summary": "科学家利用欧洲 450,112 名参与者（131,426 名男性 和 318,686 名女性）的数据，评估了红肉、加工肉和白肉与胃腺癌和食管腺癌之间的关联。研究人员对红肉、加工肉和白肉的定义是：红肉包括猪肉、牛肉、小牛肉、羊肉等；加工肉包括火腿、培根、香肠、加工肉块、汉堡包、肉丸、肉酱等；白肉包括鸡肉、鸭肉、鹅肉、兔肉以及其它禽肉。结果显示，每天每摄入 30 克加工肉，胃癌风险增加 9%，食管癌风险增加 13%；每天每摄入 20 克白肉，非贲门胃癌风险增加 12%。",
+"published": 1788622619.0
+},
+{
+"source": "TechCrunch",
+"title": "Oura is going public, but these smart ring companies are coming for its crown",
+"link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+"summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+"published": 1788620400.0
+},
+{
+"source": "The Verge",
+"title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
+"link": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
+"summary": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports …",
+"published": 1788620400.0
+},
+{
+"source": "Solidot",
+"title": "等效原理适用于量子领域",
+"link": "https://www.solidot.org/story?sid=85296",
+"summary": "物理学有两大不兼容的理论，其一是爱因斯坦广义相对论，适用于宏观物理领域；其二是量子力学，适用于微观物理领域。爱因斯坦曾尝试将两大理论融合成一个统一的理论，但没有成功。广义相对论的一个核心概念是等效原理，它认为引力和加速度不可区分。等效原理指出，对于自由落体的观察者，引力在局部应该消失。例如在电梯中自由落体的人会体验到失重。根据发表在《Science Advances》上的一项研究，科学家利用冷却到绝对零度附近的铷原子云，将其置于量子叠加态，通过以伽利略名字命名的量子干涉仪，在…",
+"published": 1788619854.0
+},
+{
+"source": "The Verge",
+"title": "Content creators drop the ball",
+"link": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
+"summary": "During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the match a…",
+"published": 1788616816.0
+},
+{
+"source": "Solidot",
+"title": "肾病患者靠移植猪肾生活九个月",
+"link": "https://www.solidot.org/story?sid=85295",
+"summary": "两年前，蒂姆·安德鲁斯疲惫不堪，唯一想做的就是睡觉。糖尿病和高血压毁掉了他的肾脏，而通过过滤血液维持他生命的频繁透析治疗令人精疲力竭。尽管只有 66 岁，他却毫无精力与食欲，虚弱得无法行走，还曾两次心脏病发作。肾移植本可以救他的命，但器官供应短缺。根据美国器官共享联合网络的数据，约有 9 万人在等待肾移植，平均每天有 11 人在等待中去世。而且由于安德鲁斯的血型较为罕见，他获得匹配的人类肾脏的几率尤其渺茫。当他听说麻省总医院布里格姆的医生正在为患者移植转基因猪的肾脏时，他主动…",
+"published": 1788615315.0
+},
+{
+"source": "The Verge",
+"title": "The weird and wonderful headphones of CanJam 2026",
+"link": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
+"summary": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options. Most are perfec…",
+"published": 1788613200.0
+},
+{
+"source": "Solidot",
+"title": "F-Droid 考虑采用与 Debian 相同的 AI 政策",
+"link": "https://www.solidot.org/story?sid=85294",
+"summary": "一周前，Debian 项目经过投票允许以负责任的方式使用生成式 AI，Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效率，使他们将有限的时间投入到需要技术专长、判断力、审核和协作的工作中。现在，Android 自由软件应用商店 F-Droid 考虑采用与 Debian 相同的 AI 政策，它的政策提议直接拷贝了 Debian 的政策全文，只是将 Debian…",
+"published": 1788613165.0
+},
+{
+"source": "Solidot",
+"title": "联合国大会批准新地图",
+"link": "https://www.solidot.org/story?sid=85293",
+"summary": "联合国会员国周五以 164 票赞成、1 票反对的结果通过了一项决议，倡导采用能更准确反映各大洲真实大小的地图投影法——这是由非洲主导、反对 16 世纪墨卡托投影法的运动所取得的成果，而墨卡托投影法至今仍是世界上使用最广泛的地图投影法。美国投下了唯一一张反对票，将该倡议斥为“激进意识形态项目”的一部分。爱沙尼亚、格鲁吉亚、立陶宛、摩尔多瓦、塞尔维亚和乌克兰等六个国家投了弃权票。该决议并未禁止使用墨卡托投影法，也未强制要求采用替代方案。相反，它鼓励各国政府、学校、国际组织和科技公…",
+"published": 1788610466.0
+},
+{
+"source": "The Verge",
+"title": "OpenAI admits to German wiki ‘incident’",
+"link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+"summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a Ger…",
+"published": 1788606955.0
+},
+{
+"source": "The Verge",
+"title": "Robotaxis enter their villain era",
+"link": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
+"summary": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanat…",
+"published": 1788606000.0
+},
+{
+"source": "36氪",
+"title": "别谈具身和AI，欧洲不相信「黑科技」｜直击IFA 2026",
+"link": "https://36kr.com/p/3970179970036225?f=rss",
+"summary": "作者｜黄楠 编辑｜袁斯来 2026年9月，柏林的初秋被雨水浸透，展览中心灰色的建筑群在晨光里安静展开，像一台刚启动的精密设备。在这座信奉“工程师文化”的城市，习惯用确定性和流程感丈量一切。 想看点不同寻常产品的人，来IFA会非常失望。 你看不到会飞的扫地机，场馆里也没有人形机器人做家务。大门外，招牌最醒目的仍然是赞助商常客TCL。 科技记者、自媒体人大概率会有些无聊，但如果你是个经销商、或者想为新家添置一些新家电，来这里一定能找到解决方案。 活动现场，我们随处可见带有IFA图…",
+"published": 1788606000.0
+},
+{
+"source": "爱范儿",
+"title": "GPT-6 突然全量上线，额度重置再+1，全网实测效果太离谱",
+"link": "https://www.ifanr.com/1678195?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "GPT-6 Astra 的真正野心，是接管人类的电脑#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788600515.0
+},
+{
+"source": "少数派",
+"title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
+"link": "https://sspai.com/post/114040",
+"summary": "它没有卷到极致的轻量化，也没有最极端的气动数据，但综合实力稳稳站在顶级公路车的第一梯队。查看全文",
+"published": 1788595201.0
+},
+{
+"source": "36氪",
+"title": "群星集结海岛逐浪，9月11日《PEL奇遇时光三亚篇》斗鱼直播重磅开启",
+"link": "https://36kr.com/p/3968898900095491?f=rss",
+"summary": "PEL夏季赛圆满收官，赛场烽烟落幕，但电竞热爱永不降温，对于职业选手和满怀期待的玩家们来说，新的旅程也即将开启。 9月11日，由斗鱼与《和平精英》联合推出的电竞直播综艺《PEL奇遇时光三亚篇》将正式开启。本次直播内容集结了全明星阵容，PEL明星选手带队，斗鱼平台头部主播及优质电竞KOL齐聚三亚，将在碧海椰林之间展开一场持续四天的海岛竞技之旅。 《PEL奇遇时光三亚篇》 PEL全明星阵容齐聚三亚，海岛冒险之旅启程 《PEL奇遇时光三亚篇》将由TEC·33Svan、深圳STE·芷…",
+"published": 1788595200.0
+},
+{
+"source": "36氪",
+"title": "泡泡玛特王宁到访LVMH集团总部，集团掌门人率家族成员接待",
+"link": "https://36kr.com/newsflashes/3970191272260100?f=rss",
+"summary": "据新浪科技消息，近日，泡泡玛特创始人王宁和LVMH集团主席兼CEO Bernard Arnault（贝尔纳·阿尔诺）在法国巴黎LVMH集团总部会面，这也是二人首次会面，王宁还现场赠送阿尔诺一只拉布布。据悉，王宁现场赠送阿尔诺的是MEGA LABUBU 十周年纪念款，属于全球限定发售款式。据了解，一同参与会面的还有LVMH集团大公主、迪奥Dior首席执行官Delphine Arnault（德尔菲娜·阿尔诺）以及LVMH集团核心高管、LV全球CEO Pietro Beccari（…",
+"published": 1788593244.0
+},
+{
+"source": "36氪",
+"title": "OpenAI称需要扩大对齐失范事件的披露范围",
+"link": "https://36kr.com/newsflashes/3970189273248260?f=rss",
+"summary": "OpenAI：针对模型能力发展的新阶段，我们需要扩大对齐失范事件的披露范围。目前，我们以及更广泛的人工智能行业，尚未建立明确标准，用以报告在训练、评估以及部署阶段出现的对齐失范问题。其中既包含不属于传统安全事件，但有助于理解人工智能行为、预判未来风险的各类案例。我们正在搭建一套相关框架，将在未来数周对外公布；与此同时，我们正就上述问题与全球数十家政府监管机构开展协作。（新浪财经）",
+"published": 1788593122.0
+},
+{
+"source": "36氪",
+"title": "《西雅图时报》和《新闻日报》起诉OpenAI和微软，指控其侵犯版权",
+"link": "https://36kr.com/newsflashes/3970187296141832?f=rss",
+"summary": "当地时间9月4日，据报道，《西雅图时报》和《新闻日报》于周五向OpenAI和微软提起诉讼，指控这两家科技公司在未经许可的情况下，擅自复制两家报纸的新闻报道内容，用于训练其人工智能系统，该诉讼已提交至美国纽约南区联邦地区法院。这两家分别位于西雅图和纽约长岛的报纸表示，被告的人工智能产品能够复制其报道中的段落、对文章进行高度概括，并向用户提供答案，从而降低了用户访问其网站或购买订阅的必要性。报道称，《西雅图时报》和《新闻日报》正寻求法院发布命令，要求销毁其作品的副本，以及包含这些…",
+"published": 1788593001.0
+},
+{
+"source": "36氪",
+"title": "美监管机构调查特斯拉“赛博出租车”安全认证",
+"link": "https://36kr.com/newsflashes/3970186643632649?f=rss",
+"summary": "美国国家公路交通安全管理局4日宣布，对美国电动汽车制造商特斯拉公司的无人驾驶“赛博出租车”启动调查，审查其进行美国联邦机动车辆安全标准认证的过程是否合规。该机构说，此次调查于3日启动，重点审查特斯拉在对“赛博出租车”进行安全标准认证时所依据的程序和技术数据。（新华社）",
+"published": 1788592962.0
+},
+{
+"source": "36氪",
+"title": "绿联亮相2026 IFA：以AIoT与全屋互联探索智生活新体验",
+"link": "https://36kr.com/newsflashes/3970182272659714?f=rss",
+"summary": "36氪获悉，在2026年IFA国际消费电子展上，绿联首次双馆参展，围绕「Smarter Living Starts Here」主题，展出两大品类丰富产品矩阵，围绕 AI、智能家居、AIoT 全屋互联及充电液冷技术等内容，呈现在智能生活领域的产品与技术布局。",
+"published": 1788592695.0
+},
+{
+"source": "爱范儿",
+"title": "一台 3D 打印机，为什么藏着 GPT-6 最大的野心？｜硬哲学",
+"link": "https://www.ifanr.com/1678515?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "简化过程，直抵结果#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788592137.0
+},
+{
+"source": "36氪",
+"title": "多国推进黄金储备本土化布局",
+"link": "https://36kr.com/newsflashes/3970155003720197?f=rss",
+"summary": "全球多国都在加快调整黄金储备存放布局，降低对欧美单一托管体系的依赖。自2013年起，多国陆续启动海外黄金储备回迁。世界黄金协会2026年央行黄金储备调查显示，过去12个月里，19%的央行提高了国内黄金储备比例，或者把储备地点做了多元化配置，一年前这个比例只有7%，寄存于纽约、伦敦金库的央行数量持续减少。（CCTV国际时讯）",
+"published": 1788591030.0
+},
+{
+"source": "36氪",
+"title": "Kimi、MiniMax即将在天猫开店",
+"link": "https://36kr.com/newsflashes/3970153928651273?f=rss",
+"summary": "智谱电商平台首店落地天猫后，Kimi、MiniMax、阶跃星辰等多家大模型厂商也都在与天猫接洽中，未来将入驻天猫开设官方旗舰店，开售Token订阅套餐产品。（上证报）",
+"published": 1788590965.0
+},
+{
+"source": "36氪",
+"title": "中银基金迎来新任执行总裁，陈卫星正式上任",
+"link": "https://36kr.com/newsflashes/3970148268945922?f=rss",
+"summary": "9月5日，中银基金公告，陈卫星自9月4日起出任公司执行总裁，同时代任督察长。此前，陈卫星已代履执行总裁职责。履历显示，陈卫星历任中国银行总行金融市场总部（托管投资服务）助理总经理、中国银行深圳市分行党委委员、行长助理、副行长、中国银行总行养老金金融部副总经理。2022年加入中银基金，现任执行总裁、代履督察长。（证券时报）",
+"published": 1788590619.0
+},
+{
+"source": "36氪",
+"title": "启元机器人斩获IFA两项官方创新大奖",
+"link": "https://36kr.com/newsflashes/3970116611322118?f=rss",
+"summary": "36氪获悉，在2026德国柏林国际消费电子及家用电器展览会（IFA 2026）上，启元机器人斩获两项IFA官方奖项，IFA创新成果奖（IFA INNOVATION AWARDS）和IFA创新荣誉奖（IFA INNOVATION AWARDS）。",
+"published": 1788588687.0
+},
+{
+"source": "36氪",
+"title": "电影《坠落2：死点》总票房破1000万",
+"link": "https://36kr.com/newsflashes/3970088631300352?f=rss",
+"summary": "36氪获悉，据猫眼专业版数据，电影《坠落2：死点》上映2天，总票房破1000万。",
+"published": 1788586979.0
+},
+{
+"source": "36氪",
+"title": "深圳市房地产中介协会：8月深圳二手住宅录得5108套，同比增长7.6%",
+"link": "https://36kr.com/newsflashes/3970084666126595?f=rss",
+"summary": "据深圳市房地产中介协会统计数据，2026年8月二手房共计录得5535套，环比下跌3.3%，同比上涨5.1%；二手住宅共计录得5108套，环比下跌2.3%，同比上涨7.6%。8月份录得量虽较7月份继续小幅回落，但同比涨幅较上月进一步扩大，说明近期热度虽有所降温，但整体录得量仍明显高于去年同期水平，市场面依然稳固。（财联社）",
+"published": 1788586737.0
+},
+{
+"source": "爱范儿",
+"title": "苹果提前「揭晓」触屏 MacBook Pro，我终于能戳同事电脑了",
+"link": "https://www.ifanr.com/1678295?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "祖宗之法也得变#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788586655.0
+},
+{
+"source": "36氪",
+"title": "就业超预期引爆加息恐慌，比特币失守8万",
+"link": "https://36kr.com/newsflashes/3970076083761417?f=rss",
+"summary": "据Woofun AI消息，周五美国公布的就业数据大幅超越市场预期，直接触发市场对美联储维持紧缩政策的担忧，Bitcoin价格随即跌破80,000美元关口。宏观流动性收紧预期迅速传导至衍生品市场。9月加息25基点的概率由52%跃升至59%。Woofun AI整理数据显示，2年期美国财政部债券收益率飙升7.6个基点，10年期与30年期分别上行3.2个基点和1个基点；美元指数（DXY）上涨0.3%至99.3点。高收益率提升了美元资产吸引力，而强势美元则加剧了加密资产的融资成本，形成…",
+"published": 1788586214.0
+},
+{
+"source": "36氪",
+"title": "特斯拉股价重挫近6%，市值一夜蒸发近6000亿元",
+"link": "https://36kr.com/newsflashes/3970068877979907?f=rss",
+"summary": "截至9月4日（周五）美股收盘，特斯拉股价大幅收跌，报354.08美元/股，跌幅达5.92%，盘中最大跌幅超6%，收盘市值13985亿美元，较上一个交易日蒸发约880.5亿美元（约合人民币5909亿元）。消息面上，美东时间周四，Cybercab（赛博无人驾驶电动车）正式在美国奥斯汀投入运营，而在美国得克萨斯州奥斯汀举行的Cybercab活动上，由于披露的新信息有限，未能满足投资者预期。这场活动仅限受邀者参加，没有现场直播，首席执行官马斯克也未现身。此外，美国国家公路交通安全管理…",
+"published": 1788585774.0
+},
+{
+"source": "36氪",
+"title": "美加贸易争端致加拿大就业人数下滑",
+"link": "https://36kr.com/newsflashes/3970067794620680?f=rss",
+"summary": "加拿大统计局9月4日说，受美国与加拿大贸易争端影响，加拿大8月就业人数减少4.2万人，与4月至7月就业人数累计增加18.1万人的整体趋势形成显著反差。加拿大统计局分析认为，8月就业人数减少与美国市场密切相关。一方面，加拿大依赖对美出口的行业面临较大不确定性，过去12个月这些行业平均裁员率为0.9%，高于同期其他行业0.7%的平均水平。另一方面，美国近期挑起对加拿大的贸易争端，对进口自加拿大的特定商品加征关税，导致加拿大相关行业受冲击，波及就业岗位。（央视新闻）",
+"published": 1788585708.0
+},
+{
+"source": "36氪",
+"title": "中国汽车流通协会：8月份汽车消费指数为82.7",
+"link": "https://36kr.com/newsflashes/3970058515968520?f=rss",
+"summary": "中国汽车流通协会近日发布最新一期“汽车消费指数”：2026年8月汽车消费指数为82.7，较上月有所提升。预计9月汽车市场将开启传统“金九”旺季窗口，销量回升。（证券时报）",
+"published": 1788585141.0
+},
+{
+"source": "36氪",
+"title": "金价深陷拉锯战，市场分析：与美国债务风险升温等多重因素变化密切相关",
+"link": "https://36kr.com/newsflashes/3970055631270144?f=rss",
+"summary": "9月4日，美国纽约商品交易所黄金期货价格一度失守每盎司4400美元关口，随后小幅回弹。近期，国际金价的走势可谓跌宕起伏。市场分析认为，金价目前受到多重力量的拉扯。金价震荡的背后究竟在发生什么？市场分析指出，本轮金价的震荡，与美国债务风险升温、全球投资预期等多重因素变化密切相关。美国财政部发布数据显示，截至8月18日，美国联邦政府未偿还公共债务总额已突破40万亿美元。机构预测，2027年，美国债务或将逼近41.1万亿美元的法定债务上限，长期国债收益率存在继续上行压力。市场对美国…",
+"published": 1788584965.0
+},
+{
+"source": "36氪",
+"title": "阿布扎比G42考虑引入美国资本控股，保障AI芯片获取",
+"link": "https://36kr.com/newsflashes/3970040744227336?f=rss",
+"summary": "知情人士透露，总部位于阿布扎比的人工智能企业G42高管已开展初步磋商，探讨向美国企业出售多数股权，以求保障明年之后依旧可以获得高端芯片供应。这意味着该公司将迎来深度重组。G42由一位颇具影响力的王室成员监管，约8年前成立，承载阿布扎比首次大规模进军科技行业的目标。G42近期获得许可，可在无需美国出口许可的情况下采购尖端AI芯片，许可有效期至2027年4月前后；但想要继续拿到芯片，该公司必须调整自身公司架构。知情人士表示，高管正在研究多种方案，破解这一障碍。知情人士称，商讨中的…",
+"published": 1788584057.0
+},
+{
+"source": "36氪",
+"title": "小米发布结构化数据大模型Xiaomi-TabLDM",
+"link": "https://36kr.com/newsflashes/3970039177359622?f=rss",
+"summary": "9月5日，小米正式发布Xiaomi-TabLDM：通用表格数据基础大模型。Xiaomi-TabLDM以单一预训练模型、统一默认配置直接适配不同表格数据集，无需针对每个任务重新训练、调参或后置集成，即可完成分类与回归预测。（证券时报）",
+"published": 1788583961.0
+},
+{
+"source": "36氪",
+"title": "问界回应“预制车”传闻：纯属谣言，已报案",
+"link": "https://36kr.com/newsflashes/3970035643199753?f=rss",
+"summary": "针对近期网络上有关问界M6某车型为“预制车”、“穿越车”的传闻，问界汽车发文表示，通过对车辆识别代号核实查证，该车辆的实际制造年月为“2026-7”，相关自媒体账号所发布或转载的车辆铭牌信息系经过P图或AI修改生成的虚假信息，由此而产生的公司生产“预制车”“穿越车”的说法纯属谣言。该公司表示，网络不是法外之地，目前其已保留证据并向公安机关报案。（财联社）",
+"published": 1788583745.0
+},
+{
+"source": "36氪",
+"title": "杰富瑞管理的基金对Radiant World及另一实体敞口接近5亿美元",
+"link": "https://36kr.com/newsflashes/3970032513692162?f=rss",
+"summary": "由杰富瑞管理的基金曾向破产汽车零部件集团First Brands Group提供贷款，目前该基金对陷入困境的铁矿石贸易商Radiant World以及另一家实体的风险敞口接近5亿美元，使其成为第二起备受瞩目的涉嫌欺诈案件中的最大债权人之一。知情人士透露，杰富瑞资产管理部门上周从伦敦高等法院取得最高4.99亿美元的冻结令，冻结对象包括Radiant World、其创始人平凯什·纳哈尔、涉嫌关联企业Sapphire Minmetals及其董事长拉凯什·塞西。这意味着杰富瑞基金对R…",
+"published": 1788583554.0
+},
+{
+"source": "36氪",
+"title": "9点1氪丨大众汽车宣布全球裁员10万；月之暗面据悉计划今年在香港进行IPO；国家统计局：全国打工人周均工作48.2小时",
+"link": "https://36kr.com/p/3969804742111746?f=rss",
+"summary": "今日热点导览 苹果Face ID技术被控专利侵权 持股市值超100亿，腾讯成燧原科技IPO最大赢家 字节新一代豆包手机采用长鑫科技LPDDR5X内存 美国零售柴油价格创历史新高 消息人士：玛莎拉蒂正与华为、江淮汽车洽谈合作项目 TOP3大新闻 大众汽车全球裁员10万 北京时间9月4日，受大众集团宣布重组计划消息影响，大众汽车股价大涨近10%，截至发稿，涨幅回落至5%左右。消息面上，据《中国汽车报》报道，北京时间2026年9月4日，大众汽车集团监事会在德国沃尔夫斯堡召开专项会议…",
+"published": 1788569822.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文",
+"link": "https://www.ifanr.com/1677342?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 千问办公上线一个月，用户突破 3000 万 · 存储涨价推高手机成本，全球在售机型平均涨价约 15% · 大众汽车追加裁员计划，德国四座工厂将陆续停产#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788569057.0
+}
+],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "What to expect during DigiCert’s World Quantum Readiness Day event: Join theCUBE Sept. 17",
+"link": "https://siliconangle.com/2026/09/05/post-quantum-digicert-readiness-day-thecube-digicertworldquantumreadinessday/",
+"summary": "Most enterprises now have post-quantum cryptography initiatives underway. The problem is that very few have implemented quantum-safe protections across their infrastructure. This gap was highlighted recently in a survey released by digital …",
+"published": 1788643840.0
+},
+{
+"source": "SiliconANGLE",
+"title": "What to expect at Workiva’s Amplify event: Join theCUBE Sept. 15–16",
+"link": "https://siliconangle.com/2026/09/05/workiva-agentic-ai-governance-amplify/",
+"summary": "As companies entrust more responsibility to artificial intelligence, managing governance and regulatory reporting becomes even more essential. Workiva Inc.’s platform provides AI-powered collaboration tools for streamlining financial report…",
+"published": 1788640531.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Anthropic uses Claude to formalize proof of Fermat’s Last Theorem",
+"link": "https://siliconangle.com/2026/09/04/anthropic-uses-claude-to-formalize-proof-of-fermats-last-theorem/",
+"summary": "Anthropic PBC has used Claude to create a computer-verifiable version of a famous, highly complicated mathematical proof. The company detailed the project in a blog post published today. A proof is a series of arguments that proves a mathem…",
+"published": 1788568901.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Equinix turns the network into the control plane for enterprise AI inference",

@@ -1,6 +1,6 @@
 {
 "date": "2026-09-02",
-"total": 145,
+"total": 149,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,13 @@
 "link": "https://www.infoq.cn/article/kggVXP7XclvALPskmSdq?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1788392661.0
+},
+{
+"source": "HN AI 热门",
+"title": "Mamdani bans AI in NYC schools",
+"link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+"summary": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 219 # Comments: 180",
+"published": 1788382624.0
 },
 {
 "source": "The Decoder",
@@ -74,11 +81,25 @@
 "published": 1788358828.0
 },
 {
+"source": "HN AI 热门",
+"title": "WebLLM: high-performance in-browser LLM inference engine",
+"link": "https://github.com/mlc-ai/web-llm",
+"summary": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 145 # Comments: 25",
+"published": 1788357755.0
+},
+{
 "source": "MIT科技评论 AI",
 "title": "Facilitating AI integration with simplicity at scale",
 "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
 "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harde…",
 "published": 1788357600.0
+},
+{
+"source": "HN AI 热门",
+"title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+"link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+"summary": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 513 # Comments: 250",
+"published": 1788357599.0
 },
 {
 "source": "InfoQ 中国",
@@ -121,6 +142,13 @@
 "link": "https://www.infoq.cn/article/kJeDyClZsPiCEJFuGswL?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1788348120.0
+},
+{
+"source": "HN AI 热门",
+"title": "Quasar 438B: Europe's Leading AI Model",
+"link": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+"summary": "Article URL: https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model Comments URL: https://news.ycombinator.com/item?id=49534132 Points: 196 # Comments: 128",
+"published": 1788343361.0
 },
 {
 "source": "InfoQ 中国",

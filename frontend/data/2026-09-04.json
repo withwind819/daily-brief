@@ -1,6 +1,6 @@
 {
 "date": "2026-09-04",
-"total": 139,
+"total": 144,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,20 @@
 "link": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1788560311.0
+},
+{
+"source": "HN AI 热门",
+"title": "GPT-6 Astra on OpenRouter",
+"link": "https://openrouter.ai/openai/gpt-6-astra",
+"summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 299 # Comments: 221",
+"published": 1788557959.0
+},
+{
+"source": "HN AI 热门",
+"title": "Can AI design circuit boards yet?",
+"link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+"summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 374 # Comments: 206",
+"published": 1788551309.0
 },
 {
 "source": "MIT科技评论 AI",
@@ -30,6 +44,13 @@
 "link": "https://www.infoq.cn/article/hWQs9a123hhtDYtk0ADQ?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1788542580.0
+},
+{
+"source": "HN AI 热门",
+"title": "Corporate America is getting hooked on open-source AI",
+"link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+"summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 318 # Comments: 295",
+"published": 1788536025.0
 },
 {
 "source": "InfoQ 中国",
@@ -67,6 +88,13 @@
 "published": 1788526800.0
 },
 {
+"source": "HN AI 热门",
+"title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+"link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+"summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 393 # Comments: 74",
+"published": 1788523155.0
+},
+{
 "source": "InfoQ 中国",
 "title": "Astro 推出 Sätteri：Rust 驱动的 Markdown 与 MDX 处理器，构建速度最高提升 60%",
 "link": "https://www.infoq.cn/article/s1MDWGIV7yoxkCXmWJx8?utm_source=rss&utm_medium=article",
@@ -86,6 +114,13 @@
 "link": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/",
 "summary": "OpenAI's GPT-6 Astra is drawing contradictory benchmark verdicts. Epoch AI puts it out in front with 169 points, while Artificial Analysis rates it no better than its predecessor and behind Claude Fable 5.1. The biggest surprise comes from …",
 "published": 1788520056.0
+},
+{
+"source": "HN AI 热门",
+"title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+"link": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+"summary": "Article URL: https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/ Comments URL: https://news.ycombinator.com/item?id=49562744 Points: 94 # Comments: 2",
+"published": 1788517857.0
 },
 {
 "source": "InfoQ 中国",

@@ -1,8 +1,22 @@
 {
 "date": "2026-09-01",
-"total": 159,
+"total": 161,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "The efficient frontier of LLM inference",
+"link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+"summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 154 # Comments: 46",
+"published": 1788306485.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+"link": "https://masteranza.github.io/weedout/",
+"summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, re…",
+"published": 1788300417.0
+},
 {
 "source": "InfoQ 中国",
 "title": "云原生弹性的能力，迁移成为 Agent 时代的数据基座能力之一？",

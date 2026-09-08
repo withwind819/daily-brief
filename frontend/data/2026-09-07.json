@@ -1,8 +1,493 @@
 {
 "date": "2026-09-07",
-"total": 9,
+"total": 90,
 "categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+"link": "https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788809580.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon上海",
+"link": "https://www.infoq.cn/article/5Xy6jTfq7Si98XvXAJCp?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788809438.0
+},
+{
+"source": "InfoQ 中国",
+"title": "利用 Workload Identity Federation 清除 GCP 中长期有效的凭据",
+"link": "https://www.infoq.cn/article/bEwEWltvchcPZUACt36w?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788805440.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+"link": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/",
+"summary": "Anthropic signed compute contracts worth up to $517 billion in eleven months but still trails OpenAI's $750 billion plan through 2030. In early 2026, CEO Dario Amodei warned against investing too fast. Now Anthropic is racing to catch up, w…",
+"published": 1788804761.0
+},
+{
+"source": "The Decoder",
+"title": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours",
+"link": "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/",
+"summary": "GPT-6 Astra beat the puzzle game Portal entirely on its own in about 24 hours, with zero human help after the initial goal was set. Developer cozyblaze published the code and docs on GitHub. His takeaway: Astra is \"the worst model we'll eve…",
+"published": 1788802772.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据",
+"link": "https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788802440.0
+},
+{
+"source": "The Decoder",
+"title": "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades",
+"link": "https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/",
+"summary": "ChatGPT has pushed its share of AI chatbot website traffic back up to 55.5 percent, according to Similarweb. Year-over-year, though, its lead shrank sharply from 73.3 percent as Gemini doubled its share and Claude grew nearly fivefold. Mobi…",
+"published": 1788800052.0
+},
+{
+"source": "The Decoder",
+"title": "AI-designed drug appears to turn back the body's biological clock in early trial",
+"link": "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/",
+"summary": "A study in Nature Biotechnology suggests that rentosertib, a drug designed with AI by Insilico Medicine, may reverse markers of biological aging. Six independent aging clocks predicted that treated patients were biologically up to six years…",
+"published": 1788798860.0
+},
+{
+"source": "InfoQ 中国",
+"title": "AWS 开源 Kiro Crew，让 Coding Agent 异步跑起来",
+"link": "https://www.infoq.cn/article/uTRvjxweSGdp2kzlhPiV?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788798724.0
+},
+{
+"source": "InfoQ 中国",
+"title": "TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统",
+"link": "https://www.infoq.cn/article/atCusTaSOmddUx1vvJba?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788797926.0
+},
+{
+"source": "InfoQ 中国",
+"title": "“薄 Agent Loop，厚 Control Plane”：TiDB 用数据库思维重做 Harness",
+"link": "https://www.infoq.cn/article/38uc758e24YV4LUpAs77?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788797435.0
+},
+{
+"source": "InfoQ 中国",
+"title": "9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约",
+"link": "https://www.infoq.cn/article/D5heSof43WbGMHrCCIsy?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788796100.0
+},
+{
+"source": "InfoQ 中国",
+"title": "成立 12 年，快看漫画重做 AI 时代的内容产品",
+"link": "https://www.infoq.cn/article/kAHvBCLrI3sdMyONOveM?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788793725.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Hugging Face太重要，绝不能落入英伟达手中？黄仁勋：我本想让它独立，但有其他竞购者",
+"link": "https://www.infoq.cn/article/5dtlrdsBbSIZfWUUF6JD?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788790070.0
+},
+{
+"source": "InfoQ 中国",
+"title": "阿里前销售总监在美失踪逾半月后确认身亡；5天10万元！外国高管涌入中国“工厂游”；传DeepSeek计划采购16万颗昇腾芯片｜AI周报",
+"link": "https://www.infoq.cn/article/boiE7qfjxSQjHKUtevvp?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788789935.0
+},
+{
+"source": "The Decoder",
+"title": "How AI wiped out an entire industry in Nairobi",
+"link": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
+"summary": "In Kenya, ChatGPT wiped out an entire business model: writing academic papers for foreign students. The article How AI wiped out an entire industry in Nairobi appeared first on The Decoder.",
+"published": 1788787137.0
+},
+{
+"source": "The Decoder",
+"title": "At UBS, AI skills are now a condition for landing a job",
+"link": "https://the-decoder.com/at-ubs-ai-skills-are-now-a-condition-for-landing-a-job/",
+"summary": "Swiss banking giant UBS is making AI skills a required qualification from 2027 for graduates and interns in Global Banking and Markets, with applicants having to show in interviews how they use AI to improve outcomes and efficiency. Santand…",
+"published": 1788786818.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
+"link": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time/",
+"summary": "OpenAI reports that AI agents in its own research already handle 3.1 workdays for every human workday, and it says it has reached its goal of an \"automated research intern.\" But chief scientist Pachocki warns that no lab has a good enough g…",
+"published": 1788786322.0
+},
+{
+"source": "The Decoder",
+"title": "New York City bans AI tools from public schools through eighth grade",
+"link": "https://the-decoder.com/new-york-city-bans-ai-tools-from-public-schools-through-eighth-grade/",
+"summary": "New York City bans AI use in public schools through the end of middle school. The article New York City bans AI tools from public schools through eighth grade appeared first on The Decoder.",
+"published": 1788786003.0
+},
+{
+"source": "InfoQ 中国",
+"title": "微软将人工智能治理从政策层面转向运行时执行",
+"link": "https://www.infoq.cn/article/STpCLL13xCQsoYrfWSLb?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788784544.0
+},
+{
+"source": "The Decoder",
+"title": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
+"link": "https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/",
+"summary": "Alibaba's research arm has released Qwen-Drive 1.0, an AI model that handles environmental perception, traffic Q&A, and route planning in one system. The researchers show that text-image models don't automatically understand three-dimension…",
+"published": 1788783354.0
+},
+{
+"source": "InfoQ 中国",
+"title": "传统企业 AI 转型的最短路径，藏在研发部门",
+"link": "https://www.infoq.cn/article/jrEuCFhtpA9LmGX60R1H?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1788782644.0
+},
+{
+"source": "量子位",
+"title": "3秒变身！会合体的机器人，卖到全球50国",
+"link": "https://www.qbitai.com/2026/09/485525.html",
+"summary": "谁说现在机器人都长得差不多的！",
+"published": 1788773646.0
+},
+{
+"source": "量子位",
+"title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+"link": "https://www.qbitai.com/2026/09/485431.html",
+"summary": "OpenAI研究院人均带3个AI实习生",
+"published": 1788771846.0
+},
+{
+"source": "量子位",
+"title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
+"link": "https://www.qbitai.com/2026/09/485154.html",
+"summary": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
+"published": 1788771090.0
+},
+{
+"source": "量子位",
+"title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+"link": "https://www.qbitai.com/2026/09/485108.html",
+"summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+"published": 1788770190.0
+},
+{
+"source": "量子位",
+"title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+"link": "https://www.qbitai.com/2026/09/485064.html",
+"summary": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。",
+"published": 1788764006.0
+},
+{
+"source": "量子位",
+"title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+"link": "https://www.qbitai.com/2026/09/485056.html",
+"summary": "",
+"published": 1788761014.0
+},
+{
+"source": "量子位",
+"title": "业内首个！“千问办公”推出“多人工作台”",
+"link": "https://www.qbitai.com/2026/09/485046.html",
+"summary": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
+"published": 1788757484.0
+},
+{
+"source": "量子位",
+"title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
+"link": "https://www.qbitai.com/2026/09/485039.html",
+"summary": "",
+"published": 1788753669.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Supporting independent journalism in Ukraine",
+"link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+"summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+"published": 1788739200.0
+}
+],
 "科技": [
+{
+"source": "The Verge",
+"title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+"link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+"summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range…",
+"published": 1788811421.0
+},
+{
+"source": "TechCrunch",
+"title": "Opaque recurrence, and other AI terms that you should probably know",
+"link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+"summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+"published": 1788809040.0
+},
+{
+"source": "TechCrunch",
+"title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+"link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+"summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+"published": 1788804149.0
+},
+{
+"source": "The Verge",
+"title": "Six years later, Sony revisits its legendary XM4 headphones",
+"link": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+"summary": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones …",
+"published": 1788796800.0
+},
+{
+"source": "TechCrunch",
+"title": "What we expect from the upcoming Apple launch",
+"link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+"summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+"published": 1788796680.0
+},
+{
+"source": "The Verge",
+"title": "EcoFlow makes the miniature power station even smaller",
+"link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
+"summary": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in …",
+"published": 1788793181.0
+},
+{
+"source": "Solidot",
+"title": "Isar Aerospace 成为成功将火箭送入轨道的首个欧洲公司",
+"link": "https://www.solidot.org/story?sid=85313",
+"summary": "由德国 Isar Aerospace 公司制造的 Spectrum 运载火箭 9 月 6 日从位于挪威北极圈内的 Andoya 航天发射场发射升空。该公司表示，“我们已进入轨道！并创造了欧洲航天史上的里程碑：这是欧洲大陆首次有私营企业研发的火箭成功进入轨道。”Spectrum 火箭专为运载中小型有效载荷而设计。此次发射任务搭载了五颗小型卫星以及一项飞行技术实验。这是这家德国公司第二次尝试将 Spectrum 火箭发射升空。首次尝试发生在 18 个月前，但未能成功。Spectr…",
+"published": 1788791024.0
+},
+{
+"source": "Solidot",
+"title": "泰国暂停所有数据中心项目建设",
+"link": "https://www.solidot.org/story?sid=85312",
+"summary": "泰国经济和社会发展委员会上周下令暂停所有数据中心项目的建设，给予数据中心运营商和投资者一周时间提交运营信息，以帮助政府加快制定统一的数据中心监管框架。经济和社会发展委员会考虑将所有用电量超过 2 MW 的数据中心视为工业企业，考虑引入“资源利用费”，以避免数据中心建设产生的间接成本增加公众负担，并建立一套针对未来数据中心建设的评估流程，以确保新建数据中心为泰国创造最大效益。",
+"published": 1788790635.0
+},
+{
+"source": "Solidot",
+"title": "LG 智能电视会在待机状态下扫描家庭网络和记录麦克风音频",
+"link": "https://www.solidot.org/story?sid=85311",
+"summary": "根据 YouTube 主播 Gamers Nexus、Level1Techs 以及独立安全研究员合作展开的调查，测试了包括 G5 在内的零售 LG OLED 电视机，发现 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到 LG 的定向广告部门 LG Ad Solutions。LG 称其智能电视的全球销量约为 2.1…",
+"published": 1788789867.0
+},
+{
+"source": "36氪",
+"title": "速卖通登上IFA展台：AI硬件品类出海翻倍，Brand+在欧11国品牌销售渗透率超50%｜最前线",
+"link": "https://36kr.com/p/3973327354573057?f=rss",
+"summary": "作者｜黄楠 编辑｜袁斯来 IFA 2026展会现场，\"出海四小龙\"之一的速卖通首次出现在这个全球顶级消费电子展。展台上，9家中国品牌的产品罗列排开，品类从AI智能眼镜、仿生扑翼飞行器、3D打印机到电动自行车，覆盖了近年最热门的几个赛道。 这个场面放在几年前很难想象。一个跨境电商平台不谈卖货、不推爆款，转而对外展示第三方品牌出海，映射出跨境行业正在发生的叙事转变。 欧盟税改落地之后，跨境行业迎来一轮剧烈的行业洗牌。关税成本上升，直接冲击依靠低价走量的经营模式。 这一背景下，速卖…",
+"published": 1788784805.0
+},
+{
+"source": "The Verge",
+"title": "The real reason your phone is getting more expensive",
+"link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+"summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have beco…",
+"published": 1788782400.0
+},
+{
+"source": "36氪",
+"title": "36Kr项目推荐周榜｜AI浪潮下，5个正在崛起的新机会",
+"link": "https://36kr.com/p/3973218946691590?f=rss",
+"summary": "项目推荐 【36氪项目推荐】将智能工具融入传统报道流程，提升项目报道与内容生产效率，降低企业对外传播的门槛。同时，围绕项目展示、品牌曝光与资源连接，持续探索更适合早期创业项目的传播方式。 希望为创业者提供更便捷的一站式项目展示窗口。让值得关注的项目更快被看见，也让创新与机会更高效地连接。 项目推荐 本周周榜 周榜单 01 GoodVision AI GoodVision AI 聚焦 AI 算力基础设施领域，打造面向未来 AI 应用的全域动态调度 AI Compute Grid…",
+"published": 1788780160.0
+},
+{
+"source": "Solidot",
+"title": "中国游戏市场规模在 2025 年首次突破 500 亿美元",
+"link": "https://www.solidot.org/story?sid=85310",
+"summary": "根据 Niko Partners 的报告，中国游戏市场规模在 2025 年首次突破 500 亿美元达到 518 亿美元，2026 年预计将增长 4% 达到 539 亿美元，2030 年将达到 598 亿美元，到 2030 年中国游戏玩家将达到 7.69 亿，周平均游戏时长将从 2025 年的 14.1 小时增至 15.8 小时。迷你游戏（Mini-games）是一个主要增长领域，八成中国玩家玩过迷你游戏，其消费额占到了手游总消费额的二成。近半玩家通过短视频发现游戏新作和相关信…",
+"published": 1788779476.0
+},
+{
+"source": "The Verge",
+"title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+"link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+"summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole …",
+"published": 1788778800.0
+},
+{
+"source": "Solidot",
+"title": "Liquid Network 价值 3.2 亿美元的比特币被盗",
+"link": "https://www.solidot.org/story?sid=85309",
+"summary": "比特币支付结算网络 Liquid Network 周日披露，自称白帽黑客的攻击者从其联盟钱包内转走了价值 3.2 亿美元的 4000 比特币。该联盟钱包共有 4200 比特币。攻击者被认为利用了一个上周修复的漏洞。Liquid Network 开发商 Blockstream 尝试通过链上签名消息与其对话，黑客表示在确保所有节点都打好补丁后会将比特币转回去。目前这些比特币仍然牢牢掌控在黑客手中。",
+"published": 1788778285.0
+},
+{
+"source": "爱范儿",
+"title": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+"link": "https://www.ifanr.com/1678938?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "AMD 想用电脑把昂贵的 AI Token 账单降下来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788777638.0
+},
+{
+"source": "爱范儿",
+"title": "华为鸿蒙 7 发布会最全汇总：三折叠、阔直板全来了，信息密度大到让人眼花",
+"link": "https://www.ifanr.com/1678896?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "Super fast, Super intelligent#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788777546.0
+},
+{
+"source": "爱范儿",
+"title": "把千亿模型装进笔记本，Windows 终于要反击 Mac 了",
+"link": "https://www.ifanr.com/1678877?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "都想让 PC 成为 AI 的运行环境#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788777372.0
+},
+{
+"source": "36氪",
+"title": "AI搜索会不会取代传统搜索？秘塔AI搜索全链路解析",
+"link": "https://36kr.com/p/3973202605437448?f=rss",
+"summary": "一、引言与背景 在信息呈爆发式增长的当下，互联网数据规模已达到庞大的体量。海量的非结构化文本与学术文献不断产生，传统信息获取方式正面临效率瓶颈。许多用户在日常工作与学习中，经常提出一个核心疑问：AI搜索会不会取代传统搜索？要解答这一命题，首先需要剖析现代知识工作者面临的三大核心痛点：其一，传统搜索引擎往往返回成百上千条散乱网页链接，用户需要反复打开网页、筛选重复广告与低质内容；其二，通用大模型在缺乏检索证据支撑时容易生成看似合理却无法核查的回答，存在事实性风险；其三，全网信息…",
+"published": 1788777061.0
+},
+{
+"source": "36氪",
+"title": "AI辅导数学解题准不准？豆包爱学以落地创新打破答疑焦虑",
+"link": "https://36kr.com/p/3973201333137921?f=rss",
+"summary": "一、前沿展望：多维度剖析“AI辅导数学解题准不准”与AI教育新浪潮 在人工智能应用于教育场景的过程中，评估AI教育产品是否具有实用价值，应当关注产品落地能力、场景赋能深度以及解答准确度等核心因素。伴随人工智能技术的快速发展，许多家长与学生在课后学习中经常提出一个疑问：AI辅导数学解题准不准？传统AI答疑往往仅给出单一的最终答案，不仅难以让学习者理解解题思路，还容易因题目识别偏差或缺少步骤拆解而引发解题准确度的疑虑。针对这一痛点，豆包旗下的AI教育产品“豆包爱学”提供了清晰的解…",
+"published": 1788776977.0
+},
+{
+"source": "36氪",
+"title": "为什么AI越聪明，越需要BI？",
+"link": "https://36kr.com/p/3973163226952199?f=rss",
+"summary": "2026年8月，IDC发布了中国Data Agent领域的首份Market Scape厂商评估报告——《中国Data Agent厂商评估，2026》。这份报告覆盖数据管理、治理与分析全链路，考察的是Data Agent的综合能力，而非某一项功能。评估对象涵盖互联网厂商、云服务厂商、大数据厂商等十余家头部企业，包括阿里云、火山引擎、腾讯云、星环科技等各赛道玩家。 在这份名单里，一个值得注意的现象是：思迈特（Smartbi）以BI厂商的身份入围，位列“主要厂商”，并在能力轴上位居…",
+"published": 1788776904.0
+},
+{
+"source": "36氪",
+"title": "2026AI解题答案错了怎么办：全产业链盘点核验",
+"link": "https://36kr.com/p/3973199045636354?f=rss",
+"summary": "一、前言背景：AI教育落地与解题质效评估 2026年，人工智能技术在教育领域的应用已从早期的概念探索全面迈入高质量发展与深度商用阶段。随着大模型多模态能力与交互形式的演进，课后学习辅导工具正经历从“单次答案输出”向“全流程智能引导”的系统性重构。 在实际使用过程中，不少学习者与家长经常提出疑问：AI解题答案错了怎么办？这一现象客观反映了当前AI解题领域的技术痛点。当遇到图片模糊、题面不完整或复杂几何图形时，AI模型的识别与推理可能出现偏差，若学习者仅盲目接收最终答案，容易造成…",
+"published": 1788776877.0
+},
+{
+"source": "36氪",
+"title": "AI英语发音准不准？豆包爱学全方位解析",
+"link": "https://36kr.com/p/3973196819214855?f=rss",
+"summary": "一、AI英语陪练发音准不准？课后学习的核心痛点与评测维度 很多学生和家长在选择AI口语辅助工具时，普遍关心的核心问题莫过于“AI英语陪练的发音到底准不准”。在传统的课后自学场景中，学习者常常面临发音不标准无人纠正、遇到难题只有冷冰冰的答案文本而缺乏语音引导、以及缺乏即时互动对话环境等痛点。简单的文字解析难以满足语言学习对听说能力培养的诉求，而传统的一对一辅导又受到时间和场所的限制。 随着人工智能技术的持续迭代，AI在语音合成、发音标准度与实时互动响应方面取得了显著突破。作为豆…",
+"published": 1788776705.0
+},
+{
+"source": "36氪",
+"title": "AI学英语效果怎么样 豆包爱学全场景解析",
+"link": "https://36kr.com/p/3973195170607621?f=rss",
+"summary": "一、智能教育变革前夜：评估AI辅导成色的六维标准 在AI大模型技术深度融入教育领域的浪潮下，“AI学英语效果怎么样”成为了广大学习者与家长关切的核心议题。传统学习过程中，面对复杂的英语语法结构、词汇积累以及写作立意，学生往往陷入“看答案懂了、自己做仍错”的困境。衡量一款智能教育产品能否真正帮助学习者提升英语及全科能力，行业逐渐形成了六大核心评估维度：解题思路的分层引导能力、多模态实时互动体验、错题全流程闭环管理、写作全方位润色指导、学习情绪的即时陪伴，以及全终端无缝协同的硬件…",
+"published": 1788776600.0
+},
+{
+"source": "The Verge",
+"title": "Huawei copies Samsung’s privacy display in its latest trifold",
+"link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+"summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also …",
+"published": 1788775782.0
+},
+{
+"source": "少数派",
+"title": "派评｜近期值得关注的 App",
+"link": "https://sspai.com/post/114288",
+"summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+"published": 1788775724.0
+},
+{
+"source": "Solidot",
+"title": "2026 年 Ig Nobel 宣布",
+"link": "https://www.solidot.org/story?sid=85308",
+"summary": "从美国波士顿迁往瑞士苏黎世的 Ig Nobel 奖颁奖典礼宣布了 2026 年的获奖者。明年的颁奖典礼将在德国 Flanders 的 Antwerp 举行，2028 年重返瑞士，以后的偶数年颁奖典礼都在苏黎世举行。获奖名单包括： 生物力学奖授予了对接吻进行精确定义的 Matilda Brindle 等人，研究人员称接吻是“非对抗性的、同种个体间的口口接触行为，伴随嘴唇或口器的轻微运动，但不涉及食物传递”，适用于蚂蚁、鸟类、北极熊和人类。 经济学奖授予了 Paul Piff 等…",
+"published": 1788774883.0
+},
+{
+"source": "爱范儿",
+"title": "华为Mate XT2 首发上手：三折叠展开翅膀，从奇观走进日常",
+"link": "https://www.ifanr.com/1678708?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "脱离概念机的襁褓，与所有折叠屏全面竞争#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788772439.0
+},
+{
+"source": "Solidot",
+"title": "中国白色家电欧洲市场份额达到两成",
+"link": "https://www.solidot.org/story?sid=85307",
+"summary": "欧睿国际的数据显示，海尔与海信在欧洲的洗衣机市场份额 2016 年合计为 2.9%，但到 2025 年上升至 20.5%。冰箱份额也从 5.6% 提升至1 8.7%。中国企业的优势已不再局限于低价。面对不仅在研发和制造方面、还寻求包括销售在内掌控商品流动的中国动向，欧洲监管部门正加强警惕。欧盟执行机构欧盟委员会于 2026 年 5 月宣布，将调查京东是否获得了中国政府的补贴和优惠政策，从而妨碍欧盟境内的公平竞争。中国政府表示，欧盟的调查已延伸至中国境内，构成“不当域外管辖措施…",
+"published": 1788771162.0
+},
+{
+"source": "Solidot",
+"title": "Autistici/Inventati 在被美国列为恐怖分子组织后宣布关闭",
+"link": "https://www.solidot.org/story?sid=85306",
+"summary": "上月底，美国国务院和财政部将提供加密聊天和电子邮件、网站托管、安全视频会议和流媒体等服务的意大利组织 Autistici/Inventati 列入特别指定全球恐怖分子名单，这意味着美国公民与该组织进行的任何交易都是违法的。Autistici/Inventati 上周日宣布了关闭。该组织称“坚守人性并非空谈”，在被美国列入恐怖分子组织之后它需要考虑到用户以及项目成员所面临的风险，它别无选择只能选择关闭，“我们不推崇英雄主义的壮举或殉道精神，不会要求任何人做出牺牲——无论是我们自…",
+"published": 1788770524.0
+},
+{
+"source": "爱范儿",
+"title": "GPT-6 发布后，OpenAI 又自曝「外星思维」，AGI 真的来了？",
+"link": "https://www.ifanr.com/1678637?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "未来刚才来，它从何而来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788767688.0
+},
+{
+"source": "Solidot",
+"title": "Nitter 和 XCancel 恢复服务",
+"link": "https://www.solidot.org/story?sid=85305",
+"summary": "两周前，Nitter 开源项目及基于 Nitter 的实例如 XCancel 收到了 X 的律师函，要求立即停止服务。Nitter 和 XCancel 等遵守了这一要求。但在听取法律建议之后，Nitter 和 XCancel 恢复了服务，Nitter 项目表示将会在稍后公布更多信息。Nitter 是 X/Twitter 的第三方开源前端，没有 JS 也没有广告，X 也无法跟踪用户的 IP 地址或 JS 指纹。",
+"published": 1788766567.0
+},
+{
+"source": "少数派",
+"title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
+"link": "https://sspai.com/post/113877",
+"summary": "一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？查看全文",
+"published": 1788764400.0
+},
+{
+"source": "Solidot",
+"title": "瑞士政府试点用开源软件取代 Microsoft 365",
+"link": "https://www.solidot.org/story?sid=85304",
+"summary": "瑞士联邦政府启动了一项试点项目，将 3000 名联邦雇员工作站上的 Microsoft 365 用开源办公软件替代，该项目计划在 2027 年底完成迁移。瑞士政府此前完成了名为 PoC BOSS 的可行性概念验证，有 172 名联邦雇员参与测试了德国开源协作平台 openDesk 套件，结果显示文档处理和电子邮件等核心办公任务表现良好，但大规模视频会议还存在技术局限性。如果最新的试点成功，那么瑞士政府所有 54,000 个工作站可能都将进行迁移。军方的网络安全部门则不继续进行…",
+"published": 1788763824.0
+},
+{
+"source": "Solidot",
+"title": "Chrome 的网站数据设置再次豁免了 Google 网站",
+"link": "https://www.solidot.org/story?sid=85303",
+"summary": "2020 年一位扩展开发者注意到，在 Chrome 的“Cookie 和网站数据”设置中，用户可以启用“关闭 Chrome 时删除 Cookie 与网站数据”。但在启用该选项之后，Google 旗下网站如搜索和 YouTube 的数据在关闭之后并没有删除。他对其进行了一番测试，在没有登陆 Chrome 或任何 Google 服务的情况下 YouTube 等 Google 服务的数据在浏览器关闭之后仍然保留了，也就是说 Google 旗下网站默认豁免于用户设置。Google 此…",
+"published": 1788761497.0
+},
+{
+"source": "爱范儿",
+"title": "在零跑的工厂里，我们找到了它能月销 10 万辆的秘密",
+"link": "https://www.ifanr.com/1678617?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "汽车是一个轻不下来的行业。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1788760905.0
+},
+{
+"source": "Solidot",
+"title": "内存短缺将继续推动消费电子产品价格上涨",
+"link": "https://www.solidot.org/story?sid=85302",
+"summary": "在可预见的未来，消费者应预期日常电子产品价格将会上涨，因 AI 热正在逆转电子产品价格越来越低、性能越来越强的趋势。数十年来，消费者一直能以更低的价格享用性能日益提升的电子设备。AI 热推高了存储芯片及其他零部件的成本，从而逆转了上述趋势。Counterpoint 研究总监 MS Hwang 表示，几乎所有消费电子产品类别都受到短缺影响。IDC 称，制造商和零售商正将价格提高最多 20%。Counterpoint 的数据显示，过去一年 DRAM 价格上涨了五倍，合约价格每季度…",
+"published": 1788760513.0
+},
+{
+"source": "少数派",
+"title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
+"link": "https://sspai.com/post/114103",
+"summary": "在金属机身成为 Mac 产品线标配的今天，让我们重温这台 2001 年的 iBook G3，找回属于聚碳酸酯时代的风格。查看全文",
+"published": 1788750602.0
+},
 {
 "source": "36氪",
 "title": "中信证券：房地产行业会走一条去制造业的发展道路",
@@ -16,6 +501,13 @@
 "link": "https://36kr.com/newsflashes/3972598262329602?f=rss",
 "summary": "上市公司半年报披露完毕，百亿私募的重仓图谱得以清晰展现。私募排排网数据显示，共55家百亿私募出现在264家上市公司前十大流通股东名单中，合计持股市值达913.51亿元。行业配置上，食品饮料持股市值居首，电子、计算机分列二三位，呈“守红利、攻科技”的哑铃型配置格局。展望后市，多家私募机构认为，半年报披露后市场正从“情绪驱动”转向“业绩验证”，下半年投资重心应聚焦业绩确定性与产业趋势清晰的细分方向。（经济参考报）",
 "published": 1788740628.0
+},
+{
+"source": "少数派",
+"title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+"link": "https://sspai.com/post/114250",
+"summary": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文",
+"published": 1788740441.0
 },
 {
 "source": "36氪",
@@ -65,6 +557,85 @@
 "link": "https://36kr.com/p/3972584225747209?f=rss",
 "summary": "今日热点导览 Kimi、MiniMax即将在天猫开店 lululemon股价“腰斩”，超23亿美元市值蒸发 紫金矿业就财报文字错误致歉 泡泡玛特王宁到访LVMH集团总部，集团掌门人率家族成员接待 “国家反诈AI”APP上线 特斯拉Robotaxi下月或实现全天候运营 TOP 3 大新闻 市值大幅缩水，耐克将被移出标普100指数 近日标普道琼斯指数公司将耐克（NKE.N）剔出标普100指数。本次调整将于9月21日美股开盘前正式生效，这也是耐克历史上第一次离开该大盘旗舰指数名单。…",
 "published": 1788739310.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Hackers steal $320M in bitcoin from Liquid Network, return most of it after patch",
+"link": "https://siliconangle.com/2026/09/07/hackers-steal-320m-in-bitcoin-from-liquid-network-return-most-of-it-after-patch/",
+"summary": "Hackers stole about $320 million worth of bitcoin over the weekend from a blockchain platform called the Liquid Network. In a somewhat unusual development, the attackers returned most of the haul earlier today. They retained 598 of the 4,00…",
+"published": 1788820606.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Hyperspectral satellite startup Pixxel nabs $100M investment",
+"link": "https://siliconangle.com/2026/09/07/hyperspectral-satellite-startup-pixxel-nabs-100m-investment/",
+"summary": "Pixxel Space Technologies Inc., an India-based developer of Earth observation satellites, has raised $100 million in funding. Singapore’s Temasek wealth fund and space technology investor Seraphim led the Series C round. Pixxel stated in it…",
+"published": 1788812601.0
+},
+{
+"source": "EU-Startups",
+"title": "Robbie Williams-backed Tickets for Good raises €4.5 million for international expansion",
+"link": "https://www.eu-startups.com/2026/09/robbie-williams-backed-tickets-for-good-raises-e4-5-million-for-international-expansion/",
+"summary": "Tickets for Good, a UK startup that provides key workers with low-cost tickets for live events, has raised a further €4.5 million (£3.9 million) to accelerate its international expansion and create 10 new jobs in Sheffield in the next three…",
+"published": 1788790288.0
+},
+{
+"source": "EU-Startups",
+"title": "CEE’s biggest checks: 10 standout startup raises of 2026",
+"link": "https://www.eu-startups.com/2026/09/cees-biggest-checks-10-standout-startup-raises-of-2026/",
+"summary": "Europe’s startup ecosystem continues to produce ambitious companies tackling some of the biggest challenges across defence, artificial intelligence, robotics, biotechnology, and digital infrastructure. As preparations are well under way and…",
+"published": 1788786449.0
+},
+{
+"source": "EU-Startups",
+"title": "Molten Ventures raises €203 million to back UK and European growth-stage tech companies",
+"link": "https://www.eu-startups.com/2026/09/molten-ventures-raises-e203-million-to-back-uk-and-european-growth-stage-tech-companies/",
+"summary": "Molten Ventures, a British VC firm with a 20-year track record, today announces the first close of its Growth Fund at €203 million (£175 million) to invest across key technology sectors including Space, AI, FinTech, Quantum, DeepTech and Ha…",
+"published": 1788783040.0
+},
+{
+"source": "EU-Startups",
+"title": "Stockholm-based Fluencify raises €3.7 million to scale its end-to-end creator marketing platform",
+"link": "https://www.eu-startups.com/2026/09/stockholm-based-fluencify-raises-e3-7-million-to-scale-its-end-to-end-creator-marketing-platform/",
+"summary": "Fluencify, a Stockholm-based end-to-end creator marketing platform, has raised an oversubscribed €3.7 million ($4.3 million) pre-Seed funding round. The oversubscribed round was led by byFounders, with participation from Wave Ventures. The …",
+"published": 1788781839.0
+},
+{
+"source": "EU-Startups",
+"title": "Kilian Kaminski, refurbed co-founder, joins the EU-Startups Summit 2027",
+"link": "https://www.eu-startups.com/2026/09/kilian-kaminski-refurbed-co-founder-joins-the-eu-startups-summit-2027/",
+"summary": "We are excited to announce that Kilian Kaminski, co-founder of refurbed, will take the main stage at the EU-Startups Summit 2027, taking place on May 13-14 in sunny Malta! Kilian will deliver a keynote titled Fixing the future: How sustaina…",
+"published": 1788778802.0
+},
+{
+"source": "EU-Startups",
+"title": "Why legal expertise is the next innovation ceiling",
+"link": "https://www.eu-startups.com/2026/09/why-legal-expertise-is-the-next-innovation-ceiling/",
+"summary": "Only 29% of European startups have filed for an IP right. This is according to a joint 2023 study by the European Union Intellectual Property Office (EUIPO) and the European Patent Office (EPO). It’s easy to see why: accessing legal experti…",
+"published": 1788773237.0
+},
+{
+"source": "EU-Startups",
+"title": "Swiss startup Jaipur Robotics raises €4.3 million to expand its AI operating system across more waste-to-energy plants",
+"link": "https://www.eu-startups.com/2026/09/swiss-startup-jaipur-robotics-raises-e4-3-million-to-expand-its-ai-operating-system-across-more-waste-to-energy-and-industrial-plants/",
+"summary": "Jaipur Robotics, the Swiss AI company transforming waste plant operations with computer vision and automation, today announced a €4.3 million Seed funding round to pursue market leadership, expand into new regions, and further verticalise a…",
+"published": 1788770851.0
+},
+{
+"source": "EU-Startups",
+"title": "Milan-based Cato raises €6 million to help companies find and win public tenders with AI",
+"link": "https://www.eu-startups.com/2026/09/milan-based-cato-raises-e6-million-to-help-companies-find-and-win-public-tenders-with-ai/",
+"summary": "Cato, a Milan-based AI platform that helps companies find, analyse and win public tenders, has raised a €6 million Seed round led by Keen Venture Partners. The round, led by the Amsterdam- and London-based early-stage venture firm, also saw…",
+"published": 1788764451.0
+},
+{
+"source": "EU-Startups",
+"title": "London’s Claret Capital Partners closes Fund IV at €575 million to back European tech, life sciences and impact companies",
+"link": "https://www.eu-startups.com/2026/09/londons-claret-capital-partners-closes-fund-iv-at-e575-million-to-back-european-tech-life-sciences-and-impact-companies/",
+"summary": "Claret Capital Partners, a London-based independent growth debt fund manager, today announced the final close of its Claret European Growth Capital Fund IV (Fund IV), which has now raised €575 million in total, surpassing Claret’s original …",
+"published": 1788758948.0
 }
 ]
 }

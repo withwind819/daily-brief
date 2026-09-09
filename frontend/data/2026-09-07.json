@@ -1,6 +1,6 @@
 {
 "date": "2026-09-07",
-"total": 90,
+"total": 94,
 "categories": {
 "AI": [
 {
@@ -16,6 +16,13 @@
 "link": "https://www.infoq.cn/article/5Xy6jTfq7Si98XvXAJCp?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1788809438.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+"link": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+"summary": "Article URL: https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses Comments URL: https://news.ycombinator.com/item?id=49601338 Points: 100 # Comments: 118",
+"published": 1788805472.0
 },
 {
 "source": "InfoQ 中国",
@@ -158,6 +165,13 @@
 "published": 1788782644.0
 },
 {
+"source": "HN AI 热门",
+"title": "Initial effects of AI technology on employment look positive",
+"link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+"summary": "https://archive.md/5hi5i Comments URL: https://news.ycombinator.com/item?id=49596610 Points: 93 # Comments: 151",
+"published": 1788777512.0
+},
+{
 "source": "量子位",
 "title": "3秒变身！会合体的机器人，卖到全球50国",
 "link": "https://www.qbitai.com/2026/09/485525.html",
@@ -205,6 +219,20 @@
 "link": "https://www.qbitai.com/2026/09/485046.html",
 "summary": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
 "published": 1788757484.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+"link": "https://github.com/timgordontg/engrim",
+"summary": "Article URL: https://github.com/timgordontg/engrim Comments URL: https://news.ycombinator.com/item?id=49594008 Points: 90 # Comments: 53",
+"published": 1788756576.0
+},
+{
+"source": "HN AI 热门",
+"title": "I refused to train the AI that could replace me",
+"link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+"summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/ Comments URL: https://news.ycombinator.com/item?id=49593959 Points: 96 # Comments: 114",
+"published": 1788755902.0
 },
 {
 "source": "量子位",

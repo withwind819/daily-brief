@@ -1,6 +1,6 @@
 {
 "date": "2026-09-06",
-"total": 50,
+"total": 51,
 "categories": {
 "AI": [
 {
@@ -23,6 +23,13 @@
 "link": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/",
 "summary": "Researchers at King's College London and other institutions are examining whether \"AI-associated psychosis\" should become a clinical diagnosis. By OpenAI's own self-reported numbers, about 560,000 users show signs of psychosis or mania each…",
 "published": 1788695832.0
+},
+{
+"source": "HN AI 热门",
+"title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+"link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+"summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 725 # Comments: 433",
+"published": 1788695803.0
 },
 {
 "source": "量子位",

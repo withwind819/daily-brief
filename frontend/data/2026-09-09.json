@@ -1,6 +1,6 @@
 {
 "date": "2026-09-09",
-"total": 154,
+"total": 156,
 "categories": {
 "AI": [
 {
@@ -601,6 +601,13 @@
 "published": 1788945351.0
 },
 {
+"source": "Solidot",
+"title": "美国政府指控中国公司系统性蒸馏美国 AI 模型",
+"link": "https://www.solidot.org/story?sid=85329",
+"summary": "美国国家安全局、联邦调查局及网络安全和基础设施安全局周二发表联合声明，称深度求索（DeepSeek）、月之暗面等六家中国 AI 企业至少从 2024 年起利用“蒸馏”技术，以“工业化规模”访问美国 AI 模型并提取信息。六家企业包括 DeepSeek、Kimi 开发商月之暗面、阿里巴巴、MiniMax、阶跃星辰和智谱，涉及的美国模型来自 Anthropic、OpenAI、Alphabet 旗下 Google 和 SpaceX。蒸馏是利用较大模型生成的内容训练其他模型的技术，可…",
+"published": 1788944123.0
+},
+{
 "source": "爱范儿",
 "title": "阿维塔 9 系官图发布，大六座补上了，先锋设计却让步了",
 "link": "https://www.ifanr.com/1679435?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -930,6 +937,13 @@
 "link": "https://siliconangle.com/2026/09/09/five-things-investors-may-have-missed-from-netskopes-most-recent-quarter/",
 "summary": "Netskope Inc.’s latest quarter delivered a solid beat and a raise, but the company’s story goes beyond the numbers. It demonstrated improving operating discipline, a meaningful rebound in net-new annual recurring revenue, and early evidence…",
 "published": 1788976031.0
+},
+{
+"source": "Crunchbase",
+"title": "The Crunchbase Tech Layoffs Tracker",
+"link": "https://news.crunchbase.com/startups/tech-layoffs/",
+"summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
+"published": 1788969390.0
 },
 {
 "source": "SiliconANGLE",

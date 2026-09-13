@@ -1,8 +1,15 @@
 {
 "date": "2026-09-11",
-"total": 134,
+"total": 159,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "AI researchers debate how close we are to recursive self-improvement",
+"link": "https://www.dwarkesh.com/p/john-beren-charlie",
+"summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 116 # Comments: 115",
+"published": 1789162529.0
+},
 {
 "source": "InfoQ 中国",
 "title": "AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践",
@@ -53,6 +60,20 @@
 "published": 1789149462.0
 },
 {
+"source": "HN AI 热门",
+"title": "A misalignment of AI in mathematics",
+"link": "https://mathandai.org/",
+"summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...https://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?…",
+"published": 1789148712.0
+},
+{
+"source": "HN AI 热门",
+"title": "A Misalignment of AI in Mathematics",
+"link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+"summary": "Article URL: https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49662116 Points: 148 # Comments: 10",
+"published": 1789147826.0
+},
+{
 "source": "InfoQ 中国",
 "title": "“数据比模型重要”成了共识，接下来拼什么？",
 "link": "https://www.infoq.cn/article/sT7izVmjw1YVxh3FQyK8?utm_source=rss&utm_medium=article",
@@ -74,6 +95,13 @@
 "published": 1789146000.0
 },
 {
+"source": "HN AI 热门",
+"title": "Feeling Sad about AI",
+"link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+"summary": "Article URL: https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/ Comments URL: https://news.ycombinator.com/item?id=49661506 Points: 176 # Comments: 305",
+"published": 1789145451.0
+},
+{
 "source": "InfoQ 中国",
 "title": "当 AI 写出更多代码，企业为什么没有跑得更快？| JDD 大会现场观察",
 "link": "https://www.infoq.cn/article/Y02WwW92ZqjLXQQvIWWi?utm_source=rss&utm_medium=article",
@@ -81,11 +109,32 @@
 "published": 1789143031.0
 },
 {
+"source": "HN AI 热门",
+"title": "Show HN: Hacker News, Without AI",
+"link": "https://www.unslop.news/",
+"summary": "Article URL: https://www.unslop.news/ Comments URL: https://news.ycombinator.com/item?id=49660783 Points: 192 # Comments: 80",
+"published": 1789142930.0
+},
+{
 "source": "OpenAI 博客",
 "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
 "link": "https://openai.com/index/cognition-devin-testing-with-astra",
 "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
 "published": 1789142400.0
+},
+{
+"source": "HN AI 热门",
+"title": "Hacker News with reduced priority for AI driven content",
+"link": "https://sprinklz.io/public/pdwt4dve5uai",
+"summary": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 120 # Comments: 56",
+"published": 1789141969.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: Hacker News, without AI",
+"link": "https://hcker.news/?ai=exclude",
+"summary": "Article URL: https://hcker.news/?ai=exclude Comments URL: https://news.ycombinator.com/item?id=49659647 Points: 199 # Comments: 86",
+"published": 1789138879.0
 },
 {
 "source": "InfoQ 中国",
@@ -123,6 +172,13 @@
 "published": 1789133787.0
 },
 {
+"source": "HN AI 热门",
+"title": "Ask HN: Can we please limit the AI news flood?",
+"link": "https://news.ycombinator.com/item?id=49657850",
+"summary": "Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part.I noticed that because the things I find genuinely interesting tha…",
+"published": 1789132264.0
+},
+{
 "source": "InfoQ 中国",
 "title": "vlt 1.0 发布：无缝替代 npm，新增分阶段安装、图谱查询与恶意包防护",
 "link": "https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&utm_medium=article",
@@ -156,6 +212,13 @@
 "link": "https://the-decoder.com/openai-floats-a-shared-ai-slowdown-takes-it-to-congress/",
 "summary": "OpenAI wants to know from members of Congress whether an industry-wide slowdown in AI development would be legal, according to several people familiar with the matter. The article OpenAI floats a shared AI slowdown, takes it to Congress app…",
 "published": 1789127959.0
+},
+{
+"source": "HN AI 热门",
+"title": "The Waymo effect: how AI is quietly making research less collaborative",
+"link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+"summary": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html Comments URL: https://news.ycombinator.com/item?id=49656496 Points: 329 # Comments: 299",
+"published": 1789125470.0
 },
 {
 "source": "InfoQ 中国",
@@ -342,6 +405,13 @@
 "published": 1789147019.0
 },
 {
+"source": "Solidot",
+"title": "因 NASA 削减预算 ESA 将独立完成金星探索项目",
+"link": "https://www.solidot.org/story?sid=85357",
+"summary": "因特朗普政府削减了 NASA 预算，难以兑现提供合成孔径雷达的承诺，欧洲 ESA 将独立推进金星探索项目 Envision。Envision 轨道探测器任务旨在对金星表面进行测绘，由于金星表面被厚厚的硫酸云层笼罩，需要使用雷达穿透云层。NASA 与 ESA 于 2024 年签署了一份谅解备忘录，NASA 提供美制合成孔径雷达，通过其深空网络提供跟踪与通信支持。作为交换，ESA 将把美国研究人员纳入其团队。然而 2026 年和 2027 年的 NASA 预算被特朗普政府提议大幅…",
+"published": 1789145864.0
+},
+{
 "source": "TechCrunch",
 "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
 "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
@@ -384,6 +454,13 @@
 "published": 1789141111.0
 },
 {
+"source": "Solidot",
+"title": "尼泊尔用大疆无人机运送遗体和食物",
+"link": "https://www.solidot.org/story?sid=85356",
+"summary": "在毁灭性的泥石流之后，尼泊尔正利用大疆无人机运送遇难者遗体，向幸存者运送食物。尼泊尔军方正使用中国捐赠的四架大疆 FlyCart 100 无人机，每天执行 10-16 次物资运送任务。FlyCart 100 配备了约 30 米长的绳索和绞盘系统，可用于吊装和投放重物。根据电池配置的不同，无人机载重能力在 85-100 公斤之间。尼泊尔军方使用无人机每趟运送约 60 公斤的物资，它也能将遇难者遗体从部分受灾严重的地区运送出来。截至 9 月 9 日，尼泊尔官方确认的死亡人数升至 …",
+"published": 1789141098.0
+},
+{
 "source": "The Verge",
 "title": "Where to preorder the Apple AirPods 5",
 "link": "https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy",
@@ -398,6 +475,13 @@
 "published": 1789139940.0
 },
 {
+"source": "Solidot",
+"title": "远程办公增加了睡眠时间但减少了身体活动",
+"link": "https://www.solidot.org/story?sid=85355",
+"summary": "根据 Turku 大学的一项研究，远程办公增加了睡眠时间但减少了身体活动。研究人员分析了混合办公者在远程办公和去办公室办公之间的睡眠、久坐行为及身体活动差异。结果显示，相比去办公室办公，远程办公日的平均睡眠时间多了 15分钟，但坐姿或卧姿时间增加了 45 分钟。站立、轻度身体活动以及中高强度身体活动的时间都有所减少。研究还显示，办公室办公日的步行和骑行活动，在远程办公日部分被坐姿、卧姿和睡眠所取代，因为远程办公不需要通勤。",
+"published": 1789139861.0
+},
+{
 "source": "The Verge",
 "title": "Anime reaction YouTubers are at war with copyright enforcers",
 "link": "https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media",
@@ -405,11 +489,25 @@
 "published": 1789139578.0
 },
 {
+"source": "Solidot",
+"title": "科学家利用高压和逾 2000 高温制造超离子冰",
+"link": "https://www.solidot.org/story?sid=85354",
+"summary": "水是人类文明中最常见也最不可或缺的物质，但如果单纯以理化的视角来看，它其实是太阳系中最怪异的液体之一。结冰时体积膨胀密度变小、高得离奇的表面张力和沸点，若仅按分子量计算，它在室温下甚至本该是气态。而当我们离开地球，将环境调至极端的高温与高压时，水分子的行为还会变得更加离奇。一个法国的研究团队，近期在实验室中成功打造出极端环境下的新型态冰结晶——六方密堆积超离子冰(hexagonal close-packed superionic ice)。当水受到数百万大气压的强烈挤压时，高…",
+"published": 1789137838.0
+},
+{
 "source": "The Verge",
 "title": "The wireless earbuds with unbeatable call quality got their first discount",
 "link": "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale",
 "summary": "Anker’s Soundcore Liberty 5 Pro came out swinging in May with incredible call quality, something that competing ear buds have struggled to get right. They’ve become part of our reviewer John Higgins’ rotation of earbuds for more than just t…",
 "published": 1789137806.0
+},
+{
+"source": "Solidot",
+"title": "中国科学家提议利用废弃煤矿展开农业试验",
+"link": "https://www.solidot.org/story?sid=85353",
+"summary": "中国各地分布着逾 12,000 座废弃煤矿，这些煤矿拥有巨大的地下空间和完善的基础设施，具备改造利用的潜力。太原理工大学、山西省煤基资源绿色高效开发工程中心等机构的研究人员在《中国矿业》期刊上发表论文，提议利用废弃煤矿展开农业试验。废弃煤矿的一个显而易见的缺陷是缺乏农作物所必须的阳光和降雨，但优点是地下环境能精确调控，不受天气波动、气候变化及自然灾害的影响。研究人员称，“在全球气候变化加剧及极端与封闭环境农业需求不断增长的背景下，探索煤矿地下空间农业实验模式具有重要科学意义与…",
+"published": 1789137441.0
 },
 {
 "source": "TechCrunch",
@@ -445,6 +543,13 @@
 "link": "https://36kr.com/newsflashes/3979001553615874?f=rss",
 "summary": "36氪获悉，港交所文件显示，翱捷科技股份有限公司向港交所提交上市申请书，联席保荐人为Morgan Stanley、国泰海通。",
 "published": 1789130981.0
+},
+{
+"source": "Solidot",
+"title": "儿童因经常将笔记本电脑放在腹部而出现烤肤症",
+"link": "https://www.solidot.org/story?sid=85352",
+"summary": "《BMJ Case Reports》报告了一起奇特的病例，一名儿童因腹部皮肤出现奇怪斑痕而送去急症。医生查找许久未发现病因，因此开了抗生素让他回家，叮嘱父母如果病情变化立即来复诊。两周后，这名儿童再次入院，他的病情出现恶化。皮肤斑块变大，颜色变深，且有触痛。这名儿童透露了一个情况，他是在家上学，经常使用笔记本电脑，他习惯将笔电放在腹部，有时一用就是八个小时，还经常在电脑充电时使用。医生终于明白了他的病因，诊断他患有 Erythema ab igne（EAI），也被称为烤肤综合…",
+"published": 1789130763.0
 },
 {
 "source": "36氪",
@@ -573,6 +678,13 @@
 "published": 1789125547.0
 },
 {
+"source": "Solidot",
+"title": "Rust 语言成为微软的一级支持语言",
+"link": "https://www.solidot.org/story?sid=85351",
+"summary": "微软 Rust 工具团队首席工程师 Victor Ciura 在本周举行的 RustConf 大会宣布，微软已将 Rust 语言指定为“一级（Tier One）”支持语言，与 C++、C# 和 TypeScript 处于同一位置。Ciura 表示，微软构建了一套完善的工具和流程体系，为 Rust 语言在整个软件开发生命周期中的本地开发提供支持。Rust 语言是一种内存安全的高性能语言，已被微软逾百个项目库使用。为减少内存相关 bug，Rust 语言正被用于重构从数据库到包管理…",
+"published": 1789124692.0
+},
+{
 "source": "少数派",
 "title": "本周看什么 | 最近值得一看的 7 部作品",
 "link": "https://sspai.com/post/114458",
@@ -587,11 +699,25 @@
 "published": 1789120913.0
 },
 {
+"source": "Solidot",
+"title": "约会软件在消失",
+"link": "https://www.solidot.org/story?sid=85350",
+"summary": "很多人的智能手机上可能仍然安装了约会软件，但打开频率日益下降。2026 年的一项 Harris 民调显示，三分之二的单身人士没有使用过约会软件，而八成美国人将现实生活中认识某个人视为“可爱”或“酷”。约会软件承诺提供丰富的选择：成百上千的潜在伴侣，足不出户即可触达。但这种丰富性也带来了新的负担。每次使用都需要用户做出一系列繁琐的决定——是否滑动屏幕、发起对话、维持对话、安排约会，还是继续寻找更合适的人。研究表明，这个过程会让人精疲力竭。亚利桑那州立大学 Relationshi…",
+"published": 1789120659.0
+},
+{
 "source": "36氪",
 "title": "硬氪专访丨对话iRobot：扫地机行业到了纠偏时刻",
 "link": "https://36kr.com/p/3978780178627332?f=rss",
 "summary": "时隔多年，iRobot再次站上了国际消费电子展的舞台。 9月初，柏林IFA展会上，iRobot发布了新旗舰Roomba875，并把大量展区留给了一台尚未命名的子母双机概念机。这次重返国际顶级展会。官方将其定义为“把品牌重新带回世界舞台”的信号：“这个品牌带着更好的产品、更好的姿态回来了。” 这轮回归带着明确的自我修正意味。过去几年，iRobot留给外界的印象并不算好：手握3000多项专利却长期不落地，一个平台沿用多年不迭代，被贴上“保守”的标签。而在受访负责人看来，行业同样到…",
 "published": 1789118686.0
+},
+{
+"source": "Solidot",
+"title": "2026 年 8 月是全球有记录以来最热的月份，并列第一",
+"link": "https://www.solidot.org/story?sid=85349",
+"summary": "欧盟哥白尼气候变化服务中心（C3S）公布的数据显示，2026 年 8 月是全球有记录以来最热的月份，与 2023 年 7 月并列第一。这一记录是气候变化与厄尔尼诺影响增强共同驱动的。8 月气温比工业化前水平高 1.65C，超过了世界各国为避免气候变化最严重后果而商定的 1.5C 阈值。单月气温超过 1.5C 并不意味着这一阈值已被永久突破，但显示出一种逼近该限制的趋势。今年夏天也是西欧有记录以来最热的夏天。",
+"published": 1789117516.0
 },
 {
 "source": "36氪",
@@ -622,6 +748,27 @@
 "published": 1789115400.0
 },
 {
+"source": "Solidot",
+"title": "2026 年夏天是美国有记录以来最热的夏天",
+"link": "https://www.solidot.org/story?sid=85348",
+"summary": "NOAA 的数据显示，美国经历了有记录 132 年以来最热的夏天，气温超过了 1936 年和 2021 年夏天——这两个年份此前并列最热夏天纪录。2026 年 8 月以及 6-8 月整个夏季均创下了历史新高，而 7 月更是美国有记录以来最热的一个月份。美国本土 48 州 8 月份的平均气温为 75.6 华氏度，比 20 世纪的平均水平高出 3.5 华氏度。夏季 6-8 月平均气温为 74.4 华氏度，比平均水平高出 3 华氏度。西南部的亚利桑那州、新墨西哥州、犹他州和科罗拉多…",
+"published": 1789114674.0
+},
+{
+"source": "Solidot",
+"title": "Google 购买芬兰一核电站一半的发电量",
+"link": "https://www.solidot.org/story?sid=85347",
+"summary": "Google 宣布斥资 130 亿欧元在芬兰投资 AI 基础设施，其中包括购买一座核电站 50% 的发电量。这是 Google 在欧洲最大的单项投资。这笔投资将用于建设三个新数据中心、扩建现有设施，并持能源项目，以满足对 AI 服务日益增长的电力需求。作为协议的一部分，Google 与芬兰公用事业公司 Fortum 签署了一份为期 22 年的合同，将购买 Loviisa 核电站最多 50% 的发电量。本周早些时候，TikTok 也宣布投资 10 亿美元在芬兰 Kouvola …",
+"published": 1789113405.0
+},
+{
+"source": "Solidot",
+"title": "天文学家发现最遥远原始星系团",
+"link": "https://www.solidot.org/story?sid=85346",
+"summary": "国际天文学家团队发现了迄今已知最遥远的原始星系团 COSMOS-z3.1-A。它诞生于宇宙年龄仅 21 亿年之际，质量约相当于银河系的 5000 倍。这项发现不仅支持了现有的星系团演化理论，也揭示了它们如何嵌入更大尺度的宇宙网。星系团是宇宙中质量最大的引力束缚结构，由数百乃至数千个星系组成。人们今天在较近时空中观测到的星系团，是由原始星系团演化而来的成熟结构。原始星系团是巨大而松散的星系集合，尚在合并之中，还未凝聚成稳定的星系团。研究宇宙年轻时期形成的遥远原始星系团，有助于理…",
+"published": 1789112580.0
+},
+{
 "source": "爱范儿",
 "title": "iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃",
 "link": "https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -629,11 +776,39 @@
 "published": 1789111671.0
 },
 {
+"source": "Solidot",
+"title": "IMDb 引入了“数字创作者”的新职业",
+"link": "https://www.solidot.org/story?sid=85345",
+"summary": "IMDb 为其平台及 IMDbPro 引入“数字创作者”（Digital Creator）这一全新职业类别。IMDb 表示，此举为直播主、视频博主（Vlogger）、网红（Influencer）、视频评论创作者（Video Essayist）及等网络创作者提供了一种“展示其作品并与受众、业内同行及潜在雇主建立联系的专属途径”。该类别包含多个细分职业，以更具体描述创作者的工作，其中包括 Streamer、Vlogger、Video Essayist、Video Creator、…",
+"published": 1789111114.0
+},
+{
+"source": "Solidot",
+"title": "WordPress 联合创始人 Matt Mullenweg 被强制休假",
+"link": "https://www.solidot.org/story?sid=85344",
+"summary": "WordPress 联合创始人、Automatti CEO Matt Mullenweg 被董事会投票强制休假，其职位由首席财务官 Mark Davies 暂时接替。Automattic 过去几年陷入了与竞争对手 WPE 耗时漫长的法律纠纷、经历裁员、员工离职以及围绕 Mullenweg 领导风格的争议。Mullenweg 是通过 Slack 频道宣布了这一消息，他指控 Mark Davies 与董事会成员串通投票强制他休带薪假，他本人投了反对票，他是在会议开始前 50 分钟…",
+"published": 1789110604.0
+},
+{
 "source": "少数派",
 "title": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
 "link": "https://sspai.com/post/113605",
 "summary": "如果你想买一辆能够长期持有、同时又足够「正常」的新能源车，我还是非常推荐去试试理想 i6。查看全文",
 "published": 1789109420.0
+},
+{
+"source": "Solidot",
+"title": "中国留学生因 AI 制作深度伪造色情被判刑",
+"link": "https://www.solidot.org/story?sid=85343",
+"summary": "一名 30 岁的在韩中国留学生 A 某因涉嫌利用深度伪造技术制作 1000 余条淫秽色情内容，于 9 月 10 日被一审法院判处有期徒刑 1 年零 6 个月，并责令其接受 40 小时的性暴力防治教育，今后 5 年禁止其在儿童和青少年相关设施和残疾人福利设施就业。A 某涉嫌自去年11月起利用 AI 将研究室同事等 7 名受害者的面容合成到不雅视频和照片中，制作 1141 条淫秽色情内容。检方提出 3 年量刑建议，并请求法庭判令公开被告人身份信息，责令其接受性暴力防治教育。法院就…",
+"published": 1789107070.0
+},
+{
+"source": "Solidot",
+"title": "强降雨加剧微塑料向河流的输送",
+"link": "https://www.solidot.org/story?sid=85342",
+"summary": "根据发表在《科学》期刊上的一项研究，河流向海洋输送的微塑料污染量可能远超此前的认知，且全球几乎所有的微塑料排放均来自发展中国家。这项全球性分析还发现，强降雨会导致河流中微塑料含量激增——这是一种易受气候影响的污染威胁，并可能会随着极端天气的日益常见而加剧。微塑料已成为一种无处不在且持久的污染物，它对生态系统、水质及人类健康构成公认的威胁。每年有数千万公吨的微塑料被排入环境，而其中大部分会最终抵达海洋。河流是将这些颗粒从内陆地区输送至沿海水域的主要途径。研究人员估算，2022 …",
+"published": 1789106821.0
 },
 {
 "source": "少数派",

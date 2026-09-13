@@ -1,8 +1,15 @@
 {
 "date": "2026-09-09",
-"total": 156,
+"total": 157,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+"link": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+"summary": "Article URL: https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=49636345 Points: 184 # Comments: 8",
+"published": 1788998249.0
+},
 {
 "source": "The Decoder",
 "title": "Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario",

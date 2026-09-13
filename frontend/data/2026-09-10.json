@@ -1,8 +1,15 @@
 {
 "date": "2026-09-10",
-"total": 149,
+"total": 156,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+"link": "https://system76.com/workstations/thelio-mira-ai",
+"summary": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 121 # Comments: 127",
+"published": 1789081806.0
+},
 {
 "source": "InfoQ 中国",
 "title": "2026 腾讯云大数据年度精选技术实践指南",
@@ -30,6 +37,13 @@
 "link": "https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/",
 "summary": "OpenAI releases GPT-Live-1 as a developer API. The full-duplex speech model scores 80.1 percent in interactivity tests, up from 45.4 percent for its predecessor. At $0.05 per minute, it's not cheap. The article OpenAI's GPT-Live-1 API lets …",
 "published": 1789062455.0
+},
+{
+"source": "HN AI 热门",
+"title": "Detecting and countering misuse of AI: September 2026",
+"link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+"summary": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 180 # Comments: 239",
+"published": 1789061022.0
 },
 {
 "source": "InfoQ 中国",
@@ -88,6 +102,13 @@
 "published": 1789056000.0
 },
 {
+"source": "HN AI 热门",
+"title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+"link": "https://cognition.com/blog/swe-2",
+"summary": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 443 # Comments: 190",
+"published": 1789054187.0
+},
+{
 "source": "The Decoder",
 "title": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
 "link": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/",
@@ -100,6 +121,13 @@
 "link": "https://openai.com/index/put-data-to-work",
 "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
 "published": 1789052400.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI Is Breaking This Thing We Call Trust",
+"link": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+"summary": "Article URL: https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/ Comments URL: https://news.ycombinator.com/item?id=49644179 Points: 123 # Comments: 70",
+"published": 1789050080.0
 },
 {
 "source": "InfoQ 中国",
@@ -284,6 +312,20 @@
 "published": 1789016138.0
 },
 {
+"source": "HN AI 热门",
+"title": "Training a 3.8B LLM to 0.384 CORE for $998",
+"link": "https://hugovergnes.github.io/little-lm-3-8b/",
+"summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 118 # Comments: 21",
+"published": 1789005851.0
+},
+{
+"source": "HN AI 热门",
+"title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+"link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+"summary": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/ Comments URL: https://news.ycombinator.com/item?id=49637395 Points: 94 # Comment…",
+"published": 1789005591.0
+},
+{
 "source": "量子位",
 "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
 "link": "https://www.qbitai.com/2026/09/486436.html",
@@ -296,6 +338,13 @@
 "link": "https://www.infoq.cn/video/52550fXfrMaZhMqwrsC5?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1789002275.0
+},
+{
+"source": "HN AI 热门",
+"title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+"link": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+"summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from Comments URL: https://news.ycombinator.com/item?id=49636906 Points: 84 # Comments: 125",
+"published": 1789002164.0
 },
 {
 "source": "量子位",

@@ -1,0 +1,278 @@
+{
+"date": "2026-09-13",
+"total": 38,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+"link": "https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789315200.0
+},
+{
+"source": "The Decoder",
+"title": "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options",
+"link": "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/",
+"summary": "ElevenLabs has released Music v2.5 for its AI music generator. In a blind test with nearly 48,000 comparison pairs, listeners preferred the new version over its predecessor. The company says the model was trained only on licensed music. The…",
+"published": 1789306836.0
+},
+{
+"source": "The Decoder",
+"title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
+"link": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/",
+"summary": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes. According to the paper, the training data and models also improve…",
+"published": 1789304298.0
+},
+{
+"source": "The Decoder",
+"title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
+"link": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/",
+"summary": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable agrees to. On drone control, Astra is the first model to beat the human baseline…",
+"published": 1789296736.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Figma 如何利用 AI 代理提升安全性",
+"link": "https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789293600.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+"link": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789293600.0
+},
+{
+"source": "The Decoder",
+"title": "Two-year university study finds banning AI from classrooms leaves students worse off",
+"link": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/",
+"summary": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years. \"I was wrong,\" the researcher writes, who had assumed that AI without…",
+"published": 1789291621.0
+},
+{
+"source": "The Decoder",
+"title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
+"link": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/",
+"summary": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety concerns. The article Altman, Musk, and Hassabis back Amodei's call …",
+"published": 1789289580.0
+},
+{
+"source": "量子位",
+"title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+"link": "https://www.qbitai.com/2026/09/488672.html",
+"summary": "亮源新创的Physical Al路线清晰了",
+"published": 1789285100.0
+},
+{
+"source": "量子位",
+"title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
+"link": "https://www.qbitai.com/2026/09/488519.html",
+"summary": "出身寒微不是耻辱，放弃自己才是。",
+"published": 1789284019.0
+},
+{
+"source": "量子位",
+"title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+"link": "https://www.qbitai.com/2026/09/488447.html",
+"summary": "Agent的下一步是关系型生产力",
+"published": 1789281625.0
+},
+{
+"source": "量子位",
+"title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+"link": "https://www.qbitai.com/2026/09/488380.html",
+"summary": "RSI太危险，得管！",
+"published": 1789269180.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "次新基金大多已建仓，首尾业绩相差近33个百分点",
+"link": "https://36kr.com/newsflashes/3982478013463305?f=rss",
+"summary": "下半年以来，A股市场行情波动加大，在这期间建仓的次新基金，净值表现分化明显。截至9月11日，下半年成立的基金大多已开始建仓，浮盈最多和亏损最大的基金收益率相差接近33个百分点。从板块来看，基于地缘风险和能源转型驱动的资源板块上涨行情，给建仓的相关主题基金带来了丰厚收益；在科技板块下跌行情中建仓的基金，则遭遇了不小幅度的亏损。（证券时报）",
+"published": 1789343944.0
+},
+{
+"source": "36氪",
+"title": "马斯克称极有信心在明年将英伟达AI计算机送入太空",
+"link": "https://36kr.com/newsflashes/3982477115013890?f=rss",
+"summary": "当地时间9月13日，马斯克在社交平台上回复用户时表示：“我极有信心，SpaceX明年将把英伟达VR NLV72 AI计算机送入太空。”（界面）",
+"published": 1789343831.0
+},
+{
+"source": "36氪",
+"title": "法国计划削减300亿欧元预算支出以控制财政赤字",
+"link": "https://36kr.com/newsflashes/3982476713884425?f=rss",
+"summary": "法国财政部长罗兰·莱斯屈尔表示，政府计划在下一年度预算中节约约300亿欧元资金，以此遏制财政赤字。莱斯屈尔称，这份预算方案“艰难且目标宏大”，养老金领取者也需共同分担压力，力求将赤字控制在5.1%以内。莱斯屈尔表示，若预算达成折中方案，或将缓解投资者担忧，此前相关担忧已推动法国国债收益率升至2012年以来最高水平。（新浪财经）",
+"published": 1789343747.0
+},
+{
+"source": "36氪",
+"title": "中信建投：加息预期充分定价，黄金有望触底回升",
+"link": "https://36kr.com/newsflashes/3982471528922121?f=rss",
+"summary": "36氪获悉，中信建投研报称，美国公布8月CPI数据，整体CPI符合预期，核心CPI超预期，但通胀走强主要来自一次性服务扰动，持续升温的可能性偏低。数据落地后，9月加息概率升至87%，近端加息预期基本打满，触发利空落地交易，黄金先跌后涨。展望未来，市场已充分定价近端加息预期，只要美联储不释放持续加息信号，黄金利空出尽后有望触底回升：9月加息，则属于靴子落地；若不加息，短期利率压力缓解与黄金的信用对冲有望形成共振，支撑金价回升。",
+"published": 1789343610.0
+},
+{
+"source": "36氪",
+"title": "现房销售模式改变土拍逻辑，房企投资决策趋于精细化",
+"link": "https://36kr.com/newsflashes/3982471184726789?f=rss",
+"summary": "近日，住房城乡建设部等三部门联合出台新政，有序推行商品住房现房销售政策，新出让地块优先实行现房销售，预售项目须主体结构封顶。新政落地以来，北京、上海、深圳、广州、西安等重点城市已陆续完成首轮土拍，土地拍卖市场呈现分化加剧、逻辑重构的特征。受访业内专家认为，新政改变了房企拿地的判断标准——区位、配套、容积率、产品适配性成为决定项目成败的重要变量，房企拿地正从高周转时代的“算周转、算规模”，转向“算单盘、算产品”。当前，各地现房销售政策细则仍在研究制定中，预计部分城市将在未来一两…",
+"published": 1789343408.0
+},
+{
+"source": "36氪",
+"title": "上市公司密集回购增持",
+"link": "https://36kr.com/newsflashes/3982470662863872?f=rss",
+"summary": "近期，全球金融市场迎来“超级央行周”。美联储将于北京时间9月17日凌晨公布最新利率决议，市场普遍预期加息25个基点，日本央行、英国央行等也将陆续公布决议，长端美债收益率处于历史高位，外围情绪扰动加大。一批A股上市公司日前密集发布股份增持、回购安排，向市场传递积极信号。 （上证报）",
+"published": 1789343258.0
+},
+{
+"source": "少数派",
+"title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
+"link": "https://sspai.com/post/114539",
+"summary": "美国 AI 高管呼吁放缓研发，特朗普反对苹果解释 Apple Watch 不会持续录音LG 否认智能电视监控用户暴雪公布《魔兽世界》怀旧服儿童贴身使用笔记本电脑导致皮肤灼伤Android 开始支持密码管理器迁移看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+"published": 1789340134.0
+},
+{
+"source": "TechCrunch",
+"title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+"link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+"summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying d…",
+"published": 1789335000.0
+},
+{
+"source": "TechCrunch",
+"title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+"link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+"summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+"published": 1789332578.0
+},
+{
+"source": "TechCrunch",
+"title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+"link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+"summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+"published": 1789331280.0
+},
+{
+"source": "The Verge",
+"title": "Trump and Mike Johnson think the AI industry is overreacting",
+"link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+"summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet'…",
+"published": 1789328508.0
+},
+{
+"source": "TechCrunch",
+"title": "What’s behind the AI industry’s latest warnings of doom?",
+"link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+"summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+"published": 1789328415.0
+},
+{
+"source": "The Verge",
+"title": "Apple is reportedly working on iPhone game controllers",
+"link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+"summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, M…",
+"published": 1789324216.0
+},
+{
+"source": "The Verge",
+"title": "The Units’ Digital Stimulation is synthpunk perfection",
+"link": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+"summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to ge…",
+"published": 1789320970.0
+},
+{
+"source": "TechCrunch",
+"title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+"link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+"summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+"published": 1789317000.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+"link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+"summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+"published": 1789315440.0
+},
+{
+"source": "The Verge",
+"title": "Waymo pulls over, calls cops on riders with a ghost gun",
+"link": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+"summary": "Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ghost gun and were taken to a juvenile hall…",
+"published": 1789309692.0
+},
+{
+"source": "TechCrunch",
+"title": "Fusion power startups find new partners in the defense world",
+"link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+"summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
+"published": 1789305300.0
+},
+{
+"source": "The Verge",
+"title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
+"link": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
+"summary": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins (Bassam …",
+"published": 1789304400.0
+},
+{
+"source": "The Verge",
+"title": "Your car is selling your data",
+"link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. …",
+"published": 1789300800.0
+},
+{
+"source": "The Verge",
+"title": "Apple’s new phones are here",
+"link": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+"summary": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I'…",
+"published": 1789300800.0
+},
+{
+"source": "少数派",
+"title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
+"link": "https://sspai.com/post/113880",
+"summary": "作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。查看全文",
+"published": 1789285915.0
+},
+{
+"source": "Solidot",
+"title": "暴雪宣布 FPS 版《星际争霸》",
+"link": "https://www.solidot.org/story?sid=85362",
+"summary": "暴雪宣布了 FPS 版《星际争霸》，游戏仍然处于早期开发阶段，目标发售时间是在 2030 年。暴雪称，新作是一款开放世界、剧情驱动的科幻射击游戏，故事背景设定在《星际争霸 II》事件发生后数十年，是《星际争霸》宇宙中的一款全新作品。RTS 版《星际争霸》于 1998 年发布，2015 年发布了《星际争霸II》三部曲中的第三部《虚空之遗》，时隔 11 年之后宣布的正统续作不再属于 RTS。FPS 版《星际争霸》游戏设定在 Koprulu 星区（Koprulu Sector），时…",
+"published": 1789269007.0
+},
+{
+"source": "36氪",
+"title": "获达晨财智、元禾璞华数千万投资，这家物理AI企业自研WMM世界机理模型丨36氪首发",
+"link": "https://36kr.com/p/3981147673345033?f=rss",
+"summary": "图源/企业 本文约2900字，建议阅读7分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，元始智能科技（南通）有限公司（简称“元始智能”）已完成数千万元Pre-A轮与Pre-A+轮融资，分别由达晨财智与元禾璞华投资。资金将主要用于产品研发团队扩建与标准化产品矩阵的打造。 这家成立于2022年7月的公司，是一家面向工业场景的物理AI公司，长期目标是让AI理解物理世界的状态与规律，并在真实环境中稳定行动。落到当前的产品上，就是以自研WMM（World Mechanism Model）世界…",
+"published": 1789261990.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Supio’s long-horizon agents point to a new operating model for law firms",
+"link": "https://siliconangle.com/2026/09/13/supios-long-horizon-agents-point-to-a-new-operating-model-for-law-firms/",
+"summary": "The next phase of artificial intelligence in legal technology will not be defined by a better chatbot or a faster document-summarization tool. It will be defined by whether AI systems can take responsibility for real work that unfolds over …",
+"published": 1789318201.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Q-Day is approaching. Most organizations aren’t ready",
+"link": "https://siliconangle.com/2026/09/13/q-day-is-approaching-most-organizations-arent-ready/",
+"summary": "“Q-Day,” the point at which quantum computers begin to break the encryption protecting most of the internet, lives in the same mental category as other far-off technology risks: real eventually, but not something requiring immediate action.…",
+"published": 1789318194.0
+}
+]
+}
+}

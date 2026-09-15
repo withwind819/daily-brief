@@ -1,6 +1,6 @@
 {
 "date": "2026-09-13",
-"total": 38,
+"total": 43,
 "categories": {
 "AI": [
 {
@@ -86,6 +86,20 @@
 "link": "https://www.qbitai.com/2026/09/488380.html",
 "summary": "RSI太危险，得管！",
 "published": 1789269180.0
+},
+{
+"source": "HN AI 热门",
+"title": "Why are AI agents lying, cheating and coordinating?",
+"link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+"summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item?id=49678969 Points: 645 # Comments: 682",
+"published": 1789262551.0
+},
+{
+"source": "HN AI 热门",
+"title": "Everyone should slow down AI development except for me",
+"link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+"summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 799 # Comments: 450",
+"published": 1789259444.0
 }
 ],
 "科技": [
@@ -202,6 +216,13 @@
 "published": 1789315440.0
 },
 {
+"source": "Solidot",
+"title": "宇树如何将机器狗的价格降至 2000 美元",
+"link": "https://www.solidot.org/story?sid=85366",
+"summary": "宇树的机器狗除了做些花哨动作外可能用处不大，但它拥有一个巨大的优势：价格极其平民。George Mason 大学的机器人专家 Xuesu Xiao 教授称，十年前只有少数团队从事四足机器人的运动控制研究，因为只有这些团队能制造四足机器人，宇树进入市场之后推动了四足机器人运动控制研究的普及化。他的实验室里有四台宇树的四足机器人，每台售价约 1.5 万美元，以及一台波士顿动力的四足机器人 Spot，起售价 7.5 万美元。波士顿动力原本是这一领域的领导者，它在 2016 年 6 …",
+"published": 1789313022.0
+},
+{
 "source": "The Verge",
 "title": "Waymo pulls over, calls cops on riders with a ghost gun",
 "link": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
@@ -209,11 +230,25 @@
 "published": 1789309692.0
 },
 {
+"source": "Solidot",
+"title": "Matt Mullenweg 据报道恢复了对 Automattic 的控制",
+"link": "https://www.solidot.org/story?sid=85365",
+"summary": "被董事会强制休假的 Matt Mullenweg 称恢复了 Automattic CEO 的职务。Automattic 可能发生了类似 OpenAI 的小型“未遂政变”。Automattic 旗下包括 Wordpress.com、Tumblr 和 Beeper 等业务。本周早些时候 Mullenweg 通过公司 Slack 频道指责首席财务官 Mark Davies 与董事会串通，董事会投票决定由 Davies 担任临时 CEO。两天后，Mullenweg 称董事会已重新达成…",
+"published": 1789309220.0
+},
+{
 "source": "TechCrunch",
 "title": "Fusion power startups find new partners in the defense world",
 "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
 "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
 "published": 1789305300.0
+},
+{
+"source": "Solidot",
+"title": "北京全面限制无人机",
+"link": "https://www.solidot.org/story?sid=85364",
+"summary": "北京市政府公布了新修订的《北京市无人驾驶航空器管理规定》，全面限制无人机。《规定》将自 2026 年 11 月 15 日起实施。《规定》明确，本市行政区域全域为无人驾驶航空器管制空域，禁止在本市行政区域内实施无人驾驶航空器飞行活动，禁止在本市行政区域内持有、存放无人驾驶航空器及其核心部件，禁止运输、携带无人驾驶航空器及其核心部件进入本市行政区域。《规定》还要求特殊保障单位应当建立安全管理制度，明确管理责任，防止发生安全事件，特殊保障情形的飞行活动严格按照国家有关规定执行。",
+"published": 1789304517.0
 },
 {
 "source": "The Verge",

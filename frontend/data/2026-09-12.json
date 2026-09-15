@@ -1,8 +1,15 @@
 {
 "date": "2026-09-12",
-"total": 73,
+"total": 74,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "AgentsDock: An IDE designed for agentic AI research",
+"link": "https://agentsdock.net/",
+"summary": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 81 # Comments: 33",
+"published": 1789256758.0
+},
 {
 "source": "InfoQ 中国",
 "title": "AI的新用法，被这群 Builder 带到了外滩大会开发者日",

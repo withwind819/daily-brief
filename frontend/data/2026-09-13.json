@@ -1,8 +1,15 @@
 {
 "date": "2026-09-13",
-"total": 43,
+"total": 44,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "AI recursive self-improvement might not come so quickly after all",
+"link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+"summary": "Article URL: https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/ Comments URL: https://news.ycombinator.com/item?id=49687334 Points: 80 # Comments: 82",
+"published": 1789325384.0
+},
 {
 "source": "InfoQ 中国",
 "title": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",

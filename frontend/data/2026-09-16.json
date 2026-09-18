@@ -1,8 +1,15 @@
 {
 "date": "2026-09-16",
-"total": 151,
+"total": 155,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "OpenSpec – A lightweight and configurable AI spec framework",
+"link": "https://openspec.dev/",
+"summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 189 # Comments: 96",
+"published": 1789599999.0
+},
 {
 "source": "InfoQ 中国",
 "title": "亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注",
@@ -16,6 +23,13 @@
 "link": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
 "summary": "Ursula von der Leyen plans to invite the major frontier labs to talks and use the AI Act to help set global AI safety standards. She cited autonomous hacking and self-improving models as immediate risks. The article EU president warns AI ag…",
 "published": 1789585345.0
+},
+{
+"source": "HN AI 热门",
+"title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+"link": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+"summary": "Article URL: https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9 Comments URL: https://news.ycombinator.com/item?id=49731395 Points: 80 # Comments: 308",
+"published": 1789585182.0
 },
 {
 "source": "InfoQ 中国",
@@ -207,6 +221,13 @@
 "published": 1789546193.0
 },
 {
+"source": "HN AI 热门",
+"title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+"link": "https://mistral.ai/news/mistral-x-mozilla/",
+"summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 580 # Comments: 204",
+"published": 1789546137.0
+},
+{
 "source": "InfoQ 中国",
 "title": "129亿美元卖身英伟达之后，是时候重新理解Hugging Face了",
 "link": "https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti?utm_source=rss&utm_medium=article",
@@ -254,6 +275,13 @@
 "link": "https://www.qbitai.com/2026/09/490185.html",
 "summary": "从想法到结果，一次对话实现",
 "published": 1789530035.0
+},
+{
+"source": "HN AI 热门",
+"title": "Stay discoverable in search while disallowing AI training",
+"link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+"summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/ Comments URL: https://news.ycombinator.com/item?id=49721435 Points: 86 # Comments: 49",
+"published": 1789525518.0
 }
 ],
 "科技": [

@@ -1,8 +1,479 @@
 {
 "date": "2026-09-19",
-"total": 2,
+"total": 73,
 "categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+"link": "https://www.infoq.cn/article/zFIHHoq5Tsj4ybQzpjq3?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789838408.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从技术深潜到动手实战，Snowflake World Tour 技术专场让 AI 走进真实业务",
+"link": "https://www.infoq.cn/article/mrl45Fq31U7JORZsV5re?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789837333.0
+},
+{
+"source": "The Decoder",
+"title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
+"link": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
+"summary": "Qwen3.8-Omni-Flash is Qwen's first multimodal model designed for AI agents. It processes audio and video together and independently uses tools to edit vlogs, translate clips, or summarize movies. On audio-video benchmarks, it nearly matches…",
+"published": 1789828257.0
+},
+{
+"source": "The Decoder",
+"title": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials",
+"link": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/",
+"summary": "Unity has released official plugins for Claude Code and OpenAI's Codex. The article Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials appeared first on The Decoder.",
+"published": 1789824706.0
+},
+{
+"source": "The Decoder",
+"title": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark",
+"link": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/",
+"summary": "Leading AI models usually attempt dangerous tasks rather than refuse them when controlling a robot, according to the RoboHarm benchmark. GPT-6 Astra stabbed a baby doll in 17 of 20 trials, while Claude Fable 5.1 put a can of compressed air …",
+"published": 1789824535.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Solaris 早已淡出视野，它的“转门”却还藏在 Go、WebKit 和 Rust 里",
+"link": "https://www.infoq.cn/article/GAhNItmT2o7kvEA1ovxt?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789822800.0
+},
+{
+"source": "量子位",
+"title": "“留给人类阻止AI的时间不多了”",
+"link": "https://www.qbitai.com/2026/09/492755.html",
+"summary": "AI有可能终结我们所有人",
+"published": 1789818792.0
+},
+{
+"source": "量子位",
+"title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+"link": "https://www.qbitai.com/2026/09/492661.html",
+"summary": "老马想买倒闭公司数据为哪般",
+"published": 1789818486.0
+},
+{
+"source": "量子位",
+"title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+"link": "https://www.qbitai.com/2026/09/492573.html",
+"summary": "设计、前端一口气全干了，结果后端没来上班",
+"published": 1789818192.0
+},
+{
+"source": "量子位",
+"title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+"link": "https://www.qbitai.com/2026/09/492550.html",
+"summary": "AI能否提出相对论？",
+"published": 1789817771.0
+},
+{
+"source": "The Decoder",
+"title": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
+"link": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/",
+"summary": "Google and Deepmind's Dream-RSI lets AI agents \"dream\" through past search runs to test new strategies without costly recalculations. In tests, it matched or beat existing results, cutting iterations by a factor of up to 2.43. Only the sear…",
+"published": 1789816086.0
+},
+{
+"source": "InfoQ 中国",
+"title": "单个机柜到底能跑多少个 Agent？答案不在 GPU 身上",
+"link": "https://www.infoq.cn/article/brH7TRcHB9evl32KQJkY?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789815319.0
+},
+{
+"source": "The Decoder",
+"title": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
+"link": "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/",
+"summary": "ICLR 2027 has already pulled in about 50,000 abstracts, up from 19,500 at ICLR 2026. The flood is driven by the AI hype, corporate pay tied to publication records, and above all, AI making it faster to crank out papers. That's only going to…",
+"published": 1789814224.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Docker推出完全重构的虚拟化层以提升性能并改善开发体验",
+"link": "https://www.infoq.cn/article/AXtfCFx09aNmpWgLkqhN?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789812000.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+"link": "https://www.infoq.cn/article/G4tlQvg2IsabE0v1RDOE?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789812000.0
+},
+{
+"source": "The Decoder",
+"title": "Google's Gemini also accidentally hacked three real companies during security testing",
+"link": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
+"summary": "During a security test run by the firm Irregular, Google's AI model Gemini escaped into the open internet and hacked three real companies, guessing passwords and pulling login credentials from public sources. The cause was a flawed test env…",
+"published": 1789810263.0
+},
+{
+"source": "量子位",
+"title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+"link": "https://www.qbitai.com/2026/09/492501.html",
+"summary": "1000万，把才华送上真正的大舞台",
+"published": 1789806875.0
+},
+{
+"source": "量子位",
+"title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+"link": "https://www.qbitai.com/2026/09/492476.html",
+"summary": "CANN跨过拐点，华为补上软件生态",
+"published": 1789806531.0
+},
+{
+"source": "The Decoder",
+"title": "U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report",
+"link": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/",
+"summary": "In the spring of 2026, the U.S. military came within minutes of boarding a Chinese ship because an AI chatbot falsely flagged its cargo as nuclear weapons components. Armed soldiers were ready, aircraft were in the air. The error was caught…",
+"published": 1789805455.0
+},
+{
+"source": "量子位",
+"title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+"link": "https://www.qbitai.com/2026/09/492467.html",
+"summary": "让开放模型与可负担的算力成为数学研究的共享基石",
+"published": 1789800242.0
+},
+{
+"source": "量子位",
+"title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+"link": "https://www.qbitai.com/2026/09/492429.html",
+"summary": "同一预测核心，跨七类系统验证",
+"published": 1789799972.0
+}
+],
 "科技": [
+{
+"source": "36氪",
+"title": "8点1氪丨“西贝将彻底倒闭”冲上热搜，最新回应；原钉钉CEO无招履新，年薪10万；黄仁勋出售约4.6万股英伟达股票",
+"link": "https://36kr.com/p/3990979197303555?f=rss",
+"summary": "今日热点导览 冯仑回应被限高 下周43股面临解禁，4只解禁股上半年业绩扭亏 沙特国家石油公司下月将不向欧洲买家交付原油 新能源车险定价区间对标燃油车，车主续保保费要变 Anthropic今年年化收入预计将超过1000亿美元 TOP 3 大新闻 “西贝将彻底倒闭”冲上热搜，最新回应 9月19日，“西贝被曝将彻底倒闭”的话题登上微博热搜。据蓝鲸新闻报道，据博主“理记”发文，持续十一年中式正餐第一的西贝将在两三个月内彻底倒闭，创始人贾国龙将个人揽下绝大部分债务，放弃股份，仅保留约1…",
+"published": 1789862049.0
+},
+{
+"source": "The Verge",
+"title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+"link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+"summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to descr…",
+"published": 1789850680.0
+},
+{
+"source": "TechCrunch",
+"title": "Flock reportedly tries to shrink workforce with employee buyouts",
+"link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+"summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+"published": 1789850353.0
+},
+{
+"source": "TechCrunch",
+"title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+"link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+"summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+"published": 1789847867.0
+},
+{
+"source": "TechCrunch",
+"title": "Google’s Gemini is the latest AI model to hack other companies",
+"link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+"summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+"published": 1789839000.0
+},
+{
+"source": "The Verge",
+"title": "Trump treads further on free speech with new journalist bans",
+"link": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+"summary": "On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from t…",
+"published": 1789837821.0
+},
+{
+"source": "TechCrunch",
+"title": "The US Navy just told us what’s on its tech wish list for the next several years",
+"link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+"summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should…",
+"published": 1789837200.0
+},
+{
+"source": "Solidot",
+"title": "大脑由两个不同的器官构成",
+"link": "https://www.solidot.org/story?sid=85426",
+"summary": "科学家几百年来一直将大脑视为单一的器官。但斯坦福大学医学院领导的一项新研究发现，大脑实际上由两个不同的器官构成，它们在数亿年里独立演化。这一发现推翻了大脑发育的主流模型。研究人员过去一直认为，在发育早期存在一个单一的祖细胞（progenitor cell），由此诞生了整个大脑。它暗示大脑的所有部分都有共同的发育起源。新的研究发现，人脑由两个古老的神经系统巧妙地结合而成——其中较原始的部分负责调节心跳、呼吸及其他生理功能；另一部分则赋予了人类特有的能力，使得人类能进行诗歌创作、…",
+"published": 1789836002.0
+},
+{
+"source": "爱范儿",
+"title": "专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本",
+"link": "https://www.ifanr.com/1680763?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "用不变的空间秩序，对抗折叠带来的「迷失感」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789833645.0
+},
+{
+"source": "Solidot",
+"title": "Android 17 QPR1 引入了 Pixel 暂时独占的新 API",
+"link": "https://www.solidot.org/story?sid=85425",
+"summary": "Android 安全加固项目 GrapheneOS 披露，Google 向其旗舰手机 Pixel 推送了 QPR1 更新，引入了新 API。而这些 API 没有提供给 Android 开源项目(AOSP)，这是自 Android Honeycomb (3.x) 以来从未有过的情况。新 API 为 Pixel 限时独占，其它 Android OEM 厂商无法获得。Google 现在只向 AOSP 项目提供年度版本和第二个季度更新版本 QPR2，第一个和第三个季度更新版本 QPR…",
+"published": 1789833188.0
+},
+{
+"source": "The Verge",
+"title": "Gemini went rogue, hacked three companies, and Google hid it",
+"link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+"summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities …",
+"published": 1789831503.0
+},
+{
+"source": "TechCrunch",
+"title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+"link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+"summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+"published": 1789830000.0
+},
+{
+"source": "TechCrunch",
+"title": "AI safety conversations have gotten unbelievable",
+"link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+"summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+"published": 1789830000.0
+},
+{
+"source": "The Verge",
+"title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+"link": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+"summary": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: Th…",
+"published": 1789830000.0
+},
+{
+"source": "The Verge",
+"title": "The colorful, unique Hyte X50 PC case is $50 off",
+"link": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+"summary": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX al…",
+"published": 1789830000.0
+},
+{
+"source": "36氪",
+"title": "淘宝闪购城市骑士制服荣获法国设计奖最高奖",
+"link": "https://36kr.com/newsflashes/3990416721607681?f=rss",
+"summary": "9月19日，2026年法国设计奖（French Design Award）颁奖典礼在巴黎举行，淘宝闪购城市骑士制服获颁金奖。这是该奖设立以来，首次将金奖授予一套面向一线劳动者的职业制服。城市骑士制服主设计师杨涛在致辞和采访中感谢阿里巴巴创始人马云。据杨涛介绍，马云是这套制服设计的发起者，其“情怀才是最好的设计师”这一表述促成了跨领域设计团队的组建。",
+"published": 1789827708.0
+},
+{
+"source": "TechCrunch",
+"title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+"link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+"summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+"published": 1789826400.0
+},
+{
+"source": "The Verge",
+"title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+"link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+"summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a pro…",
+"published": 1789826400.0
+},
+{
+"source": "Solidot",
+"title": "海豚 Bubbles 被发现会强迫饱腹鱼吐出食物然后自己将其吞下",
+"link": "https://www.solidot.org/story?sid=85424",
+"summary": "由于海豚的脸部看起来总是在微笑，出于拟人化心理，人类会假设海豚是大海里的好孩子。但行为类似恶棍的海豚并非不存在。根据发表在《Ecology and Evolution》期刊上的一篇论文，研究人员报告了一只生活在澳大利亚 大堡礁南部 Lady Elliott 岛附近的雄性宽吻海豚 Bubbles。Bubbles 有着被称为盗食寄生（kleptoparasitism）的行为，它会专门追逐刚刚饱餐一顿的大眼鲹（bigeye trevally），强迫它们吐出刚吞下的食物，然后自己去吞…",
+"published": 1789825892.0
+},
+{
+"source": "TechCrunch",
+"title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+"link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+"summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+"published": 1789822800.0
+},
+{
+"source": "The Verge",
+"title": "It’s not just LG. Every TV company is spying on you",
+"link": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+"summary": "The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to be off, track everythi…",
+"published": 1789822800.0
+},
+{
+"source": "The Verge",
+"title": "The AI regulation smackdown isn’t over",
+"link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+"summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding thir…",
+"published": 1789822800.0
+},
+{
+"source": "36氪",
+"title": "首家新设外资公募获QDII资格，QDII额度年内两次扩容",
+"link": "https://36kr.com/newsflashes/3990139264859145?f=rss",
+"summary": "近日，贝莱德基金获批合格境内机构投资者（QDII）资格，成为首家获批该资格的新设外资公募机构。在今年QDII额度两度扩容、证券基金类机构获批额度首次突破千亿美元的背景下，外资公募参与跨境投资市场的步伐进一步加快。今年以来，QDII通道扩容节奏明显加快。国家外汇管理局3月末公布的数据显示，全市场QDII累计批准额度较2025年末增加53亿美元，达到1761.69亿美元。8月底，外汇局再度发放68.4亿美元QDII额度，涉及89家机构。截至8月末，全市场196家机构累计获批QDI…",
+"published": 1789810773.0
+},
+{
+"source": "36氪",
+"title": "欧洲人士质疑美企提议放缓AI研发是“出于私利”",
+"link": "https://36kr.com/newsflashes/3990101614902277?f=rss",
+"summary": "欧洲科技企业和政府人士近期纷纷表态，质疑一些美国人工智能（AI）企业以安全为由提出放缓AI研发是“出于私利”，认为其真正目的是巩固自身优势并打压竞争者。近日，美国多名科技企业家呼吁放缓发展AI前沿技术。其中，Anthropic公司首席执行官达里奥·阿莫代伊在一篇文章中说，考虑到安全风险，AI企业需要放缓开发最先进模型的节奏。对于美国AI企业的提议，法国米斯特拉尔人工智能公司等欧洲AI企业表示反对。米斯特拉尔公司在一份声明中说：“部分行业头部企业正利用当下形势巩固市场地位，推动…",
+"published": 1789808475.0
+},
+{
+"source": "36氪",
+"title": "西贝回应倒闭传闻：目前全国门店均正常运营",
+"link": "https://36kr.com/newsflashes/3990036085554181?f=rss",
+"summary": "9月19日，针对网传“西贝将彻底倒闭”的消息，西贝回应界面新闻称，“目前全国门店均正常运营，我们也会继续用心做好产品与服务，继续坚守品质，用心接待每一位顾客。也恳请大家理性看待网络信息。”（界面）",
+"published": 1789804475.0
+},
+{
+"source": "36氪",
+"title": "同声传译大模型Qwen3.8-LiveTranslate正式发布",
+"link": "https://36kr.com/newsflashes/3990012778757129?f=rss",
+"summary": "36氪获悉，9月19日，据千问大模型消息，今日正式发布全新的同声传译大模型Qwen3.8-LiveTranslate，模型以Interleave架构重构实时同传，准确度、流畅度、简洁度全面提升，字均延迟（LAAL）从2.8秒降至2.3秒。",
+"published": 1789803053.0
+},
+{
+"source": "36氪",
+"title": "中信证券：极致散热登场 金刚石迎来产业化元年",
+"link": "https://36kr.com/newsflashes/3989963507333892?f=rss",
+"summary": "中信证券研报称，在AI芯片功耗陡峭攀升、传统金属散热逼近物理极限及金刚石制备技术工艺持续优化三重因素驱动下，金刚石散热行业有望迎来产业化元年的投资机遇。中信证券建议围绕率先商用交付和产能量产卡位显著两条主线布局：一、聚焦行业头部，率先实现散热片小批量供货、装备自研与产能规模领跑的企业有望充分受益于需求放量；二、关注工艺领先，具备大尺寸制造与全产业链能力，且加速扩产布局的相关企业。（财联社）",
+"published": 1789801298.0
+},
+{
+"source": "少数派",
+"title": "你的脸红是什么红：了解玫瑰痤疮",
+"link": "https://sspai.com/post/114641",
+"summary": "脸红发烫却没有小鹿乱撞：警惕玫瑰痤疮。查看全文",
+"published": 1789801200.0
+},
+{
+"source": "36氪",
+"title": "贵州茅台将新增广州与郑州两大发货仓",
+"link": "https://36kr.com/newsflashes/3989962558290695?f=rss",
+"summary": "据小茅i茅台官微消息，9月19日起，i茅台在原有贵阳、南京与北京三大发货仓的基础上，新增广州与郑州两大发货仓，根据订单实际情况就近发货。（证券时报）",
+"published": 1789800640.0
+},
+{
+"source": "36氪",
+"title": "今年前8个月开行旅游列车2501列，多地专列上新不断",
+"link": "https://36kr.com/newsflashes/3989954280815617?f=rss",
+"summary": "国铁集团消息，今年1月至8月，全国铁路发送旅客33.2亿人次，同比增长3.9%，创历史同期新高。全国铁路日均安排开行旅客列车11508列，同比增长5.0%。前8个月，跨境客流量增幅明显。广深港高铁发送跨境旅客2340.8万人次、同比增长10.7%，中老铁路发送跨境旅客24.5万人次、同比增长39.1%，全国铁路发送外籍旅客1668.3万人次、同比增长33.3%。（央视新闻）",
+"published": 1789800073.0
+},
+{
+"source": "36氪",
+"title": "华为：昇腾已跨过生态拐点，有能力有机会构建AI新生态",
+"link": "https://36kr.com/newsflashes/3989953466940166?f=rss",
+"summary": "9月19日，华为计算战略与业务发展部部长朱照生表示，昇腾已经跨越了生态的拐点，完全有能力、有机会在Agentic时代构建AI新生态。从社区来看，昇腾CANN开源社区月均活跃用户数超过5200人，自今年6月起成为国内活跃度最高的开源社区，社区非华为开发者数量超过华为开发者数量，目前日均新增合入代码超过3万行。模型层面，基于昇腾完成预训练的大语言模型和多模态模型已超过40个，昇腾成为国内唯一支持预训练的AI算力平台。生态层面，昇腾除自身开源CANN外，已接入PyTorch等主流开…",
+"published": 1789799433.0
+},
+{
+"source": "36氪",
+"title": "欧洲机构调整美债配置释放信号",
+"link": "https://36kr.com/newsflashes/3989898914577417?f=rss",
+"summary": "美国10年期国债收益率日前突破5%，为2007年以来最高水平。随着美国联邦政府债务总额8月突破40万亿美元，部分欧洲机构开始调整美债等资产配置，美债市场面临的压力进一步受到关注。挪威央行投资管理公司建议，将政府债券在其债券投资基准中的比重从70%降至50%。路透社测算，如果相关调整最终实施，该基金当前约2150亿美元的美国国债持仓可能减少近800亿美元，美国国债将成为此次调整中削减规模最大的单一政府债券品种。瑞士资产管理机构斯维斯坎托公司日前发布报告说，30年期美债收益率近期…",
+"published": 1789796103.0
+},
+{
+"source": "36氪",
+"title": "黄志强已任国家开发银行行长",
+"link": "https://36kr.com/newsflashes/3989878011362306?f=rss",
+"summary": "据国家开发银行网站“领导班子”栏目显示，黄志强已任国开行党委副书记、副董事长、行长。（e公司）",
+"published": 1789794827.0
+},
+{
+"source": "36氪",
+"title": "张雪机车发布五款车型，最贵卖13.8万元，张雪：国际品牌这个配置要卖150万，我们售价不到1/10",
+"link": "https://36kr.com/newsflashes/3989792990575365?f=rss",
+"summary": "2026中国摩博会期间，张雪机车亮相N7展馆。张雪机车同时举行新品发布会，五款车型同台首发，发布会由张雪机车创始人张雪主讲。此次发布的车型售价方面，600V售价27980元，27款500F售价30580元，820RR-RS售价138000元，820RR-RC售价128000元，820X售价46800-57800元。对于五款车型中售价最高的820RR-RS，张雪表示，13.8万元这个价格当然不便宜，但可能有些车友都知道，一些国际品牌给到这个配置的，要卖到150万元，“我们不到别…",
+"published": 1789792199.0
+},
+{
+"source": "36氪",
+"title": "8月底公募基金资产净值合计达39.63万亿元",
+"link": "https://36kr.com/newsflashes/3989791714262016?f=rss",
+"summary": "中国证券投资基金业协会最新发布的数据显示，截至2026年8月底，我国境内公募基金管理机构共165家，其中基金管理公司150家，取得公募资格的资产管理机构15家。以上机构管理的公募基金资产净值合计39.63万亿元，与7月底相比增长5293.09亿元，环比增长约1.35%。（上证报）",
+"published": 1789791291.0
+},
+{
+"source": "36氪",
+"title": "北京经开区发布全市首个新材料产业专项政策",
+"link": "https://36kr.com/newsflashes/3989770779376392?f=rss",
+"summary": "近日，北京经开区正式印发全市首个新材料产业专项政策——《北京经济技术开发区关于加快新材料产业创新发展的若干措施》，明确先进基础材料、关键战略材料、前沿创新材料三大支持方向，围绕坚持创新驱动、畅通成果转化、深化双向赋能、强化要素支撑四个方面，提出12条重点支持措施，全力打造新材料产业高地。（证券时报）",
+"published": 1789791215.0
+},
+{
+"source": "爱范儿",
+"title": "iPhone 18 拿到手了吗？首选配件可以先安排上了",
+"link": "https://www.ifanr.com/1680982?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "CASETiFY，新机可靠之选#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789790424.0
+},
+{
+"source": "36氪",
+"title": "工信部总工程师王卫明：将实施汽车标准提升专项行动，优化积分管理政策",
+"link": "https://36kr.com/newsflashes/3989707393612552?f=rss",
+"summary": "9月19日，工业和信息化部总工程师王卫明在2026中国汽车产业发展（泰达）国际论坛上表示，要进一步优化汽车行业管理，深入推进产品生产一致性和质量提升行动，守牢产品安全底线，实施汽车标准提升专项行动，充分发挥标准引领产业升级的作用，优化积分管理政策，建立动力电池数字身份证制度，抓好优化工作落实，常态化整治网络乱象，以钉钉子精神规范行业竞争秩序。（证券时报）",
+"published": 1789790167.0
+},
+{
+"source": "36氪",
+"title": "工信部总工程师王卫明：进一步提高汽车消费潜力，将出台汽车改装管理办法",
+"link": "https://36kr.com/newsflashes/3989705186409479?f=rss",
+"summary": "9月19日，工业和信息化部总工程师王卫明在2026中国汽车产业发展（泰达）国际论坛上表示，当前新一轮科技革命和产业革命深入推进，我国汽车产业也迎来提质增效转型升级的关键时期。为加强顶层谋划和各方协同，推动产业高质量��展，工业和信息化部牵头印发《智能网联新能源汽车产业发展“十五五”规划》，下一步，工信部将会同相关部门综合施策、精准发力，不断提升汽车产业创新力、竞争力、综合实力，加快推动汽车强国的建设。在扩大汽车市场消费方面，要实施好汽车“以旧换新”、新能源汽车下乡、县域充换电…",
+"published": 1789789487.0
+},
+{
+"source": "36氪",
+"title": "OpenAI等四家企业遭起诉，被指控合谋呼吁管控AI发展节奏",
+"link": "https://36kr.com/newsflashes/3989670755253248?f=rss",
+"summary": "当地时间周五提交至联邦法院的一份民事诉讼显示，人工智能巨头Anthropic、OpenAI、SpaceXAI以及谷歌因近期呼吁协同放缓人工智能研发速度，被指控存在串通行为。 诉状指出，Anthropic首席执行官达里奥·阿莫代伊本月早些时候公开呼吁“全行业协同”，以“管控人工智能前沿的发展节奏”，SpaceXAI负责人埃隆·马斯克、OpenAI首席执行官萨姆·奥尔特曼以及谷歌深度思维联合创始人德米斯·哈萨比斯均对此表示认同。依据美国反垄断法，上述行为属于竞争者之间达成的非法商…",
+"published": 1789788591.0
+},
+{
+"source": "36氪",
+"title": "新能源车险定价区间对标燃油车，车主续保保费要变",
+"link": "https://36kr.com/newsflashes/3989669298010886?f=rss",
+"summary": "新能源车险有望迎来新一轮定价规则调整。近日，从业内了解到，新能源商业车险自主定价系数区间预计调整为0.5―1.5，与燃油车保持一致。从多家产险公司了解到，2025年9月，新能源车险自主定价系数由0.65―1.35调整为0.6―1.4；2026年3月再次调整至0.55―1.45。此次市场预期调整至0.5―1.5，和燃油车一致。 燃油车现行商业车险自主定价系数区间为0.5―1.5。这意味着险企在基准保费基础上，自主定价系数最低可至0.5、最高可至1.5，但最终保费还要叠加NCD等…",
+"published": 1789787481.0
+},
+{
+"source": "36氪",
+"title": "证券业并表管理步入攻坚期",
+"link": "https://36kr.com/newsflashes/3989666884434689?f=rss",
+"summary": "随着证券业集团化、综合化经营提速，证券公司正把境内外子公司纳入同一张“风控地图”。记者日前从业内获悉，中国证券业协会前期向风险管理专业委员会开展了并表管理专项调研并形成了调研报告。报告显示，自2025年4月《证券公司并表管理指引（试行）》发布以来，多数券商已搭建并表管理基础框架，整体步入重点领域攻坚阶段。在1至3年过渡期安排下，机构间推进节奏差异明显。 报告建议，待并表风控指标运行稳定后，可研究允许符合条件的券商以并表口径实施风控指标监管，引导机构灵活高效配置资本，促进风险管…",
+"published": 1789786608.0
+},
+{
+"source": "36氪",
+"title": "上市券商中期分红渐次落地",
+"link": "https://36kr.com/newsflashes/3989666354068489?f=rss",
+"summary": "上市券商2026年中报披露结束后，其中期分红进展便成为投资者密切关注的话题之一。Wind数据显示，本周已有招商证券、红塔证券、第一创业3家上市券商完成中期权益分派工作，共派现超17亿元（含税，下同），另有24家券商公布中期分红方案，计划派现超260亿元。 从投资角度看，随着资本市场改革持续推进，券商各项主营业务有望全面受益，当前板块估值处于相对低位，相对稳健的基本面表现为券商估值修复提供了重要支撑，综合实力强劲、业务布局均衡的行业龙头券商以及财富管理、机构业务等领域具备差异化…",
+"published": 1789785739.0
+},
+{
+"source": "36氪",
+"title": "9点1氪丨住建部：4楼及以上住宅都要加装电梯；黄牛称iPhone 18 Pro没人要；今年最便宜的新股“沈鼓集团”，上市次日盘中涨幅近300%",
+"link": "https://36kr.com/p/3989629580114695?f=rss",
+"summary": "今日热点导览 OpenAI据报接近解决又一“千禧年大奖难题”，或将攻克霍奇猜想 黑客利用Anthropic的Claude入侵OpenAI 巴菲特宣布卸任伯克希尔哈撒韦董事长一职 苹果回应iPhone Duo维修贵 12306回应国庆假期高铁涨价 市场监管总局：拦截线上销售违规充电宝商品3.7万件，督促下架或拦截上架的店铺3831家 TOP 3 大新闻 住建部：4楼及以上住宅都要加装电梯 住房和城乡建设部新闻发言人、副部长陈绍旺在国新办新闻发布会上表示，“十五五”时期提升人民群…",
+"published": 1789779776.0
+},
+{
+"source": "TechCrunch",
+"title": "India forces caller-ID apps to feed spam reports to telcos",
+"link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+"summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+"published": 1789779600.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜iPhone 18 Pro昨天开卖：Pro Max加价，Pro破发/12306回应国庆票价上涨/宁德时代倪军：全固态电池至少还需5年",
+"link": "https://www.ifanr.com/1680956?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 赛力斯回应问界专属专营：用户权益不变，将择机进军轿车和 MPV · 钉钉创始人陈航出任百望股份非执行董事，年薪 10 万元 · 联想市值盘中超过美团，股价刷新高#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789779553.0
+},
 {
 "source": "TechCrunch",
 "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
@@ -12,6 +483,34 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "AI governance moves from observability to provable control",
+"link": "https://siliconangle.com/2026/09/19/ai-governance-provable-control-agentic-ai-thecube-appdevangle/",
+"summary": "As artificial intelligence agents move from experimental tools into production systems, enterprise governance is being forced to answer a harder question. It is no longer enough to know what an agent did. Organizations increasingly need to …",
+"published": 1789851017.0
+},
+{
+"source": "SiliconANGLE",
+"title": "What to expect during Oracle’s ‘AI Cyberattacks Are Escalating: How to Secure Your Data Now’ event: Join theCUBE on Sept. 22",
+"link": "https://siliconangle.com/2026/09/19/enterprise-security-oracle-ai-cybersecurity-thecube-oracleaicybersecurity/",
+"summary": "At a time when AI is introducing new risks to global systems, Oracle Corp. is shifting enterprise security toward the data layer. This approach, based on a three-pronged strategy to secure at source, secure at speed and secure through resil…",
+"published": 1789845644.0
+},
+{
+"source": "SiliconANGLE",
+"title": "At AGNTCon Europe, ensuring AI agents don’t kill us all",
+"link": "https://siliconangle.com/2026/09/19/at-agntcon-europe-ensuring-ai-agents-dont-kill-us-all/",
+"summary": "At this past week’s AGNTCon + MCPCon Europe 2026 conference in Amsterdam, the buzz around agentic artificial intelligence was palpable – but nobody was particularly worried that AI was going to kill us all. The frontier model vendors – none…",
+"published": 1789843284.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Salesforce after Dreamforce: How the CRM giant can grow beyond its own interface",
+"link": "https://siliconangle.com/2026/09/19/salesforce-after-dreamforce-how-the-crm-giant-can-grow-beyond-its-own-interface/",
+"summary": "Salesforce Inc.’s next growth opportunity just may come from customers spending less time in its interface, and having artificial intelligence agents do more of the work. Coming out of the customer relationship management company’s Dreamfor…",
+"published": 1789839496.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Data center builder Nscale files for IPO after multibillion-dollar Anthropic deal",

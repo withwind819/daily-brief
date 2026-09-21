@@ -1,0 +1,614 @@
+{
+"date": "2026-09-20",
+"total": 86,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "瞄准 AI 编程、金融等场景，单次成本仅为Opus 5 的1/8！这款国产旗舰模型跻身 AA 榜单全球前三",
+"link": "https://www.infoq.cn/article/9jw1St7ULZijG8XNCWkW?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789933952.0
+},
+{
+"source": "InfoQ 中国",
+"title": "比 Grok、Cursor 都狠？智谱ZCode“偷传代码”风波升级，企业发函追责",
+"link": "https://www.infoq.cn/article/huOiZyyH32MpRwTFkoNe?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789933584.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从“看见文字”到“读懂画面”：AI MediaKit 如何实现视频字幕无痕擦除",
+"link": "https://www.infoq.cn/article/Vqhz90IcQjPlqNXIbfAk?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789932218.0
+},
+{
+"source": "InfoQ 中国",
+"title": "70强会师杭州，世界人工智能开源大赛（GOAI）总决赛即将启幕",
+"link": "https://www.infoq.cn/article/MaOcETZFPCvAuFRQJps2?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789930069.0
+},
+{
+"source": "InfoQ 中国",
+"title": "全球AI Builders，9月杭州见｜GOAI开源周即将启幕",
+"link": "https://www.infoq.cn/article/r8605s0h2Lv8OwmyW9s1?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789928930.0
+},
+{
+"source": "InfoQ 中国",
+"title": "世界人工智能开源大赛（GOAI）总决赛70强名单公布",
+"link": "https://www.infoq.cn/article/7zz2HLNXEl0guawQCyJj?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789928144.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Java 27 来了：后量子密码学先落地，值类还要再等等",
+"link": "https://www.infoq.cn/article/0U1ZEhoNPAP8pGMktGiy?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789927500.0
+},
+{
+"source": "InfoQ 中国",
+"title": "硅基流动完成B+轮二期及C轮融资，年内累计融资近29亿元",
+"link": "https://www.infoq.cn/article/oP7tDkoaamphFBkDY8uW?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789926151.0
+},
+{
+"source": "The Decoder",
+"title": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
+"link": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/",
+"summary": "Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license bars commercial use,…",
+"published": 1789920652.0
+},
+{
+"source": "InfoQ 中国",
+"title": "微软开源 TauGrid，简化 Kubernetes AI 工作负载管理",
+"link": "https://www.infoq.cn/article/3FdzSfrzlb3vMDwsC1Ny?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789919160.0
+},
+{
+"source": "The Decoder",
+"title": "Tencent's Gander aims to keep talking while it works in the background",
+"link": "https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/",
+"summary": "Tencent's Gander processes speech, images, and text while handling tasks in the background. A \"cerebellum\" keeps the conversation going, while a swappable \"brain\" searches files, writes code, or tackles other complex work. Users can interru…",
+"published": 1789918890.0
+},
+{
+"source": "InfoQ 中国",
+"title": "最新桌面 Agent，AI 工作流解码办公效率提升",
+"link": "https://www.infoq.cn/article/EBIZhgc8pLujPiIum6Yt?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789916459.0
+},
+{
+"source": "量子位",
+"title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+"link": "https://www.qbitai.com/2026/09/492973.html",
+"summary": "剪映Hub+剪映助手，好用",
+"published": 1789914626.0
+},
+{
+"source": "量子位",
+"title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
+"link": "https://www.qbitai.com/2026/09/493068.html",
+"summary": "AI越来越能干，企业该怎么用",
+"published": 1789914232.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Dropbox 分享如何通过提升现有基础设施能效为 AI 腾出算力余量",
+"link": "https://www.infoq.cn/article/zVZhvQIW9BvrWd3SU7st?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789913160.0
+},
+{
+"source": "量子位",
+"title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+"link": "https://www.qbitai.com/2026/09/492946.html",
+"summary": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
+"published": 1789906961.0
+},
+{
+"source": "The Decoder",
+"title": "Runway wants to turn AI video generation into a live stream you control in real time",
+"link": "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/",
+"summary": "Runway wants to stream AI video as users prompt it, rather than make them wait for finished clips. The approach builds on GWM-1, its world model that generates video frame by frame. Beyond creative tools, Runway sees uses in robotics and au…",
+"published": 1789905419.0
+},
+{
+"source": "InfoQ 中国",
+"title": "“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂",
+"link": "https://www.infoq.cn/article/kCUJZby0B8SZ6kIlULQD?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789905099.0
+},
+{
+"source": "InfoQ 中国",
+"title": "React Native 的黄金时代，在 AI 手里结束了",
+"link": "https://www.infoq.cn/article/wKbZ8JlwJX26gTsW8r2o?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789904278.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Atlassian 通过关联指标、日志与追踪链路实现根因分析自动化",
+"link": "https://www.infoq.cn/article/YlrHfmA3R5k4Tl8iTO7Y?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789900740.0
+},
+{
+"source": "The Decoder",
+"title": "Daily AI usage in the U.S. has more than doubled in just six months",
+"link": "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/",
+"summary": "Surveys by Epoch AI and Ipsos suggest AI is becoming part of everyday life for more Americans. The share of US adults using AI almost daily more than doubled between March and August 2026, rising from 8 percent to 19 percent. Meanwhile, the…",
+"published": 1789898609.0
+},
+{
+"source": "InfoQ 中国",
+"title": "AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+"link": "https://www.infoq.cn/article/YoUBefokMC6MFP0otviQ?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789898400.0
+},
+{
+"source": "InfoQ 中国",
+"title": "九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
+"link": "https://www.infoq.cn/article/7V4eTBr4WwyJbQp7RTOK?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789898360.0
+},
+{
+"source": "The Decoder",
+"title": "Simulated students that make realistic mistakes help AI tutors learn faster",
+"link": "https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/",
+"summary": "Microsoft and the University of Illinois built StudentSim to replicate individual students from limited data and give AI tutors fast, low-cost feedback. In tests covering 60 students across chess, English, and math, it outperformed GPT-5.4.…",
+"published": 1789897832.0
+},
+{
+"source": "InfoQ 中国",
+"title": ".NET 11 RC1 来了：C# 15 转正，联合类型却引发争议",
+"link": "https://www.infoq.cn/article/mNChcSsgdSLLckYGTuSG?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789894800.0
+},
+{
+"source": "The Decoder",
+"title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth",
+"link": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/",
+"summary": "Trump announces an \"AI Force\" modeled after the Space Force and plans to appoint an \"AI czar\" with a \"high IQ.\" He claims AI could reach 25 percent of US economic output, rejects new regulation, and frames criticism of data centers as a lef…",
+"published": 1789894326.0
+},
+{
+"source": "The Decoder",
+"title": "Following OpenAI, Anthropic is also reportedly postponing its IPO",
+"link": "https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/",
+"summary": "Anthropic is reportedly delaying its IPO from October to November 2026 to present strong Q3 results. Investors expect a roughly $2 trillion valuation, but rising infrastructure costs, including $1.25 billion a month for its SpaceX deal alon…",
+"published": 1789893325.0
+},
+{
+"source": "量子位",
+"title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
+"link": "https://www.qbitai.com/2026/09/492939.html",
+"summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
+"published": 1789893032.0
+},
+{
+"source": "量子位",
+"title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+"link": "https://www.qbitai.com/2026/09/492912.html",
+"summary": "亚马逊云科技给企业安全用Agent打了个样",
+"published": 1789891273.0
+},
+{
+"source": "量子位",
+"title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
+"link": "https://www.qbitai.com/2026/09/492873.html",
+"summary": "腾势Z9S迎来成都车展首秀",
+"published": 1789890669.0
+},
+{
+"source": "量子位",
+"title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+"link": "https://www.qbitai.com/2026/09/492849.html",
+"summary": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+"published": 1789872498.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "8点1氪丨“电子工业大米”价格飙涨；报告显示农村彩礼均值降至3.86万元；特朗普要给“人工智能”改名",
+"link": "https://36kr.com/p/3992398887926784?f=rss",
+"summary": "今日热点导览 谷歌承认其AI模型在安全测试中侵入三家公司系统 博主曝西贝已起诉罗永浩，“就要开庭了” 公积金新规正式施行 许嵩背后公司太合音乐冲刺IPO 千叶珠宝多店清仓甩货，金饰低至990元/克 “啄木鸟维修换开关收2800元”后续：全额退费，并赔偿2000元 TOP 3 大新闻 “电子工业大米”价格最高涨十倍，高容量MLCC现货被炒至原价2至10倍 MLCC（多层陶瓷电容器），被业内称为“电子工业大米”。小到手机家电，大到AI服务器、新能源汽车，几乎所有电子设备都离不开。…",
+"published": 1789948699.0
+},
+{
+"source": "36氪",
+"title": "百万吨退役量逼近，动力电池“重生”堵点待破",
+"link": "https://36kr.com/newsflashes/3992393017965316?f=rss",
+"summary": "“目前，电池厂和车企在电芯设计时主要以整车安全为首要目标，几乎没有将易拆解考虑进去，即没有兼顾拆解的便利性。”一家动力电池回收企业的总经理表示。有受访专家表示，动力电池回收行业散乱特征仍突出，整个产业链存在信息孤岛等短板，补齐尚需时日。实际上，行业监管不断升级。日前，工信部科技司发布的《动力电池回收利用产业标准体系建设指南（2026版）》（征求意见稿）提出，到2030年，基本建成覆盖全产业链、产品全生命周期的动力电池回收利用标准体系，逐步形成资源高效利用、产业链全覆盖、国内国…",
+"published": 1789948685.0
+},
+{
+"source": "36氪",
+"title": "卡塔尔能源CEO：一旦霍尔木兹海峡重开，卡塔尔可在几周内恢复正常天然气运营",
+"link": "https://36kr.com/newsflashes/3992382054382593?f=rss",
+"summary": "据报道，卡塔尔能源CEO称，一旦霍尔木兹海峡重新开放，卡塔尔可以在几周内恢复正常的天然气运营；Golden Pass液化天然气项目第二和第三条生产线将在2027年投入运营。（界面）",
+"published": 1789948386.0
+},
+{
+"source": "36氪",
+"title": "日本65岁以上高龄者占比创历史新高",
+"link": "https://36kr.com/newsflashes/3992393496771584?f=rss",
+"summary": "日本总务省9月20日公布的人口推算数据显示，截至9月15日，日本65岁以上高龄者数量约为3624万人，约占总人口29.6%，占比创下历史新高。（新华社）",
+"published": 1789948360.0
+},
+{
+"source": "36氪",
+"title": "中信建投：智谱商业化提速，海外算力需求延续高景气",
+"link": "https://36kr.com/newsflashes/3992382704237576?f=rss",
+"summary": "36氪获悉，中信建投研报认为，9月18日，智谱上线GLM-5.3-FlashX，在国产算力集群支撑下进一步优化推理效率，并将2026年末ARR指引由24亿美元上调至30亿美元，验证国产大模型商业化持续加速。海外方面，Nebius再度上调GPU云租赁价格17%—21%，Marvell与GlobalFoundries扩充AI高速光互联芯片产能，黄仁勋预计英伟达2027年芯片销量约为今年两倍。我们认为，海内外AI训练、推理及基础设施需求仍处高景气，继续看好国产大模型及GPU/ASI…",
+"published": 1789948173.0
+},
+{
+"source": "36氪",
+"title": "华泰证券A股策略：反弹延续但需防节前扰动",
+"link": "https://36kr.com/newsflashes/3992373781625859?f=rss",
+"summary": "36氪获悉，华泰证券A股策略研报称，上周美联储加息落地后科技板块修复，短期海外流动性的不确定性阶段性消退或打开反弹窗口，前期受海外流动性预期压制的科技板块或较为受益，但国内经济与信贷数据偏弱、盈利修复广度回落、国庆节前效应偏谨慎仍构成压制因素，市场向上弹性或受限，维持反弹而非趋势性行情的判断。中期看结构性机会仍在，只是修复广度收窄，基调转向中性。配置上沿压制缓解的科技、创新药、有配置差的化工链布局，红利仍作底仓配置用以降低波动。",
+"published": 1789947813.0
+},
+{
+"source": "少数派",
+"title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃",
+"link": "https://sspai.com/post/114788",
+"summary": "微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃12306 称第三方购票可能更慢或失败特朗普提议为人工智能改名谷歌在 Android 17 中加入 Pixel 独占的 APIiPhone 18 Pro Max 支持固件限制电量以便发运苹果硬件工程副总裁表示不建议贴膜看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+"published": 1789943164.0
+},
+{
+"source": "TechCrunch",
+"title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+"link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+"summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+"published": 1789940468.0
+},
+{
+"source": "The Verge",
+"title": "No Dogs in Space is back to feed your need for obsessive music history",
+"link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
+"summary": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks were gearing up to a…",
+"published": 1789937517.0
+},
+{
+"source": "TechCrunch",
+"title": "World model companies are keeping a lot of secrets",
+"link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+"summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+"published": 1789936147.0
+},
+{
+"source": "TechCrunch",
+"title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+"link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+"summary": "Many of The Boring Company's announced project have not materialized.",
+"published": 1789933128.0
+},
+{
+"source": "TechCrunch",
+"title": "Is the AI industry really ready to slow down?",
+"link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+"summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+"published": 1789930564.0
+},
+{
+"source": "The Verge",
+"title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+"link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+"summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there wa…",
+"published": 1789930218.0
+},
+{
+"source": "TechCrunch",
+"title": "Vocci’s ring adds a new form factor to meeting note-taking",
+"link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+"summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+"published": 1789929172.0
+},
+{
+"source": "The Verge",
+"title": "Kojima Productions disputes reports the studio is in trouble",
+"link": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
+"summary": "After it was announced that Sony was dropping Hideo Kojima's Physint, and that instead the Metal Gear Solid creator's latest title would be coming to Xbox, there were a flurry of rumors about the falling out. Bloomberg reported that the dec…",
+"published": 1789928110.0
+},
+{
+"source": "TechCrunch",
+"title": "ScrollEd wants to turn textbooks into TikTok",
+"link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+"summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+"published": 1789927200.0
+},
+{
+"source": "Solidot",
+"title": "每个 英伟达 GPU 包含了 10-40 个 RISC-V 核心",
+"link": "https://www.solidot.org/story?sid=85436",
+"summary": "英伟达在 2024 年称当年它的 GPU 产品共使用了逾 10 亿 RISC-V 核心。这些 RISC-V 核心没有被用于图形渲染，而是充当了微控制器，执行各类辅助任务，根据型号不同，每个 GPU 包含了 10-40 个 RISC-V 核心。英伟达在 RISC-V 之前使用的是私有微控制器 FAst Logic CONtroller（Falcon）。Falcon 最早于 2005 年随 G98 引入，到了 2016 年单个 GPU 芯片集成了超过 15 个不同的 Falcon…",
+"published": 1789922480.0
+},
+{
+"source": "TechCrunch",
+"title": "New California law will penalize influencers who don’t disclose political ads",
+"link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+"summary": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
+"published": 1789921800.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+"link": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+"summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
+"published": 1789920120.0
+},
+{
+"source": "Solidot",
+"title": "美国俄勒冈州数据中心用电量接近总用电量的四分之一",
+"link": "https://www.solidot.org/story?sid=85435",
+"summary": "根据美国俄勒冈州的一份报告，该州有 111 个运营中的数据中心，建筑面积 2210 万平方英尺，2025 年用电量占到该州总用电量的 23%。该州还有 32 个数据中心处于建设中或规划中，将新增 690 万平方英尺的建筑面积。报告预测，到 2030 年该州数据中心的能耗将上升至近 25TWh，约占该州总电力需求的 31%-32%，相当于 250 万户家庭的用电量。报告称，这些数据中心直接提供了 2630 个就业岗位，占到了该州总人口的 0.06%。",
+"published": 1789919790.0
+},
+{
+"source": "Solidot",
+"title": "尼泊尔寻求从气候赔偿基金获得 2000 万美元的赔偿",
+"link": "https://www.solidot.org/story?sid=85434",
+"summary": "尼泊尔正面临从致命泥石流灾难后的艰巨重建任务。它寻求从气候赔偿基金 Fund for Responding to Loss and Damage 获得 2000 万美元的赔偿——即要求主要排放国承担责任，尼泊尔认为这场灾难是由气候变化引发的。尼泊尔外交部长 Shisir Khanal 表示，这不仅仅是寻求援助或慈善，更是一项关于正义以及“法律与道义责任”的诉求。他表示，该国的温室气体排放量几乎可忽略不计，但却要为一场并非由其引发的全球危机付出惨痛代价。相比数十亿美元的损失，2…",
+"published": 1789918919.0
+},
+{
+"source": "The Verge",
+"title": "Trump now says he wants to form an ‘AI Force’",
+"link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+"summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI devel…",
+"published": 1789918762.0
+},
+{
+"source": "Solidot",
+"title": "微软花费 12 万美元 token 将 Copilot 运行时移植到 Rust 语言",
+"link": "https://www.solidot.org/story?sid=85433",
+"summary": "微软利用使用 GPT-5.6 Sol 和 Claude Opus 4.8 的 AI 智能体、历时 14.5 周，花费 12 万美元 token 将 Copilot 运行时从 TypeScript 语言移植到 Rust 语言。该项目采用逐个更新运行时模块的方式执行，共进行了 135 次发布，平均每天提交约 1.3 个 Pull Request，最终将 43 万行 TypeScript 代码转换为 80 万行可用于生产的 Rust 代码。测试显示，原 TypeScript 代码每…",
+"published": 1789916999.0
+},
+{
+"source": "TechCrunch",
+"title": "A small but growing number of founders are betting on bringing people together offline",
+"link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+"summary": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the …",
+"published": 1789916400.0
+},
+{
+"source": "爱范儿",
+"title": "19999 元起，启元机器人想把「个人机器人」先卖进普通人的生活",
+"link": "https://www.ifanr.com/1681137?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "比造机器人更难的，可能是给机器人找到「应用」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789909839.0
+},
+{
+"source": "The Verge",
+"title": "A24’s reputation is on the line with the SCP Foundation movie",
+"link": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
+"summary": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as it was announced, the…",
+"published": 1789908348.0
+},
+{
+"source": "爱范儿",
+"title": "50年首款纯电后驱！史上最强 GTI，赶不上时代",
+"link": "https://www.ifanr.com/1681086?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "时代变了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789905873.0
+},
+{
+"source": "The Verge",
+"title": "A great new video game movie",
+"link": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
+"summary": "Hi, friends! Welcome to Installer No. 144, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I …",
+"published": 1789905600.0
+},
+{
+"source": "The Verge",
+"title": "The hidden monopoly behind your TI graphing calculator",
+"link": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
+"summary": "The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. In the next episode of Version History, David Pierce is joine…",
+"published": 1789905600.0
+},
+{
+"source": "The Verge",
+"title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+"link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+"summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving …",
+"published": 1789905600.0
+},
+{
+"source": "The Verge",
+"title": "All roads lead to cable",
+"link": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
+"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our subs…",
+"published": 1789905600.0
+},
+{
+"source": "Solidot",
+"title": "西班牙下令屏蔽 Archive.today 及相关存档网站",
+"link": "https://www.solidot.org/story?sid=85432",
+"summary": "西班牙政府下令屏蔽 Archive.today 及相关镜像域名 Archive.is、Archive.ph 和 Archive.li。Archive.today 等网站被广泛用于绕过付费墙，此前由于植入了 DDoS 脚本（至今还在）而被维基百科屏蔽。但西班牙的屏蔽与此无关，而是由于有人投诉该存档网站上有违规内容。此举属于行政决定，而非法院裁决。",
+"published": 1789901688.0
+},
+{
+"source": "Solidot",
+"title": "Ubuntu 26.10 改用 Linux 7.3 Kernel",
+"link": "https://www.solidot.org/story?sid=85431",
+"summary": "即将于下个月推出的 Ubuntu 26.10 将采用 Linux 7.3 Kernel，而不是原计划的 Linux 7.2。Linux 7.3 目前还是 RC3，预计最快于 10 月 18 日释出正式版，可能会延期一周到 10 月 25 日。而 Ubuntu 26.10 将于 10 月 1 日冻结内核，10 月 15 日释出正式版本，这意味着届时它使用的 7.3 Kernel 仍然会是 RC 状态。Ubuntu 项目此前已宣布它将会紧跟最新内核版本，而 26.10 是一个短期…",
+"published": 1789900419.0
+},
+{
+"source": "爱范儿",
+"title": "iPhone 18 Pro 系列开卖了，但苹果没告诉你的是……",
+"link": "https://www.ifanr.com/1681102?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "苹果总会在你看不见的地方下猛料。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789899852.0
+},
+{
+"source": "36氪",
+"title": "世界杯进入早场谁接住了清晨的餐饮订单？百威早点铺为百威无醇和店家找到了新的生意机会",
+"link": "https://36kr.com/p/3991595471895300?f=rss",
+"summary": "2026年美加墨世界杯共有104场赛事，换算成北京时间，半数以上比赛集中在清晨5点‑12点。对于国内上班族来说，观赛时间撞上睡眠、早餐与通勤，过去围绕深夜看球形成的消费模式，也随之发生改变。 消费数据已经体现出消费时段的转移。来自京东外卖的监测显示，世界杯期间凌晨4‑5点早餐订单较赛前上涨约60%，5‑6点订单增幅接近50%。虽然只是单一平台数据，不能代表整个行业，但足以说明清晨时段催生出新的消费需求。汉堡、汤粥、水饺这类方便配送、适合边看边吃的品类，增长速度超过传统早点。 …",
+"published": 1789899698.0
+},
+{
+"source": "Solidot",
+"title": "对所有亿万富翁征收 3% 的税能拯救数百万人的生命",
+"link": "https://www.solidot.org/story?sid=85430",
+"summary": "面向中低收入国家的人道主义与发展援助资金 Official development assistance(ODA)过去两年被大幅削减，但如果对亿万富翁征税，将可以填补资金缺口，有望拯救数百万人的生命。全世界资产逾 10 亿美元的亿万富翁超过 3000 人，他们的总资产达到创纪录的 20.1 万亿美元，比上一年增加了 4 万亿美元。如果对这些财富征收 3% 的税，有望到 2030 年将死亡人数减少 2950 万；征收 1% 的财富税则可减少 1510 万死亡人数。研究人员表示，…",
+"published": 1789897976.0
+},
+{
+"source": "36氪",
+"title": "主题演讲：从3000万到世界一流：长安汽车如何把速度转化为全球信任｜36氪2026 East Forward 出海大会",
+"link": "https://36kr.com/p/3991497021537285?f=rss",
+"summary": "2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。9月17日，以“潮起之时，靠岸相见”为主题的2026 East Forward第二届·36氪出海大会在上海举行。来自消费、科技、制造等领域的出海企业、投资机构，以及全球化服务商汇聚现场，围绕本地化经营、用户洞察、供应链、合规、渠道与全球组织等现实问题展开讨论。当“走出去”已不再是少数选择，企业需要面对真正的问题：如何在海外市场活下来、扎下去，把一次市场突破变成持续经营，并逐步建立属于自己的全球竞争力。 以下对话…",
+"published": 1789893902.0
+},
+{
+"source": "Solidot",
+"title": "科学家记录到产下死婴后伤心欲绝的雌鲸",
+"link": "https://www.solidot.org/story?sid=85429",
+"summary": "一项罕见的观察显示，座头鲸母亲在幼鲸死亡后可能会悲痛欲绝。2025 年科学家在 Gold Coast 南部观察到一头雌性座头鲸在产下一头推测已死亡的幼鲸后，与另一头伴游鲸鱼在一起。她陪伴幼鲸长达数小时，甚至可能持续了数天。齿鲸曾被观察母亲会将死去的幼鲸托举到水面，而这只座头鲸母亲则在水下凝视着幼鲸，表现出长时间的哀悼行为。研究人员表示，“了解非人类动物如何应对死亡，能让我们深入洞察它们的情感世界、社会纽带以及认知能力。”",
+"published": 1789893868.0
+},
+{
+"source": "36氪",
+"title": "大模型，开始集体变小",
+"link": "https://36kr.com/p/3991436755057415?f=rss",
+"summary": "文 | 李炤锋 王欣逸 编辑 | 张雨忻 在深圳，林舟所在的AI创业公司只有十个人，大部分工作都靠 AI 来完成——每天数百个Agent（智能体）同时运行，它们分头写代码、做研究。 而驱动这些Agent的，一直都是OpenAI的GPT系列模型。 但随着团队交给Agent的任务越来越多，林舟发现GPT跟不上了——他们当时使用的GPT5.6，一次只能同时处理两三个任务。“GPT能处理的并发任务有限，会耽误我们的工作进度。”林舟说，团队开始寻找能让更多任务同时运行、调用价格也更低的…",
+"published": 1789891200.0
+},
+{
+"source": "Solidot",
+"title": "学习新语言可能是老年人保持大脑健康的最佳方法",
+"link": "https://www.solidot.org/story?sid=85428",
+"summary": "学习另一门语言是一项高度复杂的脑力活动。它要求人们记忆单词、分辨陌生的声音、识别语言规律、推敲语法规则，在恰当的时刻提取出正确的表达。而这一切，都在人们进行倾听、理解并准备回应的同时发生。这些脑力活动也能帮助保持衰老大脑的健康吗？研究表明，答案是肯定的。愈来愈多的研究表明，语言学习和双语能力能带来认知上的益处——对老年人而言同样如此。学习另一门语言还能为沟通和社会交往创造机会。神经可塑性让大脑在一生中都具备保持改变的能力。学习陌生的语音、词汇和语法结构需要大脑形成并巩固神经连…",
+"published": 1789889529.0
+},
+{
+"source": "少数派",
+"title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记",
+"link": "https://sspai.com/post/114495",
+"summary": "这是一趟水陆空三栖的旅行——在万象的街头巷尾无意间推门而入点了一份炸五花肉套饭，味道香上了头发根；在万荣连跳两天水，最高的 8 米跳台跳下来砸得屁股很疼，各种户外活动性价比拉满；琅勃拉邦的慢生活，从清晨薄雾中的布施开始到日落时分反射着金光的湄公河结束。查看全文",
+"published": 1789887600.0
+},
+{
+"source": "Solidot",
+"title": "北美最大动物通道将动物车祸事故减少 91%",
+"link": "https://www.solidot.org/story?sid=85427",
+"summary": "通过美国科罗拉多州 Douglas 县和 El Paso 县的 I-25 高速公路多年来一直阻碍着动物的季节性迁徙，这条公路是许多动物的死亡之路。如今北美最大的野生动物专用通道将动物碰撞事故减少 91%。这条通道由跨越 I-25 的天桥，五条野生动物地下通道以及引导动物前往通道的围栏构成。天桥本身长 209 英尺、宽 200 英尺，于去年 12 月完工，整个工程耗资 1500 万美元。科罗拉多州交通部环境经理 Chuck Attardo 指出，减少野生动物碰撞事故不仅能挽救人…",
+"published": 1789886612.0
+},
+{
+"source": "36氪",
+"title": "不是公司，也可以来36氪聊聊你的创意",
+"link": "https://36kr.com/p/3991373552368391?f=rss",
+"summary": "不是公司，也可以来36氪聊聊你的创意 很多人看到「36氪项目推荐」，第一反应可能是： “我还没注册公司，可以吗？”“项目还只是一个想法，可以吗？”“没有融资、没有团队、没有漂亮的数据，可以吗？” 可以！！！ 如果你手里有一个正在认真做的创意，或者一个已经开始验证的想法，都可以来和我们建联。 不一定非要是一家成熟公司。 可能你正在做一个新产品，可能你发现了一个很具体的需求，可能你正在尝试一种新的商业模式，也可能只是有一个自己觉得很有意思、正在慢慢验证的想法。 我们更想看到的，是…",
+"published": 1789886144.0
+},
+{
+"source": "爱范儿",
+"title": "苹果最强芯片 M8 Ultra，能让 Mac 重回服务器市场吗？",
+"link": "https://www.ifanr.com/1681050?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "在特努斯时代，完成乔布斯的未竟事业#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789885407.0
+},
+{
+"source": "爱范儿",
+"title": "体验完 Step 5 Preview，我发现阶跃重新坐上国产大模型主桌",
+"link": "https://www.ifanr.com/1680881?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "模型入海，阶跃走向人群#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789876816.0
+},
+{
+"source": "36氪",
+"title": "开场致辞：走出去了，然后呢？｜36氪2026 East Forward 出海大会",
+"link": "https://36kr.com/p/3991165694442497?f=rss",
+"summary": "2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。9月17日，以“潮起之时，靠岸相见”为主题的2026 East Forward第二届·36氪出海大会在上海举行。来自消费、科技、制造等领域的出海企业、投资机构，以及全球化服务商汇聚现场，围绕本地化经营、用户洞察、供应链、合规、渠道与全球组织等现实问题展开讨论。当“走出去”已不再是少数选择，企业需要面对真正的问题：如何在海外市场活下来、扎下去，把一次市场突破变成持续经营，并逐步建立属于自己的全球竞争力。 以下对话…",
+"published": 1789873580.0
+},
+{
+"source": "36氪",
+"title": "主题演讲：从“走出去”到“活下来”｜36氪2026 East Forward 出海大会",
+"link": "https://36kr.com/p/3991158757440258?f=rss",
+"summary": "2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。9月17日，以“潮起之时，靠岸相见”为主题的2026 East Forward第二届·36氪出海大会在上海举行。来自消费、科技、制造等领域的出海企业、投资机构，以及全球化服务商汇聚现场，围绕本地化经营、用户洞察、供应链、合规、渠道与全球组织等现实问题展开讨论。当“走出去”已不再是少数选择，企业需要面对真正的问题：如何在海外市场活下来、扎下去，把一次市场突破变成持续经营，并逐步建立属于自己的全球竞争力。 以下对话…",
+"published": 1789873314.0
+},
+{
+"source": "少数派",
+"title": "给电话加上「辅助驾驶」？我们想听听你的意见",
+"link": "https://sspai.com/post/114717",
+"summary": "会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打电话，也不轻松。邀约 ...查看全文",
+"published": 1789873307.0
+},
+{
+"source": "36氪",
+"title": "主题演讲：掌阅 · AI短剧出海｜36氪2026 East Forward 出海大会",
+"link": "https://36kr.com/p/3991133875616771?f=rss",
+"summary": "2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。9月17日，以“潮起之时，靠岸相见”为主题的2026 East Forward第二届·36氪出海大会在上海举行。来自消费、科技、制造等领域的出海企业、投资机构，以及全球化服务商汇聚现场，围绕本地化经营、用户洞察、供应链、合规、渠道与全球组织等现实问题展开讨论。当“走出去”已不再是少数选择，企业需要面对真正的问题：如何在海外市场活下来、扎下去，把一次市场突破变成持续经营，并逐步建立属于自己的全球竞争力。 以下对话…",
+"published": 1789871986.0
+},
+{
+"source": "36氪",
+"title": "从智能硬件到宠物数字生命体，这家公司正在构建AI驱动的宠物智能生态｜36氪首发",
+"link": "https://36kr.com/p/3991141712903171?f=rss",
+"summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，宠物智能科技品牌Moonback近日完成数千万元首轮融资，投资机构为AI上市公司。本轮融资将主要用于AI算法、研发和市场团队建设。 宠物经济在全球范围内持续增长。 美国宠物用品协会（APPA）数据显示，2025年美国宠物行业消费额达到1580亿美元，同比增长3.7%，预计2026年进一步增至1650亿美元；2025年，美国约有9500万户家庭至少饲养一只宠物。 过去，宠物智能硬件的主要功能仍集中在自动喂食、自动清洁、定位和远程看护…",
+"published": 1789871983.0
+},
+{
+"source": "36氪",
+"title": "36氪首发丨拿下国内航空航天装配机器人近70%份额，国产大飞机制造设备供应商获数千万元融资",
+"link": "https://36kr.com/p/3991119011052291?f=rss",
+"summary": "作者 | 乔钰杰 编辑 | 袁斯来 本文约2800字，建议阅读8分钟 硬氪获悉，航空航天装配机器人公司飞钛智造科技（绍兴）有限公司（下称“飞钛”）近日完成数千万元融资，由海愿资本、浙大控股领投，中富创业、金柯桐创、南通江海英才天使投资基金和天使投资人等跟投。 飞钛专注于航空航天智能制造领域，公司通过自研高精度具身智能机器人与智能装配产线整体交付方案，解决航空制造中大型结构件装配精度低、人工依赖度高及数据保密等核心痛点，目前已占据国内航空航天装配机器人近70%份额。 飞钛创始人…",
+"published": 1789870688.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Trump says he’s planning to create an ‘AI Force’ and hire a new AI czar",
+"link": "https://siliconangle.com/2026/09/20/trump-says-hes-planning-to-create-an-ai-force-and-hire-a-new-ai-czar/",
+"summary": "U.S. President Donald Trump said on Saturday that he is going to establish an “AI Force” and will also appoint a new AI czar, while dismissing concerns raised about the potential dangers of artificial intelligence technology taking over the…",
+"published": 1789947472.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Pacing AI won’t solve the governance gap",
+"link": "https://siliconangle.com/2026/09/20/pacing-ai-wont-solve-the-governance-gap/",
+"summary": "In May 1972, Richard Nixon and Leonid Brezhnev signed the agreements known as SALT I after years of negotiations over weapons capable of destroying both countries. Even with mutual annihilation as an incentive to cooperate, neither side wou…",
+"published": 1789932746.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Dynamic model routing will follow the path blazed by software-defined wide-area networks",
+"link": "https://siliconangle.com/2026/09/20/dynamic-model-routing-will-follow-the-path-blazed-by-software-defined-wide-area-networks/",
+"summary": "Stripe Inc.’s planned acquisition of OpenRouter Inc. put a spotlight on dynamic model routing. Information technology organizations need to understand what dynamic model routing is all about, as it will have significant impacts on cost, qua…",
+"published": 1789932738.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Why AI inference must become a commodity",
+"link": "https://siliconangle.com/2026/09/20/why-ai-inference-must-become-a-commodity/",
+"summary": "The future of artificial intelligence inference isn’t premium; it’s ubiquitous and commoditized. That may sound odd coming from someone in the AI semiconductor business. Conventional wisdom suggests commoditization destroys value, so if AI …",
+"published": 1789932731.0
+}
+]
+}
+}

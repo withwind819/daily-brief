@@ -1,8 +1,703 @@
 {
 "date": "2026-09-21",
-"total": 16,
+"total": 131,
 "categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "MiniMax H3 开源后，本地 AIGC 走到了哪里？",
+"link": "https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790026260.0
+},
+{
+"source": "InfoQ 中国",
+"title": "70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作",
+"link": "https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790015003.0
+},
+{
+"source": "InfoQ 中国",
+"title": "70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么",
+"link": "https://www.infoq.cn/article/ihH1ltOG7d2YCelYKJYe?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790014863.0
+},
+{
+"source": "InfoQ 中国",
+"title": "70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
+"link": "https://www.infoq.cn/article/te2qjg2J6Ausgc6vAeNy?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790014709.0
+},
+{
+"source": "InfoQ 中国",
+"title": "70强项目观察之新智基座：Agent正在从“会聊”走向“会干活”",
+"link": "https://www.infoq.cn/article/G58AHJw8gT8CQuiq5sap?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790014551.0
+},
+{
+"source": "The Decoder",
+"title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents",
+"link": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/",
+"summary": "The UN's AI science panel warns in its first thematic report that control over AI agents isn't assured. Co-chair Yoshua Bengio says OpenAI's Hugging Face incident first combined a misaligned goal, the ability to pursue it, and an environmen…",
+"published": 1790012650.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Lambda SnapStart 现已支持容器镜像",
+"link": "https://www.infoq.cn/article/CIMVueKAjDLqU6zy54Os?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790012220.0
+},
+{
+"source": "InfoQ 中国",
+"title": "《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
+"link": "https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790010421.0
+},
+{
+"source": "The Decoder",
+"title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
+"link": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/",
+"summary": "xAI has released Grok 4.7, its most capable model yet. But on the Artificial Analysis Intelligence Index, it scores just 46 points, landing mid-pack and well behind Claude Fable 5.1 and GPT-6 at 53 each. The gap grows even wider in agentic …",
+"published": 1790009796.0
+},
+{
+"source": "InfoQ 中国",
+"title": "祥峰再次出手，超维动力获超 5 亿融资，我们拆解了这家公司的全栈路线",
+"link": "https://www.infoq.cn/article/rIpDfDZXDoN9L7akct7e?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790009115.0
+},
+{
+"source": "The Decoder",
+"title": "ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen",
+"link": "https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/",
+"summary": "Bytedance launched Dramagic, an AI platform that handles the entire short drama production pipeline, from script to video preview. Demand for these videos is surging in China: In Q1 2026 alone, 128,000 short dramas were released there, 95 p…",
+"published": 1790006491.0
+},
+{
+"source": "InfoQ 中国",
+"title": "黄仁勋把矛头对准 AI 实验室：别先谈末日，先为已经发生的事故负责",
+"link": "https://www.infoq.cn/article/xlQFjzl2mGPSYJq1RDod?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790005547.0
+},
+{
+"source": "InfoQ 中国",
+"title": "智能效能进阶：丰富模型选择，实现智能路由",
+"link": "https://www.infoq.cn/article/at5IL3FiObSQ4y9gBv0a?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790004263.0
+},
+{
+"source": "InfoQ 中国",
+"title": "开源项目为 Apple Silicon 带来了完整的 iOS 27 虚拟化功能",
+"link": "https://www.infoq.cn/article/VqzNwHg56aUUjh9PvVCW?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790003040.0
+},
+{
+"source": "InfoQ 中国",
+"title": "开箱即上岗！璇玑动力首发Hypertron-SW01中型四足机器人",
+"link": "https://www.infoq.cn/article/IhCGKqeVbMIbdhVLbavr?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790001402.0
+},
+{
+"source": "The Decoder",
+"title": "SoftBank to borrow over $11 billion in risky bonds for OpenAI stake",
+"link": "https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/",
+"summary": "SoftBank plans to borrow more than $11 billion from investors through risky bonds to fund another payment for its stake in OpenAI. The article SoftBank to borrow over $11 billion in risky bonds for OpenAI stake appeared first on The Decoder…",
+"published": 1790001311.0
+},
+{
+"source": "InfoQ 中国",
+"title": "纯 LLM 做 NL2SQL 总不准？金融场景为什么必须做本体工程",
+"link": "https://www.infoq.cn/article/TcTrU2Ap9VsxxHVestfw?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790000412.0
+},
+{
+"source": "InfoQ 中国",
+"title": "IDC评估中国 AI算力管理平台：范式综合评分位列第一",
+"link": "https://www.infoq.cn/article/mMNcVfyGXtyFhPM0sKvN?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789999836.0
+},
+{
+"source": "The Decoder",
+"title": "Bristol researchers say medicine already knows how to handle black boxes and AI could learn from it",
+"link": "https://the-decoder.com/bristol-researchers-say-medicine-already-knows-how-to-handle-black-boxes-and-ai-could-learn-from-it/",
+"summary": "Researchers at the University of Bristol want to make medical AI systems safer by borrowing from how drugs get approved. Their \"Learning Ensemble\" framework defines three areas to check, including system limits, fairness across patient grou…",
+"published": 1789999588.0
+},
+{
+"source": "InfoQ 中国",
+"title": "不靠最强大模型，也能拿全球第一？OceanBase 的 “纯国产组合” 登顶国际 Data Agent 榜",
+"link": "https://www.infoq.cn/article/Obuxu1mvY9p6RNOlxFGc?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789999102.0
+},
+{
+"source": "The Decoder",
+"title": "US and China agree on AI dialogue with security mechanism ahead of Trump-Xi summit",
+"link": "https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/",
+"summary": "The US and China have agreed to an official AI dialogue. US Treasury Secretary Bessent also proposed a notification mechanism for AI incidents at the national security level. The announcement comes just before Thursday's summit between Trum…",
+"published": 1789998213.0
+},
+{
+"source": "The Decoder",
+"title": "Amazon blocks Meta's AI agent Muse from online shopping",
+"link": "https://the-decoder.com/amazon-blocks-metas-ai-agent-muse-from-online-shopping/",
+"summary": "Amazon has blocked Meta's new AI agent Muse from shopping on Amazon.com. The article Amazon blocks Meta's AI agent Muse from online shopping appeared first on The Decoder.",
+"published": 1789997871.0
+},
+{
+"source": "InfoQ 中国",
+"title": "GitHub Copilot 推出 HydraFusion 项目，依托多模型路由实现前沿级性能",
+"link": "https://www.infoq.cn/article/FK2ZF2u01pt45uEAqQFq?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789996560.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Advisory Group on Mathematics and Artificial Intelligence",
+"link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+"summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+"published": 1789992000.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+"link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+"summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+"published": 1789992000.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+"link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+"summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dyi…",
+"published": 1789992000.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+"link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+"summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undet…",
+"published": 1789992000.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+"link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+"summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern…",
+"published": 1789992000.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "She died at the San Diego border. A surveillance camera was in plain sight",
+"link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+"summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending v…",
+"published": 1789992000.0
+},
+{
+"source": "InfoQ 中国",
+"title": "什么时候值得采用规范驱动开发",
+"link": "https://www.infoq.cn/article/bpmpPWNjXSljJI69kaN0?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789989120.0
+},
+{
+"source": "InfoQ 中国",
+"title": "AI4S走出实验室：材料研发开始跨越“中试鸿沟”",
+"link": "https://www.infoq.cn/article/rSTAidV81IITt3lgMROZ?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789986136.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Building standards for the next phase of AI",
+"link": "https://openai.com/index/building-standards-next-phase-ai",
+"summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+"published": 1789984800.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Altum：蚂蚁集团新一代大模型训练数据处理系统设计与实践｜QCon上海",
+"link": "https://www.infoq.cn/article/AGIRRRtM1lBDFIvwWuRX?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1789984800.0
+},
+{
+"source": "量子位",
+"title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
+"link": "https://www.qbitai.com/2026/09/493268.html",
+"summary": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！",
+"published": 1789979144.0
+},
+{
+"source": "量子位",
+"title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+"link": "https://www.qbitai.com/2026/09/493241.html",
+"summary": "97%尝试危险行为",
+"published": 1789978915.0
+},
+{
+"source": "量子位",
+"title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+"link": "https://www.qbitai.com/2026/09/493235.html",
+"summary": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+"published": 1789977166.0
+},
+{
+"source": "量子位",
+"title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+"link": "https://www.qbitai.com/2026/09/493231.html",
+"summary": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+"published": 1789975886.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Expanding OpenAI Academy with new learning paths",
+"link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+"summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+"published": 1789974000.0
+},
+{
+"source": "量子位",
+"title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+"link": "https://www.qbitai.com/2026/09/493218.html",
+"summary": "在物理世界真正干活的具身智能体",
+"published": 1789971757.0
+},
+{
+"source": "量子位",
+"title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
+"link": "https://www.qbitai.com/2026/09/493179.html",
+"summary": "激活参数仅27B",
+"published": 1789962403.0
+},
+{
+"source": "量子位",
+"title": "中国Neocloud市场第一！商汤大装置全面领跑",
+"link": "https://www.qbitai.com/2026/09/493175.html",
+"summary": "沙利文报告",
+"published": 1789961523.0
+},
+{
+"source": "量子位",
+"title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+"link": "https://www.qbitai.com/2026/09/493114.html",
+"summary": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
+"published": 1789957726.0
+},
+{
+"source": "量子位",
+"title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
+"link": "https://www.qbitai.com/2026/09/493109.html",
+"summary": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
+"published": 1789957053.0
+},
+{
+"source": "量子位",
+"title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
+"link": "https://www.qbitai.com/2026/09/493091.html",
+"summary": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
+"published": 1789955330.0
+},
+{
+"source": "OpenAI 博客",
+"title": "How V7 gives AI agents institutional memory",
+"link": "https://openai.com/index/v7",
+"summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+"published": 1789948800.0
+}
+],
 "科技": [
+{
+"source": "The Verge",
+"title": "A cut cable disrupted hundreds of flights across the US",
+"link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+"summary": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the disco…",
+"published": 1790034536.0
+},
+{
+"source": "TechCrunch",
+"title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+"link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+"summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+"published": 1790034268.0
+},
+{
+"source": "The Verge",
+"title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+"link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+"summary": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting s…",
+"published": 1790032532.0
+},
+{
+"source": "The Verge",
+"title": "California tightens rules on AI data center energy and water use",
+"link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+"summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Co…",
+"published": 1790022585.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+"link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+"summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+"published": 1790021758.0
+},
+{
+"source": "TechCrunch",
+"title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+"link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+"summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on S…",
+"published": 1790018700.0
+},
+{
+"source": "TechCrunch",
+"title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+"link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+"summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+"published": 1790018361.0
+},
+{
+"source": "TechCrunch",
+"title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+"link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+"summary": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.",
+"published": 1790014985.0
+},
+{
+"source": "TechCrunch",
+"title": "Meta’s AI agent has been blocked from using Amazon.com",
+"link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+"summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+"published": 1790013318.0
+},
+{
+"source": "The Verge",
+"title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
+"link": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
+"summary": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems that the automaker made a big deal about …",
+"published": 1790012874.0
+},
+{
+"source": "TechCrunch",
+"title": "X will now tell users when governments have forced it to limit their posts",
+"link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+"summary": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
+"published": 1790012735.0
+},
+{
+"source": "The Verge",
+"title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
+"link": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
+"summary": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media …",
+"published": 1790012535.0
+},
+{
+"source": "TechCrunch",
+"title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
+"link": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+"summary": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
+"published": 1790009147.0
+},
+{
+"source": "TechCrunch",
+"title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+"link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+"summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+"published": 1790008731.0
+},
+{
+"source": "The Verge",
+"title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
+"link": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
+"summary": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie created six years ago, …",
+"published": 1790008559.0
+},
+{
+"source": "Solidot",
+"title": "Google 因地理位置数据处理被爱尔兰罚款 4.03 亿欧元",
+"link": "https://www.solidot.org/story?sid=85447",
+"summary": "Google 因地理位置数据处理被爱尔兰数据保护委员会（DPC）罚款 4.03 亿欧元。DPC 对 Google 的调查持续了六年，涉及 Google 在 2018 年 5 月 25 日至 2020 年 2 月 4 日间 Web & App Activity、Location History 和 Location Accuracy 三项功能的位置数据处理。DPC 的报告认为 Google 的位置数据处理违反了 2018 年生效的数据保护法律 GDPR，可能导致用户未意识到自己…",
+"published": 1790008003.0
+},
+{
+"source": "36氪",
+"title": "科氪 | 破晓先行，智领未来！华硕商用破晓家族拥抱AI Agent时代",
+"link": "https://36kr.com/p/3993338830486272?f=rss",
+"summary": "9月21日，以“破晓先行，智领未来”为主题的华硕商用破晓系列品鉴会在北京举行。围绕AI Agent时代的办公需求，华硕商用集中展示了涵盖笔记本、台式机、一体机、迷你主机在内的破晓家族产品，并正式发布轻薄商务本——华硕破晓Air。 官方图片 活动现场，华硕商用依托出色的端侧硬件实力，融合英特尔AI算力与腾讯WorkBuddy平台，打造SMB中小企业办公区与OPC一人AI漫剧工作室两大体验场景，呈现商用终端与AI应用协同的完整路径。从小微团队的业务协作到独立创作者的内容生产，AI…",
+"published": 1790006633.0
+},
+{
+"source": "36氪",
+"title": "VC追着投的RSI究竟是什么？姚顺宇、施天麟与清华/上交的教授们给出了回答",
+"link": "https://36kr.com/p/3993088800848645?f=rss",
+"summary": "文｜王欣逸 编辑｜张雨忻 RSI（递归式自我改进）火的一塌糊涂。 周六，上海西岸，汇聚了一批最聪明的人类大脑，以及试图让AI也获得聪明大脑能力的人。 大洋彼岸，数月没有露面、宣称Gemini 3.8 Flash是“RSI的一大步”的姚顺宇，正在电话那头等候；成立半年估值46.5亿美元、押注AI自进化的硅谷创业公司Recursive Superintelligence，其联合创始人施天麟，也加入了这场讨论。 他们为了一个共同的命题而来：资本涌入的RSI赛道，正在发生着什么？ R…",
+"published": 1790005351.0
+},
+{
+"source": "The Verge",
+"title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
+"link": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
+"summary": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fa…",
+"published": 1790003612.0
+},
+{
+"source": "TechCrunch",
+"title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+"link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+"summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+"published": 1790002800.0
+},
+{
+"source": "TechCrunch",
+"title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+"link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+"summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
+"published": 1790001562.0
+},
+{
+"source": "Solidot",
+"title": "Googlebooks 于 10 月 4 日上市，最低 899 美元",
+"link": "https://www.solidot.org/story?sid=85446",
+"summary": "深度集成 Gemini、运行 Android 的笔记本电脑 Googlebooks 将于 10 月 4 日上市。Google 硬件合作伙伴中除了宏碁推出一款起售价 899 美元的型号外，其余厂商的产品都超过 1000 美元。Googlebook 不同于 Chromebook 面向低端市场，它面向的是中端笔记本电脑市场。Googlebooks 的 Continue On 功能允许用户在手机或 Googlebook 之间无缝切换，但需要应用开发者支持；Cast My Apps 可…",
+"published": 1790001145.0
+},
+{
+"source": "TechCrunch",
+"title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+"link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+"summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+"published": 1790001000.0
+},
+{
+"source": "TechCrunch",
+"title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+"link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+"summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense star…",
+"published": 1790000100.0
+},
+{
+"source": "The Verge",
+"title": "Can John Ternus find Apple’s next big thing?",
+"link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+"summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annual iPhone hardware e…",
+"published": 1789999200.0
+},
+{
+"source": "爱范儿",
+"title": "日产新一代 Skyline 要来了！搭载双涡轮 V6，还会有 6 速手动挡？",
+"link": "https://www.ifanr.com/1681312?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "新 Skyline 不需要复制过去的传奇，它只需要找准自己的定位。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789998613.0
+},
+{
+"source": "TechCrunch",
+"title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+"link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+"summary": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.",
+"published": 1789998540.0
+},
+{
+"source": "Solidot",
+"title": "AI 聊天机器人经常给出错误的财务问题答案",
+"link": "https://www.solidot.org/story?sid=85445",
+"summary": "Saturn 的一项研究显示，ChatGPT、Claude、Copilot、Grok 和 Gemini 等主流 AI 模型在回答财务相关问题时，平均有 57% 会给出错误答案。研究使用了逾百个财务相关问题，分别测试了 ChatGPT、Gemini、Claude 和 Copilot 提供的免费及付费 AI 模型。每个问题最多重复提问五次，向 18 种 AI 模型共提出了逾 10,000 个问题。研究发现，AI 模型的回答中包含计算错误、遗漏即将实施的税收政策变更，或是凭空捏造规…",
+"published": 1789997977.0
+},
+{
+"source": "The Verge",
+"title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+"link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+"summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any i…",
+"published": 1789997812.0
+},
+{
+"source": "The Verge",
+"title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+"link": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
+"summary": "Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that en…",
+"published": 1789996585.0
+},
+{
+"source": "爱范儿",
+"title": "新 Mac mini 首发实测：我的第一台「多 Agent」电脑",
+"link": "https://www.ifanr.com/1681211?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "能跑大模型只是 AI PC 的起点#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789996012.0
+},
+{
+"source": "Solidot",
+"title": "婴儿潮一代沉迷于社交网络",
+"link": "https://www.solidot.org/story?sid=85444",
+"summary": "青少年有社交网络成瘾问题，年龄超过 60 岁的婴儿潮一代也存在类似问题。YouGov 在 2026 年进行的一项民调发现，55 岁以上人群有超过五成每周至少使用一次社交媒体。62 岁的 Tracie 女士说，拿起手机就忘记放下了，称很多同龄人都沉迷于不断向下滑动手机屏幕浏览信息。Surrey 大学副教授 Brigitte Stangl 认为，社交媒体在缓解老年人孤独感方面非常有效，“上网可消除行动不便或交通出行困难带来的问题”——这些问题对老年群体影响最为显著。61 岁的演员…",
+"published": 1789995783.0
+},
+{
+"source": "少数派",
+"title": "一台主机，多重角色：新款 Mac mini 首发体验",
+"link": "https://sspai.com/post/114829",
+"summary": "Macmini虽然不是性能最强、体验最完整的Mac电脑，但在AI时代，它或许比以往任何时候都更适合家庭用户。从年初OpenClaw的现象级走红，到如今Codex引领Agent工作方式潮流，这台小巧精悍 ...查看全文",
+"published": 1789995778.0
+},
+{
+"source": "爱范儿",
+"title": "摁！TA 总能直出决定性瞬间",
+"link": "https://www.ifanr.com/1681350?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "有多少你曾误以为是「废片」的瞬间？其实处处都藏着「决定性瞬间」，vivo X500 Pro Max 让每个人都能放下旅行出片的压力，先生活，再出片。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789994472.0
+},
+{
+"source": "Solidot",
+"title": "雷达证据表明图坦卡蒙陵墓有隐藏密室",
+"link": "https://www.solidot.org/story?sid=85443",
+"summary": "位于埃及帝王谷的图坦卡蒙陵墓一直令考古学家困惑不已，怀疑墙壁后面有隐藏密室。借助于雷达，研究人员认为他们找到了密室存在的证据。但是否发掘密室还需要等待埃及最高文物委员会的批准。如果批准，发掘工作最快将于 11 月启动。图坦卡蒙陵墓建于公元前 14 世纪，于 1922 年被发现。英国埃及学家 Nicholas Reeves 认为，隐藏密室可能是图坦卡蒙前任统治者娜芙蒂蒂（Nefertiti）的安息地—— 娜芙蒂蒂是法老阿肯纳顿的王后，她的女儿安克姗海娜曼嫁给了同父异母的弟弟图坦…",
+"published": 1789988210.0
+},
+{
+"source": "爱范儿",
+"title": "理想智驾被指「不遵守交规」？这真不能全怪它",
+"link": "https://www.ifanr.com/1681289?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "辅助驾驶不得不违规。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789987565.0
+},
+{
+"source": "36氪",
+"title": "36氪项目推荐周榜第19期｜这10个创新项目正在被更多人看见",
+"link": "https://36kr.com/p/3993005071661824?f=rss",
+"summary": "项目推荐 【36氪项目推荐】将智能工具融入传统报道流程，提升项目报道与内容生产效率，降低企业对外传播的门槛。同时，围绕项目展示、品牌曝光与资源连接，持续探索更适合早期创业项目的传播方式。 希望为创业者提供更便捷的一站式项目展示窗口。让值得关注的项目更快被看见，也让创新与机会更高效地连接。 分隔符 本周周榜 01 多元时代科技 多元时代科技 多元时代科技正在探索从“单点AI工具”向企业级AI底座升级的路径，提出“企业级虚实共生AI底座”构想，希望将AI能力进一步融入企业业务与实…",
+"published": 1789987348.0
+},
+{
+"source": "36氪",
+"title": "英伟达重仓赛道跑出“量产派”选手，OCS整机商「芯信光」完成数千万元Pre-A轮融资｜36氪首发",
+"link": "https://36kr.com/p/3993019383331844?f=rss",
+"summary": "2026年，继存储芯片之后，华尔街看到了“光”。 标普500指数年内涨幅TOP10的成分股中，光通信公司占了三席；3月初，英伟达向Lumentum、Coherent两家光学公司各投资20亿美元，并附加了数十亿美元的长期采购承诺。 资本热度背后，是AI算力架构的结构性变化。当单集群算力迈向十万卡量级，GPU之间需要高速交换海量数据，传统电交换网络在功耗、带宽与扩展性上逼近物理极限。 解法之一是“以光代电”，让信号不再经历“光-电-光”的转换，而是始终以光路形态完成路径切换。这就…",
+"published": 1789986796.0
+},
+{
+"source": "36氪",
+"title": "三年，勒多曼因，一座雪山教给我们的事",
+"link": "https://36kr.com/p/3993011793836806?f=rss",
+"summary": "从贡嘎山脚下的康定老榆林一路往更高处走，草甸渐渐退到身后，冰川、冰湖和6000米级雪峰在雪线之上铺开，勒多曼因便出现了。 几年前，它还很少出现在普通人的旅行清单里。如今，勒多曼因已经成为社交媒体上被频繁提起的雪山目的地。一座山，从小众走向热闹，也成为这几年中国户外热潮最直观的缩影之一。 但登山本身始终是一件有些“反直觉”的事：花费时间、金钱和体力，主动走进高反、寒冷和疲惫，有时走了很远，也未必能抵达原本设想的终点。 过去三年，凯乐石邀请五位摄影师从一次初访，到两年后重返勒多曼…",
+"published": 1789986312.0
+},
+{
+"source": "少数派",
+"title": "派评 | 近期值得关注的 App",
+"link": "https://sspai.com/post/114815",
+"summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+"published": 1789984621.0
+},
+{
+"source": "少数派",
+"title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议",
+"link": "https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de",
+"summary": "反复失败的预言1999年，时任SUSE首席技术官的DirkHohndel大概不会想到，自己口中的「Linux桌面元年」此后会被反复提起，成为圈内一个著名的迷因。每年都有人扮演先知，然后看着统计报告上的 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+"published": 1789981358.0
+},
+{
+"source": "Solidot",
+"title": "互联网普及度与宗教信仰下降相关",
+"link": "https://www.solidot.org/story?sid=85442",
+"summary": "根据发表在《Sociology of Religion: A Quarterly Review》上的一项研究，互联网普及与宗教信仰下降相关。研究人员汇集了一个 81 个国家的数据集，时间跨度从 1990-2022 年。研究团队构建了一个包含六项指标的指数去衡量各国的平均宗教水平。这些指标涵盖了宗教仪式参与率、神（God）在个人生活中的重要性、宗教的总体重要性、自我认定的宗教身份、对教会的信任度以及是否正式隶属于某个教派。结果显示，一个国家的互联网普及度越高，其宗教信仰程度就会…",
+"published": 1789979377.0
+},
+{
+"source": "爱范儿",
+"title": "AI 正在制造 App 过剩时代",
+"link": "https://www.ifanr.com/1681265?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "你会为 App 付费吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789978546.0
+},
+{
+"source": "36氪",
+"title": "圆桌：从出口到扎根：中国企业如何完成海外本地化？｜36氪2026 East Forward 出海大会",
+"link": "https://36kr.com/p/3992878800256007?f=rss",
+"summary": "2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。9月17日，以“潮起之时，靠岸相见”为主题的2026 East Forward第二届·36氪出海大会在上海举行。来自消费、科技、制造等领域的出海企业、投资机构，以及全球化服务商汇聚现场，围绕本地化经营、用户洞察、供应链、合规、渠道与全球组织等现实问题展开讨论。当“走出去”已不再是少数选择，企业需要面对真正的问题：如何在海外市场活下来、扎下去，把一次市场突破变成持续经营，并逐步建立属于自己的全球竞争力。 以下对话…",
+"published": 1789978254.0
+},
+{
+"source": "Solidot",
+"title": "日本 65 岁以上老人占到总人口的近三成",
+"link": "https://www.solidot.org/story?sid=85441",
+"summary": "日本总务省公布的人口推算数据显示，截至 9 月 15 日，日本 65 岁以上老年人口较上年增加 2 万人，达到 3624 万人。老年人口时隔两年再次增加，在总人口中的占比为 29.6%，刷新历史最高纪录。截至 2025 年，日本 65 岁以上就业人数达到 943 万人，连续 22 年增加，创历史新高。按性别来看，日本的男性老年人口为 1571 万人，女性为 2054 万人。2025 年死亡老年人口多于新满 65 岁的人数，日本的老年人口总数有所减少，但 2026 年再次转为增…",
+"published": 1789977108.0
+},
+{
+"source": "Solidot",
+"title": "通过广告收集器 ChatGPT 知道你在其它网站的活动",
+"link": "https://www.solidot.org/story?sid=85440",
+"summary": "OpenAI 在 bzr.openai.com 上的广告收集器会设置名为 __obi、作用域为 .openai.com 的 Cookie。该 Cookie 的值在用户访问 ChatGPT 期间生效，并与用户的 ChatGPT 账户绑定。随后，__obi 会从用户访问的其它网站发送回 OpenAI。任何在 ChatGPT 上购买广告的公司，都会在其自己的网站上添加一小段 OpenAI 代码，其方式与添加 Meta 和 Google 跟踪代码的方式相同。加载该代码会将 __obi…",
+"published": 1789976367.0
+},
+{
+"source": "Solidot",
+"title": "霸王龙的体温和现代大象类似",
+"link": "https://www.solidot.org/story?sid=85439",
+"summary": "霸王龙究竟是“冷血动物”还是“温血动物”，一直是古生物学界争论的问题。冷血动物体温随环境变化，温血动物则能靠自身代谢维持稳定体温。越来越多证据表明霸王龙可能是温血动物，但它究竟有多“热”，此前始终没有一个确切答案。霸王龙已经灭绝了6600多万年，还有方法测量它的体温吗？UCLA 的科学家给出了肯定的答案。他们从霸王龙保存至今的牙齿化石中找到了线索，并首次测出了它的具体体温。这项研究的关键，是牙釉质中的碳、氧同位素。霸王龙形成牙齿时，这些同位素会参与形成一些特殊的化学键，而化学…",
+"published": 1789974138.0
+},
+{
+"source": "爱范儿",
+"title": "GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做",
+"link": "https://www.ifanr.com/1681070?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "当大模型开始拥有一双真实的手#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789973271.0
+},
+{
+"source": "Solidot",
+"title": "智谱准备推出数据不留存功能",
+"link": "https://www.solidot.org/story?sid=85438",
+"summary": "在开发者发现 ZCode 会将用户整个工作区打包上传后，AI 公司智谱推出数据不留存功能。智谱星期天晚在微信公众号宣布，其“模型即服务”（Model as a Service，MaaS）平台将于近期正式推出“数据内容不留存”功能，将不对用户的模型调用输入、输出内容进行任何形式的静态存储，数据仅在当次调用过程中临时使用。企业和开发者用户可通过智谱 Maa S控制台提交开通申请。零数据留存即用户提交给模型的提示词（Prompt）、模型返回的生成结果，仅在服务器内存中参与当次推理计…",
+"published": 1789973045.0
+},
+{
+"source": "Solidot",
+"title": "新加坡付费鼓励公众读书",
+"link": "https://www.solidot.org/story?sid=85437",
+"summary": "新加坡国家图书馆管理局启动了名为 ReadSG 的全国阅读运动，旨在在数字时代恢复公众的阅读习惯，它推出的鼓励阅读措施包括每天打卡看书 15 分钟即可换取“金币”和积分的奖励游戏。公众在政府科技局的 CrowdTaskSG 平台上记录到至少 15 分钟的阅读时长就能获得 20 金币。兑换比例是 1,000 金币相当于 1 新加坡元，这意味着 15 分钟阅读的价值约 0.02 新加坡元。图管局表示虽然奖励非常少，它旨在鼓励阅读而不是让民众把它当成收入来源。图管局 2024 年全…",
+"published": 1789971845.0
+},
+{
+"source": "36氪",
+"title": "科氪 | 第七届激光显示大会在京召开，行业预判：5年内120吋大屏将成主流",
+"link": "https://36kr.com/p/3992739944659969?f=rss",
+"summary": "9月20日，以“大有可为”为主题的第七届激光显示技术与产业发展大会在北京举行。来自政府、行业协会以及全球激光显示产业链核心企业代表、专家学者和媒体出席大会。作为大会支持单位，海信在会上明确提出“百吋之上，唯享激光”的核心主张。大会集中展示墙即银幕、巨幕隐身、造梦空间三大激光显示场景升级成果，并给出激光显示未来发展的三个判断。中国科学院院士、工信部领导与产业链各环节代表同台定调：三色激光，正成为“百吋之上”的共同选择。 官方图片 嘉宾共议：三色激光成为“百吋之上”共同选择 “激…",
+"published": 1789969513.0
+},
+{
+"source": "少数派",
+"title": "体验过华为 Pura X View 后，他们最想留下的「阔体验」是……",
+"link": "https://sspai.com/post/114734",
+"summary": "不久前，我们发起了「华为PuraXView新品探索计划」，请大家去线下门店亲自感受华为PuraXView，也向我们分享那些最真实、细致的上手体验。比起参数表，我们更想知道，换成一块更阔的屏幕后，到底哪 ...查看全文",
+"published": 1789968392.0
+},
+{
+"source": "少数派",
+"title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？",
+"link": "https://sspai.com/post/114519",
+"summary": "当代码与设计的生产成本趋近于零，我们可以这样跳出工具的依赖，构建属于自己的优势和认知壁垒。查看全文",
+"published": 1789961888.0
+},
+{
+"source": "爱范儿",
+"title": "森海塞尔 MOMENTUM 5 体验：AI 时代的稳重选择",
+"link": "https://www.ifanr.com/1681181?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "耳机依旧是耳机，只是如今一副好耳机既要足够好听，也要能够接住你的声音。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1789957483.0
+},
 {
 "source": "36氪",
 "title": "韩国本月前20天出口创历史新高，芯片出口飙升近260%",
@@ -114,6 +809,120 @@
 "link": "https://36kr.com/newsflashes/3992393787636738?f=rss",
 "summary": "36氪获悉，中信建投研报称，当前A股开启第二轮修复行情，海外中东地缘冲突推升油价与美债利率引发的宏观博弈已阶段性落地，油价、长端美债利率随之回落，国内宽松利率环境与人民币汇率保持稳定，市场主线重回业绩景气，资金迎来回流高景气板块的窗口；但后续仍需持续跟踪海外利率、油价回落持续性以及10月底FOMC会议带来的外部扰动。配置上采取均衡配置、分层布局思路，进攻端优选算力供给紧缺涨价环节（光芯片、PCB制造、CCL、服务器整机）与铜铝锡等工业有色，防守端以红利资产作为底仓对冲波动，同…",
 "published": 1789948851.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Amazon blocks Meta’s Muse agent from shopping on users’ behalf",
+"link": "https://siliconangle.com/2026/09/21/amazon-blocks-metas-muse-agent-from-shopping-on-users-behalf/",
+"summary": "Amazon.com Inc. has blocked Meta Platforms Inc.’s Muse artificial intelligence agent from accessing its e-commerce marketplace. The cloud and online retail giant notified users of the move late Sunday. Meta made Muse available in the U.S. e…",
+"published": 1790030408.0
+},
+{
+"source": "SiliconANGLE",
+"title": "8 insights from the ‘Certinia at Dreamforce’ event: AI resets the economics of professional services",
+"link": "https://siliconangle.com/2026/09/21/ai-professional-services-fixed-bid-pricing-certiniaatdreamforce/",
+"summary": "AI is rewriting the economics of professional services. Firms that once billed by the hour are quoting fixed bids, compressing delivery timelines and absorbing risk they would previously have pushed onto the client. The labor a single proje…",
+"published": 1790022723.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Google fined $462M in Ireland over location data collection practices",
+"link": "https://siliconangle.com/2026/09/21/google-fined-462m-in-ireland-over-location-data-collection-practices/",
+"summary": "Ireland’s privacy watchdog today fined Google LLC €403 million, or about $462 million, for collecting users’ location data in breach of GDPR. The tracking was done by three Google features: Web & App Activity, Timeline and GLA. Web & App Ac…",
+"published": 1790021090.0
+},
+{
+"source": "SiliconANGLE",
+"title": "On theCUBE Pod: Dreamforce unveils the agentic dream, and Nscale files to go public",
+"link": "https://siliconangle.com/2026/09/21/salesforce-dreamforce-nscale-thecubepod/",
+"summary": "Salesforce Inc. keeps putting all of its eggs in the agent basket — but the strategy appears to be paying off so far. At Dreamforce 2026, Marc Benioff, chief executive officer of Salesforce, bantered with Nvidia Corp. CEO Jensen Huang and l…",
+"published": 1790006638.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AWS debuts Strands Harness, an open-source AI agent that can be deployed in any environment",
+"link": "https://siliconangle.com/2026/09/21/aws-debuts-strands-harness-an-open-source-ai-agent-that-can-be-deployed-in-any-environment/",
+"summary": "Amazon Web Services Inc. says it’s trying to help developers solve the problem of scaling artificial intelligence agents to cloud environments with the launch of Strands Harness, an open-source agent that can help them build and deploy AI a…",
+"published": 1790006449.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Googlebook brings premium intelligence to a lightweight ChromeOS-based laptop",
+"link": "https://siliconangle.com/2026/09/21/googlebook-brings-premium-intelligence-to-a-lightweight-chromeos-based-laptop/",
+"summary": "Google LLC today announced the launch of its Googlebook lineup, a new family of lightweight, higher-power laptops in the Chromebook legacy that feature artificial intelligence and can run Android apps and ChromeOS. Googlebooks bring the com…",
+"published": 1790002815.0
+},
+{
+"source": "EU-Startups",
+"title": "The 20 European investors funding NATO’s defence and innovation",
+"link": "https://www.eu-startups.com/2026/09/the-21-european-investors-funding-natos-defence/",
+"summary": "NATO’s Defence Innovation Accelerator for the North Atlantic (DIANA) has announced the first 24 investors who are joining the NATO DIANA Capital Network (NDCN), among which 20 are European-based – including Bpifrance, DTCP, and Project A. T…",
+"published": 1790002078.0
+},
+{
+"source": "EU-Startups",
+"title": "The startups fixing Europe’s AI power problem",
+"link": "https://www.eu-startups.com/2026/09/the-startups-fixing-europes-ai-power-problem/",
+"summary": "Earlier this year, I wrote about the AI power crisis and argued that coordination now matters more than new capacity. The numbers have not improved. Research from the International Energy Agency (IEA) shows that global data centre electrici…",
+"published": 1789997148.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Sumo Logic expands Data Pipelines to cut observability and security data costs",
+"link": "https://siliconangle.com/2026/09/21/sumo-logic-expands-data-pipelines-to-cut-observability-and-security-data-costs/",
+"summary": "Data analytics software firm Sumo Logic Inc. today unveiled an expanded Data Pipelines service that lets customers cut and reroute telemetry before any of it is ingested and stored. The controls sit inside the company’s own platform rather …",
+"published": 1789995643.0
+},
+{
+"source": "SiliconANGLE",
+"title": "LittleHorse adds agent controls and free serverless trial to its ‘Business-as-Code’ orchestration platform",
+"link": "https://siliconangle.com/2026/09/21/littlehorse-adds-agent-controls-and-free-serverless-trial-to-its-business-as-code-orchestration-platform/",
+"summary": "LittleHorse Enterprises LLC, a maker of workflow orchestration software spanning multiple applications, today announced version 1.3 of its Saddle Command Center, adding no-code agent deployment, prebuilt task workers, a JavaScript software …",
+"published": 1789992049.0
+},
+{
+"source": "EU-Startups",
+"title": "Project Ventures debuts €5.8 million fund targeting DeepTech and AI startups linked to Imperial College London",
+"link": "https://www.eu-startups.com/2026/09/project-ventures-debuts-e5-8-million-fund-targeting-deeptech-and-ai-startups-linked-to-imperial-college-london/",
+"summary": "Project Ventures, an early-stage VC firm rooted in the Imperial College London ecosystem, today announced the launch of its debut €5.8 million (£5 million) fund, backing pre-Seed and Seed-stage startups at the intersection of DeepTech and A…",
+"published": 1789992029.0
+},
+{
+"source": "EU-Startups",
+"title": "Belgium’s NewSchool VC closes maiden fund at €10 million to back B2B technology startups",
+"link": "https://www.eu-startups.com/2026/09/belgiums-newschool-vc-closes-maiden-fund-at-e10-million-at-to-back-b2b-technology-startups/",
+"summary": "NewSchool VC, a Belgium-based venture capital fund that invests in B2B pre-Seed technology companies, has closed its first fund at its €10 million target. The firm announced a €6.1 million first close for NewSchool Fund I in September 2025.…",
+"published": 1789990787.0
+},
+{
+"source": "EU-Startups",
+"title": "Belgium’s Novadip Biosciences raises €10.4 million to fund pivotal clinical trial and unlock EIB loan tranche",
+"link": "https://www.eu-startups.com/2026/09/belgiums-novadip-biosciences-raises-e10-4-million-to-fund-pivotal-clinical-trial-and-unlock-eib-loan-tranche/",
+"summary": "Novadip Biosciences, a Belgian late-stage clinical BioTech company specialising in regenerative medicine, has closed a €10.4 million (roughly $12 million) convertible financing round. The round was led by US-based New Science Ventures, with…",
+"published": 1789983643.0
+},
+{
+"source": "EU-Startups",
+"title": "Plug and Play Tirana Expo 2026: Silicon Valley meets Balkans (Sponsored)",
+"link": "https://www.eu-startups.com/2026/09/plug-and-play-tirana-expo-2026-silicon-valley-meets-balkans-sponsored/",
+"summary": "Plug and Play Tirana Expo returns to the Pyramid of Tirana from 7–8 October, bringing together startups, international investors, corporate leaders, founders and innovation experts from across Europe, Silicon Valley and the wider Plug and P…",
+"published": 1789981065.0
+},
+{
+"source": "EU-Startups",
+"title": "London’s Metris Energy raises €4.35 million to scale AI platform for managing renewable energy assets",
+"link": "https://www.eu-startups.com/2026/09/londons-metris-energy-raises-e4-35-million-to-scale-ai-platform-for-managing-renewable-energy-assets/",
+"summary": "Metris Energy, a London-based AI‑native platform for managing energy assets at scale, has raised a €4.35 million ($5 million) Seed round and unveiled Metria AI, the company’s new AI interface that executes complex tasks previously performed…",
+"published": 1789974935.0
+},
+{
+"source": "EU-Startups",
+"title": "London’s Unit1 Studio secures €23.3 million to scale avatar concerts beyond the one-venue ABBA Voyage model",
+"link": "https://www.eu-startups.com/2026/09/londons-unit1-studio-secures-e23-3-million-to-scale-avatar-concerts-beyond-the-one-venue-abba-voyage-model/",
+"summary": "Unit1 Studio, the London-based end-to-end avatar concert producer, has raised €23.3 million (£20 million) in new financing. The round combines an oversubscribed equity investment with additional production financing. The equity round was le…",
+"published": 1789970439.0
 }
 ]
 }

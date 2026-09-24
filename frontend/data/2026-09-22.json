@@ -1,6 +1,6 @@
 {
 "date": "2026-09-22",
-"total": 146,
+"total": 153,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,13 @@
 "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
 "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
 "published": 1790110800.0
+},
+{
+"source": "HN AI 热门",
+"title": "LLM Ass Bench",
+"link": "https://www.assbench.com/",
+"summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 165 # Comments: 45",
+"published": 1790109259.0
 },
 {
 "source": "InfoQ 中国",
@@ -25,11 +32,25 @@
 "published": 1790107611.0
 },
 {
+"source": "HN AI 热门",
+"title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+"link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+"summary": "https://archive.ph/0V37g Comments URL: https://news.ycombinator.com/item?id=49806430 Points: 893 # Comments: 499",
+"published": 1790103818.0
+},
+{
 "source": "InfoQ 中国",
 "title": "不受控的 Agent ，凭什么上生产系统？",
 "link": "https://www.infoq.cn/article/3TjH8fZziNB50Qzz9tJx?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1790103487.0
+},
+{
+"source": "HN AI 热门",
+"title": "GPT-6 Sol and Luna",
+"link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+"summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/ Comments URL: https://news.ycombinator.com/item?id=49805509 Points: 1730 # Comments: 822",
+"published": 1790100034.0
 },
 {
 "source": "OpenAI 博客",
@@ -116,6 +137,20 @@
 "published": 1790085430.0
 },
 {
+"source": "HN AI 热门",
+"title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
+"link": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
+"summary": "Article URL: https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/ Comments URL: https://news.ycombinator.com/item?id=49801330 Points: 85 # Comments: 64",
+"published": 1790085176.0
+},
+{
+"source": "HN AI 热门",
+"title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+"link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+"summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 721 # Comments: 437",
+"published": 1790085135.0
+},
+{
 "source": "MIT科技评论 AI",
 "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
 "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
@@ -128,6 +163,13 @@
 "link": "https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1790082000.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI Has No Wisdom and Neither Will You",
+"link": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+"summary": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/ Comments URL: https://news.ycombinator.com/item?id=49799965 Points: 383 # Comments: 542",
+"published": 1790079069.0
 },
 {
 "source": "OpenAI 博客",
@@ -240,6 +282,13 @@
 "link": "https://www.qbitai.com/2026/09/493819.html",
 "summary": "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行",
 "published": 1790066124.0
+},
+{
+"source": "HN AI 热门",
+"title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+"link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+"summary": "Article URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/ Comments URL: https://news.ycombinator.com/item?id=49795718 Points: 96 # Comments: 63",
+"published": 1790040289.0
 },
 {
 "source": "OpenAI 博客",

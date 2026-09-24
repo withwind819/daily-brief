@@ -1,8 +1,22 @@
 {
 "date": "2026-09-19",
-"total": 73,
+"total": 75,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Can you tell which images are AI-generated?",
+"link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+"summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/ Comments URL: https://news.ycombinator.com/item?id=49770847 Points: 111 # Comments: 85",
+"published": 1789858954.0
+},
+{
+"source": "HN AI 热门",
+"title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+"link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+"summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelatio…",
+"published": 1789842090.0
+},
 {
 "source": "InfoQ 中国",
 "title": "当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",

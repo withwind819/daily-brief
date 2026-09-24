@@ -1,6 +1,6 @@
 {
 "date": "2026-09-21",
-"total": 131,
+"total": 137,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,20 @@
 "link": "https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1790026260.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+"link": "https://linear.app/now/ci-bottleneck-reworked",
+"summary": "Article URL: https://linear.app/now/ci-bottleneck-reworked Comments URL: https://news.ycombinator.com/item?id=49792067 Points: 313 # Comments: 402",
+"published": 1790018613.0
+},
+{
+"source": "HN AI 热门",
+"title": "Frontier AI on Your Own Hardware",
+"link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+"summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 183 # Comments: 103",
+"published": 1790016781.0
 },
 {
 "source": "InfoQ 中国",
@@ -58,6 +72,13 @@
 "link": "https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1790010421.0
+},
+{
+"source": "HN AI 热门",
+"title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+"link": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+"summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/ Comments URL: https://news.ycombinator.com/item?id=49789982 Points: 151 # Comments: 159",
+"published": 1790010023.0
 },
 {
 "source": "The Decoder",
@@ -121,6 +142,13 @@
 "link": "https://www.infoq.cn/article/TcTrU2Ap9VsxxHVestfw?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1790000412.0
+},
+{
+"source": "HN AI 热门",
+"title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+"link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+"summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/ Comments URL: https://news.ycombinator.com/item?id=49787535 Points: 237 # Comments: 121",
+"published": 1789999849.0
 },
 {
 "source": "InfoQ 中国",
@@ -235,6 +263,13 @@
 "published": 1789984800.0
 },
 {
+"source": "HN AI 热门",
+"title": "Don't Use AI to Write",
+"link": "https://paulbakker.io/writing/no-ai-for-writing/",
+"summary": "Article URL: https://paulbakker.io/writing/no-ai-for-writing/ Comments URL: https://news.ycombinator.com/item?id=49784816 Points: 147 # Comments: 85",
+"published": 1789980884.0
+},
+{
 "source": "量子位",
 "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
 "link": "https://www.qbitai.com/2026/09/493268.html",
@@ -275,6 +310,13 @@
 "link": "https://www.qbitai.com/2026/09/493218.html",
 "summary": "在物理世界真正干活的具身智能体",
 "published": 1789971757.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+"link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+"summary": "Article URL: https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666 Comments URL: https://news.ycombinator.com/item?id=49783062 Points: 156 # Comments: 88",
+"published": 1789964924.0
 },
 {
 "source": "量子位",

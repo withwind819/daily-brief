@@ -1,6 +1,6 @@
 {
 "date": "2026-09-20",
-"total": 86,
+"total": 89,
 "categories": {
 "AI": [
 {
@@ -81,6 +81,13 @@
 "published": 1789918890.0
 },
 {
+"source": "HN AI 热门",
+"title": "Pirate Face Rescues LLM Models from Deletion",
+"link": "https://pirateface.co/",
+"summary": "Article URL: https://pirateface.co/ Comments URL: https://news.ycombinator.com/item?id=49776699 Points: 568 # Comments: 148",
+"published": 1789917367.0
+},
+{
 "source": "InfoQ 中国",
 "title": "最新桌面 Agent，AI 工作流解码办公效率提升",
 "link": "https://www.infoq.cn/article/EBIZhgc8pLujPiIum6Yt?utm_source=rss&utm_medium=article",
@@ -137,11 +144,25 @@
 "published": 1789904278.0
 },
 {
+"source": "HN AI 热门",
+"title": "If AI coding is lowering your code quality, you're not managing quality right",
+"link": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+"summary": "Article URL: https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code Comments URL: https://news.ycombinator.com/item?id=49774795 Points: 129 # Comments: 169",
+"published": 1789904230.0
+},
+{
 "source": "InfoQ 中国",
 "title": "Atlassian 通过关联指标、日志与追踪链路实现根因分析自动化",
 "link": "https://www.infoq.cn/article/YlrHfmA3R5k4Tl8iTO7Y?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1789900740.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI and the Destruction of the Creative Commons",
+"link": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+"summary": "Article URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/ Comments URL: https://news.ycombinator.com/item?id=49774329 Points: 236 # Comments: 278",
+"published": 1789898871.0
 },
 {
 "source": "The Decoder",

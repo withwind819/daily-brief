@@ -1,6 +1,6 @@
 {
 "date": "2026-09-24",
-"total": 158,
+"total": 165,
 "categories": {
 "AI": [
 {
@@ -88,6 +88,13 @@
 "published": 1790263810.0
 },
 {
+"source": "HN AI 热门",
+"title": "Tutoring company tells parents to save their money and 'use AI instead'",
+"link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+"summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r Comments URL: https://news.ycombinator.com/item?id=49831690 Points: 133 # Comments: 221",
+"published": 1790262578.0
+},
+{
 "source": "InfoQ 中国",
 "title": "GPU负责算，CPU负责干活：英特尔开始重新出牌",
 "link": "https://www.infoq.cn/article/Zh6Xo7f31MJdQtbUTUk5?utm_source=rss&utm_medium=article",
@@ -102,6 +109,13 @@
 "published": 1790260943.0
 },
 {
+"source": "HN AI 热门",
+"title": "AI safety is mostly a sex cult in Berkeley",
+"link": "https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in",
+"summary": "Article URL: https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in Comments URL: https://news.ycombinator.com/item?id=49831269 Points: 119 # Comments: 30",
+"published": 1790260711.0
+},
+{
 "source": "量子位",
 "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
 "link": "https://www.qbitai.com/2026/09/496961.html",
@@ -114,6 +128,13 @@
 "link": "https://www.qbitai.com/2026/09/496925.html",
 "summary": "1.5台6000D跑赢1台B300！",
 "published": 1790259468.0
+},
+{
+"source": "HN AI 热门",
+"title": "Best LLM for every budget, updated daily",
+"link": "https://bestmodelforyourbudget.terrydjony.com/",
+"summary": "Article URL: https://bestmodelforyourbudget.terrydjony.com/ Comments URL: https://news.ycombinator.com/item?id=49830866 Points: 180 # Comments: 111",
+"published": 1790258997.0
 },
 {
 "source": "The Decoder",
@@ -165,6 +186,13 @@
 "published": 1790254735.0
 },
 {
+"source": "HN AI 热门",
+"title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+"link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+"summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us Comments URL: https://news.ycombinator.com/item?id=49829650 Points: 196 # Comments: 300",
+"published": 1790252621.0
+},
+{
 "source": "InfoQ 中国",
 "title": "OpenAI 推出分级处理框架及案例研究，用于报告模型失调问题",
 "link": "https://www.infoq.cn/article/sFUUaaIQZH3ecXb14WVs?utm_source=rss&utm_medium=article",
@@ -186,6 +214,13 @@
 "published": 1790240700.0
 },
 {
+"source": "HN AI 热门",
+"title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+"link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+"summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/ Comments URL: https://news.ycombinator.com/item?id=49827794 Points: 622 # Comments: 377",
+"published": 1790238183.0
+},
+{
 "source": "量子位",
 "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
 "link": "https://www.qbitai.com/2026/09/496816.html",
@@ -205,6 +240,13 @@
 "link": "https://www.qbitai.com/2026/09/496778.html",
 "summary": "专治人机动作对不齐",
 "published": 1790228720.0
+},
+{
+"source": "HN AI 热门",
+"title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+"link": "https://transluce.org/agent-activity",
+"summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 264 # Comments: 303",
+"published": 1790227270.0
 },
 {
 "source": "量子位",
@@ -233,6 +275,13 @@
 "link": "https://www.qbitai.com/2026/09/496615.html",
 "summary": "",
 "published": 1790210882.0
+},
+{
+"source": "HN AI 热门",
+"title": "Feds Target AI Critics as \"Foreign Agents\"",
+"link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+"summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 387 # Comments: 444",
+"published": 1790210491.0
 }
 ],
 "科技": [

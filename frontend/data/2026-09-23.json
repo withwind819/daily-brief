@@ -1,6 +1,6 @@
 {
 "date": "2026-09-23",
-"total": 160,
+"total": 161,
 "categories": {
 "AI": [
 {
@@ -16,6 +16,13 @@
 "link": "https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1790203287.0
+},
+{
+"source": "HN AI 热门",
+"title": "Mercury 2.5 LLM hits 770 tokens per second",
+"link": "https://artificialanalysis.ai/models/mercury-2-5",
+"summary": "Article URL: https://artificialanalysis.ai/models/mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49823348 Points: 149 # Comments: 92",
+"published": 1790201779.0
 },
 {
 "source": "InfoQ 中国",

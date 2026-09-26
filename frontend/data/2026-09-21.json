@@ -1,8 +1,15 @@
 {
 "date": "2026-09-21",
-"total": 137,
+"total": 138,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Security auditing in the age of (good enough) AI",
+"link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+"summary": "Article URL: https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/ Comments URL: https://news.ycombinator.com/item?id=49793957 Points: 94 # Comments: 16",
+"published": 1790027581.0
+},
 {
 "source": "InfoQ 中国",
 "title": "MiniMax H3 开源后，本地 AIGC 走到了哪里？",

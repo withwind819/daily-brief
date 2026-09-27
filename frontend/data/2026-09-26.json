@@ -1,8 +1,402 @@
 {
 "date": "2026-09-26",
-"total": 6,
+"total": 63,
 "categories": {
+"AI": [
+{
+"source": "The Decoder",
+"title": "Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army",
+"link": "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/",
+"summary": "Former Ukrainian Defense Minister Mykhailo Fedorov has announced \"Army of Robots,\" a private combat robotics initiative. The robots would handle casualty evacuation, mine clearance, and combat. Drones already account for 95 percent of targe…",
+"published": 1790449820.0
+},
+{
+"source": "The Decoder",
+"title": "Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them",
+"link": "https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/",
+"summary": "Speaking to 160 IT vice presidents in Las Vegas, tech entrepreneur Azeem Azhar asked who had measurable AI results. Two-thirds raised their hands. Then he asked who had results good enough to interrupt the CEO's summer vacation. Only eight …",
+"published": 1790443672.0
+},
+{
+"source": "InfoQ 中国",
+"title": "阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview",
+"link": "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790442000.0
+},
+{
+"source": "The Decoder",
+"title": "AI access makes people almost entirely unwilling to say \"I don't know,\" study finds",
+"link": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/",
+"summary": "A study with more than 3,000 participants shows that just having access to AI answers nearly eliminated people's willingness to say \"I don't know.\" In one experiment, it dropped from 44 to 3 percent, even though the AI was almost always wro…",
+"published": 1790441796.0
+},
+{
+"source": "量子位",
+"title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+"link": "https://www.qbitai.com/2026/09/498478.html",
+"summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
+"published": 1790423383.0
+},
+{
+"source": "The Decoder",
+"title": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
+"link": "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/",
+"summary": "SoL-Pi cuts coding agents' token usage by up to 49 percent with little change in performance by optimizing the control layer between the model and its environment. A research agent tested 152 approaches across more than 3,000 runs to develo…",
+"published": 1790418632.0
+},
+{
+"source": "InfoQ 中国",
+"title": "AI 时代，技术人靠什么赢？｜QCon上海",
+"link": "https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790416800.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf",
+"link": "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/",
+"summary": "OpenAI's GPT-6 Astra can look at a photo and tell whether an IKEA furniture piece was assembled incorrectly, hitting an 80 percent accuracy rate. Back in November 2025, the best model managed just 28 percent. According to Epoch AI, the spee…",
+"published": 1790415894.0
+},
+{
+"source": "InfoQ 中国",
+"title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
+"link": "https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790414421.0
+},
+{
+"source": "量子位",
+"title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+"link": "https://www.qbitai.com/2026/09/498271.html",
+"summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+"published": 1790413661.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+"link": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/",
+"summary": "OpenAI has shared new details from its ongoing AI safety investigation. One research model exploited a DNS loophole to reach the internet from a locked-down environment, while another deliberately leaked a GitHub token and twice ignored a r…",
+"published": 1790413596.0
+},
+{
+"source": "量子位",
+"title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+"link": "https://www.qbitai.com/2026/09/497624.html",
+"summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+"published": 1790413260.0
+},
+{
+"source": "量子位",
+"title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+"link": "https://www.qbitai.com/2026/09/497613.html",
+"summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
+"published": 1790407085.0
+},
+{
+"source": "量子位",
+"title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+"link": "https://www.qbitai.com/2026/09/497425.html",
+"summary": "vLLM人马创业公司团队出品",
+"published": 1790406725.0
+},
+{
+"source": "量子位",
+"title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+"link": "https://www.qbitai.com/2026/09/497382.html",
+"summary": "还把「密钥」叫战利品",
+"published": 1790406255.0
+}
+],
 "科技": [
+{
+"source": "The Verge",
+"title": "Apple hit with $5.7 billion in damages over haptic patents",
+"link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+"summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10…",
+"published": 1790458201.0
+},
+{
+"source": "TechCrunch",
+"title": "Insurers claim AI is already increasing healthcare costs",
+"link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+"summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+"published": 1790456526.0
+},
+{
+"source": "TechCrunch",
+"title": "TikTok agrees to pay at least $100M in Alabama settlement",
+"link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+"summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
+"published": 1790454285.0
+},
+{
+"source": "The Verge",
+"title": "Decap is the man behind the drums behind your favorite song",
+"link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+"summary": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artis…",
+"published": 1790451000.0
+},
+{
+"source": "TechCrunch",
+"title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+"link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+"summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+"published": 1790444640.0
+},
+{
+"source": "The Verge",
+"title": "Kids turned the comment section of an NPR podcast into a group chat",
+"link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
+"summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass dig…",
+"published": 1790443955.0
+},
+{
+"source": "TechCrunch",
+"title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+"link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+"summary": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+"published": 1790442000.0
+},
+{
+"source": "The Verge",
+"title": "OpenAI pauses training of its ‘most capable models’",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+"summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being test…",
+"published": 1790440499.0
+},
+{
+"source": "Solidot",
+"title": "Excel 的单元格将支持输入多个值",
+"link": "https://www.solidot.org/story?sid=85482",
+"summary": "微软宣布其电子表格软件 Excel 的单元格将支持输入多个值，而不是以前的只能一个值。Excel 将通过“列表”（Lists）、“单元格内数组”（arrays in cells）和“嵌套数组”（nested arrays）三个功能实现在单元格内输入多个值。微软称，某个项目可能会将“Carlos，Henrietta，Jacob”列为三位负责人，或者 Forms 调查问卷可能会将“2:00 PM；2:30 PM；3:00 PM”作为单个回复返回。借助“列表”功能，用户既可以将这些…",
+"published": 1790435201.0
+},
+{
+"source": "Solidot",
+"title": "荷兰政府测试本土发行版 NixOS",
+"link": "https://www.solidot.org/story?sid=85481",
+"summary": "2025 年美国政府制裁了位于荷兰海牙的国际刑事法庭，导致了依赖微软软件的法庭工作陷入瘫痪，此事促使欧洲各国政府推动数字主权，减少对美国科技公司的依赖。其中荷兰政府正在本土 Linux 发行版 NixOS 基础上上构建数字工作环境 Digitaal Autonome Werkomgeving Overheid (DAWO) 。DAWO 包含了操作系统、办公套件、协作应用、云服务及管理工具。试点项目正在荷兰政府内部展开。欧洲各地的政府以前尝试过取代微软的软件，但成功者寥寥。现在…",
+"published": 1790433892.0
+},
+{
+"source": "TechCrunch",
+"title": "I created an interactive digital avatar of myself — and you can talk to it",
+"link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+"summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+"published": 1790431200.0
+},
+{
+"source": "The Verge",
+"title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+"link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+"summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild piv…",
+"published": 1790431200.0
+},
+{
+"source": "The Verge",
+"title": "Control Resonant is a great game — it’s even better when you read everything",
+"link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
+"summary": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, either. Reading is o…",
+"published": 1790427600.0
+},
+{
+"source": "The Verge",
+"title": "Pokémon card resellers have turned collecting into an online blood sport",
+"link": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
+"summary": "Earlier this month, Pokémon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not…",
+"published": 1790424000.0
+},
+{
+"source": "Solidot",
+"title": "YouTube、TikTok 和 Meta 都拒绝投放马斯克纪录片的商业广告",
+"link": "https://www.solidot.org/story?sid=85480",
+"summary": "负责发行 Alex Gibney 拍摄的马斯克（Elon Musk）纪录片《Musk》的公司 Bleecker Street 发现，主流社交平台 YouTube、TikTok 和旗下包括 Instagram 和 Facebook 的 Meta 公司，以及马斯克旗下的 X 平台都拒绝投放该纪录片的商业广告。这是一部批评马斯克的纪录片，X 平台拒绝能理解，但 YouTube、TikTok 以及 Meta 都拒绝令发行商感到意外，引发了少数几家公司掌控社交平台压制言论自由的担忧。Y…",
+"published": 1790420387.0
+},
+{
+"source": "36氪",
+"title": "国产火箭总装周期缩至15天",
+"link": "https://36kr.com/newsflashes/4000096264261508?f=rss",
+"summary": "卫星是进入太空的“乘客”，火箭是运送“乘客”的“交通工具”。如今“乘客”越来越多，对“交通工具”也提出了更高的要求。过去，一发火箭往往由一批人从头跟到尾；如今，不同工位可以并行推进。力箭一号首飞阶段总装周期约3个月，随着力箭一号进入高密度、常态化发射阶段，目前已基本实现每月都有发射任务。与之匹配，南沙总装厂房年产能可达30发，一枚火箭总装周期已缩短至约15天。目前，以力箭一号为代表的商业火箭生产方式，正从“按任务生产”转向提前备产，从接单到发射的周期可压缩到半年以内。先进制造…",
+"published": 1790418913.0
+},
+{
+"source": "36氪",
+"title": "外交部发言人就人工智能问题答记者问",
+"link": "https://36kr.com/newsflashes/4000094842769289?f=rss",
+"summary": "今天，外交部发言人就人工智能问题答记者问。问：我们注意到，美方在介绍此次访问成果时，使用“超级智能”代替“人工智能”。请问中方有何评论？答：中美元首会晤时，就人工智能问题进行了深入讨论。关于人工智能表述问题，中方重视美方的立场，也尊重美方的提法。人工智能技术正在持续发展，各方可以结合最新形势，加强交流、深入探讨、寻求共识。（央视新闻）",
+"published": 1790418413.0
+},
+{
+"source": "36氪",
+"title": "2026中秋档票房破2亿",
+"link": "https://36kr.com/newsflashes/4000093857239170?f=rss",
+"summary": "36氪获悉，据灯塔专业版，截至9月26日17时44分，2026年中秋档档期（9月25日-9月27日）票房突破2亿！《复仇者联盟4：终局之战（加码臻享版）》《欢迎来龙餐馆》《八仙！》《老江湖》《空枪》暂列档期票房前五。",
+"published": 1790418353.0
+},
+{
+"source": "36氪",
+"title": "欧盟官员警告欧盟面临能源价格危机",
+"link": "https://36kr.com/newsflashes/4000049360473993?f=rss",
+"summary": "据欧洲媒体9月25日报道，欧盟能源委员丹·约根森当天在给欧盟各国能源部长的信中称，受伊朗战事对全球油气市场的影响，欧盟正面临能源“价格危机”。他呼吁欧盟成员国考虑采取措施减少天然气和电力需求，以应对即将到来的冬季。（CCTV国际时讯）",
+"published": 1790416112.0
+},
+{
+"source": "36氪",
+"title": "AI安全漏洞潮蔓延：Muse被曝两处隐患 Meta拟加强风险提示",
+"link": "https://36kr.com/newsflashes/4000034032439430?f=rss",
+"summary": "Meta Platforms的AI产品Muse被发现存在安全漏洞，该漏洞可能影响用户数据和虚拟环境安全。为此，Meta准备加强风险提示。据悉，该漏洞由一名外部安全研究员通过Meta漏洞赏金计划上报，此前并未对外公开。该漏洞允许攻击者访问用户的专属虚拟机，获取其中邮件、文档等云端个人账户数据。Meta发言人透露，这一漏洞最初被内部定级为SEV-2，为公司五级安全分级体系中的第二高级别，一般对应影响范围重大的安全事件，后续评估后调整为SEV-3。Meta方面表示，该漏洞实现攻击存…",
+"published": 1790414702.0
+},
+{
+"source": "36氪",
+"title": "中瓷电子：公司上游原材料供应均已实现国产化且均能满足公司需求",
+"link": "https://36kr.com/newsflashes/3999980619534208?f=rss",
+"summary": "36氪获悉，中瓷电子在互动平台表示，公司电子陶瓷领域的技术优势主要体现在电子陶瓷新材料、半导体外壳仿真设计、生产工艺等方面。在材料方面，公司掌握多种陶瓷体系的知识产权，包括系列化氧化铝陶瓷和系列化氮化铝陶瓷以及与其相匹配的金属化体系。目前公司上游原材料供应均已实现国产化且均能够满足公司需求，陶瓷粉体为外购的国产粉体，公司始终重视上游原材料供应的稳定性与质量可控性，以保障产品性能的稳定性与一致性。",
+"published": 1790412697.0
+},
+{
+"source": "36氪",
+"title": "9月26日全国铁路预计发送旅客1300万人次",
+"link": "https://36kr.com/newsflashes/3999947107995778?f=rss",
+"summary": "36氪获悉，据中国铁路公众号消息，9月26日，全国铁路预计发送旅客1300万人次，计划加开旅客列车644列。9月25日，全国铁路发送旅客2176.1万人次，运输安全平稳有序。",
+"published": 1790411429.0
+},
+{
+"source": "36氪",
+"title": "维密重回上海淮海路，中国市场进入扩店阶段｜最前线",
+"link": "https://36kr.com/p/3999967284957059?f=rss",
+"summary": "9月25日，维多利亚的秘密（以下简称“维密”）上海淮海旗舰店开业。这是维密在中国市场运营十周年之际，对线下门店的一次重新布局。 新店位于淮海中路与瑞金路交界处的龙凤PRSCO一楼。2017年，维密曾在淮海路开出中国首家旗舰店。十年后，品牌再次选择淮海路作为旗舰店落点，不过这一次，门店的定位和空间形态都发生了变化。 相比过去强调内衣品类的门店，新旗舰店覆盖的产品范围更广，包括内衣、家居服、运动服饰、香水及身体护理等品类。店内也设置了专门的香氛和美妆区域，以及专业尺码测量服务。 …",
+"published": 1790410667.0
+},
+{
+"source": "36氪",
+"title": "2026民洽会集中签约，项目总金额达269.29亿元",
+"link": "https://36kr.com/newsflashes/3999889646964870?f=rss",
+"summary": "9月23日，2026中国民营企业投融资洽谈会举行集中签约仪式，现场共完成81组项目签约，总金额达269.29亿元。签约项目分为产业合作、融资合作两大类别，其中产业合作类项目63组、金额77.6亿元，融资合作类项目18组、金额191.69亿元。项目精准对接天津12条重点产业链，覆盖机器人、智能制造、生物医药、高端装备、新能源新材料等重点领域。（天津日报）",
+"published": 1790410144.0
+},
+{
+"source": "36氪",
+"title": "中美达成八点成果共识",
+"link": "https://36kr.com/newsflashes/3999945207320711?f=rss",
+"summary": "当地时间9月23日至25日，中国国家主席习近平对美国进行国事访问。其间，两国元首就中美建设性战略稳定关系及重大国际地区问题深入交换意见，达成八点成果共识，包括： 一、双方同意构建“基于尊重、公平、对等的中美建设性战略稳定关系”。 二、双方同意相互支持对方办好亚太经合组织（APEC）领导人非正式会议和二十国集团（G20）领导人峰会。两国元首有意出席对方主办的会议。 三、两国元首同意伊朗应履行不发展核武器的承诺，任何国家或机构都不得对国际水道征收通行费。 四、两国元首忆及中国和美…",
+"published": 1790409280.0
+},
+{
+"source": "36氪",
+"title": "习近平结束对美国的国事访问回到北京",
+"link": "https://36kr.com/newsflashes/3999943886835841?f=rss",
+"summary": "9月26日下午，国家主席习近平圆满结束对美国的国事访问回到北京。习近平主席夫人彭丽媛，中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、外交部部长王毅，中共中央政治局委员、国务院副总理何立峰等陪同人员同机返回。（央视新闻）",
+"published": 1790409200.0
+},
+{
+"source": "36氪",
+"title": "9月25日，全社会跨区域人员流动量24219.8万人次",
+"link": "https://36kr.com/newsflashes/3999855521321089?f=rss",
+"summary": "36氪获悉，据交通运输部消息，2026年9月25日（中秋假期第1日），全社会跨区域人员流动量24219.8万人次，环比增长6%，比2024年同期增长12.2%（以下同比均为与2024年同期比较）。其中， 铁路客运量2176.1万人次，环比增长27%，同比增长27.4%。",
+"published": 1790408178.0
+},
+{
+"source": "36氪",
+"title": "普京：中俄贸易额达2400亿美元",
+"link": "https://36kr.com/newsflashes/3999854712426627?f=rss",
+"summary": "据俄罗斯卫星社9月25日报道，俄罗斯总统弗拉基米尔·普京表示，俄中贸易额已达2400亿美元（据中国官方统计，2025年，中俄双边贸易额为2281.05亿美元），且仍在持续增长。 普京对记者说：“我们与中华人民共和国的贸易额为2400亿美元。这是一个可观的数字。而且贸易规模还在扩大。” 他补充说，俄中两国都看到对双方而言进一步发展关系的重要方向。 普京是在圣彼得堡国际“联合文化”论坛期间与记者交流时作出上述表态的。（参考消息）",
+"published": 1790407051.0
+},
+{
+"source": "The Verge",
+"title": "Can ‘eSUV’ e-bikes really go from trail to town?",
+"link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+"summary": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with their wide, all-terrain …",
+"published": 1790406000.0
+},
+{
+"source": "36氪",
+"title": "近一周机构调研个股近百只，国新健康调研机构数最多",
+"link": "https://36kr.com/newsflashes/3999816990707843?f=rss",
+"summary": "近一周机构调研个股有近百只，国新健康调研机构数最多。国新健康有139家机构调研，其中包括31家证券公司、47家私募、10家保险公司等。富祥股份、博杰股份、华宝股份等业绩暴增近期获得机构调研。从市场表现来看，近一周机构调研股平均上涨0.27%，沪宁股份、亿田智能、长缆科技等个股涨幅居前。（证券时报）",
+"published": 1790405351.0
+},
+{
+"source": "36氪",
+"title": "白宫考虑一系列方案以降低高企的柴油价格，包括暂停征税",
+"link": "https://36kr.com/newsflashes/3999816118161289?f=rss",
+"summary": "特朗普政府官员已提出多项措施，以遏制柴油价格飙升，从暂停对柴油征税，到取消针对通常仅限非公路使用的红色染色柴油的销售限制。知情人士称，截至周五，相关讨论范围仍很广，许多方案仍在审议之中，短期内不会就任何潜在策略作出决定。（新浪财经）",
+"published": 1790403974.0
+},
+{
+"source": "Solidot",
+"title": "Velum：方便部署的CosyVoice推理程序",
+"link": "https://www.solidot.org/story?sid=85479",
+"summary": "Nala Ginrut 写道： HardenedLinux 最近发布了可用于推理CosyVoice的Velum，它用modern C++开发，编译成一个单一的可执行文件，方便部署。 CosyVoice是目前比较优秀的一款 TTS 模型，但其推理程序使用的Python体系比较老旧，需要在部署的时候做一些处理，而且Python依赖占用空间较大，不利于大量能力情况下的Agent部署。要是每个agent能力都要一堆Python十几G的依赖，每一堆还有版本冲突，那就不要卖产品了，不如回…",
+"published": 1790402816.0
+},
+{
+"source": "36氪",
+"title": "美国一家AI实验室：AI演化出自己的方言",
+"link": "https://36kr.com/newsflashes/3999814609473416?f=rss",
+"summary": "近日，美国一家AI实验室发现，当多个智能体在虚拟“社会”中协作时，开始用一种超现实的“方言”聊天，关键是人类根本看不懂。面对一个越来越复杂、甚至可能脱离人类掌控的AI世界，AI治理的全球行动迫在眉睫。（CCTV国际时讯）",
+"published": 1790402564.0
+},
+{
+"source": "少数派",
+"title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
+"link": "https://sspai.com/post/114958",
+"summary": "距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性价比、支持新一代智能 ...查看全文",
+"published": 1790402400.0
+},
+{
+"source": "36氪",
+"title": "开市客公布75亿美元大规模扩张计划",
+"link": "https://36kr.com/newsflashes/3999712010326145?f=rss",
+"summary": "在又一个业绩亮眼的财季过后，仓储会员店开市客（Costco Wholesale）公布2027财年75 亿美元资本开支方案，加速推进业务扩张。公司计划本财年新开33家仓储门店，其中包含5家迁址门店。这将帮助开市客进一步靠近首席执行官罗恩・瓦克里斯设定的长期目标：每年净增约30家门店。截至2026财年末，开市客在全球共有939家仓储门店，当年资本项目投入达64亿美元。（新浪财经）",
+"published": 1790401397.0
+},
+{
+"source": "36氪",
+"title": "英飞凌耗资14.4亿美元的泰国半导体工厂将于10月1日投产",
+"link": "https://36kr.com/newsflashes/3999710616932226?f=rss",
+"summary": "德国芯片厂商英飞凌科技将于10月1日正式启用泰国半导体工厂，项目投资超480亿泰铢（折合14.4亿美元），助力泰国打造更先进的本土芯片产业。 泰国投资委员会上周五晚间发布新闻稿称，本次投资涵盖功率模块制造、半导体测试以及一座研发中心。 这座泰国工厂将生产用于电动汽车、能源系统与数据中心的功率模块。 该项目预计雇佣超过5000名泰国本地员工。（财联社）",
+"published": 1790400230.0
+},
+{
+"source": "36氪",
+"title": "“全球最快高铁”CR450动车组模拟驾驶舱亮相柏林",
+"link": "https://36kr.com/newsflashes/3999709976907913?f=rss",
+"summary": "被称为“全球最快高铁”的CR450复兴号动车组模拟驾驶舱，日前亮相正在德国柏林举办的第15届国际轨道交通技术展览会，吸引了媒体和观众的目光。除CR450外，“人工智能+铁路装备”展区也展示了中国铁路智能装备研制的最新进展。（央视新闻）",
+"published": 1790398757.0
+},
+{
+"source": "36氪",
+"title": "Anthropic据悉正洽谈一项规模达1吉瓦的数据中心容量交易",
+"link": "https://36kr.com/newsflashes/3999708319895426?f=rss",
+"summary": "据报道，Anthropic正开展初步谈判，拟从阿波罗全球管理控股的数据中心开发商手中租赁最高1吉瓦的算力容量。（界面）",
+"published": 1790397575.0
+},
+{
+"source": "36氪",
+"title": "随着推理需求激增，Fireworks与Fal考虑开启新一轮融资",
+"link": "https://36kr.com/newsflashes/3999707884802184?f=rss",
+"summary": "Fal、Fireworks AI这类提供AI模型与服务器调用服务的初创企业营收持续走高。开发者借助它们快速运行模型，也引发投资者新一轮的投资热潮。据两名知情人士透露，专注为谷歌Nano Banana等图像、视频生成模型提供推理服务的Fal，已和投资者洽谈新一轮融资，目标估值150亿美元。另有第三位知情人士称，谈判尚处于早期阶段，该公司有可能把目标估值上调至170亿至200亿美元区间。（新浪财经）",
+"published": 1790396467.0
+},
+{
+"source": "Solidot",
+"title": "黑手党可能阻止了芬太尼流入意大利",
+"link": "https://www.solidot.org/story?sid=85478",
+"summary": "在电影《教父》中，维托柯里昂（Don Vito Corleone）拒绝参与海洛因交易，称毒品生意太脏。现实中的黑手党并非如此，但对于选择芬太尼还是海洛因等其它毒品，意大利黑手党看起来选择了拒绝芬太尼。这或许可以解释意大利芬太尼过量致死率异常低。2024 年比吗啡强效百倍的合成阿片类药物在意大利仅检测出两例致死事件。相比之下，德国 95 例，美国近 4.8 万例。意大利整体上的毒品消费水平无法解释这一现象。根据欧洲的数据，每年约有 2.1% 的意大利青年使用可卡因，德国的这一比…",
+"published": 1790394154.0
+},
+{
+"source": "TechCrunch",
+"title": "At Meta Connect, the company’s smart glasses were everywhere",
+"link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+"summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+"published": 1790384937.0
+},
 {
 "source": "36氪",
 "title": "美股三大指数集体收涨，苹果再创历史收盘新高",
@@ -33,6 +427,13 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "CoreWeave’s next test: From GPU scarcity to a durable AI cloud",
+"link": "https://siliconangle.com/2026/09/26/coreweaves-next-test-from-gpu-scarcity-to-a-durable-ai-cloud/",
+"summary": "Ahead of CoreWeave Inc.’s Fully Connected conference in San Francisco, we have made a notable investment in proprietary customer research with Qualitate. Rather than simply repeat the earnings call, we went to the people evaluating, buying …",
+"published": 1790435295.0
+},
 {
 "source": "SiliconANGLE",
 "title": "What to expect at Dell’s AI Leadership Symposium: Join theCUBE Sept. 29",

@@ -1,6 +1,6 @@
 {
 "date": "2026-09-26",
-"total": 63,
+"total": 66,
 "categories": {
 "AI": [
 {
@@ -32,6 +32,13 @@
 "published": 1790441796.0
 },
 {
+"source": "HN AI 热门",
+"title": "CEO of Mistral: AI is software. It can be controlled",
+"link": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+"summary": "Article URL: https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html Comments URL: https://news.ycombinator.com/item?id=49856034 Points: 97 # C…",
+"published": 1790427124.0
+},
+{
 "source": "量子位",
 "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
 "link": "https://www.qbitai.com/2026/09/498478.html",
@@ -44,6 +51,13 @@
 "link": "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/",
 "summary": "SoL-Pi cuts coding agents' token usage by up to 49 percent with little change in performance by optimizing the control layer between the model and its environment. A research agent tested 152 approaches across more than 3,000 runs to develo…",
 "published": 1790418632.0
+},
+{
+"source": "HN AI 热门",
+"title": "One Month Without AI",
+"link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+"summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 179 # Comments: 225",
+"published": 1790417301.0
 },
 {
 "source": "InfoQ 中国",
@@ -107,6 +121,13 @@
 "link": "https://www.qbitai.com/2026/09/497382.html",
 "summary": "还把「密钥」叫战利品",
 "published": 1790406255.0
+},
+{
+"source": "HN AI 热门",
+"title": "Generate fonts where every LLM token is the same width",
+"link": "https://ampdot.mesh.host/token-space-fonts.html",
+"summary": "Article URL: https://ampdot.mesh.host/token-space-fonts.html Comments URL: https://news.ycombinator.com/item?id=49851883 Points: 87 # Comments: 22",
+"published": 1790382603.0
 }
 ],
 "科技": [

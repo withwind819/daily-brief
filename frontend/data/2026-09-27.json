@@ -1,0 +1,271 @@
+{
+"date": "2026-09-27",
+"total": 37,
+"categories": {
+"AI": [
+{
+"source": "HN AI 热门",
+"title": "There are no \"rogue\" AI agents",
+"link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+"summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 333 # Comments: 244",
+"published": 1790525986.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: TinyAIArena watch AI agents battle it out",
+"link": "https://tinyaiarena.com/",
+"summary": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win!Cl…",
+"published": 1790524288.0
+},
+{
+"source": "The Decoder",
+"title": "AI agents do more of the work in model development, but humans still make the decisions",
+"link": "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/",
+"summary": "A research team analyzed 769 task logs from building its own AI model. AI agents supplied up to 55 percent of method proposals, but humans made more than 85 percent of final decisions. A third of the tasks wouldn't have been attempted witho…",
+"published": 1790522319.0
+},
+{
+"source": "量子位",
+"title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+"link": "https://www.qbitai.com/2026/09/498633.html",
+"summary": "",
+"published": 1790518835.0
+},
+{
+"source": "量子位",
+"title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+"link": "https://www.qbitai.com/2026/09/498605.html",
+"summary": "想让开发者“说句话就能跑量子计算”",
+"published": 1790517477.0
+},
+{
+"source": "量子位",
+"title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+"link": "https://www.qbitai.com/2026/09/498584.html",
+"summary": "中秋假期文具OpenRouter调用日榜榜首",
+"published": 1790516402.0
+},
+{
+"source": "The Decoder",
+"title": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\"",
+"link": "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
+"summary": "According to the Wall Street Journal, some of Anthropic's longest-serving employees are considering buying land in remote parts of the US as a refuge in case AI goes awry. The report traces the company's deep ties to the Effective Altruism …",
+"published": 1790514185.0
+},
+{
+"source": "The Decoder",
+"title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
+"link": "https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time/",
+"summary": "Nvidia released Nemotron 3 Diarization, an AI model that identifies which speaker is talking at any given moment in a conversation. The article Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time appea…",
+"published": 1790506873.0
+},
+{
+"source": "The Decoder",
+"title": "Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen",
+"link": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/",
+"summary": "Researchers from Stanford and Caltech had a humanoid robot powered by GPT-6 Astra independently tidy up an unfamiliar kitchen. Their HomeBody system skips a specially trained control layer, letting the language model call directly into modu…",
+"published": 1790506751.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond",
+"link": "https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/",
+"summary": "Boris Power, OpenAI's Head of Applied Research, says 80 to 90 percent of the company's research goes toward GPT 7, GPT 8, and beyond. Improvements within a single generation are intentionally short-term bets. But Power doesn't see model per…",
+"published": 1790505389.0
+},
+{
+"source": "HN AI 热门",
+"title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+"link": "https://arxiv.org/abs/2609.25021",
+"summary": "Article URL: https://arxiv.org/abs/2609.25021 Comments URL: https://news.ycombinator.com/item?id=49865343 Points: 101 # Comments: 101",
+"published": 1790504785.0
+},
+{
+"source": "InfoQ 中国",
+"title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+"link": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790503200.0
+},
+{
+"source": "InfoQ 中国",
+"title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+"link": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790503200.0
+},
+{
+"source": "量子位",
+"title": "啥题啊能干崩OpenAI最强模型训练…",
+"link": "https://www.qbitai.com/2026/09/498546.html",
+"summary": "",
+"published": 1790502256.0
+},
+{
+"source": "The Decoder",
+"title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
+"link": "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/",
+"summary": "OpenAI and Anthropic are investigating tens of thousands of incidents in which their AI agents independently hacked websites, used stolen login credentials, or tried to evade monitoring systems. US government agencies like the SEC and the C…",
+"published": 1790501016.0
+},
+{
+"source": "The Decoder",
+"title": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates",
+"link": "https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/",
+"summary": "Goldman Sachs projects that Amazon, Alphabet, Microsoft, Oracle, and Meta will pour a combined $1.2 trillion into AI infrastructure in 2027, more than 50 percent above this year's levels. Measured against GDP, it would be the biggest invest…",
+"published": 1790497067.0
+}
+],
+"科技": [
+{
+"source": "少数派",
+"title": "派早报：OpenAI 称与苹果合作效果不佳",
+"link": "https://sspai.com/post/115079",
+"summary": "OpenAI 称与苹果合作效果不佳iPhone 4「天线门」媒体问答录像时隔十六年现身F-Droid 2.0 发布三星冰箱固件升级后罢工，影响韩国用户过中秋Excel 单元格将支持数组微软不再使用 Copilot + PC 品牌看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+"published": 1790550225.0
+},
+{
+"source": "The Verge",
+"title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+"link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+"summary": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't l…",
+"published": 1790546397.0
+},
+{
+"source": "The Verge",
+"title": "Engram is a sampler that turns broken AI hallucinations into music",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+"summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a…",
+"published": 1790541996.0
+},
+{
+"source": "TechCrunch",
+"title": "Anthropic’s CEO is about to have dinner with President Trump",
+"link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+"summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+"published": 1790541268.0
+},
+{
+"source": "TechCrunch",
+"title": "Can Muse overcome Meta’s trust issues?",
+"link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+"summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+"published": 1790539050.0
+},
+{
+"source": "The Verge",
+"title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+"summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the…",
+"published": 1790529667.0
+},
+{
+"source": "TechCrunch",
+"title": "Anthropic’s Dario Amodei gets the SNL treatment",
+"link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+"summary": "\"AI is the devil and I its maker.\"",
+"published": 1790526600.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Mobility: AV companies pick their lanes",
+"link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+"summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+"published": 1790524920.0
+},
+{
+"source": "TechCrunch",
+"title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+"link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+"summary": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+"published": 1790521200.0
+},
+{
+"source": "The Verge",
+"title": "Why OLPC’s $100 laptop never stood a chance",
+"link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+"summary": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child init…",
+"published": 1790511900.0
+},
+{
+"source": "The Verge",
+"title": "Googlebooks might be the real deal",
+"link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
+"summary": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all the old editions at the Installer homepag…",
+"published": 1790510400.0
+},
+{
+"source": "The Verge",
+"title": "The smart home graveyard is getting crowded",
+"link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
+"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepback arrives in our subscribers' inboxes on Su…",
+"published": 1790510400.0
+},
+{
+"source": "Solidot",
+"title": "Meta 屏蔽了巴西总统的 FB 主页以及竞选广告",
+"link": "https://www.solidot.org/story?sid=85487",
+"summary": "距离 2026 年 10 月巴西大选不到两周，Meta 本周短暂屏蔽了巴西现任总统卢拉的 FB 主页以及竞选连任广告，在抗议和投诉之后，Meta 恢复了主页，但卢拉的竞选团队认为此举损害了总统的竞选活动。Meta 是在本周三屏蔽了卢拉的主页，未给出任何理由。卢拉竞选团队投诉称，数字环境在政治辩论中发挥着核心作用，限制卢拉的广告账户损害了其开展竞选活动的能力。此举使卢拉与其他候选人相比处于不平等的地位。卢拉竞选团队以及其所属的劳工党要求 Meta 保留所有数字证据，考虑诉诸巴西…",
+"published": 1790507613.0
+},
+{
+"source": "Solidot",
+"title": "Bitget 被盗走价值 3.875 亿美元加密货币",
+"link": "https://www.solidot.org/story?sid=85486",
+"summary": "Bitget 交易所被盗走价值 3.875 亿美元的加密货币。攻击发生在 9 月 24 日 18:31 UTC。区块链情报公司 Arkham 发表报告称，从 18:58 至 19:16 之间的 18 分钟内，价值 2.28 亿美元的数字资产从 Bitget 钱包中转出。价值 1.53 亿美元的 XRP 从一个被识别为​​ Bitget 冷钱包的地址中转出，此外还有价值 6620 万美元的 ETH、3480 万美元的 USDT、1290 万美元的 USDC 以及 1280 万美…",
+"published": 1790505923.0
+},
+{
+"source": "Solidot",
+"title": "科学家研制出至今最精确的原子钟",
+"link": "https://www.solidot.org/story?sid=85485",
+"summary": "新加坡国立大学研制出至今最精确的原子钟，运行 2600 亿年误差不到 1 秒。新设备是一台光学原子钟，靠镥离子固有而稳定的特性计时。特定频率的光，能把电子送上更高能量的激发态，而这一跃迁频率恒定不变。团队持续观测镥离子的跃迁，把激光锁定在触发跃迁的精确频率上，再以激光振荡作为计时标尺。在最新研究中，团队把镥钟频率测到小数点后 19 位，不确定度仅为 1×10^(-19)，创下所有光学原子钟的最低纪录。他们还造出两台时钟，进行了长达 200 小时的比对。团队表示，镥的特性非常适…",
+"published": 1790504466.0
+},
+{
+"source": "Solidot",
+"title": "龙芯 CPU 的原子加指令偶尔会丢失",
+"link": "https://www.solidot.org/story?sid=85484",
+"summary": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让 AI 去找最小复现，在这个过程中负责指挥 AI 调查的方向。大概两天后找到了一个稳定的复现程序，才发现事情的根源是：CPU 的原子加法指令，偶尔会不原子。开发者向龙芯报告了问题，…",
+"published": 1790503036.0
+},
+{
+"source": "少数派",
+"title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
+"link": "https://sspai.com/post/115056",
+"summary": "《鬼武者》系列的惊艳复活，《风花雪月》的世界观延续，赛璐珞动画风格的双人历险……查看全文",
+"published": 1790502609.0
+},
+{
+"source": "Solidot",
+"title": "太平洋西北下方的板块在分裂",
+"link": "https://www.solidot.org/story?sid=85483",
+"summary": "科学家捕捉到了太平洋西北下方的一个大型构造系统分裂的细节。最新研究发现了一个俯冲带正在活跃分裂。俯冲带形成于一个构造板块俯冲到另一个板块下并深入地球内部，是大型地震、强火山爆发以及大陆和海洋盆地长期变化的源头。现在科学家有机会清晰观察大型构造系统如何走向终结。构造系统会持续活跃数百万年，但不会永远持续下去。利用声波回声，科学家正在观察 Cascadia 俯冲带的分裂。路易斯安那州立大学地质学家、研究主要作者 Brandon Shuck 表示，“这是我们第一次清晰看到一个俯冲带…",
+"published": 1790498048.0
+},
+{
+"source": "TechCrunch",
+"title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+"link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+"summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic marker…",
+"published": 1790473230.0
+},
+{
+"source": "TechCrunch",
+"title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+"link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+"summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+"published": 1790472600.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Researcher links 16,000 scans of a UN statistics portal to OpenAI agents",
+"link": "https://siliconangle.com/2026/09/27/researcher-links-16000-scans-of-a-u-n-statistics-portal-to-openai-agents/",
+"summary": "An independent researcher has tied more than 16,000 scans of a United Nations statistics portal to artificial intelligence agents the researcher considers highly likely to have been run by OpenAI Group PBC. When the portal turned requests a…",
+"published": 1790548258.0
+}
+]
+}
+}

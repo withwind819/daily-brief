@@ -1,6 +1,6 @@
 {
 "date": "2026-09-25",
-"total": 99,
+"total": 101,
 "categories": {
 "AI": [
 {
@@ -51,6 +51,13 @@
 "link": "https://www.infoq.cn/article/kJ4EkjPLVTh9iT5yyXkM?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1790345880.0
+},
+{
+"source": "HN AI 热门",
+"title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+"link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+"summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 154 # Comments: 148",
+"published": 1790345228.0
 },
 {
 "source": "量子位",
@@ -163,6 +170,13 @@
 "link": "https://www.qbitai.com/2026/09/497012.html",
 "summary": "",
 "published": 1790315538.0
+},
+{
+"source": "HN AI 热门",
+"title": "Evolving programming languages in the AI era",
+"link": "https://dashbit.co/blog/evolving-ai-era",
+"summary": "Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49839567 Points: 135 # Comments: 96",
+"published": 1790303679.0
 }
 ],
 "科技": [

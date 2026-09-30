@@ -1,0 +1,215 @@
+{
+"date": "2026-09-30",
+"total": 29,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响",
+"link": "https://www.infoq.cn/article/dbOwzu6l6Tr8NAhCQRC8?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1790758800.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "英国8月份汽车产量增长5.7%",
+"link": "https://36kr.com/newsflashes/4005190688182406?f=rss",
+"summary": "周三公布的行业数据显示，受国内汽车需求回升带动，英国8月份汽车产量出现反弹；不过，欧盟贸易争端的加剧可能会对该行业的长期前景构成压力。英国汽车制造商与贸易商协会（SMMT）表示，8月份英国汽车产量增长5.7%，达到40872辆。通常情况下，由于工厂按计划停产，8月份往往呈现产量低且波动大的特点。（新浪财经）",
+"published": 1790732602.0
+},
+{
+"source": "36氪",
+"title": "商务部：自巴西进口牛肉10月1日零点起加征55%关税",
+"link": "https://36kr.com/newsflashes/4005239658319752?f=rss",
+"summary": "36氪获悉，商务部公告，牛肉保障措施项下自巴西进口的牛肉于2026年9月29日已达到商务部公告2025年第87号明确的该国家规定数量的100%。根据商务部公告2025年第87号，在巴西牛肉进口数量达到规定数量100%的第3日起（10月1日零点起），自该国进口牛肉将在现行适用关税税率基础上加征55%关税。",
+"published": 1790732428.0
+},
+{
+"source": "36氪",
+"title": "国家统计局服务业调查中心首席统计师霍丽慧解读2026年9月中国采购经理指数",
+"link": "https://36kr.com/newsflashes/4005238429192073?f=rss",
+"summary": "36氪获悉，9月份，制造业采购经理指数、非制造业商务活动指数和综合PMI产出指数分别为50.1%、50.2%和50.7%，比上月上升0.3个、1.2个和1.2个百分点，经济景气水平有所回升。制造业生产指数为51.7%，比上月上升1.3个百分点，新订单指数为50.5%，比上月略降0.1个百分点，两个指数均高于临界点，制造业企业生产和市场需求继续改善。从行业看，农副食品加工、医药等行业生产指数和新订单指数均高于55.0%，相关企业产需释放较快；化学原料及化学制品、黑色金属冶炼及压…",
+"published": 1790732353.0
+},
+{
+"source": "36氪",
+"title": "江波龙：存储产业供需关系仍将维持偏紧态势",
+"link": "https://36kr.com/newsflashes/4005188785082249?f=rss",
+"summary": "就如何看待存储价格未来变化趋势，9月29日，江波龙在最新披露的投资者关系活动记录表中表示，结合第三方机构公布的信息来看，AI在云端和端侧落地，是较为明确的产业趋势，并将带来巨大的存储需求增量；受过往周期影响，海外原厂仍维持相对审慎的NAND资本开支计划，更多通过技术升级实现相对温和的NAND供给增长，因此存储产业供需关系仍将维持偏紧态势。（界面）",
+"published": 1790732307.0
+},
+{
+"source": "36氪",
+"title": "央行今日开展8335亿元隔夜逆回购操作",
+"link": "https://36kr.com/newsflashes/4005237086310280?f=rss",
+"summary": "36氪获悉，央行今日开展8335亿元隔夜逆回购操作。",
+"published": 1790732271.0
+},
+{
+"source": "爱范儿",
+"title": "ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车",
+"link": "https://www.ifanr.com/1682644?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "奥特曼：AI 将带来新文艺复兴，而非新工业革命#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1790732055.0
+},
+{
+"source": "36氪",
+"title": "据悉贝恩资本正考虑以150亿美元收购数据中心",
+"link": "https://36kr.com/newsflashes/4005187843903622?f=rss",
+"summary": "知情人士透露，贝恩资本（Bain Capital）正参与竞标，拟收购科赫公司（Koch Inc．）旗下的一家数据中心企业。此举标志着这家在美国人工智能基础设施热潮中一直按兵不动的机构，迈出了其最大的一步。据知情人士透露，贝恩资本已就收购Edged公司进行了洽谈。Edged由科赫与企业家雅各布·卡内马克（Jakob Carnemark）共同创立，致力于数据中心的开发、建设与运营。媒体此前报道称，科赫的子公司科赫房地产投资公司（Koch Real Estate Investmen…",
+"published": 1790732005.0
+},
+{
+"source": "36氪",
+"title": "国家统计局：中国9月官方制造业PMI 50.1，前值49.8",
+"link": "https://36kr.com/newsflashes/4005230324043657?f=rss",
+"summary": "36氪获悉，国家统计局数据显示,9月份，制造业采购经理指数（PMI）为50.1%，比上月上升0.3个百分点，升至扩张区间。从企业规模看，大型企业PMI为50.6%，与上月持平，高于临界点；中、小型企业PMI分别为49.7%和48.9%，比上月上升0.3个和1.0个百分点，均低于临界点。从分类指数看，构成制造业PMI的5个分类指数中，生产指数、新订单指数和供应商配送时间指数均高于临界点；原材料库存指数、从业人员指数低于临界点。生产指数为51.7%，比上月上升1.3个百分点，表明…",
+"published": 1790731858.0
+},
+{
+"source": "36氪",
+"title": "A股三大指数开盘集体上涨，海南橡胶涨超8%",
+"link": "https://36kr.com/newsflashes/4005226869395591?f=rss",
+"summary": "36氪获悉，A股三大指数开盘集体上涨，沪指涨0.23%，深成指涨0.44%，创业板指涨0.7%；林木、通信设备板块领涨，海南橡胶涨超8%，长盈通涨超4%；房地产、煤炭跌幅居前；我爱我家跌停，云煤能源跌超2%。",
+"published": 1790731647.0
+},
+{
+"source": "36氪",
+"title": "恒指开盘跌0.53%，恒生科技指数跌0.41%",
+"link": "https://36kr.com/newsflashes/4005223202132101?f=rss",
+"summary": "36氪获悉，恒指开盘跌0.53%，恒生科技指数跌0.41%；日常消费零售、石油石化板块领跌，京东健康跌超2%，中国石油股份跌超1%；硬件设备、半导体板块涨幅居前，长飞光纤光缆涨超2%，澜起科技涨超1%。",
+"published": 1790731423.0
+},
+{
+"source": "36氪",
+"title": "人民币兑美元中间价报6.7351，上调60.00点",
+"link": "https://36kr.com/newsflashes/4005216205688967?f=rss",
+"summary": "36氪获悉，人民币兑美元中间价报6.7351，上调60.00点。",
+"published": 1790730996.0
+},
+{
+"source": "36氪",
+"title": "港股IPO市场热度居高不下，369家公司排队聆讯处理中",
+"link": "https://36kr.com/newsflashes/4005186622443651?f=rss",
+"summary": "今年以来，港股IPO市场热度居高不下，企业赴港上市热情持续高涨。Wind数据显示，截至9月29日收盘，港股年内聆讯且已经完成上市动作的有76家，聆讯通过但暂未上市的有7家、聆讯处理中的有369家、失效的有145家、撤回的有2家。这一轮IPO热潮的核心驱动力来自科技企业的大规模入场与A股公司赴港上市热度的持续攀升，两条主线相互交织。内地AI、硬科技企业及“A+H”上市项目成为香港新股市场的重要增量。德勤中国最新预测显示，香港新股市场的强劲发展势头有望延续至年底，2026年全年有…",
+"published": 1790730732.0
+},
+{
+"source": "36氪",
+"title": "东方电气：“东方曙光”1号燃气轮机获海外新订单",
+"link": "https://36kr.com/newsflashes/4005185276891012?f=rss",
+"summary": "据东方电气消息，东方电气与哈萨克斯坦AMF集团于近日签署2台“东方曙光”1号（G50）燃气轮机及配套发电机组供货合同。该项目位于哈萨克斯坦阿克托别州穆加尔扎尔区，由AMF集团负责运营，东方电气将为项目提供2台“东方曙光”1号（G50）燃气轮机及配套发电机组供货、安装调试指导等。（界面）",
+"published": 1790730589.0
+},
+{
+"source": "36氪",
+"title": "市场监管总局召开网络平台食品安全行政指导会",
+"link": "https://36kr.com/newsflashes/4005206146158471?f=rss",
+"summary": "36氪获悉，近日，市场监管总局召开网络平台食品安全行政指导会，进一步压实网络平台食品安全主体责任，细化线上风险管控举措，全力筑牢网络食品安全防线，营造规范有序、安心放心的网络食品消费环境。会议要求，各级市场监管部门要持续强化线上食品安全监管执法，扩大抽检覆盖面、加大靶向治理力度，精准排查化解各类食品安全风险隐患。要持续推进网络食品安全合规提质行动，常态化开展合规指导和警示教育，督促平台及入网经营者规范经营行为、强化安全意识、提升管理水平，以精准监管规范市场秩序，推动行业高质量…",
+"published": 1790730382.0
+},
+{
+"source": "36氪",
+"title": "OpenAI首席执行官称AI安全成为焦点，相信投资者会对IPO保持耐心",
+"link": "https://36kr.com/newsflashes/4005180719583112?f=rss",
+"summary": "OpenAI首席执行官Sam Altman表示，公司希望在没有作为新上市公司的压力下，平稳度过人工智能安全担忧加剧的时期，并相信投资者会对公司IPO计划保持“耐心”。Altman周二接受媒体采访时表示，公司目前正在“调整”以适应人工智能能力的“新水平”以及随之而来的额外安全要求。“我们只是想站稳脚跟，确保我们了解如何以这种新方式运作，并且能在没有作为一家新上市公司的压力之下做出一些决定，”Altman说。（新浪财经）",
+"published": 1790730317.0
+},
+{
+"source": "36氪",
+"title": "今年我国快递业务量已超1500亿件",
+"link": "https://36kr.com/newsflashes/4005202739908742?f=rss",
+"summary": "国家邮政局9月30日发布数据显示，截至9月29日，今年我国快递业务量已超1500亿件，比2025年提前12天。（新华社）",
+"published": 1790730175.0
+},
+{
+"source": "36氪",
+"title": "全国铁路今天预计发送旅客1976万人次",
+"link": "https://36kr.com/newsflashes/4005202201383047?f=rss",
+"summary": "从国铁集团了解到，今天全国铁路预计发送旅客1976万人次，预计加开列车2053列，热门线路加开夜间高铁。9月29日全国铁路发送旅客1374.2万人次，增长6.5%，加开列车907列。（央视新闻）",
+"published": 1790730142.0
+},
+{
+"source": "36氪",
+"title": "南向资金年内净买入近4300亿港元，机构称港股整体趋势有望向好",
+"link": "https://36kr.com/newsflashes/4005181805564035?f=rss",
+"summary": "今年以来，南向资金明显加仓港股市场，是港股市场最重要的增量资金来源之一。Wind数据显示，截至9月29日，今年以来南向资金累计净流入近4300亿港元。近一个月，资讯科技业、工业、金融业等行业受到南向资金青睐，净买入金额居前。市场表现上，今年以来，港股市场板块间出现分化。截至9月29日收盘，恒生指数累计跌逾4%，恒生科技指数累计跌逾22%，综合企业、金融业、能源业等传统行业板块领涨。近期，港股市场持续震荡。机构人士认为，短期看海外流动性预期反复及科技板块估值波动仍是港股市场主要…",
+"published": 1790730139.0
+},
+{
+"source": "36氪",
+"title": "特朗普会晤人工智能业界领袖，反对新增联邦安全监管",
+"link": "https://36kr.com/newsflashes/4005178735497090?f=rss",
+"summary": "在全球对人工智能威胁的担忧日益加剧之际，美国总统唐纳德·特朗普在白宫与人工智能行业高管会面后，否定了针对人工智能出台新联邦法规的想法。特朗普周二与二十多位硅谷领袖共进午餐后表示，现有法律足以保护美国人免受AI潜在风险的影响。特朗普与嘉宾在白宫东厅短暂会见记者时表示：“有人认为应该进行大量自我监管，而司法部、联邦调查局等机构本身就已经提供了监管，但自我监管非常重要。”活动结束后，特朗普在白宫西翼车道临时露面时提出，可以成立一个约10人组成的“委员会”，帮助“监督整个行业”。他没…",
+"published": 1790729898.0
+},
+{
+"source": "36氪",
+"title": "美国财政部：特朗普账户将自动为儿童注册，可能新增6000万个账户",
+"link": "https://36kr.com/newsflashes/4005176369008512?f=rss",
+"summary": "美国财政部周二公布的临时法规显示，特朗普账户最早将于10月1日开始自动为数百万儿童注册。该指导文件称，这一变化可能在2026年使特朗普账户的注册儿童人数增加超过6000万。在未来几年，这些法规可能使注册人数每年增加约200万个账户。财政部长贝森特9月15日在众议院金融服务委员会举行的听证会上说，到目前为止，已有700万至800万美国儿童注册了特朗普账户，“我们预计一个月内将达到7000万，因为我们将进行自动注册。”（新浪财经）",
+"published": 1790729814.0
+},
+{
+"source": "36氪",
+"title": "比亚迪：预计方程S月销可以破1万甚至1.5万辆",
+"link": "https://36kr.com/newsflashes/4005175103508616?f=rss",
+"summary": "9月29日，比亚迪在2026年第一次临时股东会上表示，刚刚上市的方程S迎来了超预期的预订，店端非常热闹，预计方程S月销可以破1万甚至1.5万辆。据了解，方程S是比亚迪旗下品牌方程豹推出的首款轿车车型，方程S售价为18.99万至22.99万元，猎装车方程S GT售价为21.99万至23.99万元。（界面）",
+"published": 1790729675.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一",
+"link": "https://www.ifanr.com/1682554?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· DeepSeek Harness 推出桌面端预览版 · 特斯拉 Roadster 发布会因天气推迟 · vivo 调整中国区考勤：工作日最晚 9 点打卡，10 月 8 日执行#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1790727996.0
+},
+{
+"source": "爱范儿",
+"title": "OpenAI 年度发布会最全总结：25 个新品很夯，但额度减半拉爆了",
+"link": "https://www.ifanr.com/1682571?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "省流：个人用户亏麻了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1790727606.0
+},
+{
+"source": "The Verge",
+"title": "Sam Altman says OpenAI won’t go public until its models are safe",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+"summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as…",
+"published": 1790727553.0
+},
+{
+"source": "36氪",
+"title": "地卫二启动“太空之弦”千星蓝图，2028年对标SpaceX Starmind计划",
+"link": "https://36kr.com/p/4005156110389120?f=rss",
+"summary": "2026年9月，中国商业航天进入一个密集爆发期，多家公司完成数亿元融资，还在一个月内完成至少10次航天发射，将44颗卫星送入轨道。 资本热度和密集发射共同指向一个趋势：商业航天正在从技术验证期转向规模化部署。但卫星发得越多，也越逼近“天感地算”路径的极限，进一步推动行业对太空计算的关注和布局。 9月25日，“太空之弦”计算星座计划启动仪式在杭州举行。按照现场公布的千星路线图，这个中国首个面向全球市场的太空计算星座，远期规划部署超过1000颗太空智能体，2027年计划发射G1星…",
+"published": 1790727477.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨10月1日起将对居民购房实施贷款贴息；AMD回应收购李飞飞公司；网红超长蛋挞全是皮没蛋液？鲍师傅回应",
+"link": "https://36kr.com/p/4005136008761217?f=rss",
+"summary": "今日热点导览 OpenAI推出全天候自主智能体Dots、GPT-6.1 Sol模型 长鑫科技宣布349亿元投资，官宣投建两大新项目 央行：下调抵押补充贷款（PSL）利率0.25个百分点 美光财报前夕，超级多头重申2000美元目标价 英伟达追加创纪录1500亿美元股票回购 TOP3大新闻 10月1日起将对居民购房实施贷款贴息 记者9月29日从财政部了解到，我国将从10月1日起对居民使用新发放商业性个人住房贷款购房实施贴息，以降低居民购房成本，更好支持和释放城乡居民刚性住房需求。…",
+"published": 1790726513.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Okta moves inline to police what AI agents actually do",
+"link": "https://siliconangle.com/2026/09/29/agent-gateway-lets-okta-police-ai-runtime-actions-oktane/",
+"summary": "An agent gateway moves identity security beyond deciding who gets through the front door to governing what autonomous AI agents do once inside. By sitting in the path of attempted actions, the gateway can enforce authorization decisions at …",
+"published": 1790730265.0
+},
+{
+"source": "SiliconANGLE",
+"title": "World model startup General Intuition closes $220M investment",
+"link": "https://siliconangle.com/2026/09/29/world-model-startup-general-intuition-closes-220m-investment/",
+"summary": "General Intuition Inc. today announced that it has raised $220 million in funding at a $6.2 billion valuation. The capital was provided by Valor Equity Partners, Atreides, Seven Seven Six, Point72, Khosla Ventures and General Catalyst. The …",
+"published": 1790727462.0
+}
+]
+}
+}

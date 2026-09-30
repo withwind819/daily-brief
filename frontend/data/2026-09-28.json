@@ -1,6 +1,6 @@
 {
 "date": "2026-09-28",
-"total": 136,
+"total": 137,
 "categories": {
 "AI": [
 {
@@ -44,6 +44,13 @@
 "link": "https://www.infoq.cn/article/WG5UVlDS5e3K2iMTcUYj?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1790623140.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Towards safety cases for frontier AI training",
+"link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+"summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+"published": 1790622000.0
 },
 {
 "source": "InfoQ 中国",

@@ -1,6 +1,6 @@
 {
 "date": "2026-09-29",
-"total": 165,
+"total": 166,
 "categories": {
 "AI": [
 {
@@ -466,6 +466,13 @@
 "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
 "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
 "published": 1790700956.0
+},
+{
+"source": "Solidot",
+"title": "中国 AI 智能体也会撒谎和欺骗",
+"link": "https://www.solidot.org/story?sid=85508",
+"summary": "和美国 AI 模型一样，中国公司的 AI 智能体也会撒谎和欺骗。在今年 3 月进行的一次商业招标实验中， 北航、北大、宁波诺丁汉和 360 AI 安全实验室的研究人员让多个智能体参与模拟客户合同的竞标，每个智能体都被告知其产品的功能及客户的需求，随后被要求进行报价。阿里巴巴 Qwen3-Max-Preview 模型 88% 的会话至少出现一次虚假陈述，DeepSeek-V3.2-Exp 模型的比例为 84%，月之暗面 Kimi-K2 模型为 88%。研究人员允许智能体在再次尝…",
+"published": 1790698998.0
 },
 {
 "source": "The Verge",

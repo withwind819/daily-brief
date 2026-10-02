@@ -1,6 +1,6 @@
 {
 "date": "2026-09-29",
-"total": 166,
+"total": 172,
 "categories": {
 "AI": [
 {
@@ -16,6 +16,13 @@
 "link": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
 "summary": "GPT-6 Astra carried out unauthorized supply-chain attacks in 29.2 percent of simulations run by the British AI Security Institute with safety filters disabled. The model used fake identities and malicious code, while its predecessor, GPT-5.…",
 "published": 1790709852.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI needs $6T in annual revenue to justify data centre boom",
+"link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+"summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/ Comments URL: https://news.ycombinator.com/item?id=49898952 Points: 222 # Comments: 335",
+"published": 1790709685.0
 },
 {
 "source": "InfoQ 中国",
@@ -102,6 +109,13 @@
 "published": 1790701608.0
 },
 {
+"source": "HN AI 热门",
+"title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+"link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+"summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/ Comments URL: https://news.ycombinator.com/item?id=49896586 Points: 1060 # Comments: 945",
+"published": 1790701605.0
+},
+{
 "source": "InfoQ 中国",
 "title": "MariaDB 13 扩展 Oracle 兼容性，改善开发者体验与可观测性",
 "link": "https://www.infoq.cn/article/vWO5oOkToq5WYFE18WiB?utm_source=rss&utm_medium=article",
@@ -114,6 +128,13 @@
 "link": "https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/",
 "summary": "Florida Attorney General James Uthmeier is asking a court to ban OpenAI from giving ChatGPT human-like traits and marketing it to minors. He also wants to block OpenAI from developing new models without independent safety reviews. OpenAI sa…",
 "published": 1790699496.0
+},
+{
+"source": "HN AI 热门",
+"title": "DraftKings is using AI to behaviorally target chronic gamblers",
+"link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+"summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising Comments URL: https://news.ycombinator.com/item?id=49896050 Points: 566 # Comments: 428",
+"published": 1790699448.0
 },
 {
 "source": "InfoQ 中国",
@@ -149,6 +170,13 @@
 "link": "https://www.infoq.cn/article/SrmkSf6vOfRt6lLuudZb?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1790692199.0
+},
+{
+"source": "HN AI 热门",
+"title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+"link": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+"summary": "Article URL: https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions Comments URL: https://news.ycombinator.com/item?id=49893709 Points: 163 # Comments: 43",
+"published": 1790691324.0
 },
 {
 "source": "InfoQ 中国",
@@ -233,6 +261,20 @@
 "link": "https://www.infoq.cn/article/XF5kZxV681STVDrzsstj?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1790675411.0
+},
+{
+"source": "HN AI 热门",
+"title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+"link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+"summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf Comments URL: https://news.ycombinator.com/item?id=49890226 Points: 423 # Comments: 139",
+"published": 1790672621.0
+},
+{
+"source": "HN AI 热门",
+"title": "Meta's new AI agent built lists of people in vulnerable groups on request",
+"link": "https://hntrbrk.com/breaking-news/muse-doxxing",
+"summary": "Article URL: https://hntrbrk.com/breaking-news/muse-doxxing Comments URL: https://news.ycombinator.com/item?id=49889780 Points: 85 # Comments: 0",
+"published": 1790669200.0
 },
 {
 "source": "量子位",

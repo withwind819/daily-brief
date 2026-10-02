@@ -1,8 +1,15 @@
 {
 "date": "2026-09-28",
-"total": 137,
+"total": 142,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+"link": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+"summary": "Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 142 # Comments: 148",
+"published": 1790638859.0
+},
 {
 "source": "MIT科技评论 AI",
 "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -25,11 +32,25 @@
 "published": 1790630400.0
 },
 {
+"source": "HN AI 热门",
+"title": "Pacing the Frontier is not the actual goal for AI labs",
+"link": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
+"summary": "Article URL: https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs Comments URL: https://news.ycombinator.com/item?id=49884119 Points: 83 # Comments: 94",
+"published": 1790628446.0
+},
+{
 "source": "InfoQ 中国",
 "title": "AKS通过新的NAP指南使节点中断更加可预测",
 "link": "https://www.infoq.cn/article/7zcxyr8aBkDqQO682CJm?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1790626620.0
+},
+{
+"source": "HN AI 热门",
+"title": "It's Time to Investigate the AI Labs",
+"link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+"summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 624 # Comments: 277",
+"published": 1790625215.0
 },
 {
 "source": "The Decoder",
@@ -51,6 +72,13 @@
 "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
 "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
 "published": 1790622000.0
+},
+{
+"source": "HN AI 热门",
+"title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+"link": "https://stateofutopia.com/experiments/microllmlab/",
+"summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/ Comments URL: https://news.ycombinator.com/item?id=49882781 Points: 282 # Comments: 113",
+"published": 1790621933.0
 },
 {
 "source": "InfoQ 中国",
@@ -86,6 +114,13 @@
 "link": "https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/",
 "summary": "OpenAI's AI agents hit the UNCTAD statistics API roughly 16,500 times, creatively working around access restrictions. One method involved misusing a Google web security learning game as a relay to bypass their own constraints. The agents ju…",
 "published": 1790614566.0
+},
+{
+"source": "HN AI 热门",
+"title": "The problem is not AI code, but not knowing about system architecture or intent",
+"link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+"summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/item?id=49880312 Points: 386 # Comments: 239",
+"published": 1790611902.0
 },
 {
 "source": "The Decoder",

@@ -1,6 +1,6 @@
 {
 "date": "2026-09-30",
-"total": 159,
+"total": 163,
 "categories": {
 "AI": [
 {
@@ -23,6 +23,13 @@
 "link": "https://www.infoq.cn/article/cA9rSEGKphbJHIiTQKMv?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1790800668.0
+},
+{
+"source": "HN AI 热门",
+"title": "CS240 AI Cheating Retrospective",
+"link": "https://turkeyland.net/thoughts/ai.php",
+"summary": "Article URL: https://turkeyland.net/thoughts/ai.php Comments URL: https://news.ycombinator.com/item?id=49913458 Points: 115 # Comments: 103",
+"published": 1790798069.0
 },
 {
 "source": "InfoQ 中国",
@@ -72,6 +79,13 @@
 "link": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
 "summary": "The FTC is formally investigating OpenAI, Anthropic, and other leading AI labs over potential consumer protection violations. The agency plans to force document handovers and executive testimony through legally binding demands. The probe wa…",
 "published": 1790785204.0
+},
+{
+"source": "HN AI 热门",
+"title": "The AI Race Just Got Awkward",
+"link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+"summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49910553 Points: 408 # Comments: 455",
+"published": 1790783411.0
 },
 {
 "source": "InfoQ 中国",
@@ -186,6 +200,13 @@
 "published": 1790762400.0
 },
 {
+"source": "HN AI 热门",
+"title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+"link": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+"summary": "Article URL: https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence Comments URL: https://news.ycombinator.com/item?id=49906669 Points: 80 # Comments: 101",
+"published": 1790762343.0
+},
+{
 "source": "The Decoder",
 "title": "Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\"",
 "link": "https://the-decoder.com/trump-and-tech-ceos-sign-an-ai-code-of-conduct-thats-only-morally-binding/",
@@ -233,6 +254,13 @@
 "link": "https://www.qbitai.com/2026/09/499263.html",
 "summary": "",
 "published": 1790736797.0
+},
+{
+"source": "HN AI 热门",
+"title": "Responsible Release of AI-Generated Mathematics",
+"link": "https://agmai.org/general-sep29/",
+"summary": "Article URL: https://agmai.org/general-sep29/ Comments URL: https://news.ycombinator.com/item?id=49903713 Points: 118 # Comments: 174",
+"published": 1790735772.0
 }
 ],
 "科技": [

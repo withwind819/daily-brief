@@ -1,0 +1,52 @@
+{
+"date": "2026-10-03",
+"total": 6,
+"categories": {
+"科技": [
+{
+"source": "36氪",
+"title": "OpenAI披露澳大利亚又一政府机构遭入侵",
+"link": "https://36kr.com/newsflashes/4009465146019717?f=rss",
+"summary": "当地时间10月2日，美国开放人工智能研究中心（OpenAI）披露，有第二家澳大利亚政府机构遭到了入侵。OpenAI在一份声明中表示，一个人工智能模型获取了新南威尔士州某政府机构保存的火灾统计数据，而这些数据并未由该部门向公众公开。 OpenAI称，公司是在针对“模型行为偏离预期”展开的更大范围调查过程中发现了这一事件。 澳大利亚总理阿尔巴尼斯9月23日在纽约召开新闻发布会，通报一起美国开放人工智能研究中心（OpenAI）的人工智能体侵入澳大利亚政府网站的事件。阿尔巴尼斯称，今…",
+"published": 1790990980.0
+},
+{
+"source": "36氪",
+"title": "国庆假期第二天全社会跨区域人员流动量超3亿人次",
+"link": "https://36kr.com/newsflashes/4009462933311624?f=rss",
+"summary": "今天（3日）是国庆假期第三天，各地出行需求旺盛。而在昨天，也就是国庆假期第二天，全社会跨区域人员流动量预计超3亿人次，中短途出行增长明显。 昨天，全国公路人员流动量预计超2.8亿人次，高速公路车流量保持高位运行。出行以景区间串联漫游，区域内短途转场流动为主。铁路方面预计发送旅客2040万人次。针对假日短途客流集中出行的特点，多地铁路部门加密城际列车开行，充分释放运输能力。（央视新闻）",
+"published": 1790990196.0
+},
+{
+"source": "36氪",
+"title": "美股收盘三大指数集体收涨，纳指、英伟达盘中再创新高",
+"link": "https://36kr.com/newsflashes/4009461894566017?f=rss",
+"summary": "美股三大指数集体收涨，纳指涨1.19%，盘中再创新高，本周累涨0.45%，周线三连涨；标普500指数涨0.73%，本周累跌0.27%；道指涨0.49%，本周累跌1.26%。大型科技股多数上涨，SpaceX涨超7%，特斯拉涨超4%，谷歌、英伟达、苹果涨超1%，微软涨近1%；英特尔、奈飞收跌。其中，英伟达盘中再创新高。存储股大跌，希捷科技、西部数据跌超10%，闪迪跌逾3%，美光科技跌超2%。光通信股集体上涨，Coherent涨超5%，lumentum、Ciena涨超3%，康宁涨超…",
+"published": 1790990133.0
+},
+{
+"source": "TechCrunch",
+"title": "Meta wants your next gadget to be Muse-infused",
+"link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+"summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+"published": 1790988339.0
+},
+{
+"source": "TechCrunch",
+"title": "Sanders introduces bill to ban the federal government from using Flock",
+"link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+"summary": "The proposed legislation would extend to all automotica license plate readers.",
+"published": 1790986917.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Robotics AI developer FieldAI reportedly raising $700M in funding",
+"link": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding/",
+"summary": "FieldAI Inc., a startup that develops artificial intelligence models for robots, is reportedly seeking $700 million in funding. A source told Business Insider today that the round could value the company at $10 billion. That’s five times wh…",
+"published": 1790987426.0
+}
+]
+}
+}

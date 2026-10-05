@@ -1,6 +1,6 @@
 {
 "date": "2026-10-01",
-"total": 101,
+"total": 102,
 "categories": {
 "AI": [
 {
@@ -37,6 +37,13 @@
 "link": "https://openai.com/index/albertsons-reimagining-retail",
 "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
 "published": 1790870400.0
+},
+{
+"source": "HN AI 热门",
+"title": "Identity Management for Agentic AI [pdf] (2025)",
+"link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+"summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 82 # Comments: 28",
+"published": 1790867470.0
 },
 {
 "source": "量子位",

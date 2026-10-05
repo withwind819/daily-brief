@@ -1,6 +1,6 @@
 {
 "date": "2026-10-02",
-"total": 100,
+"total": 105,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,13 @@
 "link": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/",
 "summary": "Suno is adding a feature called \"Speech\" to its AI music generator that creates spoken text with matching background music in a single audio track. The company says it's built for things like poems, meditations, and bedtime stories. Suno ha…",
 "published": 1790971656.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: Made an open-source Lego AI generator",
+"link": "https://github.com/anteloc/ldraw-nova",
+"summary": "Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.This LDraw is literally an \"assembly\" language, a low-level programming lan…",
+"published": 1790971215.0
 },
 {
 "source": "The Decoder",
@@ -25,6 +32,13 @@
 "published": 1790965191.0
 },
 {
+"source": "HN AI 热门",
+"title": "From the creator of Redis; run LLM locally with ds4",
+"link": "https://dwarfstar.sh/",
+"summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 359 # Comments: 102",
+"published": 1790964076.0
+},
+{
 "source": "OpenAI 博客",
 "title": "A model guide for the GPT-6 family",
 "link": "https://openai.com/index/practical-guide-building-gpt-6",
@@ -37,6 +51,20 @@
 "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
 "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to r…",
 "published": 1790956144.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI Makes Me Sad",
+"link": "https://mondobe.com/ai-makes-me-sad",
+"summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 195 # Comments: 243",
+"published": 1790954280.0
+},
+{
+"source": "HN AI 热门",
+"title": "With most information hidden, the game Stratego had stumped AI until now",
+"link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+"summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312 Comments URL: https://news.ycombinator.com/item?id=49933740 Points: 286 # Comments: 148",
+"published": 1790950284.0
 },
 {
 "source": "InfoQ 中国",
@@ -121,6 +149,13 @@
 "link": "https://www.qbitai.com/2026/10/499958.html",
 "summary": "换区也没用",
 "published": 1790923592.0
+},
+{
+"source": "HN AI 热门",
+"title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+"link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+"summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q Comments URL: https://news.ycombinator.com/item?id=49929391 Points: 336 # Comments: 128",
+"published": 1790909487.0
 },
 {
 "source": "OpenAI 博客",

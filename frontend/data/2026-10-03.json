@@ -1,14 +1,35 @@
 {
 "date": "2026-10-03",
-"total": 50,
+"total": 54,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+"link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+"summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 267 # Comments: 3",
+"published": 1791065893.0
+},
 {
 "source": "The Decoder",
 "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
 "link": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
 "summary": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV on AI. As recently a…",
 "published": 1791053790.0
+},
+{
+"source": "HN AI 热门",
+"title": "Pop!_OS bans AI-generated code from much of its codebase",
+"link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+"summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 116 # Comments: 166",
+"published": 1791050223.0
+},
+{
+"source": "HN AI 热门",
+"title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+"link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+"summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 383 # Comments: 712",
+"published": 1791049469.0
 },
 {
 "source": "The Decoder",
@@ -23,6 +44,13 @@
 "link": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
 "summary": "David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally released and a model that bypassed its internet access restrictions. AI companies nee…",
 "published": 1791036074.0
+},
+{
+"source": "HN AI 热门",
+"title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+"link": "https://tej.as/blog/aleph-alpha-kolibri",
+"summary": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei... Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 417 # Comments: 12",
+"published": 1791024231.0
 },
 {
 "source": "The Decoder",

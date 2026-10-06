@@ -1,14 +1,690 @@
 {
 "date": "2026-10-05",
-"total": 1,
+"total": 97,
 "categories": {
+"AI": [
+{
+"source": "The Decoder",
+"title": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor",
+"link": "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/",
+"summary": "Meta and Microsoft, two of Anthropic's biggest enterprise customers, are sharply cutting their use of Claude. Microsoft slashed the monthly per-employee budget in its cloud division from $100,000 to $10,000, while Meta halved its Claude Cod…",
+"published": 1791226759.0
+},
+{
+"source": "The Decoder",
+"title": "Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model",
+"link": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
+"summary": "Reka AI's Rho-1 is a 19-billion-parameter omni-model that processes and generates text, images, video, and robot control actions in a single neural network. Trained on 320 H100 GPUs in about three months, it uses a fraction of the compute t…",
+"published": 1791224765.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
+"link": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/",
+"summary": "OpenAI is adding invisible textGrain watermarks to ChatGPT in the EU, but unlike Anthropic, it will let API customers worldwide opt out. Tests show detection rates as high as 95 percent, dropping to 17 percent when a quarter of the words ar…",
+"published": 1791221562.0
+},
+{
+"source": "The Decoder",
+"title": "Most Americans want AI development to slow down or stop entirely, new poll finds",
+"link": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/",
+"summary": "According to a Quinnipiac University poll, 77 percent of Americans want to slow down or stop AI development until its safety has been verified. 86 percent support independent safety standards, and 74 percent have little or no trust in AI co…",
+"published": 1791218228.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO",
+"link": "https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/",
+"summary": "Anthropic employees donated $540 million in 2025 alone, nearly five times as much as the next-largest Fortune 500 donors, thanks to a company program that tops up every stock donation with extra shares and triples contributions from early e…",
+"published": 1791216012.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "Connecting AI agents to enterprise knowledge",
+"link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+"summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of indiv…",
+"published": 1791215272.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Our approach to EU text provenance rules",
+"link": "https://openai.com/index/eu-text-provenance",
+"summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+"published": 1791212400.0
+},
+{
+"source": "The Decoder",
+"title": "Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty",
+"link": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/",
+"summary": "Aleph Alpha has released Kolibri, a German-English mixture-of-experts model with 78 billion parameters, about three billion of which are active per token. Over 21 percent of the training data is German. The model was trained on 768 B200 GPU…",
+"published": 1791209570.0
+},
+{
+"source": "InfoQ 中国",
+"title": "C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+"link": "https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1791208800.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "Bringing predictive analytics to the agentic AI era",
+"link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+"summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without d…",
+"published": 1791206972.0
+},
+{
+"source": "The Decoder",
+"title": "ChatGPT's new ad format fills the image generation loading screen with product carousels",
+"link": "https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/",
+"summary": "ChatGPT users in the US will soon see display ads while the chatbot generates an image for them. The article ChatGPT's new ad format fills the image generation loading screen with product carousels appeared first on The Decoder.",
+"published": 1791203852.0
+},
+{
+"source": "The Decoder",
+"title": "AI is eroding office hours, study groups, and the trust between faculty and students, MIT report finds",
+"link": "https://the-decoder.com/ai-is-eroding-office-hours-study-groups-and-the-trust-between-faculty-and-students-mit-report-finds/",
+"summary": "An MIT expert committee warns that AI is eroding key parts of the college experience: office hours, study groups, and the school's flagship research program for undergraduates are all fading. Trust between faculty and students is breaking d…",
+"published": 1791200778.0
+},
+{
+"source": "量子位",
+"title": "刚刚，诺贝尔奖颁给光遗传学！",
+"link": "https://www.qbitai.com/2026/10/501720.html",
+"summary": "从绿藻里的光开关，到控制神经元",
+"published": 1791196621.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Building advertising for the way people use AI",
+"link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+"summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+"published": 1791194400.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
+"link": "https://www.infoq.cn/article/XWJ8G6GaFmNL74xpSgjU?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1791194400.0
+},
+{
+"source": "InfoQ 中国",
+"title": "DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海",
+"link": "https://www.infoq.cn/article/yVWAQGCZCzI838JESA1b?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1791194400.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "People really hate AI, so why can’t they get enough?",
+"link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+"summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my h…",
+"published": 1791187200.0
+},
+{
+"source": "量子位",
+"title": "刚刚，Hinton发了首篇RSI论文",
+"link": "https://www.qbitai.com/2026/10/501705.html",
+"summary": "AI已经开始真正进入「造下一代AI」的流水线",
+"published": 1791175372.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "EmTech Future 2026: When AI Meets Everything",
+"link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+"summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the …",
+"published": 1791172800.0
+},
+{
+"source": "量子位",
+"title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+"link": "https://www.qbitai.com/2026/10/501700.html",
+"summary": "有改进就体验，没改进就重置，横竖不亏。",
+"published": 1791168646.0
+}
+],
 "科技": [
+{
+"source": "The Verge",
+"title": "Gemini Call for Me might tell your mom you’re running late",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+"summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples t…",
+"published": 1791241795.0
+},
+{
+"source": "TechCrunch",
+"title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+"link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+"summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+"published": 1791237241.0
+},
+{
+"source": "The Verge",
+"title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+"link": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
+"summary": "It’s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to comple…",
+"published": 1791235065.0
+},
+{
+"source": "The Verge",
+"title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
+"link": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
+"summary": "The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here's what's actually happening: On October 2nd, the FCC added …",
+"published": 1791234905.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+"link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+"summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+"published": 1791232608.0
+},
+{
+"source": "TechCrunch",
+"title": "Etched fields funding offers at $40B+ valuation, sources say",
+"link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+"summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+"published": 1791231849.0
+},
+{
+"source": "The Verge",
+"title": "This startup is issuing AI-generated acne prescriptions",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+"summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and aut…",
+"published": 1791231297.0
+},
+{
+"source": "TechCrunch",
+"title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+"link": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+"summary": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
+"published": 1791229087.0
+},
+{
+"source": "TechCrunch",
+"title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+"link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+"summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on …",
+"published": 1791228833.0
+},
+{
+"source": "The Verge",
+"title": "All the drama around AI’s takeover of mathematics",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+"summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolvi…",
+"published": 1791228539.0
+},
+{
+"source": "The Verge",
+"title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+"link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+"summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wik…",
+"published": 1791227119.0
+},
+{
+"source": "TechCrunch",
+"title": "Instinct brings its AI agent to group chats, even for friends without an account",
+"link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+"summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before pe…",
+"published": 1791226470.0
+},
+{
+"source": "The Verge",
+"title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
+"link": "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share",
+"summary": "There's been a lot of doom and gloom from the auto industry lately when the subject of China comes up. Automaker CEOs, in particular, warn that allowing low-cost, high-tech Chinese electric vehicles to be sold in the US would effectively sp…",
+"published": 1791225708.0
+},
+{
+"source": "TechCrunch",
+"title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+"link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+"summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+"published": 1791224940.0
+},
+{
+"source": "The Verge",
+"title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+"summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMi…",
+"published": 1791223719.0
+},
+{
+"source": "TechCrunch",
+"title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+"link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+"summary": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
+"published": 1791223627.0
+},
+{
+"source": "TechCrunch",
+"title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+"link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+"summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+"published": 1791221362.0
+},
+{
+"source": "TechCrunch",
+"title": "5 startups that caught VCs’ attention at the latest PearX demo day",
+"link": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+"summary": "TechCrunch attended Pear’s latest demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
+"published": 1791221204.0
+},
+{
+"source": "The Verge",
+"title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+"summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guid…",
+"published": 1791219342.0
+},
+{
+"source": "The Verge",
+"title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+"summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate bec…",
+"published": 1791218661.0
+},
+{
+"source": "TechCrunch",
+"title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+"link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+"summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+"published": 1791218615.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI launches visual ads that appear alongside image generation results",
+"link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+"summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+"published": 1791213264.0
+},
+{
+"source": "TechCrunch",
+"title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+"link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
+"summary": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
+"published": 1791212400.0
+},
+{
+"source": "TechCrunch",
+"title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+"link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+"summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+"published": 1791212400.0
+},
+{
+"source": "TechCrunch",
+"title": "Hackers steal 8 million citizens’ records from Danish government database",
+"link": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+"summary": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
+"published": 1791212322.0
+},
+{
+"source": "Solidot",
+"title": "科学家识别出三种叫声最响亮的鸟",
+"link": "https://www.solidot.org/story?sid=85539",
+"summary": "生物学家在巴西识别出三种叫声最响亮的鸟。至于这些鸟如何演化出最响亮的叫声则仍然是个迷。白钟雀（white bellbird）叫声能达到 125 分贝，裸喉钟雀（bare-throated bellbird）和红腿叫鹤（red-legged seriema）叫声都超过 120 分贝。三种鸟类有着共同的生理特征：即宽大的喙口和肌肉厚实的大块头身体。研究人员表示，120 分贝可能是鸟类发声的生理极限；巴西之外的地方无疑也存在叫声洪亮的鸟类，但其音量不太可能比这些鸟高出太多。根据精确…",
+"published": 1791211539.0
+},
+{
+"source": "TechCrunch",
+"title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+"link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+"summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+"published": 1791210909.0
+},
+{
+"source": "TechCrunch",
+"title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+"link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+"summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+"published": 1791210600.0
+},
+{
+"source": "Solidot",
+"title": "因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划",
+"link": "https://www.solidot.org/story?sid=85538",
+"summary": "因涌入大量无效的 AI bug 报告，Google 宣布冻结其 Bug 悬赏计划 Open Source Software Vulnerability Reward Program (OSS VRP)，该决定于 10 月 1 日生效。Google 承诺将于 2027 年第一季度提供相关更新，期间将对该项目进行调整。Google 鼓励参与者探索其它 bug 奖励计划。大模型以及 Bug 搜寻自动化脚本的流行，导致了 OSS VRP 项目涌入了大量低质量的报告，Google 和开…",
+"published": 1791210472.0
+},
+{
+"source": "TechCrunch",
+"title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+"link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+"summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+"published": 1791208800.0
+},
+{
+"source": "Solidot",
+"title": "2026 年诺贝尔生理学或医学奖授予了三位研究光遗传学的科学家",
+"link": "https://www.solidot.org/story?sid=85537",
+"summary": "2026 年诺贝尔生理学或医学奖授予了美国斯坦福-霍华德·休斯医学研究所的 Karl Deisseroth、德国柏林洪堡大学的 Peter Hegemann 和维尔茨堡大学的 Georg Nagel，以表彰他们在光门控离子通道和光遗传学方面的发现。大脑如何掌管情感、行为和身体功能，长期以来一直是个谜。20世纪，研究人员开始探究大脑的哪些区域影响哪些功能，但所用的方法意味着他们无法证明因果关系。光遗传学——一种能揭示神经细胞如何在活体大脑中塑造记忆、情感和行为的方法——改变了这…",
+"published": 1791207468.0
+},
+{
+"source": "Solidot",
+"title": "Riot Games 否认根据 CPU 封禁玩家",
+"link": "https://www.solidot.org/story?sid=85536",
+"summary": "一位玩家声称在购买了一块二手 CPU Ryzen 7 5800X3D 之后，因前拥有者有作弊行为这块 CPU 被列入了封禁黑名单，导致 Riot Games 旗下的所有游戏都无法启动。Riot Games 工作室负责反作弊的高管 Phillip Koskinas 通过社交媒体否认了这一说法， 他称没有找到相关记录，该公司的硬件封禁最长持续四个月，且只针对特定游戏，不会波及该公司的其它游戏，不会因为作弊者使用了一个硬件组件就将其它硬件组件加入到封禁名单。",
+"published": 1791206866.0
+},
+{
+"source": "TechCrunch",
+"title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+"link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+"summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+"published": 1791201600.0
+},
+{
+"source": "36氪",
+"title": "2026年诺贝尔生理学或医学奖揭晓",
+"link": "https://36kr.com/newsflashes/4012921962827912?f=rss",
+"summary": "当地时间10月5日，瑞典卡罗琳医学院宣布，将2026年诺贝尔生理学或医学奖授予卡尔·戴塞洛斯（Karl Deisseroth）、彼得·黑格曼（Peter Hegemann）、格奥尔格·纳格尔（Georg Nagel）三位科学家，以表彰他们在光门控离子通道和光遗传学方面的发现。（第一财经）",
+"published": 1791201319.0
+},
+{
+"source": "36氪",
+"title": "世界在建最大跨度桥梁新进展，中国基建加速出海",
+"link": "https://36kr.com/newsflashes/4012634863669383?f=rss",
+"summary": "眼下，世界在建最大跨度桥梁——张靖皋长江大桥已全面进入上部结构施工阶段。从一根索缆到一个鞍罩，从毫米级精度到世界领先的跨度。如今，张靖皋长江大桥的蓝图正一步步变成现实。未来张家港、靖江、如皋三地之间的过江时间将由40分钟轮渡缩短至10分钟车程。 从长江之上的“世界第一跨”，到跨江越海的海外工程，中国跨度不断延伸。在东南亚和南美洲，中国企业参与建设的一座座大桥正加速落成。这些新通道，正在改变当地人的出行方式，带动沿线产业发展，为区域经济注入新的活力。今天（5日），位于马来西亚沙…",
+"published": 1791196200.0
+},
+{
+"source": "36氪",
+"title": "现房销售新政叠加房贷贴息落地，国庆期间多地楼市表现亮眼",
+"link": "https://36kr.com/newsflashes/4012632104636296?f=rss",
+"summary": "“828新政”叠加10月1日起居民购房贷款贴息正式生效，多地国庆楼市表现亮眼。据湖北省住建部门数据，在政策礼包密集落地，展销活动全省铺开背景下，湖北金秋购房季成色十足。10月1日至3日，武汉新建商品房销售额同比增长逾一成；十堰市销售面积、销售额同比增幅均达13%左右，荆州、孝感、随州等地成交同比稳步增长。广东楼市同样暖意浓浓。据官微“佛山住建”10月4日消息，国庆黄金周期间，佛山五区售楼部到访、咨询、认购量持续走高。受10月1日正式生效的房贷贴息政策拉动，一批符合条件的高性价…",
+"published": 1791194409.0
+},
+{
+"source": "36氪",
+"title": "欧元兑美元跌至17个月低点",
+"link": "https://36kr.com/newsflashes/4012618614804358?f=rss",
+"summary": "受高能源价格和法国债务问题担忧影响，欧元周一兑美元跌至去年5月以来最低水平。欧元兑美元在周一早盘交易中下跌0.6%至1.12美元，今年以来累计下跌4.8%，自上周初以来下跌超过1.6%。（新浪财经）",
+"published": 1791193525.0
+},
+{
+"source": "36氪",
+"title": "德国电信：预计到2030年，AI和自动化将节省25亿欧元间接成本",
+"link": "https://36kr.com/newsflashes/4012625330917504?f=rss",
+"summary": "德国电信公司表示，相较于2023年，该公司预计到2027年，AI和自动化将在美国以外地区产生约11亿欧元的总成本节约；预计到2030年节省约25亿欧元的间接成本。同时，该公司计划将2027年额外节省资金的一部分投资于德国的数字基础设施和光纤网络。此外，德国电信还计划到2030年，将来自美国以外公司业务的AI相关收入提高到约8亿欧元。（界面）",
+"published": 1791192262.0
+},
+{
+"source": "36氪",
+"title": "日本8月份服务业扩张速度从五个月高位回落",
+"link": "https://36kr.com/newsflashes/4012581884055683?f=rss",
+"summary": "周一公布的一项商业调查显示，由于商业活动和新订单增长放缓，加之地震造成的干扰抑制了需求，日本服务业在9月份的扩张步伐有所减弱。标普全球的调查显示，日本9月服务业采购经理人指数（PMI）终值从8月份的五个月高点52.5降至51.3，低于51.6的初值。PMI指数以50为荣枯分界线，高于50表明行业扩张，低于50则表明收缩。标普全球市场情报公司经济副总监Annabel Fiddes表示：“PMI调查数据显示，随着第三季度临近尾声，日本服务业的扩张势头有所减弱，企业报告显示商业活动…",
+"published": 1791191225.0
+},
+{
+"source": "36氪",
+"title": "Rabbit 创始人吕骋：人不该为 Agent 改变思考方式",
+"link": "https://36kr.com/p/4012726523957380?f=rss",
+"summary": "文｜李炤锋 编辑｜张雨忻 “人说要有光，于是就有了光。”谈起个人 Agent 的终极愿景，Rabbit 创始人吕骋把那句古老谚语中的“神”换成了“人”：在他的设想中，人只需说出想办成的事，Agent 就会自己寻找办法。 说起 Rabbit，很多人首先想到那台橙色手持设备 r1——一台运行 Rabbit 自研系统的掌上 AI 设备。Rabbit 当初希望，用户只需说出任务，它就能代人操作应用、完成任务。R1 在亮相后迅速受到关注，但上市后的实际使用体验，却收到了一些批评的声音。…",
+"published": 1791189403.0
+},
+{
+"source": "36氪",
+"title": "10月5日全国铁路预计发送旅客2105万人次",
+"link": "https://36kr.com/newsflashes/4012582941266057?f=rss",
+"summary": "36氪获悉，据中国铁路公众号，10月4日，全国铁路发送旅客2032万人次，运输安全平稳有序。10月5日，铁路客流保持高位运行，中短途客流持续攀升，全国铁路预计发送旅客2105万人次，计划加开旅客列车1463列。",
+"published": 1791188777.0
+},
+{
+"source": "36氪",
+"title": "恒指收盘涨0.28%，恒生科技指数涨0.62%",
+"link": "https://36kr.com/newsflashes/4012700841545858?f=rss",
+"summary": "36氪获悉，恒指收盘涨0.28%，恒生科技指数涨0.62%；硬件设备板块领涨，建滔积层板涨超11%，剑桥科技涨超7%，江波龙涨超4%；半导体板块走强，傅里叶涨超22%，澜起科技涨超5%，华虹宏力涨超4%；软件服务板块涨幅居前，商米科技涨超10%，智谱涨超6%，海清智元涨超5%；造纸与包装、钢铁、汽车与零配件板块领跌，首佳科技跌超9%，嘉耀控股跌近5%，零跑汽车跌超1%；南向资金净买入68.64亿港元。",
+"published": 1791187822.0
+},
+{
+"source": "36氪",
+"title": "法国9月服务业PMI终值51.2，综合PMI终值51.1",
+"link": "https://36kr.com/newsflashes/4012683508813960?f=rss",
+"summary": "法国9月服务业PMI终值51.2，预期51.4，初值51.4；9月综合PMI终值51.1，预期51.2，初值51.2。（财联社）",
+"published": 1791186764.0
+},
+{
+"source": "36氪",
+"title": "10月4日，全社会跨区域人员流动量30539万人次",
+"link": "https://36kr.com/newsflashes/4012682668462210?f=rss",
+"summary": "36氪获悉，2026年10月4日（国庆假期第4日），全社会跨区域人员流动量30539万人次，环比增长0.6%，比2025年同期（10月4日，中秋国庆假期第4日，下同）增长1.3%。其中铁路客运量2032.0万人次，环比增长5.4%，同比增长10.8%；公路人员流动量28092万人次，环比增长0.3%，同比增长0.8%（其中公路营业性客运量3821万人次，环比增长0.9%，同比增长8.5%；高速公路及普通国省道非营业性小客车人员出行量24271万人次，环比增长0.2%，同比下降…",
+"published": 1791186713.0
+},
+{
+"source": "36氪",
+"title": "意大利9月综合PMI为51",
+"link": "https://36kr.com/newsflashes/4012681301348487?f=rss",
+"summary": "意大利9月综合PMI为51，预期为53.3，前值为53.6。（界面）",
+"published": 1791186630.0
+},
+{
+"source": "36氪",
+"title": "天陇铁路“第一长隧”安化隧道顺利贯通",
+"link": "https://36kr.com/newsflashes/4012674798636934?f=rss",
+"summary": "从中国铁建股份有限公司了解到，10月5日，天陇铁路“第一长隧”安化隧道顺利贯通。标志着甘肃省首条自主投资建设的区域性干线铁路取得重要进展，为天陇铁路按期建成通车奠定坚实基础。（新华社）",
+"published": 1791186233.0
+},
+{
+"source": "少数派",
+"title": "十个案例助你轻松上手 iOS 27 通知自动化",
+"link": "https://sspai.com/post/114536",
+"summary": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。查看全文",
+"published": 1791169164.0
+},
 {
 "source": "36氪",
 "title": "商务部：国庆假期前四天全国消费市场平稳有序",
 "link": "https://36kr.com/newsflashes/4012258696859778?f=rss",
 "summary": "从商务部了解到，国庆假期过半，全国消费市场平稳有序，生活必需品货足价稳。商务部商务大数据显示，国庆假期前三天，商务部重点监测的78个步行街（商圈）客流量、营业额同比分别增长3.4%、5.3%。消费品以旧换新带动销售额196.3亿元，惠及348.3万人次。其中，汽车以旧换新4.6万辆，带动新车销售额74.5亿元；家电以旧换新151.1万台，带动销售额65亿元；数码和智能产品购新170.9万件，带动销售额49亿元。（央视新闻）",
 "published": 1791162000.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Schneider Electric to buy engineering software giant PTC for $23.7B",
+"link": "https://siliconangle.com/2026/10/05/schneider-electric-to-buy-engineering-software-giant-ptc-for-23-7b/",
+"summary": "Schneider Electric Inc., one of the world’s largest industrial companies, today announced plans to acquire PTC Inc. for $23.7 billion. The all-cash deal values the software maker at $205 per share. That represents a 42% premium to its last …",
+"published": 1791241938.0
+},
+{
+"source": "SiliconANGLE",
+"title": "NetApp’s Novus tackles metadata bottlenecks in AI data infrastructure",
+"link": "https://siliconangle.com/2026/10/05/netapps-novus-targets-ai-data-infrastructure-zettabyte-scale-netappinsight/",
+"summary": "AI data infrastructure must support growing GPU clusters while making enterprise data usable for models and agents. NetApp Inc. is tying intelligent data infrastructure to production AI through a unified approach to storage and data managem…",
+"published": 1791241103.0
+},
+{
+"source": "SiliconANGLE",
+"title": "NetApp puts sovereign storage at the center of European infrastructure decisions",
+"link": "https://siliconangle.com/2026/10/05/sovereign-storage-becomes-architecture-decision-europe-netappinsight/",
+"summary": "Sovereign storage is becoming an architectural and operational consideration for European enterprises as they invest in AI, modernization and cyber resilience. Sovereignty now covers much more than where data is physically stored. Customers…",
+"published": 1791237480.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AI infrastructure reliability moves beyond the rack",
+"link": "https://siliconangle.com/2026/10/05/dell-coreweave-build-ai-infrastructure-reliability-factory-fullyconnected/",
+"summary": "AI infrastructure reliability depends on how well compute, networking, power and cooling operate together. Turning early hardware breakthroughs into repeatable deployments requires coordination across engineering, manufacturing and operatio…",
+"published": 1791235406.0
+},
+{
+"source": "SiliconANGLE",
+"title": "What to expect at Infor Velocity Week: Join theCUBE Oct. 7",
+"link": "https://siliconangle.com/2026/10/05/agentic-ai-infor-velocity-week-inforvelocity/",
+"summary": "As agentic artificial intelligence moves into production, the harder question is becoming what enterprises will actually trust it to do. Infor Inc. is betting that industry-specific context can help bridge that gap. The enterprise software …",
+"published": 1791233768.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Robotics startup RobCo valued at $1B+ in $40M funding round",
+"link": "https://siliconangle.com/2026/10/05/robotics-startup-robco-valued-at-1b-in-40m-funding-round/",
+"summary": "Industrial automation startup RobCo Inc. today announced that it has closed a $40 million funding round. Most of the shares that changed hands were sold by current and former employees. The investor consortium that bought the equity include…",
+"published": 1791232241.0
+},
+{
+"source": "SiliconANGLE",
+"title": "What to expect during the AI Cybersecurity and Resilience Summit",
+"link": "https://siliconangle.com/2026/10/05/ai-trust-strengthens-cyber-resilience-digital-age-aitrustcyberresilience-aicybersecurityandresiliencesummit/",
+"summary": "AI trust increasingly determines whether enterprise AI scales. As organizations move beyond pilots and put models and agents into operational systems, the question is no longer whether AI performs well in isolation. Enterprises also have to…",
+"published": 1791223220.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Namespace raises $42M to build out developer-focused compute cloud",
+"link": "https://siliconangle.com/2026/10/05/namespace-raises-42m-to-build-out-developer-focused-compute-cloud/",
+"summary": "Zurich-founded developer infrastructure startup Namespace Labs Inc. today announced it raised $42 million in Series B, led by Scale Venture Partners, to give developers powerful compute infrastructure to speed up software engineering work. …",
+"published": 1791219939.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Nvidia and CoreWeave tackle the CPU bottleneck in agentic AI infrastructure",
+"link": "https://siliconangle.com/2026/10/05/nvidia-coreweave-tackle-cpu-bottleneck-agentic-ai-infrastructure-fullyconnected/",
+"summary": "Agentic AI infrastructure must support the work between a model’s decisions as agents move from answering questions to executing tasks. Central processing units handle much of that execution, while graphics processing units power model reas…",
+"published": 1791218795.0
+},
+{
+"source": "EU-Startups",
+"title": "FashionTech startup Rodinia Generation aims to save 100 billion litres of water annually, secures €4 million",
+"link": "https://www.eu-startups.com/2026/10/fashiontech-startup-rodinia-generation-aims-to-save-100-billion-litres-of-water-annually-secures-e4-million/",
+"summary": "Danish FashionTech startup Rodinia Generation, a developer of clothing production technology, has raised €4 million to finance their industrial phase, including the establishment of a first commercial-scale facility in Portugal, planned for…",
+"published": 1791214881.0
+},
+{
+"source": "SiliconANGLE",
+"title": "LeapXpert brings governed WhatsApp client messaging into Cisco’s Webex",
+"link": "https://siliconangle.com/2026/10/05/leapxpert-brings-governed-whatsapp-client-messaging-into-ciscos-webex/",
+"summary": "Governed communications startup LeapXpert Inc. and Cisco Systems Inc. today unveiled an integration that lets Webex users message clients on WhatsApp without leaving the collaboration app. The integration takes aim at client conversations t…",
+"published": 1791208851.0
+},
+{
+"source": "EU-Startups",
+"title": "Namespace secures €37 million to scale coding, build and test infrastructure across Mac, Windows and Linux",
+"link": "https://www.eu-startups.com/2026/10/namespace-secures-e37-million-to-scale-coding-build-and-test-infrastructure-across-mac-windows-and-linux/",
+"summary": "Zurich-based Namespace, a developer platform that offers fast coding, build, and test environments across Mac, Windows, and Linux, today announced its €37 million ($42 million) Series B to accelerate product development and expand its data …",
+"published": 1791207820.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Exclusive: Iterate.ai’s Lifeboat runs up to six times more AI agent sessions per GPU",
+"link": "https://siliconangle.com/2026/10/05/exclusive-iterate-ais-lifeboat-runs-up-to-six-times-more-ai-agent-sessions-per-gpu/",
+"summary": "Enterprise artificial intelligence software company Iterate Studio Inc. today launched Lifeboat, an inference engine for large language models that has confidential computing built in. Iterate.ai says the software fits two to six times as m…",
+"published": 1791205247.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Clockwork.io bags $31M in funding to keep AI inference and training workloads running like … clockwork",
+"link": "https://siliconangle.com/2026/10/05/clockwork-io-bags-31m-in-funding-to-keep-ai-inference-and-training-workloads-running-like-clockwork/",
+"summary": "Clockwork Systems Inc., the data center infrastructure startup that helps to maximize the efficiency of artificial intelligence chip clusters, has raised $31 million in fresh funding and announced the launch of a new feature called TorchSna…",
+"published": 1791205222.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Cohere unveils North 2 AI agent platform with rebuilt orchestration and token spending caps",
+"link": "https://siliconangle.com/2026/10/05/cohere-unveils-north-2-ai-agent-platform-with-rebuilt-orchestration-and-token-spending-caps/",
+"summary": "Artificial intelligence company Cohere Inc. today unveiled North 2, an overhaul of its platform for running AI agents inside large organizations. Alongside a redesigned system for orchestrating multistep agent work, the update gives adminis…",
+"published": 1791205215.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Promevo launches Insights to track Gemini Enterprise adoption and AI agents",
+"link": "https://siliconangle.com/2026/10/05/promevo-launches-insights-to-track-gemini-enterprise-adoption-and-ai-agents/",
+"summary": "Google Cloud partner Promevo LLC today launched Insights by Promevo, a platform for tracking adoption of Google LLC’s Gemini Enterprise and the artificial intelligence agents employees build with it, as well as spending across the rest of a…",
+"published": 1791205211.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Equs launches a personal AI platform with private storage to give users greater control over data",
+"link": "https://siliconangle.com/2026/10/05/equs-launches-a-personal-ai-platform-with-private-storage-to-give-users-greater-control-over-data/",
+"summary": "Equs Inc., a startup developing a trust layer for artificial intelligence data, today announced the launch of Equs X, a personal AI that lets customers retain control of their information. Equs X pairs a personal AI with private data storag…",
+"published": 1791205201.0
+},
+{
+"source": "SiliconANGLE",
+"title": "The modern F1 pit crew: AI engineers who race the deadline, not the car",
+"link": "https://siliconangle.com/2026/10/05/forward-deployed-engineers-help-coreweave-race-f1-clock-fullyconnected/",
+"summary": "AI providers increasingly embed forward-deployed engineers inside customer operations, and few settings test that model harder than Formula One. Races arrive every two weeks, budgets are capped and margins are measured in milliseconds. That…",
+"published": 1791205093.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Physical AI’s bottleneck shifts from what robots can do to whether factories trust them",
+"link": "https://siliconangle.com/2026/10/05/data-centers-factory-floors-walden-robots-learn-job-fullyconnected/",
+"summary": "AI is moving beyond the data centers where models are trained and onto factory floors where machines must handle constant change. But traditional industrial robots work behind a cage, repeat a single task and were never designed for the com…",
+"published": 1791205027.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Storage admins get automated guardrails as agents outrun human-in-the-loop review",
+"link": "https://siliconangle.com/2026/10/05/cyber-resilience-now-depends-governing-ai-agent-data-use-netappinsight/",
+"summary": "Enterprises pushing AI agents into production are finding that cyber resilience now depends as much on governing what autonomous software does with data as on keeping attackers out. Much of the risk doesn’t come from malicious intent at all…",
+"published": 1791204964.0
+},
+{
+"source": "SiliconANGLE",
+"title": "NetApp puts ONTAP inside Oracle’s cloud, betting native beats bolted-on",
+"link": "https://siliconangle.com/2026/10/05/infrastructure-modernization-netapp-ontap-native-oci-netappinsight/",
+"summary": "Infrastructure modernization often stalls at the storage layer, where moving mission-critical applications to the cloud can mean redesigning them from scratch. Now, AI is raising the stakes as enterprises push decades-old data estates into …",
+"published": 1791204904.0
+},
+{
+"source": "EU-Startups",
+"title": "Munich-based RobCo becomes a robotics unicorn as valuation doubles in nine months",
+"link": "https://www.eu-startups.com/2026/10/munich-based-robco-becomes-a-robotics-unicorn-as-valuation-doubles-in-nine-months/",
+"summary": "RobCo, a Munich-based robotics startup focused on industrial automation, today announced that it has surpassed an €892.4 million ($1 billion) valuation in a transaction that combines new investment and an employee secondary share sale. The …",
+"published": 1791201918.0
+},
+{
+"source": "EU-Startups",
+"title": "German startups deepen Ukraine ties over weekend as innovation moves closer to the frontline",
+"link": "https://www.eu-startups.com/2026/10/german-startups-deepen-ukraine-ties-over-weekend-as-innovation-moves-closer-to-the-frontline/",
+"summary": "Two German DefenceTech companies used Chancellor Friedrich Merz’s visit to Kyiv this weekend to deepen their links with Ukraine, in a sign of how the country is becoming an increasingly important development and manufacturing base for Europ…",
+"published": 1791200738.0
+},
+{
+"source": "EU-Startups",
+"title": "The orbital research economy will be won on standards",
+"link": "https://www.eu-startups.com/2026/10/the-orbital-research-economy-will-be-won-on-standards/",
+"summary": "I watched SpaceX go public with the same mixed feeling I suspect a lot of people in this industry did, relief, mostly. The largest listing in history just told the market, in the blunt language it actually understands, that space is a real …",
+"published": 1791199351.0
+},
+{
+"source": "Crunchbase",
+"title": "Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up",
+"link": "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/",
+"summary": "Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, it still exceeded every other quarter sin…",
+"published": 1791198013.0
+},
+{
+"source": "EU-Startups",
+"title": "Germany’s Aleph Alpha releases Kolibri, a sovereign AI model for mission-critical government and industry applications",
+"link": "https://www.eu-startups.com/2026/10/germanys-aleph-alpha-releases-kolibri-a-sovereign-ai-model-for-mission-critical-government-and-industry-applications/",
+"summary": "German AI company Aleph Alpha has launched Kolibri, a specialised large language model (LLM) built for mission-critical applications in public administration and industry. Referred to as sovereign AI made in Germany and released on 3 Octobe…",
+"published": 1791194313.0
+},
+{
+"source": "EU-Startups",
+"title": "French cybersecurity startup Fleuret AI raises €4 million to automate penetration testing with AI agents",
+"link": "https://www.eu-startups.com/2026/10/french-cybersecurity-startup-fleuret-ai-raises-e4-million-to-automate-penetration-testing-with-ai-agents/",
+"summary": "Fleuret AI, a Paris-based cybersecurity startup automating penetration testing with agentic AI, has closed a €4 million pre-Seed round to hire AI, software engineering, and offensive security talent and accelerate platform development. The …",
+"published": 1791184960.0
+},
+{
+"source": "EU-Startups",
+"title": "Copenhagen’s Pandektes raises €13.5 million to build the data infrastructure for AI-powered legal research",
+"link": "https://www.eu-startups.com/2026/10/copenhagens-pandektes-raises-e13-5-million-to-build-the-data-infrastructure-for-ai-powered-legal-research/",
+"summary": "Pandektes, a Copenhagen-based LegalTech company specialising in legal research, has raised €13.5 million in a Series A funding round. The round was led by Alstin Capital, a Munich-based early-stage venture capital firm with a focus on B2B s…",
+"published": 1791181857.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Sam Altman says people need to accept ‘some bad things’ are going to happen if they want AI",
+"link": "https://siliconangle.com/2026/10/04/sam-altman-says-people-need-to-accept-some-bad-things-are-going-to-happen-if-they-want-ai/",
+"summary": "OpenAI Group PBC Chief Executive Sam Altman insists that the security risks of artificial intelligence need to be taken seriously. But unlike his counterpart Dario Amodei of Anthropic PBC, he believes that people need to accept that “some b…",
+"published": 1791168304.0
 }
 ]
 }

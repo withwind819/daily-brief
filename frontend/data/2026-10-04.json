@@ -1,6 +1,6 @@
 {
 "date": "2026-10-04",
-"total": 52,
+"total": 55,
 "categories": {
 "AI": [
 {
@@ -118,6 +118,13 @@
 "published": 1791144000.0
 },
 {
+"source": "Solidot",
+"title": "太阳系可能没有以前认为的能存在千亿年",
+"link": "https://www.solidot.org/story?sid=85535",
+"summary": "太阳已有 46 亿年历史，大约 50 亿年后，随着氢燃料的耗尽，太阳外层将会膨胀转变为红巨星，它会吞噬水星和金星，甚至可能包括地球。太阳系外围的气体巨行星预计会幸免，随着太阳光芒的熄灭，太阳系的残余行星预计还能存在一千亿年。然而发表在《The Astrophysical Journal Letters》期刊上的一项研究对此提出了质疑，认为在太阳生命的末期，整个系统会进入极端不稳定状态，会陷入致命的混乱，在太阳转变成白矮星之后，残余行星可能无法坚持超过 10 亿年。也就是说整个…",
+"published": 1791134072.0
+},
+{
 "source": "The Verge",
 "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
 "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
@@ -125,11 +132,25 @@
 "published": 1791130564.0
 },
 {
+"source": "Solidot",
+"title": "AI 聊天机器人会成为意识形态回音室",
+"link": "https://www.solidot.org/story?sid=85534",
+"summary": "巴西国立坎皮纳斯州立大学（UNICAMP）的研究人员发现，当你给聊天机器人输入不同政治观点时，机器人会改变其回答。研究人员警告称，用户可能会将这种迎合性的附和，误认为是中立的客观评估，从而可能加剧社会极化。研究人员测试了若干模型，让它们针对112项陈述进行“同意\"或者“不同意”的判断。测试内容共涉及巴西政治七大领域（包括经济、公共安全、社会福利、腐败和环境等）。测试设计的三个场景是：不提供用户政治倾向；用户持左翼观点；用户持右翼观点。在第一个情景下，21个模型中，有20个给出…",
+"published": 1791130202.0
+},
+{
 "source": "TechCrunch",
 "title": "TechCrunch Mobility: Reining in robotaxis",
 "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
 "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
 "published": 1791129900.0
+},
+{
+"source": "Solidot",
+"title": "新冠康复者或疫苗接种者能对类似冠状病毒产生免疫力",
+"link": "https://www.solidot.org/story?sid=85533",
+"summary": "新冠康复者或疫苗接种者能对类似冠状病毒产生免疫力。研究人员分析了 15 种有代表性的蝙蝠冠状病毒刺突蛋白与 34 个物种的 ACE2 受体库结合的可能性。新冠病毒的刺突蛋白就是通过与 ACE2 受体进入人体。研究结果显示，能与多种 ACE2 受体结合实现跨物种传播的蝙蝠冠状病毒都是与新冠病毒 SARS-CoV-2 有密切亲缘关系的，这些病毒的抗原也与 SARS-CoV-2 的抗原极为相似，因此感染新冠后康复或接种过疫苗的人能对这些潜在跨物种传播的蝙蝠冠状病毒产生免疫力。",
+"published": 1791129787.0
 },
 {
 "source": "The Verge",

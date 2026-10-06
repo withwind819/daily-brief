@@ -1,6 +1,6 @@
 {
 "date": "2026-09-25",
-"total": 101,
+"total": 102,
 "categories": {
 "AI": [
 {
@@ -177,6 +177,13 @@
 "link": "https://dashbit.co/blog/evolving-ai-era",
 "summary": "Article URL: https://dashbit.co/blog/evolving-ai-era Comments URL: https://news.ycombinator.com/item?id=49839567 Points: 135 # Comments: 96",
 "published": 1790303679.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+"link": "https://openai.com/index/wayfair",
+"summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+"published": 1790294400.0
 }
 ],
 "科技": [

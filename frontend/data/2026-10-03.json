@@ -1,6 +1,6 @@
 {
 "date": "2026-10-03",
-"total": 54,
+"total": 55,
 "categories": {
 "AI": [
 {
@@ -137,6 +137,13 @@
 "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
 "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The…",
 "published": 1791046150.0
+},
+{
+"source": "Solidot",
+"title": "Google 测试太空 AI 数据中心",
+"link": "https://www.solidot.org/story?sid=85532",
+"summary": "Google 一颗冰箱大小的卫星搭载 SpaceX 的 Falcon 9 于 10 月 1 日升空，搜索巨人将测试太空 AI 数据中心的可行性。有很多专家已经指出太空数据中心可行性不高。Google 的太空 AI 数据中心项目称之为 Project Suncatcher，最新发射的卫星旨在验证芯片能否在太空环境中正常运行，它安装了 4 个 Tensor Processing Units 芯片，将运行该公司的开放权重模型 Gemma AI 的一个版本去回答简单查询，因热管理约束…",
+"published": 1791046145.0
 },
 {
 "source": "TechCrunch",

@@ -1,6 +1,6 @@
 {
 "date": "2026-10-02",
-"total": 105,
+"total": 107,
 "categories": {
 "AI": [
 {
@@ -67,6 +67,13 @@
 "published": 1790950284.0
 },
 {
+"source": "HN AI 热门",
+"title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+"link": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+"summary": "Article URL: https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails Comments URL: https://news.ycombinator.com/item?id=49933476 Points: 161 # Comments: 75",
+"published": 1790948861.0
+},
+{
 "source": "InfoQ 中国",
 "title": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
 "link": "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&utm_medium=article",
@@ -128,6 +135,13 @@
 "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
 "summary": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten reference images, an…",
 "published": 1790927084.0
+},
+{
+"source": "HN AI 热门",
+"title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
+"link": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
+"summary": "Article URL: https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/ Comments URL: https://news.ycombinator.com/item?id=49930872 Points: 86 # Comments: 30",
+"published": 1790926815.0
 },
 {
 "source": "量子位",

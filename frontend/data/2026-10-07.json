@@ -1,0 +1,117 @@
+{
+"date": "2026-10-07",
+"total": 15,
+"categories": {
+"AI": [
+{
+"source": "量子位",
+"title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+"link": "https://www.qbitai.com/2026/10/501749.html",
+"summary": "三位菲尔兹奖得主：不代表认可",
+"published": 1791335113.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "派拉蒙天舞完成对华纳兄弟收购",
+"link": "https://36kr.com/newsflashes/4015159077293958?f=rss",
+"summary": "经过数月的竞购角逐以及法律拉锯战，派拉蒙天舞公司10月6日宣布完成对华纳兄弟探索公司价值约1100亿美元的收购，打造出一家横跨好莱坞和新闻行业的全新超级传媒集团。这是美国传媒行业历史上规模最大的并购交易之一。（新华社）",
+"published": 1791337861.0
+},
+{
+"source": "36氪",
+"title": "SpaceX据悉拟融资400亿美元用于购买英伟达芯片",
+"link": "https://36kr.com/newsflashes/4015155406245767?f=rss",
+"summary": "媒体援引知情人士报道称，马斯克旗下的SpaceX正寻求融资400亿美元，用于购买英伟达芯片，凸显人工智能（AI）算力需求依然强劲。该报道称，SpaceX寻求约100亿美元银行贷款并计划发行300亿美元投资级债券，为芯片采购融资。阿波罗全球管理预计将牵头这笔交易，并协助向投资者出售SpaceX债券。交易预计于2027年完成。（新浪财经）",
+"published": 1791337637.0
+},
+{
+"source": "36氪",
+"title": "苹果将推出与LG联合研发的智能门铃、智能门锁与智能温控器‌",
+"link": "https://36kr.com/newsflashes/4015152620670850?f=rss",
+"summary": "苹果公司即将推出的智能家居新品中，将包含一批与LG电子通过合作联合研发的智能门铃、智能温控器及其他配套配件。这批和LG联合开发的产品还将涵盖智能插芯门锁、室内安防摄像头、室外安防摄像头以及带泛光照明的摄像头，所有产品将使用LG品牌对外发售。苹果自家的全新设备，包括升级款HomePod mini和新款电视机顶盒，定于10月13日正式发布，而这批LG联名配件预计还需要数月时间才能正式面向消费者上市。（财联社）",
+"published": 1791337467.0
+},
+{
+"source": "36氪",
+"title": "Anthropic扩大先进AI模型访问权限，允许特定机构开展网络安全测试",
+"link": "https://36kr.com/newsflashes/4015151743815561?f=rss",
+"summary": "Anthropic正与美国政府合作，扩大其最先进AI模型的使用权限，允许一批经过筛选的机构测试这家初创公司的尖端网络能力。根据周二发布的声明，这家总部位于旧金山的公司将允许经过验证的机构使用其能力最强的模型，包括Claude Opus 5.5、Claude Sonnet 5.5、Claude Mythos 5.1，以及未来推出的新模型。声明称，获得权限的机构可以对旨在保护电网、银行和航班运行系统等关键基础设施的安全系统进行“高风险攻击性测试”。（财联社）",
+"published": 1791337414.0
+},
+{
+"source": "36氪",
+"title": "美国能源信息署：预计2026年WTI原油价格为88.21美元/桶，布伦特原油价格96.32美元/桶",
+"link": "https://36kr.com/newsflashes/4015146953904260?f=rss",
+"summary": "美国能源信息署短期能源报告显示，预计2026年WTI原油价格为88.21美元/桶，此前预期为84.65美元/桶，预计2027年WTI原油价格为79.74美元/桶，此前预期为69.74美元/桶。预计2026年布伦特原油价格96.32美元/桶，此前预计91美元/桶，预计2027年布伦特原油价格83.74美元/桶，此前预期为73.74美元/桶。（财联社）",
+"published": 1791337121.0
+},
+{
+"source": "36氪",
+"title": "美股三大指数集体上涨，纳指、标普500指数收盘创新高",
+"link": "https://36kr.com/newsflashes/4015143888294016?f=rss",
+"summary": "36氪获悉，10月7日收盘，美股三大指数集体上涨，道指涨0.49%，纳指涨0.45%，标普500指数涨0.58%，纳指、标普500指数创收盘新高，大型科技股多数上涨，英伟达涨0.14%，特斯拉涨0.51%，苹果涨0.22%，亚马逊涨1.95%，谷歌涨0.35%，Mate跌0.41%。热门中概股多数上涨，拼多多涨0.64%，百度涨0.07%，京东涨0.53%，蔚来涨1.75%，小鹏集团涨1.7%，哔哩哔哩涨1.02%，阿里巴巴跌1.39%，爱奇艺跌1.94%。",
+"published": 1791336934.0
+},
+{
+"source": "36氪",
+"title": "OpenAI发布前沿大模型的全新数学能力测试成果‌",
+"link": "https://36kr.com/newsflashes/4015136016617345?f=rss",
+"summary": "OpenAI正在公开其内部前沿大模型生成的一系列全新数学研究成果，相关内容通过GitHub代码库发布，同时附带了论文修订与引用的规范协议。本次公开的成果包含Lean语言形式化证明，可让数学证明内容直接通过计算机完成校验；单份成果平均消耗的算力，约等于ChatGPT Pro三小时的深度推理时长。（财联社）",
+"published": 1791336454.0
+},
+{
+"source": "36氪",
+"title": "日本东证指数升破历史最高收盘水平",
+"link": "https://36kr.com/newsflashes/4015135331520649?f=rss",
+"summary": "受美股上涨带动，日本东证指数盘中上涨0.4%，至4201.34点，超过8月14日创下的4197.20点历史收盘纪录。日经225指数基本持平。隔夜标普500指数收盘创历史新高，得益于企业盈利韧性以及人工智能相关支出前景向好。（财联社）",
+"published": 1791336412.0
+},
+{
+"source": "36氪",
+"title": "港股开盘：恒生指数下跌0.45%",
+"link": "https://36kr.com/newsflashes/4015134352969603?f=rss",
+"summary": "36氪获悉，10月7日，港股开盘，恒生指数开盘下跌0.45%，恒生科技指数跌0.33%。明星科网股普跌，阿里巴巴跌1.39%，美团、京东集团跌近1%。",
+"published": 1791336352.0
+},
+{
+"source": "36氪",
+"title": "日本30年期国债收益率下跌3.0个基点，至4.205%",
+"link": "https://36kr.com/newsflashes/4015132268138630?f=rss",
+"summary": "10月7日，日本30年期国债收益率下跌3.0个基点，至4.205%。（每日经济新闻）",
+"published": 1791336225.0
+},
+{
+"source": "36氪",
+"title": "全国铁路今天预计发送旅客2415万人次",
+"link": "https://36kr.com/newsflashes/4015131174899584?f=rss",
+"summary": "今天是国庆中秋假期的最后一天，昨天起铁路返程客流有明显增长，今天全国铁路预计发送旅客2415万人次。铁路中秋国庆假期运输自9月23日启动，到昨天已经发送旅客超2.5亿人次。随着返程客流高峰的到来，运力持续增加，今天全国铁路预计加开旅客列车2449列。（央视新闻）",
+"published": 1791336158.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Meta teams up with Bret Taylor’s Sierra Technologies on new standards for AI agent commerce",
+"link": "https://siliconangle.com/2026/10/06/meta-teams-up-with-bret-taylors-sierra-technologies-on-new-standards-for-ai-agent-commerce/",
+"summary": "Meta Platforms Inc. is partnering with Walmart Inc., Stripe Inc. and the enterprise artificial intelligence firm Sierra Technologies Inc. on the creation of new standards that will define how autonomous AI agents interact with other busines…",
+"published": 1791334461.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Multiply Labs raises $75M to optimize pharmaceutical manufacturing with robots",
+"link": "https://siliconangle.com/2026/10/06/multiply-labs-raises-75m-to-optimize-pharmaceutical-manufacturing-with-robots/",
+"summary": "Multiply Labs Inc., a startup that develops automation equipment for drugmakers, has raised $75 million in funding. Prominent medical researcher Patrick Soon-Shiong led the deal. Multiply Labs stated in today’s funding announcement that the…",
+"published": 1791331959.0
+},
+{
+"source": "SiliconANGLE",
+"title": "In the agentic era, standing privilege must go: Key thoughts from the SailPoint Navigate keynote",
+"link": "https://siliconangle.com/2026/10/06/in-the-agentic-era-standing-privilege-must-go-key-thoughts-from-the-sailpoint-navigate-keynote/",
+"summary": "For most of its two-decade history, SailPoint Inc. has been the company that tells enterprises who should have access to what. At Navigate 2026 in Austin this week, it argued that it now needs to be the company that stops the wrong access t…",
+"published": 1791331575.0
+}
+]
+}
+}

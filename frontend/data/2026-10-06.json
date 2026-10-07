@@ -1,8 +1,134 @@
 {
 "date": "2026-10-06",
-"total": 14,
+"total": 109,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Sharing AI progress in mathematics",
+"link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+"summary": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 422 # Comments: 351",
+"published": 1791325041.0
+},
+{
+"source": "The Decoder",
+"title": "Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size",
+"link": "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/",
+"summary": "Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competing models twice its …",
+"published": 1791316047.0
+},
+{
+"source": "The Decoder",
+"title": "Google's new image model Nano Banana 2.1 generates better images for less money",
+"link": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/",
+"summary": "Google's new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice. The artic…",
+"published": 1791314982.0
+},
+{
+"source": "The Decoder",
+"title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure",
+"link": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
+"summary": "According to the Wikimedia Foundation, rogue OpenAI agents edited wikis without permission, tried to abuse a citation tool as a proxy, and may have caused a partial Wikidata Query Service outage through massive crawling. Wikimedia says AI c…",
+"published": 1791311375.0
+},
+{
+"source": "The Decoder",
+"title": "Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade",
+"link": "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
+"summary": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced. Bigger models won't move the needle, he argues. What's missing …",
+"published": 1791307911.0
+},
+{
+"source": "HN AI 热门",
+"title": "OpenTPU – An open-source AI accelerator, developed by AI",
+"link": "https://github.com/FeSens/openTPU",
+"summary": "Article URL: https://github.com/FeSens/openTPU Comments URL: https://news.ycombinator.com/item?id=49980715 Points: 234 # Comments: 300",
+"published": 1791303805.0
+},
+{
+"source": "The Decoder",
+"title": "Insurers brace for millions in claims as AI agents spin out of control",
+"link": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
+"summary": "Insurers are bracing for millions in claims from rogue AI agents, and executives like OpenAI's Sam Altman and Anthropic's Dario Amodei could be personally on the hook for the fallout. The article Insurers brace for millions in claims as AI …",
+"published": 1791302806.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+"link": "https://openai.com/index/atlassian-partnership",
+"summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+"published": 1791302400.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从依赖专家到开发者自助：一家银行的平台文化转型",
+"link": "https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1791298800.0
+},
+{
+"source": "The Decoder",
+"title": "Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work",
+"link": "https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/",
+"summary": "Mistral's Large 4 is the company's biggest model yet, with one trillion parameters trained on its own European infrastructure. In the independent Intelligence Index, the model makes a big leap forward but still falls well short of Claude, G…",
+"published": 1791296288.0
+},
+{
+"source": "The Decoder",
+"title": "South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best",
+"link": "https://the-decoder.com/south-korea-bets-3-49-billion-on-building-a-homegrown-frontier-ai-model-to-rival-chinas-best/",
+"summary": "South Korea wants to develop a homegrown frontier model through government-backed equity investments of 4.7 trillion won ($3.49 billion). The article South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's …",
+"published": 1791291271.0
+},
+{
+"source": "HN AI 热门",
+"title": "Erdosproblems.com Succumbs to the AI Onslaught",
+"link": "https://www.erdosproblems.com/forum/thread/blog:9",
+"summary": "Article URL: https://www.erdosproblems.com/forum/thread/blog:9 Comments URL: https://news.ycombinator.com/item?id=49977689 Points: 94 # Comments: 38",
+"published": 1791291238.0
+},
+{
+"source": "The Decoder",
+"title": "Reflection's Beam becomes the most capable open-weight model built outside China",
+"link": "https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/",
+"summary": "Reflection has released Beam, its first open-weight model. The mixture-of-experts system activates just 23 billion of its 501 billion parameters per token and aims to match GLM 5.2 on coding and reasoning while using three to four times les…",
+"published": 1791288682.0
+},
+{
+"source": "OpenAI 博客",
+"title": "How Jump Trading is scaling quant research with ChatGPT",
+"link": "https://openai.com/index/jump-trading",
+"summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+"published": 1791288000.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Sharing AI progress in mathematics",
+"link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+"summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+"published": 1791288000.0
+},
+{
+"source": "The Decoder",
+"title": "Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology",
+"link": "https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology/",
+"summary": "Researchers at PhAI Labs have expanded Yann LeCun's JEPA architecture to work across seven fields, from robotics to biomedicine. The effort also produced a liver cancer treatment candidate that showed promise in lab tests, though the study …",
+"published": 1791287022.0
+},
+{
+"source": "The Decoder",
+"title": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
+"link": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/",
+"summary": "Deepseek is close to raising at least $12 billion in a new funding round, Bloomberg reports. The article CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO appeared first on The Decoder.",
+"published": 1791283818.0
+},
+{
+"source": "量子位",
+"title": "刚刚，诺贝尔物理奖一人独揽！",
+"link": "https://www.qbitai.com/2026/10/501746.html",
+"summary": "南极洲甚至有一座高地以他名字命名",
+"published": 1791283498.0
+},
 {
 "source": "InfoQ 中国",
 "title": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
@@ -16,9 +142,310 @@
 "link": "https://www.infoq.cn/article/6jvNkzZCm5mjr22zr04D?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1791280800.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Advancing computer use with Ironclad",
+"link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+"summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+"published": 1791280800.0
+},
+{
+"source": "量子位",
+"title": "不er，咋陶哲轩也成AI减速派了？？",
+"link": "https://www.qbitai.com/2026/10/501736.html",
+"summary": "",
+"published": 1791273557.0
+},
+{
+"source": "量子位",
+"title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+"link": "https://www.qbitai.com/2026/10/501726.html",
+"summary": "",
+"published": 1791269140.0
 }
 ],
 "科技": [
+{
+"source": "TechCrunch",
+"title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+"link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+"summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
+"published": 1791327339.0
+},
+{
+"source": "TechCrunch",
+"title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+"link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+"summary": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
+"published": 1791327189.0
+},
+{
+"source": "TechCrunch",
+"title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+"link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+"summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+"published": 1791326043.0
+},
+{
+"source": "The Verge",
+"title": "Xbox has secured exclusive GTA 6 streaming rights",
+"link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
+"summary": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft'…",
+"published": 1791324747.0
+},
+{
+"source": "The Verge",
+"title": "The best robot vacuum and mop deals during October Prime Day",
+"link": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
+"summary": "Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during …",
+"published": 1791324000.0
+},
+{
+"source": "The Verge",
+"title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
+"link": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
+"summary": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with…",
+"published": 1791322793.0
+},
+{
+"source": "The Verge",
+"title": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
+"link": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy",
+"summary": "Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt a…",
+"published": 1791321013.0
+},
+{
+"source": "TechCrunch",
+"title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+"link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+"summary": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+"published": 1791319621.0
+},
+{
+"source": "The Verge",
+"title": "Tesla’s Model 3 and Model Y can be a backup battery for your house",
+"link": "https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup",
+"summary": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also r…",
+"published": 1791319074.0
+},
+{
+"source": "TechCrunch",
+"title": "How AI decision models could change content moderation",
+"link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+"summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+"published": 1791318920.0
+},
+{
+"source": "The Verge",
+"title": "Google’s power-hungry data centers crave nuclear energy",
+"link": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
+"summary": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nu…",
+"published": 1791318730.0
+},
+{
+"source": "TechCrunch",
+"title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+"link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+"summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+"published": 1791316830.0
+},
+{
+"source": "The Verge",
+"title": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
+"link": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale",
+"summary": "Calling something “last-gen” usually means it comes with big compromises compared to the latest version. That’s not as true for the last-gen Kindle Paperwhite as it is with some other tech. The newer version can open books 30 percent faster…",
+"published": 1791316800.0
+},
+{
+"source": "TechCrunch",
+"title": "The next hurdle for AI agents: getting websites to let them in",
+"link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+"summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+"published": 1791316610.0
+},
+{
+"source": "The Verge",
+"title": "Save on MacBooks, iPads and Apple Watches during October Prime Day",
+"link": "https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale",
+"summary": "Amazon’s October Big Deal Days are underway (lasting through tomorrow night), and we spotted a ton of Apple products and accessories in the sale, ranging from laptops and headphones to desktops and more. Some of the deals are only for Prime…",
+"published": 1791315000.0
+},
+{
+"source": "The Verge",
+"title": "Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED",
+"link": "https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications",
+"summary": "Is Sony about to announce a new PlayStation Portal game streaming handheld? The Wi-Fi Alliance recently certified two unannounced PlayStation products of some kind, and the certification documents indicate that they could be updates to the …",
+"published": 1791313946.0
+},
+{
+"source": "The Verge",
+"title": "Alexa can’t control the aux input on Amazon Echo speakers anymore",
+"link": "https://www.theverge.com/tech/1006103/amazon-alexa-aux-voice-commands",
+"summary": "If you've been using an older Amazon Echo device as a speaker through its 3.5mm aux input, Alexa voice commands to play or pause from line in may stop working. Ars Technica points to this Reddit poster claiming they received a message from …",
+"published": 1791313436.0
+},
+{
+"source": "TechCrunch",
+"title": "Hark releases an AI personal assistant with a focus on privacy",
+"link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+"summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+"published": 1791310965.0
+},
+{
+"source": "TechCrunch",
+"title": "India’s JioHotstar takes partnership route for Middle East expansion",
+"link": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
+"summary": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
+"published": 1791306847.0
+},
+{
+"source": "TechCrunch",
+"title": "Mirror Particle is building a ‘world model’ of human behavior",
+"link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+"summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+"published": 1791304500.0
+},
+{
+"source": "TechCrunch",
+"title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
+"link": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
+"summary": "The storied Silicon Valley firm makes its first pure defense investment.",
+"published": 1791304152.0
+},
+{
+"source": "TechCrunch",
+"title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
+"link": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
+"summary": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the next-best thing: A packed day at Boston's SoWa…",
+"published": 1791303525.0
+},
+{
+"source": "TechCrunch",
+"title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+"link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+"summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+"published": 1791302400.0
+},
+{
+"source": "TechCrunch",
+"title": "LibreOffice says ‘no AI’ is now a software feature",
+"link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+"summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+"published": 1791300300.0
+},
+{
+"source": "TechCrunch",
+"title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
+"link": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
+"summary": "Wajo's Fo agent can hire humans to complete a task.",
+"published": 1791299700.0
+},
+{
+"source": "TechCrunch",
+"title": "Bluesky wants to give you your own domain on the open web",
+"link": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
+"summary": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
+"published": 1791297712.0
+},
+{
+"source": "TechCrunch",
+"title": "Emmys will move from broadcast TV to Prime Video in 2027",
+"link": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
+"summary": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
+"published": 1791297451.0
+},
+{
+"source": "TechCrunch",
+"title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+"link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+"summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+"published": 1791297196.0
+},
+{
+"source": "TechCrunch",
+"title": "Pinterest’s AI now turns beauty Pins into action plans",
+"link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+"summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+"published": 1791295249.0
+},
+{
+"source": "TechCrunch",
+"title": "Uber is spending $2.3B to get into catering",
+"link": "https://techcrunch.com/2026/10/06/uber-is-spending-2-3b-to-get-into-catering/",
+"summary": "It's the latest in a string of deals meant to grow Uber Eats into a food delivery behemoth.",
+"published": 1791295225.0
+},
+{
+"source": "少数派",
+"title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+"link": "https://sspai.com/post/115416",
+"summary": "密码管理服务的数据，当然要掌握在自己手里。查看全文",
+"published": 1791280800.0
+},
+{
+"source": "36氪",
+"title": "OpenAI在其智能体擅访澳数据后采取新防范措施",
+"link": "https://36kr.com/newsflashes/4014160822505345?f=rss",
+"summary": "美国开放人工智能研究中心（OpenAI）首席战略官贾森·权6日在悉尼表示，OpenAI一个智能体未经授权访问澳大利亚国民医疗保险体系数据门户后，其公司已采取新防范监控措施，并已从事件中吸取教训。权当天接受澳议会下设人工智能联合特别委员会质询时说，该事件促使公司增设了监控机制：一旦模型以违规方式接入互联网，工作人员可立即介入终止训练；同时该公司支持澳大利亚针对同类事件建立强制报告制度。 (新华社)",
+"published": 1791278678.0
+},
+{
+"source": "36氪",
+"title": "国庆假期后首个交易日 20只基金将集中开启认购",
+"link": "https://36kr.com/newsflashes/4014156616863877?f=rss",
+"summary": "10月8日是假期后首个交易日，有20只基金将开启认购，形成10月首个发行小高峰。20只产品中包含被动指数型基金7只、偏股混合型基金5只、债券型基金3只、增强指数型基金3只，另有FOF基金和REITs各1只。从投资主题看，科技成长方向布局最为集中，涉及科创板芯片设计、科创创业人工智能、软件开发、机器人等多个细分领域。 (中证报)",
+"published": 1791277200.0
+},
+{
+"source": "36氪",
+"title": "印度电信巨头Jio据悉寻求约1140亿美元IPO估值",
+"link": "https://36kr.com/newsflashes/4014111082254216?f=rss",
+"summary": "据报道，印度电信巨头Jio据悉在IPO中寻求约1140亿美元估值。Jio计划在10月19日当周启动IPO，并于10月30日前上市。（界面）",
+"published": 1791275749.0
+},
+{
+"source": "36氪",
+"title": "恒生指数、恒生科技指数均涨约1%，药品股、生物技术股上扬",
+"link": "https://36kr.com/newsflashes/4014118896095369?f=rss",
+"summary": "36氪获悉，港股收涨，恒生指数涨1%，恒生科技指数涨0.94%。智谱涨逾7%，GLM-5.3上架AmazonBedrock。药品股、生物技术股上扬，康希诺生物涨超14%，百奥赛图-B涨超11%，再鼎医药涨超9%，英矽智能、中国生物制药、康方生物涨超4%，三生制药、和黄医药涨超3%，和铂医药-B涨约3%。",
+"published": 1791274374.0
+},
+{
+"source": "36氪",
+"title": "软银支持的DayOne数据中心拟在美国IPO募资至多50亿美元",
+"link": "https://36kr.com/newsflashes/4014060799955080?f=rss",
+"summary": "据知情人士透露，获软银支持的DayOne数据中心计划在美国首次公开募股（IPO）中募资至多50亿美元，DayOne计划最晚于今年年底在纳斯达克上市美国存托股票（ADS）。该公司已于周一向美国证券交易委员会（SEC）提交IPO招股说明书。根据该公司提交给SEC的文件，DayOne总部位于新加坡，今年上半年营收同比增长逾三倍，达到5.12亿美元；同期净亏损从1350万美元扩大至8190万美元。（财联社）",
+"published": 1791273151.0
+},
+{
+"source": "36氪",
+"title": "AMD首席执行官：未来数年芯片需求将“非常高”",
+"link": "https://36kr.com/newsflashes/4013970409164928?f=rss",
+"summary": "超威半导体（AMD）首席执行官苏姿丰预测，受人工智能应用增长推动，未来数年半导体需求将维持在“极高”水平。苏姿丰在台北对记者表示，芯片需求超过供给，存储芯片供应持续紧张。苏姿丰称，人工智能有益于世界，不会伤害人类。苏姿丰表示，美国头部AI企业之间开展协作十分重要。“安全创新方面仍有不少工作要做，”苏姿丰说，“最重要的是我们要携手合作。”苏姿丰称，美国“超级智能工作组”是“向前迈出的重要一步”。（新浪财经）",
+"published": 1791270648.0
+},
+{
+"source": "36氪",
+"title": "国家税务总局发布全国统一的税务行政处罚裁量基准",
+"link": "https://36kr.com/newsflashes/4013961237860224?f=rss",
+"summary": "近日，国家税务总局发布《全国税务行政处罚裁量基准（2026年版）》，并将于11月1日起施行。这标志着税务行政处罚裁量基准实现全国范围统一。国家税务总局政策法规司有关负责人介绍，在充分吸收此前各区域实践成果的基础上，此次税务总局对9类66项税务行政处罚事项裁量阶次、适用条件、具体标准进行了全面优化，推动实现税务违法行为事项划分更加合理、裁量因素设置更加科学、裁量尺度把握更加精确，有利于统一税务执法标准、规范税务执法行为、提高税务执法确定性。（新华社）",
+"published": 1791269116.0
+},
+{
+"source": "36氪",
+"title": "希捷和东芝据悉竞购TDK硬盘磁头业务，交易金额或达数十亿美元",
+"link": "https://36kr.com/newsflashes/4013929954447236?f=rss",
+"summary": "据报道，希捷和东芝正竞购TDK的硬盘磁头业务。知情人士透露，东芝今年春季率先与TDK展开谈判，希捷随后在夏季提出更高报价。这项收购的交易金额最高可能达到数十亿美元。（界面）",
+"published": 1791268262.0
+},
+{
+"source": "36氪",
+"title": "全球纯燃油车新车销量占比首次跌破50%",
+"link": "https://36kr.com/newsflashes/4013925315284872?f=rss",
+"summary": "Mobility Global最新数据显示，2026年上半年，纯汽油车型占全球新车销量的49%，这是历史上纯汽油车销量占比首次跌破五成，且较2021年的73%大幅下降了24%。数据还显示，今年上半年，整体汽车市场规模收缩约5%，而纯汽油车销量的下滑幅度达到了大盘的两倍。业内人士将市场加速转变归因于油价。即受中东冲突影响，燃油价格大幅飙升，消费者开始寻求用车成本更低的车型。分地域来看，上半年中国汽油车销量同比下降26%，为全球最大降幅。（中国基金报）",
+"published": 1791267009.0
+},
 {
 "source": "36氪",
 "title": "GLM-5.3上架Amazon 智谱打开海外收入分成通道",
@@ -77,6 +504,244 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Anthropic folds Project Glasswing into an expanded three-tier Cyber Verification Program",
+"link": "https://siliconangle.com/2026/10/06/anthropic-folds-project-glasswing-into-an-expanded-three-tier-cyber-verification-program/",
+"summary": "Anthropic PBC today expanded its Cyber Verification Program into three tiers of access for vetted security teams, with fewer blocks on cybersecurity work at each step up. The overhaul is aimed at a restriction Anthropic built into its own p…",
+"published": 1791326777.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Vinci reels in $250M for its engineering simulation platform",
+"link": "https://siliconangle.com/2026/10/06/vinci-reels-in-250m-for-its-engineering-simulation-platform/",
+"summary": "Vinci4D Inc. today announced that it has closed a $250 million funding round at a $1.5 billion valuation. Advent, Temasek and Xora jointly led the Series B deal. They were joined by several startup funds including AMD Ventures. Hardware eng…",
+"published": 1791325107.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Google expands EmbeddingGemma beyond text to images, audio and video",
+"link": "https://siliconangle.com/2026/10/06/google-expands-embeddinggemma-beyond-text-to-images-audio-and-video/",
+"summary": "Google LLC today released EmbeddingGemma 2, an open multimodal embedding model small enough to run on a smartphone. The release takes the EmbeddingGemma line beyond text, which was all the first version handled when Google introduced it in …",
+"published": 1791325084.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Cline Bot makes the case for an open AI coding harness",
+"link": "https://siliconangle.com/2026/10/06/cline-makes-the-case-for-an-open-ai-coding-harness-fullyconnected/",
+"summary": "Open-weight models keep multiplying, and the AI coding harness around them is becoming just as important to get right. Developers and enterprises are trading off cost against capability. The harness helps translate a model’s capabilities in…",
+"published": 1791320559.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Transforming the data path: Dell’s new releases move enterprises closer to the agentic data center",
+"link": "https://siliconangle.com/2026/10/06/agentic-era-dell-ai-data-platform-thecube-dellaidataplatform/",
+"summary": "AI is taking shape, moving from models that answer questions to models that can reason. Now models are powering the agentic era, and Dell Technologies Inc. has announced several extensions to its AI Data Platform designed to manage this new…",
+"published": 1791320217.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Mistral launches open-source Mistral Large 4, details AI roadmap",
+"link": "https://siliconangle.com/2026/10/06/mistral-launches-open-source-mistral-large-4-details-ai-roadmap/",
+"summary": "Mistral AI SAS today opened access to Mistral Large 4, its most capable large language model to date. On launch, the LLM is available in public preview through the company’s cloud platform. Mistral plans to release the model’s weights later…",
+"published": 1791318533.0
+},
+{
+"source": "SiliconANGLE",
+"title": "CoreWeave targets GPU utilization in continuous AI post-training",
+"link": "https://siliconangle.com/2026/10/06/gpu-utilization-post-training-shapes-better-ai-agents-fullyconnected/",
+"summary": "GPU utilization during post-training depends partly on how efficiently infrastructure moves data and loads updated models. As enterprises continually refine AI agents, reducing delays between training rounds can help keep that process movin…",
+"published": 1791316491.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Three key insights you may have missed from theCUBE’s coverage of the Supermicro Open Storage Summit interview series",
+"link": "https://siliconangle.com/2026/10/06/ai-storage-strategy-three-insightgs-supermicro-summit-supermicroopenstoragesummit/",
+"summary": "AI storage strategy is taking on a larger role as enterprises move from successful experiments to systems that must deliver dependable business results. How organizations store, serve and manage data increasingly shapes the performance, cos…",
+"published": 1791315795.0
+},
+{
+"source": "SiliconANGLE",
+"title": "MasterClass bets AI teaching agents can broaden access to tutoring",
+"link": "https://siliconangle.com/2026/10/06/ai-teaching-agents-masterclass-tackles-tutoring-costs-fullyconnected/",
+"summary": "AI teaching agents could make personalized instruction available to more learners by reducing the cost and staffing demands of one-to-one tutoring. MasterClass is exploring that potential through a system designed to adapt to how each stude…",
+"published": 1791312806.0
+},
+{
+"source": "SiliconANGLE",
+"title": "LawVu launches Lens to provide legal teams visibility into contract law",
+"link": "https://siliconangle.com/2026/10/06/lawvu-launches-lens-to-provide-legal-teams-visibility-into-contract-law/",
+"summary": "New Zealand-based LawVu Ltd., a legal artificial intelligence startup, today announced the launch of Lens, an AI contract analysis tool that gives in-house legal teams visibility into risks and obligations in paperwork. The company embedded…",
+"published": 1791306343.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Vast uses tiered storage to ease AI agent memory demands",
+"link": "https://siliconangle.com/2026/10/06/ai-agent-memory-belongs-storage-says-vast-data-cto-fullyconnected/",
+"summary": "AI agent memory is creating new demands on infrastructure as agents run longer sessions and spread across the enterprise. Retaining that context and making it available when needed puts pressure on memory capacity and data movement. Those d…",
+"published": 1791306146.0
+},
+{
+"source": "SiliconANGLE",
+"title": "BattleBots builders turn to AI simulation to win fights before entering the box",
+"link": "https://siliconangle.com/2026/10/06/ai-networking-simulation-help-battlebots-builders-win-early-fullyconnected/",
+"summary": "AI infrastructure built on dense graphics processing unit clusters and high-speed AI networking is no longer reserved for frontier model labs. The same compute behind the industry’s push into physical AI is now reaching engineers designing …",
+"published": 1791303220.0
+},
+{
+"source": "EU-Startups",
+"title": "British Business Bank backs multi-fund VC Fuel Ventures with €11 million investment",
+"link": "https://www.eu-startups.com/2026/10/british-business-bank-backs-multi-fund-vc-fuel-ventures-with-e11-million-investment/",
+"summary": "The British Business Bank (the Bank) announced €11 million (£10 million) to the Fuel Ventures funds, made through the Bank’s Regional Angels Programme. This programme launched in 2019 to address imbalances in access to early-stage equity fi…",
+"published": 1791298048.0
+},
+{
+"source": "SiliconANGLE",
+"title": "NetApp aims to make legacy data AI-ready without a rebuild",
+"link": "https://siliconangle.com/2026/10/06/netapp-aims-to-make-legacy-data-ai-ready-without-a-rebuild-netappinsight/",
+"summary": "Enterprises sitting on decades of legacy information face a pressing question as artificial intelligence moves from pilots to production: Can that archive become AI-ready data without a costly rebuild of the infrastructure underneath it? Ne…",
+"published": 1791297856.0
+},
+{
+"source": "TechCrunch VC",
+"title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+"link": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+"summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+"published": 1791295200.0
+},
+{
+"source": "SiliconANGLE",
+"title": "IBM and Red Hat patch 400-plus unknown Java flaws, open Clearinghouse for fix requests",
+"link": "https://siliconangle.com/2026/10/06/ibm-and-red-hat-patch-400-plus-unknown-java-flaws-open-clearinghouse-for-fix-requests/",
+"summary": "IBM Corp. and its Red Hat unit said today that their Lightwell open-source security program has found and fixed more than 400 previously unknown vulnerabilities in widely used Java libraries. The companies also made Lightwell Clearinghouse …",
+"published": 1791291657.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Tanium expands Security Operations with Atlas-powered detection, response and hunting",
+"link": "https://siliconangle.com/2026/10/06/tanium-expands-security-operations-with-atlas-powered-detection-response-and-hunting/",
+"summary": "Endpoint management and security company Tanium Inc. today expanded its Security Operations portfolio with new detection, response and threat-hunting tools built on its Tanium Atlas agentic artificial intelligence platform. The release is T…",
+"published": 1791291651.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Exclusive: Gamma revamps presentation platform to make output look more human",
+"link": "https://siliconangle.com/2026/10/06/exclusive-gamma-revamps-presentation-platform-to-make-output-look-more-human/",
+"summary": "Gamma Tech Inc., a maker of artificial intelligence-powered services for presentations, social media and websites, today introduced a rebuilt version of its platform designed to give presentations and other visual content more distinctive d…",
+"published": 1791291648.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Precisely launches unified AI data platform and AI Studio library of agents and apps",
+"link": "https://siliconangle.com/2026/10/06/precisely-launches-unified-ai-data-platform-and-ai-studio-library-of-agents-and-apps/",
+"summary": "Data management software company Precisely Software Inc. today introduced the Precisely Platform, a unified system designed to make enterprise data ready for artificial intelligence. Developers also get Precisely AI Studio, a library of rea…",
+"published": 1791291629.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Antseed launches a decentralized marketplace for AI inference that dramatically lowers developers’ costs",
+"link": "https://siliconangle.com/2026/10/06/antseed-launches-a-decentralized-marketplace-for-ai-inference-that-dramatically-lowers-developers-costs/",
+"summary": "Developers now have a much cheaper way to access cutting-edge artificial intelligence inference capabilities with the launch of Antseed today. It’s a new peer-to-peer marketplace that makes it possible to access almost any frontier model at…",
+"published": 1791291619.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Dell’s AI Data Platform gets a knowledge graph for agents and faster Nvidia processing",
+"link": "https://siliconangle.com/2026/10/06/dells-ai-data-platform-gets-a-knowledge-graph-for-agents-and-faster-nvidia-processing/",
+"summary": "Dell Technologies Inc. today expanded the Dell AI Data Platform with a semantic layer and a knowledge graph intended to give artificial intelligence agents trusted context from a company’s own data. Dell is also speeding up data processing …",
+"published": 1791291611.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Anaconda expands beyond Python with agent swarms and AI security testing",
+"link": "https://siliconangle.com/2026/10/06/anaconda-expands-beyond-python-with-agent-swarms-and-ai-security-testing/",
+"summary": "Artificial intelligence development firm Anaconda Inc. is enhancing its enterprise AI platform with tools to coordinate groups of AI agents, test their security and move applications into production. Today’s introductions continue the compa…",
+"published": 1791291605.0
+},
+{
+"source": "EU-Startups",
+"title": "Up to 27 times lower carbon footprint than beef – Edonia raises €15 million for their meat-alternative",
+"link": "https://www.eu-startups.com/2026/10/up-to-27-times-lower-carbon-footprint-than-beef-edonia-raises-e15-million-for-their-meat-alternative/",
+"summary": "French FoodTech startup Edonia, a B2B ingredient supplier specialised in ready-to-eat-protein ingredients, has raised €15 million to expand the commercial use of its microalgae-based ingredients. The round was led by SWEN Blue Ocean 2, Aste…",
+"published": 1791287292.0
+},
+{
+"source": "SiliconANGLE",
+"title": "SAP expands Joule into an agentic work layer as Autonomous Enterprise goes live",
+"link": "https://siliconangle.com/2026/10/06/sap-expands-joule-into-an-agentic-work-layer-as-autonomous-enterprise-goes-live/",
+"summary": "SAP SE today announced a shift from promising agentic artificial intelligence autonomy to defining a path for users to interact with agents for work outside apps, not just within them. During SAP Connect 2026, the company said it is making …",
+"published": 1791286224.0
+},
+{
+"source": "EU-Startups",
+"title": "NVM Ventures launches with €23.6 million fund targeting dual-use companies",
+"link": "https://www.eu-startups.com/2026/10/nvm-ventures-launches-with-e23-6-million-fund-targeting-dual-use-companies/",
+"summary": "NVM Ventures has officially launched with the announcement of a €23.6 million first close for the NVM Venture Lazio compartment. The compartment aims to build a portfolio of 10–15 dual-use companies at pre-Seed and Seed stage working in STE…",
+"published": 1791286103.0
+},
+{
+"source": "EU-Startups",
+"title": "Paris- and London-based Spiko raises nearly €80 million to help businesses and individuals put idle cash to work",
+"link": "https://www.eu-startups.com/2026/10/paris-and-london-based-spiko-raises-nearly-e80-million-to-help-businesses-and-individuals-put-idle-cash-to-work/",
+"summary": "Spiko, a tokenised cash fund platform with headquarters in Paris and London, has raised €80.03 million ($90 million) in a Series B funding round. The round follows an €18.9 million Series A in July 2025, bringing its total funding raised to…",
+"published": 1791284891.0
+},
+{
+"source": "Crunchbase",
+"title": "Crunchbase Data Shows AI’s Most Active Startups Are Becoming Serial Acquirers",
+"link": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/",
+"summary": "Some of the AI industry’s fastest-growing startups are becoming serial acquirers, buying smaller companies to fill product gaps, enter new markets and bring specialized teams in-house, a review of Crunchbase data shows. While AI giant OpenA…",
+"published": 1791284447.0
+},
+{
+"source": "EU-Startups",
+"title": "MeOut Summit 2026: Meet the Pitch Marathon contestants",
+"link": "https://www.eu-startups.com/2026/10/meout-summit-2026-meet-the-pitch-marathon-contestants/",
+"summary": "Startups from across Europe are set to take part in an exclusive Pitch Marathon at the MeOut Summit 2026, held at Budapest’s Akvárium on 25–26 November 2026. The event will feature a Pitch Marathon wherein selected startups will present on …",
+"published": 1791283691.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Hadrian raises $40M for AI agents that find the weaknesses attackers can exploit",
+"link": "https://siliconangle.com/2026/10/06/hadrian-raises-40m-for-ai-agents-that-find-the-weaknesses-attackers-can-exploit/",
+"summary": "Dutch offensive security startup Hadrian Security B.V. today announced that it has raised $40 million in new funding to expand its business internationally. Hadrian’s software points artificial intelligence agents at a company’s internet-fa…",
+"published": 1791280816.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Hack The Box’s AI Range Enterprise Edition tests whether AI agents can do their jobs",
+"link": "https://siliconangle.com/2026/10/06/hack-the-boxs-ai-range-enterprise-edition-tests-whether-ai-agents-can-do-their-jobs/",
+"summary": "Cybersecurity training company Hack The Box Ltd. today introduced AI Range Enterprise Edition to let security teams test whether their own artificial intelligence agents can do the jobs they have been assigned. The release is seeking to tak…",
+"published": 1791277240.0
+},
+{
+"source": "EU-Startups",
+"title": "German unicorn Personio acquires spend management platform Circula",
+"link": "https://www.eu-startups.com/2026/10/german-unicorn-personio-acquires-spend-management-platform-circula/",
+"summary": "HRTech unicorn Personio today announced it has acquired Circula, a German spend management platform, to reportedly become the first European platform to unite HR, payroll, and spend management. This follows Circula’s €15 million Series A in…",
+"published": 1791276362.0
+},
+{
+"source": "EU-Startups",
+"title": "Hamburg’s Procuros raises €20 million Series A to build AI-native infrastructure for autonomous B2B trade",
+"link": "https://www.eu-startups.com/2026/10/hamburgs-procuros-raises-e20-million-series-a-to-build-ai-native-infrastructure-for-autonomous-b2b-trade/",
+"summary": "Procuros, a Hamburg-based supply chain connectivity platform, has raised a €20 million Series A funding round. The round was led by XAnge, a European venture capital firm based in Paris and Berlin with around €600 million in assets under ma…",
+"published": 1791273683.0
+},
+{
+"source": "EU-Startups",
+"title": "Cybersecurity startup Hadrian raises €35.68 million to scale its agentic AI offensive security platform",
+"link": "https://www.eu-startups.com/2026/10/london-amsterdam-based-hadrian-raises-e35-68-million-to-scale-its-agentic-ai-offensive-security-platform/",
+"summary": "Hadrian, a London-Amsterdam-based agentic AI offensive security platform, today announced a €35.68 million ($40 million) funding round to fund expansion across EMEA and the U.S. and deepen investment in its engineering and research teams. T…",
+"published": 1791271037.0
+},
+{
+"source": "EU-Startups",
+"title": "Paris-based WhiteLab Genomics raises €23.2 million to accelerate AI-driven genomic medicine development",
+"link": "https://www.eu-startups.com/2026/10/paris-based-whitelab-genomics-raises-e23-2-million-to-accelerate-ai-driven-genomic-medicine-development/",
+"summary": "WhiteLab Genomics, a Paris-based BioTech company that uses AI to design the building blocks of genomic medicines, has closed a €23.2 million ($26 million) Series B funding round. The round was led by AVP, an independent global investment pl…",
+"published": 1791268111.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Utah gives startup Nolla Health permission to start issuing AI automated prescriptions for acne treatments",

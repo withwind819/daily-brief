@@ -1,8 +1,15 @@
 {
 "date": "2026-10-04",
-"total": 55,
+"total": 57,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Homa: The end of TCP for AI clusters [video]",
+"link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+"summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro... Comments URL: https://news.ycombinator.com/item?id=49957117 Points: 8…",
+"published": 1791142945.0
+},
 {
 "source": "InfoQ 中国",
 "title": "Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin",
@@ -58,6 +65,13 @@
 "link": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/",
 "summary": "Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers as balanced. Aleph Alpha sells \"sovereign AI\" to governments, giving it a commer…",
 "published": 1791103672.0
+},
+{
+"source": "HN AI 热门",
+"title": "How to scale intent, quality, and artistry with AI [video]",
+"link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+"summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 101 # Comments: 49",
+"published": 1791103318.0
 },
 {
 "source": "The Decoder",

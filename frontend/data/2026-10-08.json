@@ -1,0 +1,229 @@
+{
+"date": "2026-10-08",
+"total": 31,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+"link": "https://www.infoq.cn/article/akexM07HzNrRJzmjYNml?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1791453600.0
+},
+{
+"source": "InfoQ 中国",
+"title": "两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造",
+"link": "https://www.infoq.cn/article/4AMw7Bt3UHqw48qmQTpS?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1791453600.0
+},
+{
+"source": "InfoQ 中国",
+"title": "代码交给AI，心流却回来了：Codex负责人不再怀念手写时代",
+"link": "https://www.infoq.cn/article/rLaX4DEMuRxqW135ZSSC?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1791452110.0
+},
+{
+"source": "量子位",
+"title": "GPT-6今起免费用！拒答变少，话变多了",
+"link": "https://www.qbitai.com/2026/10/501834.html",
+"summary": "ChatGPT聊天框长出界面",
+"published": 1791421639.0
+},
+{
+"source": "量子位",
+"title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+"link": "https://www.qbitai.com/2026/10/501832.html",
+"summary": "小模型新守门员",
+"published": 1791421440.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "多家品牌金饰价格下调，老庙黄金克价1243元",
+"link": "https://36kr.com/newsflashes/4016600401497992?f=rss",
+"summary": "10月8日，国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所调整，老庙黄金报价1243元/克，较前一日跌10元；周生生报价1248元/克，较前一日跌4元；周大福报价1249元/克，较前一日持平；老凤祥报价1247元/克，较前一日跌4元。（界面）",
+"published": 1791425833.0
+},
+{
+"source": "36氪",
+"title": "“卫澜深海”9个月内已完成5轮融资",
+"link": "https://36kr.com/newsflashes/4016599686140041?f=rss",
+"summary": "36氪获悉，海洋具身智能公司“卫澜深海”在9个月内已完成5轮融资，轮次推进至天使++++轮，核心股东包括深创投、元禾原点等机构。资金主要用于训练水下具身智能模型，建设水下具身智能训练中心，以及深化机器人在海洋油气能源场景下的应用。",
+"published": 1791425789.0
+},
+{
+"source": "36氪",
+"title": "小鹏Robotaxi正式定名“小鹏悠游”",
+"link": "https://36kr.com/newsflashes/4016598774583174?f=rss",
+"summary": "36氪获悉，据小鹏汽车消息，小鹏集团Robotaxi业务正式启用中文名���“小鹏悠游”，英文名为“XPENGYOYO”。",
+"published": 1791425733.0
+},
+{
+"source": "36氪",
+"title": "“白犀牛”完成1亿美元C轮融资",
+"link": "https://36kr.com/newsflashes/4016594888478851?f=rss",
+"summary": "36氪获悉，10月8日，L4自动驾驶公司“白犀牛”正式宣布完成C2轮融资，C轮融资金额累计达到1亿美元。C2轮融资由隐山资本领投，湘潭国资、深重投、湖南财信、韩国友利金融集团、博正资本等跟投，本轮融资资金将重点投向L4端到端技术与物理AI能力迭代、城市运营网络持续拓展，同时持续深化与产业伙伴的生态协同，跑通技术、产品、运营、生态的完整闭环。",
+"published": 1791425496.0
+},
+{
+"source": "36氪",
+"title": "保时捷将削减车型衍生版本数量，高端车型计划涨价20%",
+"link": "https://36kr.com/newsflashes/4016589803638918?f=rss",
+"summary": "10月7日，跑车制造商保时捷在资本市场日上披露，将优化车型衍生版本数量，使产品组合更聚焦于有吸引力的高端细分市场。公司计划将车型衍生版本数量减少约20%，以降低产品组合的复杂性。预计中期内，每个车型衍生版本的平均销量将提升约30%。据披露，保时捷计划将其高端车型售价平均提高20%，并将推出一款911衍生车型。到2030年，保时捷高端车型的平均价格预计将从今年的约27万欧元升至超33万欧元。保时捷表示，到2030年计划每年至少推出一款定义品牌形象的新产品。（界面）",
+"published": 1791425186.0
+},
+{
+"source": "36氪",
+"title": "小米登记Xiaomi MiMo作品著作权",
+"link": "https://36kr.com/newsflashes/4016589120540801?f=rss",
+"summary": "36氪获悉，天眼查知识产权信息显示，近日，小米科技有限责任公司登记“Xiaomi MiMo”作品著作权，作品类别为美术。此前，该公司已注册多枚“XIAOMI MIMO”商标，国际分类涉及健身器材、厨房洁具等。该公司成立于2010年3月，法定代表人为雷军，注册资本约14.8亿人民币，经营范围包括通讯设备销售、厨具卫具及日用杂品批发、厨具卫具及日用杂品零售等，由雷军、刘德共同持股。",
+"published": 1791425144.0
+},
+{
+"source": "36氪",
+"title": "恒生科技指数下跌1%",
+"link": "https://36kr.com/newsflashes/4016584929578880?f=rss",
+"summary": "36氪获悉，恒生科技指数下跌1%。",
+"published": 1791424888.0
+},
+{
+"source": "36氪",
+"title": "甲醇期货主力合约日内触及涨停",
+"link": "https://36kr.com/newsflashes/4016570982043779?f=rss",
+"summary": "36氪获悉，甲醇期货主力合约日内触及涨停，报3625元/吨，涨幅9.02%。",
+"published": 1791424037.0
+},
+{
+"source": "36氪",
+"title": "LG新能源与加拿大公司签署长期锂精矿供应协议",
+"link": "https://36kr.com/newsflashes/4016570766266243?f=rss",
+"summary": "韩国电池制造商LG新能源公司周四宣布，已与一家加拿大公司签署长期协议，以获取锂精矿供应。该公司在新闻稿中表示，根据该协议，Elevra Lithium将在从今年晚些时候开始的四年内，向LG新能源供应24万吨锂精矿。（新浪财经）",
+"published": 1791424024.0
+},
+{
+"source": "36氪",
+"title": "工商银行股价创历史新高",
+"link": "https://36kr.com/newsflashes/4016564307480713?f=rss",
+"summary": "36氪获悉，工商银行A股盘中股价创历史新高，现涨0.72%，报8.34元。",
+"published": 1791423630.0
+},
+{
+"source": "36氪",
+"title": "财政部发行中央金融机构注资特别国债",
+"link": "https://36kr.com/newsflashes/4016559982088329?f=rss",
+"summary": "财政部计划于今天（8日）发行2026年中央金融机构注资特别国债（一期）。本次拟发行的国债为5年期固定利率附息债，竞争性招标面值总额1500亿元，票面利率通过竞争性招标确定，明天（9日）开始计息，每年支付利息。（央视新闻）",
+"published": 1791423366.0
+},
+{
+"source": "36氪",
+"title": "央行今日开展6060亿元隔夜逆回购操作",
+"link": "https://36kr.com/newsflashes/4016552965869702?f=rss",
+"summary": "36氪获悉，央行公告，根据公开市场业务一级交易商的需求，2026年10月8日7天期逆回购操作量为零。同时，开展了6060亿元隔夜逆回购操作。",
+"published": 1791422937.0
+},
+{
+"source": "36氪",
+"title": "A股三大指数开盘涨跌不一，海运板块走强",
+"link": "https://36kr.com/newsflashes/4016551078482051?f=rss",
+"summary": "36氪获悉，A股三大指数开盘涨跌不一，沪指低开0.08%，深成指高开0.07%，创业板指高开0.17%；房地产、贵金属、发电设备板块跌幅居前，威力传动跌超7%，万科A、信达地产、湖南白银跌超3%；海运、重型机械、化纤板块领涨，中远海能涨超6%，恒逸石化涨超2%，潍柴动力涨超1%。",
+"published": 1791422822.0
+},
+{
+"source": "36氪",
+"title": "恒指开盘跌0.41%，恒生科技指数跌0.25%",
+"link": "https://36kr.com/newsflashes/4016546748993408?f=rss",
+"summary": "36氪获悉，恒指开盘跌0.41%，恒生科技指数跌0.25%；银行、有色金属板块跌幅居前，农业银行、山东黄金跌超1%；国防军工、电气设备板块领涨，沃尔核材涨超2%，中航科工涨超1%。",
+"published": 1791422558.0
+},
+{
+"source": "36氪",
+"title": "人民币兑美元中间价报6.7367",
+"link": "https://36kr.com/newsflashes/4016543453778054?f=rss",
+"summary": "36氪获悉，人民币兑美元中间价报6.7367，下调16点。",
+"published": 1791422357.0
+},
+{
+"source": "36氪",
+"title": "“星火传明”完成A轮融资",
+"link": "https://36kr.com/newsflashes/4016540259160199?f=rss",
+"summary": "36氪获悉，商业红外遥感企业“星火传明”完成A轮融资。按照公司规划，本轮融资资金将主要用于高分辨率红外载荷与星地激光通信地面站产线建设及批产、在轨星座组网，以及星上AI计算与算法迭代。",
+"published": 1791422162.0
+},
+{
+"source": "36氪",
+"title": "两部门印发《医疗康复护理扩容提升工程实施方案》",
+"link": "https://36kr.com/newsflashes/4016536604692352?f=rss",
+"summary": "36氪获悉，国家卫生健康委、国家发展改革委印发《医疗康复护理扩容提升工程实施方案》。其中提出，到2030年，医疗康复护理扩容提升取得显著成效，基本建成功能完备、上下联动、中西医结合、高效可及的服务体系，更好满足全人群、全方位、全生命周期健康需求。",
+"published": 1791421939.0
+},
+{
+"source": "36氪",
+"title": "甲醇期货主力合约日内涨幅扩大至7%",
+"link": "https://36kr.com/newsflashes/4016534535524229?f=rss",
+"summary": "36氪获悉，甲醇期货主力合约日内涨幅扩大至7%。",
+"published": 1791421812.0
+},
+{
+"source": "36氪",
+"title": "SK能源、现代石油银行因涉嫌价格操纵接受韩反垄断机构调查",
+"link": "https://36kr.com/newsflashes/4016525321146498?f=rss",
+"summary": "据报道，韩国公平交易委员会（KFTC）10月7日表示，已对SK能源公司和现代石油银行（Hyundai Oilbank）启动正式程序，指控这两家炼油商在大约四年间交换燃油定价信息，串通销售价格。该机构表示，其调查部门提交了一份审查报告，概述了涉嫌违规行为和拟议制裁，从而启动了该委员会的裁决程序。调查人员估计，受涉嫌行为影响的销售额总计约44.1万亿韩元（约330亿美元），即每天约300亿韩元（约2240万美元）。该委员会调查部门认定，上述两家公司的涉嫌行为可能严重违反禁止价格操…",
+"published": 1791421250.0
+},
+{
+"source": "36氪",
+"title": "保时捷B级SUV新车将于2028年量产，与纯电Macan并行销售",
+"link": "https://36kr.com/newsflashes/4016523142958977?f=rss",
+"summary": "10月7日，保时捷在资本市场日上披露，纯电动718 Boxster和Cayman车型预计将在2028年首个完整生产年度助力销售。2028年，保时捷还将推出一款B级全新SUV车型，并与当前纯电动Macan并行销售。这款搭载内燃机和插电式混合动力系统的新车型，在2028年量产爬坡后，预计将于2029年对销量和盈利能力带来显著贡献。此后，公司还将推出更多新产品，主要集中在利润率较高的D级和E级细分市场，预计将进一步提升盈利水平。（界面）",
+"published": 1791421117.0
+},
+{
+"source": "少数派",
+"title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+"link": "https://sspai.com/post/115455",
+"summary": "Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。查看全文",
+"published": 1791418617.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜苹果一大波新品曝光，最快下周发布/全球纯汽油车份额首次跌破50%/2599 美元起，Surface Laptop Ultra发布",
+"link": "https://www.ifanr.com/1683053?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· OpenAI 向 Chat 用户推送 GPT-6，并加入可交互界面 · 月之暗面估值据报升至约 500 亿美元，筹备明年赴港上市 · 2026 年诺贝尔奖陆续公布，目前已有 6 位得主#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1791418453.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨中国航协回应东航空姐跪地道歉事件；DeepSeek新一轮融资逼近1000亿；安踏集团正式成为彪马最大股东",
+"link": "https://36kr.com/p/4016467711316101?f=rss",
+"summary": "今日热点导览 SpaceXAI官宣更名SpaceXSI OpenAI将在欧盟为ChatGPT和Codex文本输出添加隐形水印 2026年诺贝尔化学奖、物理学奖揭晓 7-11便利店退出印度 苹果一号电脑或拍出80万美元 TOP 3 大新闻 中国航协回应东航空姐跪地道歉事件 10月7日，中国航协发文回应“东航空姐跪地道歉”事件。中国航协称，东航航班客舱服务中，餐车偶发触碰旅客，当班乘务员、乘务长多次致歉并开展服务补救后，该旅客仍对乘务员进行言语攻击与威胁。目前，东航已完成证据固定…",
+"published": 1791417851.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Samsung forecasts world record-breaking $80B profit",
+"link": "https://siliconangle.com/2026/10/07/samsung-forecasts-world-record-breaking-80b-profit/",
+"summary": "Samsung Electronics Co. Ltd. said it expects to deliver a world record-breaking quarterly profit for the technology industry, exceeding 100 trillion won for the first time. In a preliminary third-quarter earnings report late today, the comp…",
+"published": 1791422844.0
+},
+{
+"source": "SiliconANGLE",
+"title": "With GPT-6, ChatGPT’s responses are much more visually appealing and interactive",
+"link": "https://siliconangle.com/2026/10/07/with-gpt-6-chatgpts-responses-are-much-more-visually-appealing-and-interactive/",
+"summary": "OpenAI Group PBC says ChatGPT is moving away from its traditional wall-of-text responses and giving users a more interactive user interface to play with. In a media briefing today, the company said its GPT-6 models will now be able to acces…",
+"published": 1791420573.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Nvidia, Samsung back $90M round for AI agent startup Nous Research",
+"link": "https://siliconangle.com/2026/10/07/nvidia-samsung-back-90m-round-for-ai-agent-startup-nous-research/",
+"summary": "Nous Research Inc., the developer of the popular Hermes artificial intelligence agent, today announced that it has raised $90 million in funding. Early-stage startup fund Robot Ventures led the Series B round. It was joined by Nvidia Corp.,…",
+"published": 1791418478.0
+}
+]
+}
+}

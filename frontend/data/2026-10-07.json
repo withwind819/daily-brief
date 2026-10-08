@@ -1,17 +1,374 @@
 {
 "date": "2026-10-07",
-"total": 15,
+"total": 93,
 "categories": {
 "AI": [
+{
+"source": "The Decoder",
+"title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps",
+"link": "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/",
+"summary": "OpenAI is rolling out GPT-6 with \"Intelligent UI,\" a feature that turns answers into interactive interfaces with charts, buttons, and forms. The model can now respond while still thinking, cutting wait times by 44 percent. Paying customers …",
+"published": 1791400000.0
+},
+{
+"source": "The Decoder",
+"title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
+"link": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
+"summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by con…",
+"published": 1791398963.0
+},
+{
+"source": "The Decoder",
+"title": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
+"link": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/",
+"summary": "Biohub, the research organization backed by Mark Zuckerberg and Priscilla Chan, is coordinating a $1.8 billion initiative to train AI models that predict cell behavior. Meta, Google DeepMind, Isomorphic Labs, and the US Department of Energy…",
+"published": 1791395900.0
+},
+{
+"source": "The Decoder",
+"title": "Google says 180 billion images and videos now carry SynthID watermarks as detector goes public",
+"link": "https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/",
+"summary": "Google's AI watermark detector SynthID is now public. Anyone can check whether images, videos, or audio were created by Google's AI or partners like OpenAI and Nvidia. More than 180 billion pieces of content already carry the watermark, but…",
+"published": 1791395417.0
+},
+{
+"source": "InfoQ 中国",
+"title": "为迎接 iPhone Duo，iOS 开发者需要对应用做出哪些调整",
+"link": "https://www.infoq.cn/article/CFbVqLXwQvbbhiTMy83e?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1791388800.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
+"link": "https://the-decoder.com/openai-launches-decisions-api-that-reduces-complex-evaluations-to-yes-no-or-pick-one/",
+"summary": "OpenAI's new Decisions API classifies text and images about ten times faster than the Responses API, returning yes/no probabilities, category picks, or scale ratings for $0.10 per million input tokens. The company also cut its paid API tier…",
+"published": 1791387399.0
+},
+{
+"source": "The Decoder",
+"title": "Google bets Gemini can turn casual players into game developers with new Playground feature",
+"link": "https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/",
+"summary": "Google launched Playground, a browser-based platform that lets users create their own games using nothing but text prompts and no coding skills. The platform runs on Gemini, Nano Banana, and Lyria. Alongside Playground, Google and Unity ann…",
+"published": 1791384282.0
+},
+{
+"source": "量子位",
+"title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+"link": "https://www.qbitai.com/2026/10/501825.html",
+"summary": "",
+"published": 1791382233.0
+},
+{
+"source": "The Decoder",
+"title": "ChatGPT rated \"unacceptable risk\" for teens after parental alerts failed during suicide conversations",
+"link": "https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/",
+"summary": "OpenAI's teen safety features for ChatGPT failed an independent audit. After more than 4,000 test prompts, the Common Sense Media Youth AI Safety Institute rated the service an \"unacceptable risk\" for minors. Conversations about suicide and…",
+"published": 1791376474.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic gives more security teams access to Claude with fewer safety restrictions",
+"link": "https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/",
+"summary": "Anthropic is expanding its Cyber Verification Program, giving more security professionals access to Claude models with fewer safety restrictions for penetration testing, malware analysis, and vulnerability research. Anthropic says partners …",
+"published": 1791374720.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Helping teens learn, plan, and shape the future of AI",
+"link": "https://openai.com/index/teens-learn-and-plan",
+"summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+"published": 1791374400.0
+},
+{
+"source": "量子位",
+"title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+"link": "https://www.qbitai.com/2026/10/501803.html",
+"summary": "",
+"published": 1791372887.0
+},
+{
+"source": "InfoQ 中国",
+"title": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+"link": "https://www.infoq.cn/article/MwQyLYzgSiD16x36k9Ef?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1791367200.0
+},
+{
+"source": "InfoQ 中国",
+"title": "用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+"link": "https://www.infoq.cn/article/WvTYmUCLl28HKFvWHpZ2?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1791367200.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up",
+"link": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/",
+"summary": "OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean formalizations for machine verification. Each result consumed about three hours of ChatGPT Pro compute on average. But 25 Fields Medal winners warn that ma…",
+"published": 1791363283.0
+},
+{
+"source": "量子位",
+"title": "晕…这年头还有说人话的AI不",
+"link": "https://www.qbitai.com/2026/10/501796.html",
+"summary": "",
+"published": 1791362473.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+"link": "https://openai.com/index/radisson",
+"summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+"published": 1791356400.0
+},
+{
+"source": "量子位",
+"title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+"link": "https://www.qbitai.com/2026/10/501791.html",
+"summary": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+"published": 1791355176.0
+},
 {
 "source": "量子位",
 "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
 "link": "https://www.qbitai.com/2026/10/501749.html",
 "summary": "三位菲尔兹奖得主：不代表认可",
 "published": 1791335113.0
+},
+{
+"source": "OpenAI 博客",
+"title": "GPT-6 and Intelligent UI for everyone",
+"link": "https://openai.com/index/gpt-6-for-everyone",
+"summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+"published": 1791331200.0
 }
 ],
 "科技": [
+{
+"source": "TechCrunch",
+"title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+"link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+"summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+"published": 1791416217.0
+},
+{
+"source": "TechCrunch",
+"title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+"link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+"summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+"published": 1791413956.0
+},
+{
+"source": "The Verge",
+"title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+"link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
+"summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest…",
+"published": 1791410460.0
+},
+{
+"source": "The Verge",
+"title": "Teenage Engineering’s CEO says it’ll stop making synths",
+"link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
+"summary": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after…",
+"published": 1791407994.0
+},
+{
+"source": "TechCrunch",
+"title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+"link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+"summary": "The developer of Hermes Agent raised a $90 million Series B.",
+"published": 1791406125.0
+},
+{
+"source": "The Verge",
+"title": "Android’s physical navigation buttons are back on Googlebooks, but not the way you think",
+"link": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
+"summary": "A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Googlebooks that's ripped …",
+"published": 1791405874.0
+},
+{
+"source": "The Verge",
+"title": "We found some great October Prime Day deals under $50",
+"link": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50",
+"summary": "Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25, there are plenty of deals during Amazon’s October sale that are $50 or less, many of which offer…",
+"published": 1791405000.0
+},
+{
+"source": "TechCrunch",
+"title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+"link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+"summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+"published": 1791404557.0
+},
+{
+"source": "The Verge",
+"title": "Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700",
+"link": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale",
+"summary": "Just over a week ago, we covered a deal at Amazon that knocked around 30 percent off Roku’s new (and first-ever) OLED TVs. The deal expired, but has returned for the final day of October Prime Day. The 55-inch Pro Series OLED is $699.99 at …",
+"published": 1791401259.0
+},
+{
+"source": "The Verge",
+"title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+"summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a tex…",
+"published": 1791400242.0
+},
+{
+"source": "The Verge",
+"title": "The first Nvidia RTX Spark laptops cost up to $7,000",
+"link": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000",
+"summary": "The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop Ultra and RTX Spark laptops from Dell, Lenovo,…",
+"published": 1791399952.0
+},
+{
+"source": "The Verge",
+"title": "It appears .agent and .agi are about to be the hot new domains",
+"link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+"summary": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as thin…",
+"published": 1791398776.0
+},
+{
+"source": "The Verge",
+"title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+"link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+"summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based ch…",
+"published": 1791398542.0
+},
+{
+"source": "TechCrunch",
+"title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+"link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+"summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+"published": 1791397857.0
+},
+{
+"source": "TechCrunch",
+"title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+"link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+"summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+"published": 1791396928.0
+},
+{
+"source": "TechCrunch",
+"title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
+"link": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
+"summary": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
+"published": 1791396600.0
+},
+{
+"source": "The Verge",
+"title": "Microsoft is giving Copilot more control over Windows and your files",
+"link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+"summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybr…",
+"published": 1791396080.0
+},
+{
+"source": "TechCrunch",
+"title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+"link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+"summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+"published": 1791396019.0
+},
+{
+"source": "TechCrunch",
+"title": "Greenairy is building smart plant towers to clean the air in your office",
+"link": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
+"summary": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
+"published": 1791394200.0
+},
+{
+"source": "TechCrunch",
+"title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars",
+"link": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
+"summary": "CIA officer David Rush, who worked on highly sensitive intelligence programs, reached a plea deal with U.S. prosecutors after he was caught siphoning money and gold with a fake government contract.",
+"published": 1791392686.0
+},
+{
+"source": "TechCrunch",
+"title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+"link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+"summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+"published": 1791392026.0
+},
+{
+"source": "TechCrunch",
+"title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+"link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+"summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+"published": 1791385628.0
+},
+{
+"source": "TechCrunch",
+"title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
+"link": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+"summary": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
+"published": 1791385200.0
+},
+{
+"source": "TechCrunch",
+"title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+"link": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
+"summary": "Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
+"published": 1791385200.0
+},
+{
+"source": "TechCrunch",
+"title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+"link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+"summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+"published": 1791384098.0
+},
+{
+"source": "TechCrunch",
+"title": "Google experiments with an AI-powered gaming platform",
+"link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+"summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+"published": 1791383783.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+"link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+"summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+"published": 1791383400.0
+},
+{
+"source": "TechCrunch",
+"title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+"link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+"summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+"published": 1791382500.0
+},
+{
+"source": "TechCrunch",
+"title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+"link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+"summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increas…",
+"published": 1791381600.0
+},
+{
+"source": "TechCrunch",
+"title": "Google’s new SynthID website can identify AI-generated media",
+"link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+"summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+"published": 1791381600.0
+},
+{
+"source": "爱范儿",
+"title": "DLSS 5 正式版体验：十年没进步的游戏画面，英伟达怎么让它以假乱真？",
+"link": "https://www.ifanr.com/1682974?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "不只改变画面，更改变画面的生产流程#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1791359072.0
+},
+{
+"source": "少数派",
+"title": "罗马：永恒之城，永恒于世",
+"link": "https://sspai.com/post/114845",
+"summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+"published": 1791342000.0
+},
 {
 "source": "36氪",
 "title": "派拉蒙天舞完成对华纳兄弟收购",
@@ -91,6 +448,195 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "US government, tech giants and Biohub commit $1.8B to AI biology initiative",
+"link": "https://siliconangle.com/2026/10/07/us-government-tech-giants-and-biohub-commit-1-8b-to-ai-biology-initiative/",
+"summary": "More than a half-dozen public and private sector organizations are teaming up to develop biology datasets for artificial intelligence models. The consortium, which announced the collaboration today, is committing $1.8 billion to the project…",
+"published": 1791413207.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices",
+"link": "https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/",
+"summary": "Anthropic PBC today released Claude Haiku 5.5, pricing its newest small model at roughly a quarter of what Haiku 4.5 costs to run. Claude Sonnet 5.5 is getting cheaper as well, since the company is halving what it charges for cache reads on…",
+"published": 1791412087.0
+},
+{
+"source": "SiliconANGLE",
+"title": "OpenAI publishes 722 AI-generated math discoveries in major scientific milestone",
+"link": "https://siliconangle.com/2026/10/07/openai-publishes-722-ai-generated-math-discoveries-in-major-scientific-milestone/",
+"summary": "OpenAI Group PBC has published 722 math papers that it generated using an unreleased artificial intelligence model. Some of the papers, which were posted to GitHub late Tuesday, prove long-running hypotheses. Others disapprove proposed expl…",
+"published": 1791405442.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Cisco broadens agentic features in Webex collaboration platform",
+"link": "https://siliconangle.com/2026/10/07/cisco-broadens-agentic-features-in-webex-collaboration-platform/",
+"summary": "Cisco Systems Inc. today detailed a broad expansion of its Webex collaboration portfolio that brings artificial intelligence agents into team conversations, connects office technology with workplace management and enables customer-service a…",
+"published": 1791405268.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Aston Martin puts back-end AI to work while keeping agents off its website",
+"link": "https://siliconangle.com/2026/10/07/aston-martin-puts-back-end-ai-work-inforvelocity/",
+"summary": "Back-end AI gives manufacturers opportunities to improve operations, but choosing where to apply it requires attention to business value. For Aston Martin Lagonda Ltd., that means evaluating operational use cases while preserving its person…",
+"published": 1791405040.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Arista takes Ethernet into the rack, and the network becomes the backplane",
+"link": "https://siliconangle.com/2026/10/07/arista-takes-ethernet-rack-network-becomes-backplane/",
+"summary": "Since its founding in 2004, it’s arguable that no network vendor has made better switches than Arista Networks Inc. That was true then and remains true, as its prowess in this area helped it ride the cloud boom and the artificial intelligen…",
+"published": 1791403325.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Midwest Wheel builds toward AI agents that fix problems",
+"link": "https://siliconangle.com/2026/10/07/midwest-wheel-builds-ai-agents-fix-problems-inforvelocity/",
+"summary": "Agentic AI governance helps midsized distributors decide which tasks software agents can handle and which require human oversight. For lean IT teams, automating more work also means checking the data and rules behind those decisions. Infor …",
+"published": 1791402406.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Three insights you might have missed from theCUBE’s coverage of ‘The AI ROI in Contact Center Summit’",
+"link": "https://siliconangle.com/2026/10/07/ai-customer-service-in-contact-center-summitcontactcentersummit/",
+"summary": "Artificial intelligence is helping to change what success looks like for customer service teams, with less focus on call speed and deflection and greater emphasis on resolving customer issues. That shift is changing how companies think abou…",
+"published": 1791397595.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Infor uses industry-specific AI to address agent hallucinations",
+"link": "https://siliconangle.com/2026/10/07/infor-uses-industry-specific-ai-address-agent-hallucinations-inforvelocity/",
+"summary": "Industry-specific AI brings business context to agents handling enterprise workflows. Building around industry processes can help companies address reliability concerns as they automate more tasks. Infor (US) LLC is developing industry-spec…",
+"published": 1791397242.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Infor combines industry expertise and embedded engineers for process automation",
+"link": "https://siliconangle.com/2026/10/07/process-automation-gets-industry-depth-from-infor-ai-agents-inforvelocity/",
+"summary": "AI-powered process automation requires software that understands the industry and workflows it serves. Moving from a promising prototype to practical use also requires implementation expertise. Infor (US) LLC develops software around the sp…",
+"published": 1791391970.0
+},
+{
+"source": "EU-Startups",
+"title": "France’s Rivercell emerges from stealth with €22 million for AI-powered drug discovery infrastructure",
+"link": "https://www.eu-startups.com/2026/10/frances-rivercell-emerges-from-stealth-with-e22-million-for-ai-powered-drug-discovery-infrastructure/",
+"summary": "Rivercell, a Paris-based BioTech and AI company building proprietary cell-response data infrastructure and a world model that predicts how human cells respond to treatment, has launched today out of stealth with a €22 million ($25 million) …",
+"published": 1791383062.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Kore.ai launches Autoloop to keep tuning enterprise AI agents after they go live",
+"link": "https://siliconangle.com/2026/10/07/kore-ai-launches-autoloop-to-keep-tuning-enterprise-ai-agents-after-they-go-live/",
+"summary": "Enterprise artificial intelligence platform company Kore.ai Inc. today launched Autoloop, an optimization engine for the AI agents that customers build on its Kore.ai Agent Platform. Businesses set the targets, and Autoloop keeps adjusting …",
+"published": 1791381634.0
+},
+{
+"source": "Crunchbase",
+"title": "From Ballet To Breach Prevention: How A Magician’s Son Raised $4.2M In Seed Funding For His Cybersecurity Startup",
+"link": "https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-startup-hilt-cielen/",
+"summary": "The latest in our series of articles on venture funding to non-tech founders features a former magician's assistant and ballet dancer who's building cybersecurity software with $4.2 million in seed funding.",
+"published": 1791378037.0
+},
+{
+"source": "SiliconANGLE",
+"title": "OneSpan Sign takes aim at the slow work around bank agreements",
+"link": "https://siliconangle.com/2026/10/07/onespan-sign-takes-aim-at-the-slow-work-around-bank-agreements/",
+"summary": "Authentication and digital agreements company OneSpan Inc. today unveiled new and planned features for its OneSpan Sign electronic signature service that go beyond the signing step. The update is aimed at the parts of the agreement process …",
+"published": 1791374405.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Stuut cashes in on agentic order-to-cash automation with $52.5M in funding",
+"link": "https://siliconangle.com/2026/10/07/stuut-cashes-in-on-agentic-order-to-cash-automation-with-52-5m-in-funding/",
+"summary": "Artificial intelligence companies that can help even bigger companies to get paid are likely to make a fair bit of money themselves, if the example of Stuut Inc. is any indication. The company today said it has closed on a Series B funding …",
+"published": 1791374404.0
+},
+{
+"source": "Crunchbase",
+"title": "There Was Never An Easy AI Era, And Investors Are Raising The Bar",
+"link": "https://news.crunchbase.com/venture/ai-startup-investors-raising-bar-ipo-farid-leo/",
+"summary": "As AI IPOs bring greater scrutiny, argues guest author Maor Farid, founder and CEO of Leo AI, investors will increasingly prioritize customer spending growth, sustainable margins and deployment efficiency over rapid revenue growth alone.",
+"published": 1791370858.0
+},
+{
+"source": "Crunchbase",
+"title": "North America’s Startup Funding Falls In Q3 As AI Giants Eye The Public Markets",
+"link": "https://news.crunchbase.com/venture/q3-2026-north-america-startup-funding-falls-ai-exits-data/",
+"summary": "In total, investors poured $92 billion into seed- through growth-stage rounds for U.S. and Canadian startups in the third quarter, per Crunchbase data. That’s a 35% decline from the prior quarter but up 50% from year-ago levels.",
+"published": 1791370805.0
+},
+{
+"source": "EU-Startups",
+"title": "French startup VoltR secures €22 million to scale lithium battery remanufacturing in Europe",
+"link": "https://www.eu-startups.com/2026/10/french-startup-voltr-secures-e22-million-to-scale-lithium-battery-remanufacturing-in-europe/",
+"summary": "VoltR, a French manufacturer of eco-designed lithium batteries, has secured €22 million to accelerate its industrialisation. This financing combines a €16 million equity investment and €6 million in grants secured through the “Première Usin…",
+"published": 1791370636.0
+},
+{
+"source": "EU-Startups",
+"title": "Neural chips for Parkinson’s and epilepsy draw €4.4 million for London startup MintNeuro",
+"link": "https://www.eu-startups.com/2026/10/neural-chips-for-parkinsons-and-epilepsy-draw-e4-4-million-for-london-startup-mintneuro/",
+"summary": "MintNeuro, a British semiconductor company building specialised chips for neural devices from implants to wearables, today announces a €4.4 million ($5 million) round to accelerate product launch, expand delivery of pre-release silicon to p…",
+"published": 1791369471.0
+},
+{
+"source": "EU-Startups",
+"title": "France- and Italy-based Netsec raises over €8.93 million to scale its AI-native solution for cybersecurity and IT",
+"link": "https://www.eu-startups.com/2026/10/france-and-italy-based-netsec-raises-over-e8-93-million-to-scale-its-ai-native-solution-for-cybersecurity-and-it/",
+"summary": "Netsec, the European provider of cybersecurity and managed IT services, has raised more than €8.93 million ($10 million) in equity funding. The round was led by Paris-based venture capital firm Partech, with additional participation from Pr…",
+"published": 1791366627.0
+},
+{
+"source": "EU-Startups",
+"title": "Does AI speak your local language?",
+"link": "https://www.eu-startups.com/2026/10/does-ai-speak-your-local-language/",
+"summary": "The short answer is – it depends on what your local language is. Picture a European startup that has spent years building something genuinely innovative. A FinTech platform that helps mid-sized companies manage cross-border payments with ha…",
+"published": 1791365424.0
+},
+{
+"source": "EU-Startups",
+"title": "Ana Maiques, Neuroelectrics co-founder, joins the EU-Startups Summit 2027",
+"link": "https://www.eu-startups.com/2026/10/ana-maiques-neuroelectrics-co-founder-joins-the-eu-startups-summit-2027/",
+"summary": "We’re excited to announce that Ana Maiques, co-founder and CEO of Neuroelectrics, will join us at the EU-Startups Summit 2027, taking place on May 13-14 in sunny Malta! Ana will deliver the keynote From European Innovation to Global Scale: …",
+"published": 1791363403.0
+},
+{
+"source": "EU-Startups",
+"title": "UK-based InsurTech Konsileo raises €5.9 million to expand its team and integrate AI",
+"link": "https://www.eu-startups.com/2026/10/uk-based-insurtech-konsileo-raises-e5-9-million-to-expand-its-team-and-integrate-ai/",
+"summary": "Konsileo, a UK-based chartered insurance broker, has closed a €5.9 million (£5 million) equity round to support its continued growth. The equity financing was led by long-term shareholders Committed Capital, together with ACF Investors. The…",
+"published": 1791359216.0
+},
+{
+"source": "EU-Startups",
+"title": "London’s Cori Clinical raises €3.8 million to accelerate clinical trials and reduce delays",
+"link": "https://www.eu-startups.com/2026/10/londons-cori-clinical-raises-e3-55-million-to-accelerate-clinical-trials-and-reduce-delays/",
+"summary": "Cori Clinical, a London-based startup that acts as the intelligence layer to accelerate clinical trials, has closed a €3.8 million Seed round led by Breega, with participation from Enzo, Heartfelt, Together Ventures, and Bynd. The company p…",
+"published": 1791356457.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Atlassian lays groundwork for humans and AI agents to work side by side",
+"link": "https://siliconangle.com/2026/10/07/atlassian-lays-the-groundwork-for-humans-and-ai-agents-to-work-side-by-side/",
+"summary": "Atlassian Corp. today announced Agentic Multiplayer Protocol, a platform update designed to change how humans and artificial intelligence agents collaborate and get work done using shared context and tasks within the same digital space. At …",
+"published": 1791356429.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Caterpillar and CoreWeave shorten the learning loop for physical AI",
+"link": "https://siliconangle.com/2026/10/06/caterpillar-coreweave-shorten-learning-loop-physical-ai-fullyconnected/",
+"summary": "Demand for new data centers, power plants and highways is fueling a construction boom, even as the industry wrestles with declining productivity and a shortage of skilled machine operators. Physical AI, which lets machines perceive their su…",
+"published": 1791339198.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Google goes nuclear to power its AI data centers, committing to buy 890 megawatts of energy from Constellation",
+"link": "https://siliconangle.com/2026/10/06/google-goes-nuclear-to-power-its-ai-data-centers-committing-to-purchase-890-megawatts-of-energy-from-constellation/",
+"summary": "Google LLC said today it’s entering into a long-term strategic energy collaboration with Constellation Energy Corp. to secure significant nuclear power resources for its sprawling ecosystem of artificial intelligence data centers. The 20-ye…",
+"published": 1791338550.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Meta teams up with Bret Taylor’s Sierra Technologies on new standards for AI agent commerce",

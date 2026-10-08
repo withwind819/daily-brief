@@ -1,6 +1,6 @@
 {
 "date": "2026-10-06",
-"total": 109,
+"total": 113,
 "categories": {
 "AI": [
 {
@@ -363,6 +363,13 @@
 "published": 1791297196.0
 },
 {
+"source": "Solidot",
+"title": "Anthropic 举报了与 Claude 聊天中发出威胁的佛罗里达女子",
+"link": "https://www.solidot.org/story?sid=85542",
+"summary": "Anthropic 举报了一名佛罗里达女子，原因是这名女子在与 Claude 聊天中威胁要枪击 Lee 县警长办公室，并在后续聊天中提及自己正在搞一把新枪。该女子在家中被捕，法庭记录显示她于 9 月 30 日受到了一项重罪指控。逮捕报告显示，Anthropic 会监控聊天内容，查找可能被视为有威胁性的关键词句，根据威胁程度相关内容可能会被提交给人工进行审核。在本案中，审核团队决定将发现的情况报告给执法部门。她的罪名是通过书面或电子形式发出大规模枪击或恐怖主义行动的威胁。",
+"published": 1791295907.0
+},
+{
 "source": "TechCrunch",
 "title": "Pinterest’s AI now turns beauty Pins into action plans",
 "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
@@ -375,6 +382,20 @@
 "link": "https://techcrunch.com/2026/10/06/uber-is-spending-2-3b-to-get-into-catering/",
 "summary": "It's the latest in a string of deals meant to grow Uber Eats into a food delivery behemoth.",
 "published": 1791295225.0
+},
+{
+"source": "Solidot",
+"title": "2026 年诺贝尔物理奖授予了冰立方中微子天文台提出者 Francis Halzen",
+"link": "https://www.solidot.org/story?sid=85541",
+"summary": "2026 年诺贝尔物理奖授予了美国科学家 Francis Halzen，以表彰其“对冰立方中微子天文台的决定性贡献以及发现具有天体物理起源的高能中微子”。中微子无处不在，它们径直穿过地球，穿过人体，而我们毫无察觉。极少数情况下，一个中微子会与一个原子核发生相互作用，这使得拥有合适设备的人有可能发现它们。Francis Halzen 于 1988 年首次提出了在南极捕获中微子的构想。当中微子与原子核碰撞时，会产生一闪光，这种光可以被清澈冰川冰中的传感器追踪到。南极的冰具有许多优…",
+"published": 1791294744.0
+},
+{
+"source": "Solidot",
+"title": "俄罗斯女研究员因感染肺鼠疫死亡",
+"link": "https://www.solidot.org/story?sid=85540",
+"summary": "在引发广泛关注之后，俄罗斯证实一名女研究员因感染肺鼠疫死亡，否认有其他人感染。俄罗斯称，在西伯利亚和远东地区抗鼠疫科学研究所工作的 28 岁女死者希皮洛娃（Darya Shipilova），是因为意外打破试管而被流出的肺鼠疫（pneumonic plague）感染。曾跟她接触的人接受检验，发现两人感染冠病，两人感染鼻病毒（rhinovirus），但并未发现有人染上肺鼠疫或其他疫病。研究所所在的伊尔库茨克（Irkutsk）州州长科布泽夫(Igor Kobzev) 则发表声明称，…",
+"published": 1791293801.0
 },
 {
 "source": "少数派",
@@ -459,6 +480,13 @@
 "link": "https://36kr.com/newsflashes/4013736805503113?f=rss",
 "summary": "知情人士称，包括MGX在内的多家阿联酋投资基金正在与OpenAI洽谈，可能参与这家人工智能巨头最新一轮300亿美元融资。其中一位知情人士表示，这些基金将组成一个财团参与OpenAI这轮融资。另一位人士称，这些阿联酋基金讨论的合计投资金额最高达到100亿美元。知情人士表示，贝莱德也在商谈参与这轮融资。融资仍在进行中，具体条款可能发生变化。因涉及未公开信息，这些知情人士要求匿名。（智通财经）",
 "published": 1791252925.0
+},
+{
+"source": "爱范儿",
+"title": "苹果突发收紧 Mac 权限，全是 AI 惹的祸",
+"link": "https://www.ifanr.com/1682953?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "苹果与 Meta，一对超级冤家#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1791252320.0
 },
 {
 "source": "36氪",

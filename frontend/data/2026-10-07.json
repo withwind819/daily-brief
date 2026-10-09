@@ -1,6 +1,6 @@
 {
 "date": "2026-10-07",
-"total": 93,
+"total": 97,
 "categories": {
 "AI": [
 {
@@ -11,11 +11,25 @@
 "published": 1791400000.0
 },
 {
+"source": "HN AI 热门",
+"title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+"link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+"summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 367 # Comments: 381",
+"published": 1791398980.0
+},
+{
 "source": "The Decoder",
 "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
 "link": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
 "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by con…",
 "published": 1791398963.0
+},
+{
+"source": "HN AI 热门",
+"title": "GPT‑6 and Intelligent UI for everyone",
+"link": "https://openai.com/index/gpt-6-for-everyone/",
+"summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 745 # Comments: 450",
+"published": 1791396058.0
 },
 {
 "source": "The Decoder",
@@ -51,6 +65,13 @@
 "link": "https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/",
 "summary": "Google launched Playground, a browser-based platform that lets users create their own games using nothing but text prompts and no coding skills. The platform runs on Gemini, Nano Banana, and Lyria. Alongside Playground, Google and Unity ann…",
 "published": 1791384282.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI-assisted proof of optimal packing for 11 squares",
+"link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+"summary": "Article URL: https://github.com/Queuingtheorydotcom/11SquaresFormalized Comments URL: https://news.ycombinator.com/item?id=49993121 Points: 117 # Comments: 54",
+"published": 1791382255.0
 },
 {
 "source": "量子位",
@@ -354,6 +375,13 @@
 "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
 "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
 "published": 1791381600.0
+},
+{
+"source": "Solidot",
+"title": "2026 年诺贝尔化学奖授予了日法科学家",
+"link": "https://www.solidot.org/story?sid=85543",
+"summary": "2026 年诺贝尔化学奖授予了法国科学家 Henri Kagan 和日本科学家硖合宪三，以表彰他们“在不对称有机合成中发现非线性效应和自催化现象”上的贡献。生命中的化学结构被称为“手性”，就像手一样，所有氨基酸都存在两种镜像形式，但在细胞内的蛋白质中只有一种存在，而另一种在自然界中极为罕见。长期以来，化学家一直困惑于手性如何形成。当他们开始研究能生成两种镜像分子的化学反应时，实验管中总是得到等量的两种产物。然而化学家们一直努力只获得其中一种镜像，因为在与生物相互作用的分子（如…",
+"published": 1791372172.0
 },
 {
 "source": "爱范儿",

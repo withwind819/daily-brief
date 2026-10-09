@@ -1,14 +1,28 @@
 {
 "date": "2026-10-06",
-"total": 113,
+"total": 116,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "South Korea says AI agents appear to have been used to hack the country's banks",
+"link": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+"summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 100 # Comments: 32",
+"published": 1791330633.0
+},
 {
 "source": "HN AI 热门",
 "title": "Sharing AI progress in mathematics",
 "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
 "summary": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 422 # Comments: 351",
 "published": 1791325041.0
+},
+{
+"source": "HN AI 热门",
+"title": "Penguin Mail – open-source Rust email client for Linux with AI",
+"link": "https://penguin-mail.com/",
+"summary": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 238 # Comments: 184",
+"published": 1791323983.0
 },
 {
 "source": "The Decoder",
@@ -37,6 +51,13 @@
 "link": "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
 "summary": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced. Bigger models won't move the needle, he argues. What's missing …",
 "published": 1791307911.0
+},
+{
+"source": "HN AI 热门",
+"title": "Utah to let AI examine patients and prescribe medication without human oversight",
+"link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+"summary": "Article URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html Comments URL: https://news.ycombinator.com/item?id=49981197 Points: 140 # Comments: 131",
+"published": 1791306112.0
 },
 {
 "source": "HN AI 热门",

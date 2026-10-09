@@ -1,0 +1,250 @@
+{
+"date": "2026-10-09",
+"total": 34,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
+"link": "https://www.infoq.cn/article/832RV3o8ireEdJpO9H4v?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1791540000.0
+},
+{
+"source": "InfoQ 中国",
+"title": "在生产环境中保护MCP：超越网关的纵深防御",
+"link": "https://www.infoq.cn/article/HZIW4QjEfV66I9CGr52R?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1791536700.0
+},
+{
+"source": "量子位",
+"title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+"link": "https://www.qbitai.com/2026/10/502096.html",
+"summary": "让AI反复试错的“练兵场”来了",
+"published": 1791511428.0
+},
+{
+"source": "量子位",
+"title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+"link": "https://www.qbitai.com/2026/10/502089.html",
+"summary": "彻底撕破脸了",
+"published": 1791506157.0
+},
+{
+"source": "量子位",
+"title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+"link": "https://www.qbitai.com/2026/10/502083.html",
+"summary": "新的“缝合怪”已经出现，怎么能够停滞不前",
+"published": 1791505016.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+"link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+"summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t…",
+"published": 1791504504.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "澳大利亚数据中心公司Firmus据悉考虑美国上市",
+"link": "https://36kr.com/newsflashes/4018015055696007?f=rss",
+"summary": "澳大利亚数据中心公司Firmus据悉考虑美国上市，此前澳大利亚IPO计划搁置。（财联社）",
+"published": 1791513353.0
+},
+{
+"source": "36氪",
+"title": "创业板指跌超3%，算力硬件领跌",
+"link": "https://36kr.com/newsflashes/4018027333455747?f=rss",
+"summary": "36氪获悉，创业板指下挫跌超3%，沪指跌1.19%，深成指跌2.39%。算力硬件、半导体芯片、医药生物、机器人、军工等方向跌幅居前，沪深京三市下跌个股近4400只。",
+"published": 1791512926.0
+},
+{
+"source": "36氪",
+"title": "日立加入Anthropic关键基础设施防御计划",
+"link": "https://36kr.com/newsflashes/4018016664916103?f=rss",
+"summary": "据了解，日立已加入Anthropic的关键基础设施防御计划，该计划旨在加强网络防御。这家日本工业公司表示，它已作为创始合作伙伴加入该计划。除日立之外，Anthropic 项目的创始合作伙伴还包括埃森哲、CrowdStrike和普华永道。（新浪财经）",
+"published": 1791512867.0
+},
+{
+"source": "36氪",
+"title": "细化违规入股情形，中证协拟出台保代职业行为规范",
+"link": "https://36kr.com/newsflashes/4018024159006857?f=rss",
+"summary": "据了解，中证协组织起草了《保荐代表人执业行为规范（征求意见稿）》（下称《意见稿》），并正向行业征求意见。《意见稿》明确保荐代表人基本执业要求，严禁以人工智能辅助工具的输出结果替代专业判断，严禁“只签不保”。《意见稿》明确将廉洁要求贯穿项目承揽、承做、发行承销、持续督导等各个业务环节，完善禁止输送不正当利益、禁止谋取不正当利益的具体情形，细化违规入股的情形，明确保荐业务全流程禁止违规入股要求，覆盖立项前预投资、项目终止后追溯性利益安排等隐蔽违规情形，完善利益冲突回避和报告义务。…",
+"published": 1791512732.0
+},
+{
+"source": "36氪",
+"title": "香港证监会：香港交易所将发布有关延长股票交易时间的讨论文件",
+"link": "https://36kr.com/newsflashes/4018022452990084?f=rss",
+"summary": "香港证监会行政总裁梁凤仪周五在亚洲证券业与金融市场协会(ASIFMA)会议上发表讲话称，香港交易所将在第四季度发布一份关于延长交易时间的讨论文件。随着时间的推移，使用代币化货币和数码港元结算方式，可以支持更长时间的交易。香港交易所将尽快发布关于T+1结算的咨询结论，并确定目标实施日期。（财联社）",
+"published": 1791512628.0
+},
+{
+"source": "36氪",
+"title": "美央构建物理AI路径闭环：把人体变成可计算的真实世界",
+"link": "https://36kr.com/p/4018021038657411?f=rss",
+"summary": "万美京AIMIRA构建\"感知—理解—决策—执行—反馈\"产品闭环，回答物理AI核心命题 当AI走出屏幕，游戏规则彻底改变：真实的人体有空间结构、组织状态与一刻不停的时间变化；软件说错一句话可以重新生成，机器做错一个动作，结果可能无法撤回。物理AI难的从来不是更大的模型，而是\"感知—建模—决策—执行—验证—再学习\"这条长链路。广州美央创新科技（Calilia国际集团/万美京AIMIRA）已把这条链路落成产品体系：FAITH是感知入口，\"女娲\"人体真实世界模型负责建模与理解，医疗级…",
+"published": 1791512574.0
+},
+{
+"source": "36氪",
+"title": "“东升宇航”完成年内第3轮融资",
+"link": "https://36kr.com/newsflashes/4018014106193801?f=rss",
+"summary": "36氪获悉，“东升宇航”完成年内第3轮融资，成立以来累计完成5轮股权融资，注册资本增至692.05万元，新增股东为福创投、石溪资本、弘晖资本、嘉禾资产、晶凯资本。东升宇航成立于2025年5月，专注于互联网卫星、算力卫星等整星及星上关键部组件的研发与制造，团队人数已超300人。",
+"published": 1791512526.0
+},
+{
+"source": "36氪",
+"title": "“中国天眼”发现首例原生演化脉冲星三体系统",
+"link": "https://36kr.com/newsflashes/4018010964889475?f=rss",
+"summary": "从中国科学院国家天文台获悉，依托“中国天眼”FAST的优越探测性能，近期，国家天文台韩金林研究员等科研人员，结合FAST射电观测数据与国际上光学和伽马射线望远镜的多波段天文数据，揭示了FAST发现的脉冲星J0435+3233属于首例尚在演化阶段的原生三体系统，这也是第二例被确认的脉冲星三体系统。相关研究成果10月9日在国际学术期刊《天体物理学杂志快报》发表。（央视新闻）",
+"published": 1791512336.0
+},
+{
+"source": "36氪",
+"title": "国家邮政局：我国年人均快递使用量超140件",
+"link": "https://36kr.com/newsflashes/4018017400508549?f=rss",
+"summary": "今天（9日）是第57届世界邮政日。今年邮政日的主题是“完善邮政服务网络，开拓行业无限可能。”从国家邮政局了解到，我国已建成世界上规模最大、覆盖最广、受益人数最多的寄递网络，年人均快递使用量超140件。",
+"published": 1791512319.0
+},
+{
+"source": "36氪",
+"title": "OpenAI预计到2026年底年化营收将达到700亿美元",
+"link": "https://36kr.com/newsflashes/4018006913486720?f=rss",
+"summary": "据知情人士透露，OpenAI预计到今年年底年化营收将达到或超过700亿美元，增长主要来自企业业务扩张。知情人士表示，这家ChatGPT开发商截至9月底的年化营收约为500亿美元。年化营收是根据较短时期收入表现推算出的全年销售额。知情人士表示，OpenAI在最新一轮融资讨论过程中向投资者披露了上述数据。由于相关信息未公开，这些知情人士不愿具名。（新浪财经）",
+"published": 1791512031.0
+},
+{
+"source": "36氪",
+"title": "商务部公布2027年原油非国营贸易进口允许量总量、申请条件和申请程序",
+"link": "https://36kr.com/newsflashes/4018011713687425?f=rss",
+"summary": "36氪获悉，近日，商务部发布公告：根据《中华人民共和国货物进出口管理条例》和我国加入世贸组织的有关承诺，商务部制定了《2027年原油非国营贸易进口允许量总量、申请条件和申请程序》，现予公布。其中指出，2027年原油非国营贸易进口允许量为25700万吨。",
+"published": 1791511972.0
+},
+{
+"source": "36氪",
+"title": "广东汕头在全国率先推出“词元出海贷”",
+"link": "https://36kr.com/newsflashes/4018001371795589?f=rss",
+"summary": "针对词元出海企业普遍存在的轻资产抵押不足、跨境运营资金周转压力大的痛点，在中国人民银行广东省分行的指导下，中国人民银行汕头市分行联合汕头市财政局、汕头华侨试验区，推动中国银行汕头分行创新推出全国首个面向词元出海场景的专项金融服务方案——“词元出海贷”，并落地首笔100万元专项授信。（界面）",
+"published": 1791511692.0
+},
+{
+"source": "36氪",
+"title": "创业板指跌超2%",
+"link": "https://36kr.com/newsflashes/4018005880950661?f=rss",
+"summary": "36氪获悉，创业板指跌超2%，上证指数跌0.75%，深证成指跌1.55%，MLCC、PCB、CPO等AI硬件股领跌，沪深京三市下跌个股超4300只。",
+"published": 1791511616.0
+},
+{
+"source": "36氪",
+"title": "36氪首发｜「闹翻天PLAYFULLY」获青山资本投资，为世界造一张“中国球星卡”",
+"link": "https://36kr.com/p/3987542281862149?f=rss",
+"summary": "作者｜任彩茹 36氪获悉，新兴收藏级卡牌公司「闹翻天PLAYFULLY」（以下简称“闹翻天”）近期完成新一轮融资，青山资本领投，天使轮老股东Adam Zhu持续追投，领甪资本担任长期财务顾问。本轮资金将主要用于全球顶级体育IP的获取与拓展、产品研发与工艺创新以及全球化全渠道建设。 「闹翻天」创立于2024年下半年，核心团队深耕文体IP运营、潮流衍生品开发与卡牌行业多年。公司创始人曹磊拥有20年体育产业运营及投资经验，曾在全球最大体育管理公司IMG任职多年，也曾在苏宁投资、曜为…",
+"published": 1791511246.0
+},
+{
+"source": "36氪",
+"title": "光智科技：国内客户覆盖头部光芯片企业，6英寸磷化铟衬底已获某全球头部客户订单",
+"link": "https://36kr.com/newsflashes/4017992751468677?f=rss",
+"summary": "36氪获悉，光智科技在互动平台表示，公司磷化铟衬底业务下游客户为国内外光通信芯片及器件厂商，截至目前已实现批量交付。国内客户覆盖头部光芯片企业，海外已向光通信龙头批量出货，其中6英寸磷化铟衬底已获得某全球头部客户订单。",
+"published": 1791511167.0
+},
+{
+"source": "36氪",
+"title": "1—9月全国二手房交易网签面积同比增长10.7%",
+"link": "https://36kr.com/newsflashes/4017996492246917?f=rss",
+"summary": "36氪获悉，据中国建设报，1—9月份，全国二手房交易网签面积61746万平方米，同比增长10.7%。",
+"published": 1791511043.0
+},
+{
+"source": "36氪",
+"title": "淘宝为2000名88VIP包下NBA中国赛前排专属座",
+"link": "https://36kr.com/newsflashes/4017991340527497?f=rss",
+"summary": "2026年NBA中国赛于10月9日在澳门开打。作为赛事首席合作伙伴，淘宝为88VIP会员提供优先通道、前排席位、免费门票抽取等专属福利。据悉，全场约1/5的观众为淘宝邀请的88VIP会员，共计2000余人。赛前，NBA HOUSE球迷互动区设立88VIP展台，提供投篮游戏、联名奖品及与雷·阿伦、林书豪、布泽尔等球星互动机会。该合作系双方再度携手，专属权益较去年进一步扩容。",
+"published": 1791510729.0
+},
+{
+"source": "36氪",
+"title": "“DiffuSpace”完成两轮融资，总金额数亿人民币",
+"link": "https://36kr.com/newsflashes/4017976515252104?f=rss",
+"summary": "36氪获悉，“DiffuSpace”连续完成两轮融资，总金额数亿人民币，创全球扩散语言模型（dLLM）最大规模融资纪录，由经纬创投、顺为资本、君联资本联合领投，中科创星、华为哈勃、地平线等跟投。据悉，本轮融资将主要用于模型训练、基础设施研发及垂直场景适配。DiffuSpace正在推进新一代更大参数规模dLLM训练，并计划于近期发布并开源。",
+"published": 1791510531.0
+},
+{
+"source": "36氪",
+"title": "恒生科技指数涨幅扩大至2%",
+"link": "https://36kr.com/newsflashes/4017988083585155?f=rss",
+"summary": "36氪获悉，港股恒生科技指数涨幅扩大至2%，恒生指数现涨1.19%。",
+"published": 1791510530.0
+},
+{
+"source": "36氪",
+"title": "创业板指、深成指双双跌超1%",
+"link": "https://36kr.com/newsflashes/4017984753799048?f=rss",
+"summary": "36氪获悉，深成指下挫跌逾1.03%，沪指跌0.42%，创业板指跌1.21%。算力硬件、半导体芯片、医药生物等方向跌幅居前，沪深京三市下跌个股近3700只。",
+"published": 1791510327.0
+},
+{
+"source": "36氪",
+"title": "央行：未来的人民币汇率，不会刻意升值，也不会刻意贬值",
+"link": "https://36kr.com/newsflashes/4017938215128961?f=rss",
+"summary": "中国人民银行8日发布关于人民币汇率的政策立场文件，首次全面、系统阐述人民币汇率的政策立场。人民币汇率一向关注度极高，央行这次在立场里也再次重申：中国坚持让市场在汇率形成中发挥决定性作用。我国实行的是市场化汇率��度，2017年之后就彻底退出了常态化干预。未来的人民币汇率，不会刻意升值，也不会刻意贬值。我们仍然将尊重市场、守住底线、不搞博弈、不玩套路，这就是未来几年人民币汇率最核心、最确定的大趋势。（央视新闻）",
+"published": 1791510132.0
+},
+{
+"source": "36氪",
+"title": "中信建投：零碳园区有望成为绿色金融与产业投资共振的下一个主线",
+"link": "https://36kr.com/newsflashes/4017935898316677?f=rss",
+"summary": "36氪获悉，中信建投证券研报称，在我国，园区兼具经济增长载体与碳排放管控场景的双重战略地位，在中央经济工作会议及多部门配套政策的指引下，零碳园区建设成为我国的系统性工程。根据中信建投测算，仅国家级零碳园区的零碳改造投入在千亿级。可持续金融工具层面，绿色信贷、ESG债券、绿色租赁等已具规模，与园区资本开支大、回收期长、部分资产现金流稳定的项目特征高度适配。鄂尔多斯蒙苏、盐城大丰港等案例已验证“低成本可溯源绿电+产业集聚”的商业闭环，零碳园区有望成为绿色金融与产业投资共振的下一个…",
+"published": 1791509851.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位",
+"link": "https://www.ifanr.com/1683244?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 小米澎程上市 30 天锁单超过 7 万台 · Manus 母公司完成超 5 亿美元新一轮融资 · 小鹏 Robotaxi 定名「小鹏悠游」，下单小程序同步上线#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1791507075.0
+},
+{
+"source": "少数派",
+"title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
+"link": "https://sspai.com/post/115532",
+"summary": "XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型查看全文",
+"published": 1791507070.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "CoreWeave targets AI inference bottlenecks with full-stack optimization",
+"link": "https://siliconangle.com/2026/10/08/ai-inference-gets-full-stack-coreweave-launches-forge-fullyconnected/",
+"summary": "AI inference is fast becoming the workload that decides the economics of the AI boom. Training built the first wave of GPU clouds, but serving models faster and cheaper will define the next. That shift is pushing specialized cloud providers…",
+"published": 1791513018.0
+},
+{
+"source": "SiliconANGLE",
+"title": "White House bars Microsoft from sponsoring green card applications as JD Vance accuses it of fraud",
+"link": "https://siliconangle.com/2026/10/08/white-house-bars-microsoft-from-sponsoring-green-card-applications-as-jd-vance-accuses-it-of-fraud/",
+"summary": "The White House has barred Microsoft Corp. from further participation in a federal program that enables U.S. companies to apply for green cards for employees holding H-1B visas after accusing it of abusing the system to replace American wor…",
+"published": 1791509724.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AI stocks crumble on report that OpenAI’s annualized revenue is much lower than believed",
+"link": "https://siliconangle.com/2026/10/08/ai-stocks-crumble-on-report-that-openais-annualized-revenue-is-much-lower-than-previously-believed/",
+"summary": "Technology stocks fell lower today following a report that artificial intelligence giant OpenAI Group PBC’s annualized revenue this year is about $20 billion less than what was previously reported by the media, sending shockwaves through th…",
+"published": 1791506667.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Gallatin AI raises $50M in funding for its military logistics platform",
+"link": "https://siliconangle.com/2026/10/08/gallatin-ai-raises-50m-in-funding-for-its-military-logistics-platform/",
+"summary": "Gallatin AI Inc., a developer of military logistics software, today announced that it has raised $50 million in funding. The Series A round included contributions from 8VC, Silent Ventures and several others. It follows a $15 million seed r…",
+"published": 1791504736.0
+}
+]
+}
+}

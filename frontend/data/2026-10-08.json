@@ -1,8 +1,15 @@
 {
 "date": "2026-10-08",
-"total": 149,
+"total": 152,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "AI-ready biological data: $1.8B global commitment",
+"link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+"summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 142 # Comments: 21",
+"published": 1791492385.0
+},
 {
 "source": "The Decoder",
 "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
@@ -65,6 +72,13 @@
 "link": "https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/",
 "summary": "Ethereum researcher Justin Drake is urging the crypto industry to prepare a \"bunker mode\" for a scenario where AI-powered math could break wallet signature schemes within months. Vitalik Buterin broadly agrees but warns against rushed migra…",
 "published": 1791467574.0
+},
+{
+"source": "HN AI 热门",
+"title": "Sub-1-Bit LLM Compression via Latent Factorization",
+"link": "https://github.com/SamsungLabs/LittleBit",
+"summary": "Article URL: https://github.com/SamsungLabs/LittleBit Comments URL: https://news.ycombinator.com/item?id=50005608 Points: 88 # Comments: 26",
+"published": 1791466186.0
 },
 {
 "source": "量子位",
@@ -487,6 +501,13 @@
 "link": "https://www.solidot.org/story?sid=85551",
 "summary": "54 岁的美国北卡罗来纳州男子 Michael Smith 因 AI 辅助欺诈罪被判入狱 18 个月。他是首位涉嫌 AI 辅助流媒体欺诈而被刑事起诉的美国人。Smith 从 2017 年起利用虚假电邮账户和通过欺诈获取的借记卡在 Amazon Music 、Apple Music、Spotify 和 YouTube Music 等平台创建了数千个账号，使用软件操纵机器人程序，循环播放他声称拥有版权的歌曲——这些歌曲实际上都是 AI 生成的。到 2024 年被捕时他创作了数十万…",
 "published": 1791465579.0
+},
+{
+"source": "爱范儿",
+"title": "苹果 CEO 最爱的汽车品牌，要推出新超跑了",
+"link": "https://www.ifanr.com/1683229?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "保时捷要靠「厚利寡销」翻盘。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1791462271.0
 },
 {
 "source": "Solidot",

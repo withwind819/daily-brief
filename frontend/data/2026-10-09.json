@@ -1,8 +1,15 @@
 {
 "date": "2026-10-09",
-"total": 135,
+"total": 137,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+"link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+"summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 208 # Comments: 152",
+"published": 1791583235.0
+},
 {
 "source": "The Decoder",
 "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
@@ -23,6 +30,13 @@
 "link": "https://www.infoq.cn/article/dQy1xkMRuPVj1Xh7Pohu?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1791568438.0
+},
+{
+"source": "HN AI 热门",
+"title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+"link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+"summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 193 # Comments: 58",
+"published": 1791567732.0
 },
 {
 "source": "InfoQ 中国",

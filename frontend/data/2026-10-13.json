@@ -1,8 +1,15 @@
 {
 "date": "2026-10-13",
-"total": 150,
+"total": 157,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+"link": "https://pulseos.finance",
+"summary": "Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, an…",
+"published": 1791933203.0
+},
 {
 "source": "InfoQ 中国",
 "title": "手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
@@ -81,6 +88,13 @@
 "published": 1791905259.0
 },
 {
+"source": "HN AI 热门",
+"title": "I posted to HN, and then my website was flooded with AI bot traffic",
+"link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+"summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic Comments URL: https://news.ycombinator.com/item?id=50073221 Points: 342 # Comments: 183",
+"published": 1791905150.0
+},
+{
 "source": "InfoQ 中国",
 "title": "从可复用到可再生：重新思考共享 UI 组件库",
 "link": "https://www.infoq.cn/article/Fvuq0C19vAAYpSBN3US2?utm_source=rss&utm_medium=article",
@@ -93,6 +107,13 @@
 "link": "https://the-decoder.com/western-mathematicians-fear-ai-makes-them-dumber-while-china-builds-an-entire-alliance-for-it/",
 "summary": "While 25 Fields Medal winners in the West warn against AI-generated proofs and parts of the community call for a boycott, China is going on the offensive. Fields Medal winner Shing-Tung Yau has launched an alliance of eight institutions and…",
 "published": 1791902273.0
+},
+{
+"source": "HN AI 热门",
+"title": "How to engineer an AI harness for game development",
+"link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+"summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code Comments URL: https://news.ycombinator.com/item?id=50072120 Points: 165 # Comments: 87",
+"published": 1791900863.0
 },
 {
 "source": "InfoQ 中国",
@@ -128,6 +149,13 @@
 "link": "https://www.infoq.cn/article/BEJ6IXREBoXspGmXRQHj?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1791891605.0
+},
+{
+"source": "HN AI 热门",
+"title": "Character.ai Files for Bankruptcy",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+"summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney Comments URL: https://news.ycombinator.com/item?id=50069942 Points: 145 # Comments: 24",
+"published": 1791890648.0
 },
 {
 "source": "InfoQ 中国",
@@ -200,6 +228,13 @@
 "published": 1791882000.0
 },
 {
+"source": "HN AI 热门",
+"title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+"link": "https://blog.character.ai/an-update-on-character-ai/",
+"summary": "https://www.theverge.com/ai-artificial-intelligence/1009802/... https://techcrunch.com/2026/10/13/just-5-years-in-interactiv... https://www.reuters.com/legal/litigation/characterai-files-b... https://variety.com/2026/biz/news/disney-bids-on…",
+"published": 1791876514.0
+},
+{
 "source": "量子位",
 "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
 "link": "https://www.qbitai.com/2026/10/502992.html",
@@ -228,6 +263,13 @@
 "published": 1791871220.0
 },
 {
+"source": "HN AI 热门",
+"title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+"link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+"summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 114 # Comments: 127",
+"published": 1791871052.0
+},
+{
 "source": "量子位",
 "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
 "link": "https://www.qbitai.com/2026/10/502784.html",
@@ -247,6 +289,13 @@
 "link": "https://www.qbitai.com/2026/10/502767.html",
 "summary": "算力、模型、行业，三层生意一起做",
 "published": 1791864075.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI models can provably hide arbitrary capabilities",
+"link": "https://arxiv.org/abs/2610.13928",
+"summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 279 # Comments: 143",
+"published": 1791857228.0
 },
 {
 "source": "量子位",

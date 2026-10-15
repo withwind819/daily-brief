@@ -1,8 +1,43 @@
 {
 "date": "2026-10-12",
-"total": 95,
+"total": 100,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+"link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+"summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 146 # Comments: 103",
+"published": 1791846445.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI is a tool and using it well takes skill",
+"link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+"summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 758 # Comments: 588",
+"published": 1791841218.0
+},
+{
+"source": "HN AI 热门",
+"title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+"link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+"summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 306 # Comments: 177",
+"published": 1791840935.0
+},
+{
+"source": "HN AI 热门",
+"title": "Epic Games tells employees to use AI to get Disney game done",
+"link": "https://www.avclub.com/epic-games-disney-ai-delay",
+"summary": "Article URL: https://www.avclub.com/epic-games-disney-ai-delay Comments URL: https://news.ycombinator.com/item?id=50062237 Points: 85 # Comments: 78",
+"published": 1791835662.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI models may be capable of self-replicating without access to a datacenter",
+"link": "https://www.anthropic.com/research/self-replicating-ai",
+"summary": "Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 115 # Comments: 113",
+"published": 1791833129.0
+},
 {
 "source": "The Decoder",
 "title": "Meta's new frontier model Muse Wonder Full breaks into the AI top tier",

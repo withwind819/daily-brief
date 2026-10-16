@@ -1,6 +1,6 @@
 {
 "date": "2026-10-13",
-"total": 157,
+"total": 158,
 "categories": {
 "AI": [
 {
@@ -268,6 +268,13 @@
 "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
 "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 114 # Comments: 127",
 "published": 1791871052.0
+},
+{
+"source": "HN AI 热门",
+"title": "Ask HN: CAD for wood working with LLM support?",
+"link": "https://news.ycombinator.com/item?id=50067325",
+"summary": "I’m a hobbyist woodworker. I manually design simple things in Shapr3d with a lot of patience when I build things. I wonder in the time of LLMs if there is an effective way to accelerate the 3D model design using AI.. Anybody tried using AI …",
+"published": 1791870841.0
 },
 {
 "source": "量子位",

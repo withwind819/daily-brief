@@ -1,8 +1,381 @@
 {
 "date": "2026-10-17",
-"total": 2,
+"total": 56,
 "categories": {
+"AI": [
+{
+"source": "HN AI 热门",
+"title": "Amazon uses AI to monitor union risk in UK warehouses",
+"link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+"summary": "Article URL: https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/ Comments URL: https://news.ycombinator.com/item?id=50132278 Points: 145 # Comments: 57",
+"published": 1792253063.0
+},
+{
+"source": "The Decoder",
+"title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
+"link": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
+"summary": "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing. In one case, a model extracted server passwords from a government website, forged authorization tokens, and downlo…",
+"published": 1792251371.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+"link": "https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1792249200.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
+"link": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
+"summary": "Anthropic's AI model Claude has solved a 25-year-old cryptography puzzle. The mysterious seeds behind NIST's standard curves for digital signatures were provided by the NSA without explanation, raising long-standing suspicion about built-in…",
+"published": 1792248176.0
+},
+{
+"source": "The Decoder",
+"title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
+"link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+"summary": "Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor. The company is also opening up its internal search engine through new Sear…",
+"published": 1792233208.0
+},
+{
+"source": "InfoQ 中国",
+"title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+"link": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1792231200.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+"link": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1792231200.0
+},
+{
+"source": "The Decoder",
+"title": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
+"link": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/",
+"summary": "AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out negative results in 198 out of 200 paper abstracts. The article AI models hide mi…",
+"published": 1792230876.0
+},
+{
+"source": "The Decoder",
+"title": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
+"link": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/",
+"summary": "OpenAI submitted a 166-page solution to the Navier-Stokes problem but apparently doesn't fully understand its own proof. Several groups of experts dispute the claimed methodology, saying the actual approach differs from what OpenAI describe…",
+"published": 1792227626.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+"link": "https://llmspeed.dev/",
+"summary": "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 243 # Comments: 77",
+"published": 1792211813.0
+}
+],
 "科技": [
+{
+"source": "TechCrunch",
+"title": "Meta removes language that raised scraping and AI training concerns",
+"link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+"summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+"published": 1792272692.0
+},
+{
+"source": "TechCrunch",
+"title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+"link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+"summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+"published": 1792270552.0
+},
+{
+"source": "TechCrunch",
+"title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+"link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+"summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+"published": 1792268479.0
+},
+{
+"source": "The Verge",
+"title": "TikTok bans Musk documentary account",
+"link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+"summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the fi…",
+"published": 1792265543.0
+},
+{
+"source": "TechCrunch",
+"title": "Replit makes OpenAI its default over Anthropic, CEO says",
+"link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+"summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+"published": 1792262888.0
+},
+{
+"source": "The Verge",
+"title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+"link": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+"summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Merced…",
+"published": 1792256400.0
+},
+{
+"source": "The Verge",
+"title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+"link": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+"summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming t…",
+"published": 1792255184.0
+},
+{
+"source": "Solidot",
+"title": "游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易",
+"link": "https://www.solidot.org/story?sid=85638",
+"summary": "协作游戏逆向工程网站 decomp.dev 宣布将关闭，管理员称 AI 让游戏反编译变得快且易于操作，基于人工的社区协作模式实际上已经瓦解，无法再区分哪些项目是以人工为主导的，哪些是由 AI 完成的。decomp.dev 管理员 Encounter 在官网声明中表示，从历史上看，匹配反编译一直是极其困难且耗时的任务，即便是对那些有适量活跃贡献者的中等规模游戏来说，反编译要以“年”为单位计时，但 GPT-6-Astra 之类的前沿 AI 模型最近已让反编译游戏变得极其轻松：它们…",
+"published": 1792252534.0
+},
+{
+"source": "TechCrunch",
+"title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+"link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+"summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+"published": 1792251000.0
+},
+{
+"source": "Solidot",
+"title": "天文学家发现第一颗绿色恒星",
+"link": "https://www.solidot.org/story?sid=85637",
+"summary": "天文学家可能发现了第一颗绿色恒星——名为 WD J1330+6435 的白矮星，位于地球 326 光年外。部分死亡恒星——即白矮星——在吞噬围绕其运行的行星后，可能会呈现出绿色。WD J1330+6435 一直在吸积其行星伴星上的岩石物质。这一过程使其大气中富含钙、锂和钠元素。模型表明这些元素的存在使得 WD J1330+6435 呈现绿色。WD J1330+6435 是已知首颗真正呈现绿色的恒星。研究人员称，白矮星大气中残留的钠元素吸收了光谱中的橙色部分，留下了幽灵般的绿光…",
+"published": 1792250966.0
+},
+{
+"source": "Solidot",
+"title": "GNOME 面向普通用户发布 GNOME OS Preview",
+"link": "https://www.solidot.org/story?sid=85636",
+"summary": "GNOME 项目已推出发行版项目 GNOME OS 一段时间，但它只提供基于最新代码的 Nightly 版本，主要面向开发者。现在它推出了面向普通用户的 GNOME OS Preview。GNOME OS Preview 基于 Nightly 版本，但去掉了 Nightly 特性，基于最新的 GNOME 51.1 构建。开发者表示该版本尚未经过充分的实际使用测试，可能会遇到问题，但稳定性肯定高于 Nightly 版本，对想要尝鲜的普通用户而言足够稳定，可用于日常使用。但它还需…",
+"published": 1792250580.0
+},
+{
+"source": "The Verge",
+"title": "Meta removes language that may have allowed it to scrape news sites",
+"link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+"summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms pag…",
+"published": 1792249476.0
+},
+{
+"source": "The Verge",
+"title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+"link": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
+"summary": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just…",
+"published": 1792249200.0
+},
+{
+"source": "The Verge",
+"title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
+"link": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
+"summary": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most i…",
+"published": 1792247400.0
+},
+{
+"source": "The Verge",
+"title": "SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon",
+"link": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+"summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk o…",
+"published": 1792245600.0
+},
+{
+"source": "36氪",
+"title": "微信鸿蒙版上线小艺语音操作：一句话即可发消息、打语音和视频",
+"link": "https://36kr.com/newsflashes/4029995773317766?f=rss",
+"summary": "近日，微信鸿蒙版已上线小艺语音操作能力。唤醒小艺后，直接说“用微信给XX发消息”“给XX打微信语音”或“给XX打微信视频”，即可完成对应操作，发送消息还可直接说出具体内容。如遇联系人重名或指令不清，小艺会提示确认。开车、做饭、做家务等不便使用双手时，沟通更加简单直接。更新微信鸿蒙版和小艺至最新版本即可体验。",
+"published": 1792243421.0
+},
+{
+"source": "The Verge",
+"title": "Websites are closing their doors to AI agents",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+"summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new…",
+"published": 1792242000.0
+},
+{
+"source": "The Verge",
+"title": "Bose’s new wired earbuds are simple in the best way",
+"link": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+"summary": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five …",
+"published": 1792242000.0
+},
+{
+"source": "The Verge",
+"title": "Apple’s HomeView is just the latest threat to online recipe writers",
+"link": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+"summary": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's…",
+"published": 1792238400.0
+},
+{
+"source": "36氪",
+"title": "智界将获独立造车资质，内部人士确认公司计划上市",
+"link": "https://36kr.com/newsflashes/4029786991153536?f=rss",
+"summary": "工信部10月16日公示《道路机动车辆生产企业及产品公告》（第412批），公告显示，安徽智界新能源汽车有限公司（下称“智界”或“智界汽车”）列入“拟发布新准入车辆生产企业”清单，公示期至10月23日。随后，“智界拿到独立造车资质”的消息随即扩散。10月17日，智界汽车内部人士确认，智界汽车在公示结束获批后将取得独立造车资质，“是奇瑞的工厂给到了智界”，该人士还同步确认了智界汽车未来计划独立上市的信息。（第一财经）",
+"published": 1792230678.0
+},
+{
+"source": "36氪",
+"title": "DeepSeek V4.1 Flash新版本发布",
+"link": "https://36kr.com/newsflashes/4029763615986052?f=rss",
+"summary": "36氪获悉，据DeepSeek消息，DeepSeek V4.1 Flash现已更新至V4.1-Flash-1017版本，官方网页端、App与API模型已同步变更为新模型。",
+"published": 1792229251.0
+},
+{
+"source": "36氪",
+"title": "中国贸易展览会在哥斯达黎加举行",
+"link": "https://36kr.com/newsflashes/4029679336739202?f=rss",
+"summary": "由中国贸促会主办的中国贸易展览会16日在哥斯达黎加圣何塞佩德雷加尔会展中心拉开帷幕，为中哥经贸合作搭建平台。本次展会面积约2000平方米，包括TCL、浙江大华、海康威视、三诺生物等55家中国企业参展。展会设置机遇中国国家形象展区，展示中国科创成果与特色文创产品，还设置了对华出口专区，助力哥斯达黎加咖啡、健康医疗等特色产品和服务开拓中国市场。（新华社）",
+"published": 1792227521.0
+},
+{
+"source": "36氪",
+"title": "国际货币基金组织总裁：秋季年会达成三项核心共识",
+"link": "https://36kr.com/newsflashes/4029677493621129?f=rss",
+"summary": "当地时间10月17日，国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃在泰国曼谷举行的2026年秋季年会总结发言中表示，本次会议围绕全球经济韧性、人工智能发展及其风险、全球经济分化等议题展开深入讨论，并达成三项核心共识。格奥尔基耶娃指出，人工智能已成为推动经济增长的重要动力，但过度依赖单一增长引擎也会带来风险。当前全球经济韧性的基础正面临挑战。其次，全球经济分化日益加剧。未能参与人工智能价值链的国家，以及受到战争冲击的能源进口国，正面临更大的发展压力，全球经济增长红利…",
+"published": 1792225792.0
+},
+{
+"source": "36氪",
+"title": "欧洲央行行长：应采取适度政策举措遏制通胀",
+"link": "https://36kr.com/newsflashes/4029656558702985?f=rss",
+"summary": "据报道，欧洲央行行长拉加德表示，战争带来通胀上行风险。财政可持续性仍是整体经济稳定的“重要支柱”，各国政府应当确保针对能源冲击出台的财政举措具备临时性、定向性与适配性。经济前景下行风险存在，通胀风险上行；应采取适度政策举措遏制通胀。（界面）",
+"published": 1792224095.0
+},
+{
+"source": "36氪",
+"title": "中国人民银行行长潘功胜会见相关国家央行行长",
+"link": "https://36kr.com/newsflashes/4029678447055489?f=rss",
+"summary": "36氪获悉，2026年10月14日至16日，中国人民银行行长潘功胜在出席国际货币基金组织/世界银行年会期间，分别会见了泰国央行行长威泰、印尼央行行长德斯特里、马来西亚央行行长拉希德、印度央行行长马尔霍特拉、澳大利亚央行行长布洛克、土耳其央行行长卡拉汉、埃及央行行长阿卜杜拉、尼日利亚央行行长卡多索、格鲁吉亚央行行长特尔纳瓦等相关国家央行行长，就全球经济形势、深化双边务实金融合作等议题交换了意见。中国人民银行副行长宣昌能参加会见。",
+"published": 1792224053.0
+},
+{
+"source": "36氪",
+"title": "晶科能源CTO金浩：预计未来5年光伏组件价格将再降50%",
+"link": "https://36kr.com/newsflashes/4029535129915779?f=rss",
+"summary": "10月17日，在晶科2026全球科技日上，晶科能源首席技术官金浩表示，过去20年光伏组件价格累计下降超95%，预计未来5年还将下降50%。他指出，传统降本路径已趋于结束，未来降本将以技术创新、贱金属应用及AI智能化降本为主要驱动力。（界面）",
+"published": 1792222805.0
+},
+{
+"source": "36氪",
+"title": "多方判断电价拐点已现",
+"link": "https://36kr.com/newsflashes/4029533473575303?f=rss",
+"summary": "进入四季度，电力市场淡季不淡。在迎峰度夏结束、高温负荷逐步消退的背景下，广东、江苏等地月度交易电价不降反升，南方区域现货价格亦持续走强。此外，10月13日，江苏电力交易中心印发《2027年江苏电力零售市场交易工作指引》，推动批零价格全面传导。行业专家表示，本轮电价上涨是供需两端多重因素叠加的结果，属于市场运行中的合理波动；江苏新版规则为电价向用户侧传导提供了机制样本。多名券商公用事业研究员判断，2026年或是国内电价底部，拐点正在显现。（上证报）",
+"published": 1792221259.0
+},
+{
+"source": "少数派",
+"title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
+"link": "https://sspai.com/post/104231",
+"summary": "这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。查看全文",
+"published": 1792220284.0
+},
+{
+"source": "36氪",
+"title": "德国汽车工业协会：2031年前不应强制要求汽车电池本地化生产",
+"link": "https://36kr.com/newsflashes/4029475739521666?f=rss",
+"summary": "德国汽车工业协会（VDA）表示，德国和法国就汽车产业一揽子计划达成的协议是重要一步，但在关键领域仍未达到必要的调整要求。2031年前不应强制要求汽车电池本地化生产。（财联社）",
+"published": 1792219598.0
+},
+{
+"source": "36氪",
+"title": "禾赛不只想卖激光雷达｜最前线",
+"link": "https://36kr.com/p/4028766019719557?f=rss",
+"summary": "图片来源 禾赛科技 文｜肖漫编辑｜袁斯来 “我们不是为了卖激光雷达又造了一个 Kosmo。”在 Kosmo 发布会前，李一帆先明确了这一点。 Kosmo 是禾赛科技近日发布的三维世界数据引擎，由全球首款 8K 超高清 AI 空间相机 Kosmo One 和 AI 驱动的云平台 Kosmo World 组成。前者负责采集真实世界的空间信息，后者将这些信息重建为能够被 AI 理解、交互和训练的三维场景。 这是禾赛在激光雷达主营业务之外的一次延伸。过去，禾赛主要向汽车和机器人提供感…",
+"published": 1792219189.0
+},
+{
+"source": "36氪",
+"title": "纽约联储一级交易商名单调整，NatWest退出",
+"link": "https://36kr.com/newsflashes/4029472710365827?f=rss",
+"summary": "10月16日，纽约联邦储备银行公布的一级交易商名单显示，NatWest Markets Securities Inc.已退出该名单，调整自当日起生效。一级交易商是纽约联储实施货币政策时的交易对手方，须持续参与公开市场操作、提供市场信息与分析、参与美国国债发行拍卖，并在纽约联储代表外国官方账户进行交易时提供合理的市场报价。此次调整后，名单中还包括摩根大通、花旗、高盛、摩根士丹利、美国银行、德意志银行等机构。（界面）",
+"published": 1792218093.0
+},
+{
+"source": "36氪",
+"title": "斯里兰卡人民币清算行揭牌仪式在科伦坡举行",
+"link": "https://36kr.com/newsflashes/4029471856267908?f=rss",
+"summary": "由中国银行举办的斯里兰卡人民币清算行揭牌仪式15日在斯里兰卡科伦坡举行。斯里兰卡劳工部长兼财政部副部长费尔南多等来自斯里兰卡政府部门及中斯两国企业、金融机构的200余位代表参加活动。（新华社）",
+"published": 1792216722.0
+},
+{
+"source": "36氪",
+"title": "对话费德勒：加入On昂跑，是我回馈网球的一种方式",
+"link": "https://36kr.com/p/4028636199555713?f=rss",
+"summary": "作者 | 谢芸子 编辑 | 张帆 10月14日的晚间，在深圳人才公园的海岸，2000台无人机上演了一场震撼人心的灯光秀。 先是一只大手抛出一只网球，继而展现费德勒不同时期的打球影像，最后在天空中呈现“Dream On”的字样，化作“烟火”。 这是On昂跑对网坛传奇人物——罗杰·费德勒（Roger Federer）职业生涯的一种致敬。 今年8月，这位“20座大满贯男单冠军”的持有者，又迎来了一个新身份——成为“国际网球名人堂”中的一员。这不仅是对费德勒出色成绩的认可，也是对他在…",
+"published": 1792215404.0
+},
+{
+"source": "36氪",
+"title": "雅万高铁开通运营三周年，累计发送旅客超1800万人次",
+"link": "https://36kr.com/newsflashes/4029471014490755?f=rss",
+"summary": "今年10月17日，印尼雅万高铁开通运营满三年。三年来，雅万高铁累计开行动车组列车58666列，发送旅客超1800万人次，安全运行超890万公里，列车正点率达99.4%。（央视新闻）",
+"published": 1792214989.0
+},
+{
+"source": "36氪",
+"title": "微软推出“AI学生模拟器”",
+"link": "https://36kr.com/newsflashes/4029401099178629?f=rss",
+"summary": "微软研究院近日发布研究系统StudentSim，试图解决AI辅导工具开发中的一个关键难题：如何在没有大规模真人实验的情况下，判断一段讲解、提示或提问是否真正帮助学生进步。传统AI导师往往只看“答案是否正确”，但教学效果还取决于学生是否理解、能否纠正错误，以及不同学生是否需要不同解答支持。真实学习者研究能回答这些问题，却耗时、昂贵且难以规模化，难以支撑模型的快速迭代。微软为此推出StudentSim系统，基于公开、去标识化的学习者记录，为每位学生训练一个个性化“AI学生模拟器”…",
+"published": 1792213302.0
+},
+{
+"source": "36氪",
+"title": "华泰证券：航司运营继续好转，等待油价回落",
+"link": "https://36kr.com/newsflashes/4029400230564489?f=rss",
+"summary": "36氪获悉，华泰证券研报表示，9月航司运力增长维持较高水平，三大航（国航/东航/南航）+春秋+吉祥ASK/RPK分别同增6.6%/7.4%，客座率同增0.7pct至86.6%，同时票价有所改善，国内线含油票价第36周—39周（8/31—9/27）同增7.6%（明显好于暑运的-0.1%，航班管家）。目前航司整体油价负担仍较重，市场对板块关注度和预期较低。往后展望，板块反弹需等待油价回落，不过近期票价等高频数据持续好转，并且《国内航线航班评审优化措施》出台以及新航季时刻表体现“反…",
+"published": 1792212048.0
+},
+{
+"source": "36氪",
+"title": "“六方半导体”完成超亿元C1轮股权融资",
+"link": "https://36kr.com/newsflashes/4029328719106689?f=rss",
+"summary": "36氪获悉，“六方半导体”近日完成超亿元C1轮股权融资，本轮由北京仓廪资本与诸暨产业投资集团有限公司联合出资。公司本轮融资资金将重点用于前沿新品研发及产能扩建，占地100亩的新厂房预计2026年12月正式投产。",
+"published": 1792210685.0
+},
+{
+"source": "36氪",
+"title": "国家数据集团或将于近日挂牌成立",
+"link": "https://36kr.com/newsflashes/4029454854099590?f=rss",
+"summary": "国家数据集团或将于近日挂牌成立。（中证报）",
+"published": 1792210406.0
+},
+{
+"source": "36氪",
+"title": "量化基金巨头Two Sigma据悉停止为不动产部门筹资并裁撤高层",
+"link": "https://36kr.com/newsflashes/4029326830670472?f=rss",
+"summary": "据报道，量化基金巨头Two Sigma Investments削减不动产部门的高级职员并停止为其筹资，，而此举距其对外部资金开放仅过了两年。知情人士透露，该部门的合伙人兼首席投资官Rich Gomel将离职。不动产领导团队的其他成员也会离开。据悉，Two Sigma寻求为该部门筹资约20亿美元，但在充满挑战的融资环境下最终只完成不到一半的目标。（新浪财经）",
+"published": 1792209728.0
+},
+{
+"source": "36氪",
+"title": "预报时效11天，超算互联网助\"风清集合\"AI业务化运行",
+"link": "https://36kr.com/newsflashes/4029420684546436?f=rss",
+"summary": "36氪获悉，近日，“风清”人工智能全球短中期集合天气预报系统V1.0顺利通过业务化评审并投入运行。该系统全程依托国家超算互联网核心节点的十万卡AI4S计算集群完成训练，成为全国首个实现数据、模型、算力全自主的业务应用气象AI集合预报模型。其全球有效预报时效达11天，综合预报效果超越欧洲中期天气预报中心（ECMWF）的人工智能集合预报系统。",
+"published": 1792208321.0
+},
+{
+"source": "36氪",
+"title": "摩根士丹利：明年超大规模及新兴云厂商数据中心新增算力将同比激增48%",
+"link": "https://36kr.com/newsflashes/4029287613485702?f=rss",
+"summary": "据报道，摩根士丹利称，2027年，超大规模云厂商与新兴云的数据中心新增算力规模将同比激增48%，达到32吉瓦。谷歌、亚马逊、微软、Meta四大超大规模云厂商贡献约85%的新增建设量；2028年将再新增39吉瓦，同比扩张21%。（界面）",
+"published": 1792208175.0
+},
+{
+"source": "TechCrunch",
+"title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+"link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+"summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+"published": 1792204578.0
+},
+{
+"source": "36氪",
+"title": "9点1氪丨特斯拉发布“会飞”的跑车，预订金33.2万元；中国限制或禁止出口AI等领域40项技术；长鑫科技预计前三季度净利超1300亿",
+"link": "https://36kr.com/p/4029260041245314?f=rss",
+"summary": "今日热点导览 DeepSeek将整合多团队成立产品部，崔添翼出任负责人 铁路车次编排将调整，更高时速动车组新增X字头 iPhone Duo预售秒罄 美国肯德基将改用可口可乐 亚马逊限制Grok机器人下单，马斯克回应 TOP 3 大新闻 特斯拉发布“会飞”的跑车，预订金33.2万元 10月16日，特斯拉在美国得克萨斯州发布第二代Roadster跑车，并展示其“飞行”能力。直播画面显示，车辆借助推进器、大功率风扇等装置，完成倒置坡道行驶、短暂腾空及空中旋转等动作。 目前，新车已在…",
+"published": 1792198830.0
+},
 {
 "source": "爱范儿",
 "title": "早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台",
@@ -12,6 +385,13 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "ServiceNow AI Control Tower: Selling a penthouse while building the frame",
+"link": "https://siliconangle.com/2026/10/17/servicenow-ai-control-tower-selling-a-penthouse-while-building-the-frame/",
+"summary": "ServiceNow Inc. is making one of the more consequential and visible bets in enterprise artificial intelligence. The company says AI Control Tower can discover and govern any agent, work across models and clouds, track cost and value, and sh…",
+"published": 1792248562.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Microsoft reveals cutting-edge MAI-Base-2 model with 2T parameters",

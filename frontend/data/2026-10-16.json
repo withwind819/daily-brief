@@ -1,6 +1,6 @@
 {
 "date": "2026-10-16",
-"total": 140,
+"total": 153,
 "categories": {
 "AI": [
 {
@@ -39,6 +39,13 @@
 "published": 1792172567.0
 },
 {
+"source": "HN AI 热门",
+"title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+"link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+"summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 593 # Comments: 538",
+"published": 1792170518.0
+},
+{
 "source": "InfoQ 中国",
 "title": "生产级大模型平台工程实战手册",
 "link": "https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&utm_medium=article",
@@ -58,6 +65,13 @@
 "link": "https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1792168682.0
+},
+{
+"source": "HN AI 热门",
+"title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+"link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+"summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 208 # Comments: 86",
+"published": 1792166140.0
 },
 {
 "source": "InfoQ 中国",
@@ -102,6 +116,13 @@
 "published": 1792156315.0
 },
 {
+"source": "量子位",
+"title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+"link": "https://www.qbitai.com/2026/10/503880.html",
+"summary": "从搭载物理建模能力的世界模型切入",
+"published": 1792155294.0
+},
+{
 "source": "InfoQ 中国",
 "title": "Pi 抛出全新 Agent Harness，还把自己骂了一年的 MCP 装进了核心",
 "link": "https://www.infoq.cn/article/hQOHf1ZXoBs7uMpWJQss?utm_source=rss&utm_medium=article",
@@ -137,10 +158,80 @@
 "published": 1792142160.0
 },
 {
+"source": "量子位",
+"title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+"link": "https://www.qbitai.com/2026/10/503865.html",
+"summary": "VLA解决“能干”，世界模型解决“想清楚再干”",
+"published": 1792138321.0
+},
+{
+"source": "量子位",
+"title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+"link": "https://www.qbitai.com/2026/10/503861.html",
+"summary": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
+"published": 1792138053.0
+},
+{
+"source": "量子位",
+"title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+"link": "https://www.qbitai.com/2026/10/503843.html",
+"summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+"published": 1792137631.0
+},
+{
+"source": "量子位",
+"title": "范式智能联合睿思智联推出开源一站式 生产级 AI 部署平台 “模域ModelSphere”",
+"link": "https://www.qbitai.com/2026/10/503829.html",
+"summary": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
+"published": 1792134971.0
+},
+{
+"source": "量子位",
+"title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+"link": "https://www.qbitai.com/2026/10/503815.html",
+"summary": "经验没有压缩算法",
+"published": 1792134091.0
+},
+{
+"source": "量子位",
+"title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
+"link": "https://www.qbitai.com/2026/10/503782.html",
+"summary": "9.8万元起售，冲刺万台量产",
+"published": 1792131473.0
+},
+{
+"source": "量子位",
+"title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
+"link": "https://www.qbitai.com/2026/10/503779.html",
+"summary": "10月15日，百度官方公众号发文公布百度世界2026五大亮点",
+"published": 1792130861.0
+},
+{
+"source": "量子位",
+"title": "中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控",
+"link": "https://www.qbitai.com/2026/10/503756.html",
+"summary": "背后是一套通用物理运动平台",
+"published": 1792129621.0
+},
+{
+"source": "量子位",
+"title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
+"link": "https://www.qbitai.com/2026/10/503701.html",
+"summary": "谷歌就是季节性气候模型公司",
+"published": 1792127099.0
+},
+{
 "source": "OpenAI 博客",
 "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
 "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
 "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+"published": 1792108800.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Benefit Street Partners answers questions faster with Codex",
+"link": "https://openai.com/index/benefit-street-partners",
+"summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
 "published": 1792108800.0
 }
 ],

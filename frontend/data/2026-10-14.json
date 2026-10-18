@@ -1,6 +1,6 @@
 {
 "date": "2026-10-14",
-"total": 149,
+"total": 150,
 "categories": {
 "AI": [
 {
@@ -170,6 +170,13 @@
 "link": "https://www.infoq.cn/article/AO4MbiBaYqwwCubevkpD?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1791975600.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI-assisted PCB design for KiCad 10",
+"link": "https://github.com/mixelpixx/Konnect",
+"summary": "Article URL: https://github.com/mixelpixx/Konnect Comments URL: https://news.ycombinator.com/item?id=50085553 Points: 141 # Comments: 52",
+"published": 1791975097.0
 },
 {
 "source": "量子位",

@@ -1,6 +1,6 @@
 {
 "date": "2026-10-17",
-"total": 56,
+"total": 61,
 "categories": {
 "AI": [
 {
@@ -32,6 +32,34 @@
 "published": 1792248176.0
 },
 {
+"source": "量子位",
+"title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+"link": "https://www.qbitai.com/2026/10/504067.html",
+"summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+"published": 1792239669.0
+},
+{
+"source": "量子位",
+"title": "智谱新模型，懂法方面全球第一了",
+"link": "https://www.qbitai.com/2026/10/503965.html",
+"summary": "AI的风还是刮到了法律圈",
+"published": 1792239225.0
+},
+{
+"source": "量子位",
+"title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+"link": "https://www.qbitai.com/2026/10/503935.html",
+"summary": "整套系统原生支持MCP",
+"published": 1792239035.0
+},
+{
+"source": "量子位",
+"title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+"link": "https://www.qbitai.com/2026/10/503910.html",
+"summary": "谜底指向时间",
+"published": 1792238811.0
+},
+{
 "source": "The Decoder",
 "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
 "link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
@@ -58,6 +86,13 @@
 "link": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/",
 "summary": "AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out negative results in 198 out of 200 paper abstracts. The article AI models hide mi…",
 "published": 1792230876.0
+},
+{
+"source": "量子位",
+"title": "科技企业出海，为啥我推荐你去迪拜？",
+"link": "https://www.qbitai.com/2026/10/503893.html",
+"summary": "通往全球市场的超级跳板",
+"published": 1792227908.0
 },
 {
 "source": "The Decoder",

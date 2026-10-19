@@ -1,0 +1,341 @@
+{
+"date": "2026-10-18",
+"total": 47,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "Meta 联手苹果推出全美最强开源模型，编码基测输给智谱、Kimi",
+"link": "https://www.infoq.cn/article/EuYOPRUBAeBgBGBu5ktk?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1792364493.0
+},
+{
+"source": "InfoQ 中国",
+"title": "17岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
+"link": "https://www.infoq.cn/article/UdT804ujpGxrv0pQfxv2?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1792364283.0
+},
+{
+"source": "HN AI 热门",
+"title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+"link": "https://arxiv.org/abs/2610.18861",
+"summary": "https://x.com/Jiaru_Zou/status/2110400256647340476https://github.com/togethercomputer/HybridAgenthttps://huggingface.co/collections/togethercomputer/hybridag...Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.y…",
+"published": 1792356494.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Cloudflare 修复了容器中的跨租户数据泄露问题",
+"link": "https://www.infoq.cn/article/YmllSwKbZXY0bcVjjw70?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1792339200.0
+},
+{
+"source": "HN AI 热门",
+"title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+"link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+"summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department…",
+"published": 1792333827.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+"link": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+"summary": "Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025. By August 2026, AI agents across the company were already logging six times as…",
+"published": 1792329746.0
+},
+{
+"source": "The Decoder",
+"title": "Four Gemini 4 Argon agents beat Minecraft without any human help",
+"link": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
+"summary": "Four AI agents running on Google's Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous run. With no predefined roles or strategies, they coordinated on their own, wrote …",
+"published": 1792327191.0
+},
+{
+"source": "The Decoder",
+"title": "Two German courts now hold Google liable for what its AI overviews say",
+"link": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+"summary": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Court just applied the exact same reasoning in a new case where Google's AI falsely…",
+"published": 1792320759.0
+},
+{
+"source": "InfoQ 中国",
+"title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+"link": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1792317600.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+"link": "https://www.infoq.cn/article/4BUR4DmMxSBxyzYh6Fxz?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1792315020.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+"link": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/",
+"summary": "Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on behalf of users. The company is also hiring lawyers and humanities scholars as \"Con…",
+"published": 1792314689.0
+},
+{
+"source": "The Decoder",
+"title": "AI agents have bad taste in long-term decisions and a new benchmark proves it",
+"link": "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/",
+"summary": "A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under 60 percent of simple binary questions. Thinking longer doesn'…",
+"published": 1792313381.0
+},
+{
+"source": "The Decoder",
+"title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
+"link": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/",
+"summary": "Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health data. One agent sent 187 messages in 15 days, incl…",
+"published": 1792311304.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+"link": "https://sphinx-six-theta.vercel.app/",
+"summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/ite…",
+"published": 1792298029.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "EQT宣布以65亿美元收购澳大利亚废弃物管理公司Cleanaway",
+"link": "https://36kr.com/newsflashes/4032036086059397?f=rss",
+"summary": "10月19日，EQT宣布其基础设施VI基金已与澳大利亚废弃物管理公司Cleanaway签署协议，收购Cleanaway已发行的100%普通股。EQT表示，根据计划，Cleanaway股东每股将获得3.095澳元现金，但可能根据后续股息或分配进行任何适用的调整。该现金对价意味着公司企业估值约为93亿澳元（约合65亿美元）。（界面）",
+"published": 1792367952.0
+},
+{
+"source": "36氪",
+"title": "动力煤价格重返千元上方，上市煤企业绩有望继续增长",
+"link": "https://36kr.com/newsflashes/4032035572486530?f=rss",
+"summary": "受冬储补库需求以及供给偏紧影响，近期动力煤价格时隔3年再度重返千元上方。 “煤炭行业成本相对稳定，煤炭价格上涨可以直接改善煤炭企业的盈利预期，对业绩改善形成支撑。”广东华辉创富投资管理有限公司总经理袁华明表示。受今年以来煤价上行影响，上半年已有八成动力煤行业上市公司业绩同比改善。进入三季度，煤价进一步上行，继续增厚上市公司利润。（证券日报）",
+"published": 1792367921.0
+},
+{
+"source": "36氪",
+"title": "华泰证券：柴油价格或仍将位于高位，预计将继续温和推高美国通胀",
+"link": "https://36kr.com/newsflashes/4032031746265730?f=rss",
+"summary": "36氪获悉，华泰证券研报指出，往前看，美伊冲突仍未解决，全球原油炼化能力难以明显改善，全球柴油供需缺口短期较难缓解，柴油价格或仍将位于高位，预计将继续温和推高美国通胀。",
+"published": 1792367687.0
+},
+{
+"source": "36氪",
+"title": "供给提速资产扩围，公募REITs长期配置价值渐显",
+"link": "https://36kr.com/newsflashes/4032031514497668?f=rss",
+"summary": "近期，公募REITs市场可以概括为两条主线：一是公募REITs二级市场从深度调整到逐渐回暖；二是供给端加速扩容、资产类型多点突破。二级市场今年经历大幅回撤后，于9月中下旬出现反弹，市场逐步回暖并企稳；一级市场注册发行节奏创下历史同期新高，资产类型持续向商业不动产、燃煤发电、二三线城市保租房等延伸。当前时点，机构对低估值+高分红的配置价值讨论明显升温，公募REITs长期配置价值凸显。（中证报）",
+"published": 1792367673.0
+},
+{
+"source": "36氪",
+"title": "三星据悉将采用台积电3纳米工艺为英伟达生产下一代HBM基底裸片",
+"link": "https://36kr.com/newsflashes/4032030451765897?f=rss",
+"summary": "据报道，三星电子计划采用台积电的3纳米工艺生产英伟达的下一代定制高带宽内存（HBM）基底裸片。据悉，英伟达希望供应商统一制造工艺以确保性能的一致性，已要求三星、SK海力士和美光在NVHBM的基底裸片生产中采用台积电的3纳米工艺。此举标志着三星将首次在HBM制造阶段与台积电展开合作。（界面）",
+"published": 1792367608.0
+},
+{
+"source": "36氪",
+"title": "华泰证券：地产股或正迈向“中期逻辑”",
+"link": "https://36kr.com/newsflashes/4032030115222153?f=rss",
+"summary": "36氪获悉，华泰证券认为，地产股开始迈向“中期逻辑”，市场普遍将8·28新政视为供给端利空，而华泰证券认为供给收缩与结构性“供平过租”的形成正在为更大范围的房价企稳创造条件。市场对8·28政策反应已相对充分，未来细则影响将逐步弱化。华泰证券认为2027年全国房地产市场成交量有望上新台阶、更多城市房价筑底，适应新模式的房企将迎来新周期。",
+"published": 1792367588.0
+},
+{
+"source": "36氪",
+"title": "华泰证券A股策略：关注三季报盈利环比加速板块",
+"link": "https://36kr.com/newsflashes/4032025683137157?f=rss",
+"summary": "36氪获悉，华泰证券A股策略指出，宽基ETF放量为低位指数提供托底，但历史上此类放量更可能是左侧信号，建议防守为主，并在三季报中寻找盈利环比加速的板块。上周A股先跌后稳、整体缩量，AI硬件领跌。AI链回调是全球现象，AI业绩弹性与融资可持续性受质疑；避险情绪仍强，食饮、银行逆势收涨。三季报披露尚早，但市场对单季盈利环比加速的个股定价偏积极，可作为短期交易线索。配置上，保持低波红利等防御底仓；AI链关注PCB环节及光器件、半导体设备中的个股，AI链外关注通用及专用设备、风电与电…",
+"published": 1792367317.0
+},
+{
+"source": "36氪",
+"title": "把握市场震荡中的“击球机会”，年内私募自购近16亿元",
+"link": "https://36kr.com/newsflashes/4032014787187077?f=rss",
+"summary": "在市场震荡加剧的背景下，私募自购步履不停。私募排排网统计数据显示，截至10月18日，年内宣布自购的私募超过30家，合计自购金额接近16亿元。其中，百亿级私募合计自购金额超过10亿元，成为今年私募自购的“主力军”。在多家头部私募看来，美联储加息预期升温、美债收益率持续上行等因素，在短期内对市场情绪形成一定压制。不过，产业发展趋势与企业成长信号仍是资本市场结构性行情持续演绎的重要支撑，市场短期波动也创造了“击球机会”。接下来，业绩持续兑现的AI产业优质标的以及具备全球竞争力的制造…",
+"published": 1792367311.0
+},
+{
+"source": "少数派",
+"title": "派早报：三季度全球手机出货量继续两位数下降",
+"link": "https://sspai.com/post/116641",
+"summary": "三季度全球手机出货量继续两位数下降Roadster 发布会留下诸多疑问闰时将取代闰秒微软声称 Windows 11 响应提速 20%，为 8GB 优化E Ink 发布 Kaleido 4全国铁路列车车次编排更新看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+"published": 1792365204.0
+},
+{
+"source": "The Verge",
+"title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+"link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+"summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data wi…",
+"published": 1792362053.0
+},
+{
+"source": "TechCrunch",
+"title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+"link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+"summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+"published": 1792357200.0
+},
+{
+"source": "TechCrunch",
+"title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+"link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+"summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+"published": 1792355860.0
+},
+{
+"source": "The Verge",
+"title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+"link": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+"summary": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign o…",
+"published": 1792351800.0
+},
+{
+"source": "TechCrunch",
+"title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+"link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+"summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+"published": 1792350218.0
+},
+{
+"source": "The Verge",
+"title": "A woman was arrested in Philly for blocking a delivery robot",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+"summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers…",
+"published": 1792348090.0
+},
+{
+"source": "TechCrunch",
+"title": "Disney agrees to hire the majority of Character.AI’s workforce",
+"link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+"summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+"published": 1792341000.0
+},
+{
+"source": "The Verge",
+"title": "Video game ownership bill introduced in Congress",
+"link": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+"summary": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ow…",
+"published": 1792340871.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Mobility: Rivian’s next act",
+"link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+"summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+"published": 1792339500.0
+},
+{
+"source": "Solidot",
+"title": "指纹显示秦始皇兵马俑的制作者有男有女有儿童",
+"link": "https://www.solidot.org/story?sid=85643",
+"summary": "考古学家长期以来认为秦始皇兵马俑全是由成年男性工匠制作的。但俑上的指纹显示，男性、女性甚至儿童都参与了这项宏大工程。秦始皇帝陵博物院的考古学家从同一发掘坑内的 36 尊兵马俑上提取出 91 枚指纹，其中 12 枚指纹被认为是个别人留下的重复指纹而剔除。研究人员分析了剩下的 79 枚指纹，它们分布在兵马俑的各个部位——头部、手臂、盔甲、手部、领口，甚至还有脚部——显然是制作过程中无意留下的。其中 73 枚指纹是在塑形、成型和组装过程中留下的，6 枚是将预先制作好的装饰如盔甲铆钉…",
+"published": 1792336498.0
+},
+{
+"source": "The Verge",
+"title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+"link": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+"summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in…",
+"published": 1792335600.0
+},
+{
+"source": "Solidot",
+"title": "退休教授因阻止 Uber Eats 机器人送货被捕",
+"link": "https://www.solidot.org/story?sid=85642",
+"summary": "宾夕法尼亚大学 78 岁的荣休教授 Marvin 本周因拒绝给 Uber Eats 的送货机器人让路而被捕。她表示自己记不得多少次挡住机器人的路了，称自己在进行抗议，旨在反对“为增加自身利润而用机器人取代人类送货员的企业”。Marvin 说，她在现场停留了“相当长一段时间”，警察过来要求她让路，让机器人完成送货任务。在她多次拒绝后，警方以扰乱治安为由将她逮捕。Marvin 并未因这次逮捕而退缩，她计划以“美国宪法第一修正案赋予的抗议权利”为由，对这项指控提出抗辩。她打算继续阻…",
+"published": 1792334588.0
+},
+{
+"source": "Solidot",
+"title": "内核开发者递交代码无需声明是否 AI 辅助编写",
+"link": "https://www.solidot.org/story?sid=85641",
+"summary": "Linux 邮件列表中的一则消息披露，2026 年 10 月 8 日捷克布拉格举行的维护者峰会（Maintainers Summit）达成了一项重大决策：向内核提交代码时，无需再使用“Assisted-by”标签。这意味着内核开发者递交代码无需声明是否 AI 辅助编写。Linux 作者 Linus Torvalds 认为，禁止使用 AI 就像禁止使用文本编辑器是极其愚蠢的规定，表示他认为从事内核开发的人知道他们在做什么。他本周递交了一组用 Claude Code 开发的补丁，…",
+"published": 1792333697.0
+},
+{
+"source": "Solidot",
+"title": "Meta 新增条款允许其抓取客户内容并用于训练 AI",
+"link": "https://www.solidot.org/story?sid=85640",
+"summary": "Meta 修改了其商业服务条款，新条款将于 2026 年 10 月 30 日生效。新增条款赋予了 Meta 一项权利，允许它使用自动化软件抓取客户内容，将其用于改进包括 AI 模型在内的公司产品。所谓的自动化软件包括了网页抓取工具、机器人、爬虫及用户智能体。News/Media Alliance 总裁 Danielle Coffey 发表声明谴责 Meta 的做法，认为此举涉嫌违法。法学教授 Eric Goldman 认为，新增服务条款存在程序和实质层面的问题，他表示尽管他倾…",
+"published": 1792332615.0
+},
+{
+"source": "The Verge",
+"title": "J Mascis has nothing better to do",
+"link": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+"summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a…",
+"published": 1792332000.0
+},
+{
+"source": "The Verge",
+"title": "Trump says Google kisses his ass",
+"link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+"summary": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to re…",
+"published": 1792329901.0
+},
+{
+"source": "The Verge",
+"title": "The best gadget I bought this year is a milk frother",
+"link": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+"summary": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I un…",
+"published": 1792328400.0
+},
+{
+"source": "The Verge",
+"title": "How overhead projectors took over your classroom",
+"link": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+"summary": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projec…",
+"published": 1792328101.0
+},
+{
+"source": "The Verge",
+"title": "Cities want to put the boot on robotaxis",
+"link": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. …",
+"published": 1792324800.0
+},
+{
+"source": "爱范儿",
+"title": "消费电子太无聊，连设计大师都想逃",
+"link": "https://www.ifanr.com/1683441?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "好设计的坏时代#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1792314658.0
+},
+{
+"source": "36氪",
+"title": "老板们不再把钱交给VC了",
+"link": "https://36kr.com/p/4031081236042116?f=rss",
+"summary": "家办，正在成为中国一级市场上冉冉升起的一股新势力。 作者 陶辉东 编辑 王庆武 不知道你有没有注意到，“家办”这两个字今年越来越频繁的出现在融资通稿里。 2月，千寻智能完成近20亿融资，投资方名单中明确列出了“明荟投资（汇川技术董事长朱兴明家办）”。 5月，Zenbot 宣布完成近亿元人民币天使轮，联合领投的是“长盈精密、科达利、肇民科技等精密制造细分领军企业的家族办公室”。 7月，无界智航获近亿元天使轮融资，“特步家办”出现在通稿里。 9月份，地瓜机器人宣布完成4亿美元C轮…",
+"published": 1792310127.0
+},
+{
+"source": "少数派",
+"title": "Quote/0 妙用 +1，把墨水屏变成点餐助手",
+"link": "https://sspai.com/post/115241",
+"summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+"published": 1792306862.0
+},
+{
+"source": "36氪",
+"title": "前华为车BU世界模型基模负责人创业，杭州具身大脑公司获近亿元融资｜硬氪首发",
+"link": "https://36kr.com/p/4025325566054529?f=rss",
+"summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身大脑公司「格物通智」已完成近亿元天使轮融资，投资方包括匹克投资、鸿富资产、杭州资本、杭州人才集团、某省级具身产投及多家头部上市公司。资金将主要用于物理反演世界模型的大规模预训练与技术迭代、硬件与本体构建等，加快人才引进和规模扩充，并推进多个场景PoC验证和真实数据采集。Maple Pledge 枫承资本出任本轮独家私募股权融资顾问。 格物通智卡位杭州，于2026年8月成立，首轮即获得杭州市级层面三支基金的支持，包括杭州润苗基金、杭州颠覆…",
+"published": 1792287000.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "DeepSeek releases updated V4.1-Flash model it says completes tasks faster",
+"link": "https://siliconangle.com/2026/10/18/deepseek-releases-updated-v4-1-flash-model-it-says-completes-tasks-faster/",
+"summary": "Chinese artificial intelligence startup Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co. Ltd. has released an updated version of its V4.1-Flash model that it says completes tasks faster. DeepSeek-V4.1-Flash-1017 arriv…",
+"published": 1792362844.0
+}
+]
+}
+}

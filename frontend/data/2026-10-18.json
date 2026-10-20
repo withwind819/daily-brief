@@ -1,6 +1,6 @@
 {
 "date": "2026-10-18",
-"total": 47,
+"total": 50,
 "categories": {
 "AI": [
 {
@@ -16,6 +16,13 @@
 "link": "https://www.infoq.cn/article/UdT804ujpGxrv0pQfxv2?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1792364283.0
+},
+{
+"source": "HN AI 热门",
+"title": "If you don't run your own LLM proxy, how do you know whats going on?",
+"link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+"summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 292 # Comments: 209",
+"published": 1792357752.0
 },
 {
 "source": "HN AI 热门",
@@ -51,6 +58,20 @@
 "link": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
 "summary": "Four AI agents running on Google's Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous run. With no predefined roles or strategies, they coordinated on their own, wrote …",
 "published": 1792327191.0
+},
+{
+"source": "HN AI 热门",
+"title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+"link": "https://www.vals.ai/blogs/impossible-refund",
+"summary": "Article URL: https://www.vals.ai/blogs/impossible-refund Comments URL: https://news.ycombinator.com/item?id=50140462 Points: 102 # Comments: 122",
+"published": 1792326178.0
+},
+{
+"source": "量子位",
+"title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+"link": "https://www.qbitai.com/2026/10/504136.html",
+"summary": "让人人都能自由创造并体验可交互世界",
+"published": 1792324189.0
 },
 {
 "source": "The Decoder",

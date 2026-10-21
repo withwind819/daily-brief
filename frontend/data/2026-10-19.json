@@ -1,6 +1,6 @@
 {
 "date": "2026-10-19",
-"total": 113,
+"total": 114,
 "categories": {
 "AI": [
 {
@@ -72,6 +72,13 @@
 "link": "https://www.infoq.cn/article/2uG3W14THqtLhb5Vou51?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1792420704.0
+},
+{
+"source": "量子位",
+"title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+"link": "https://www.qbitai.com/2026/10/504277.html",
+"summary": "同步搭建千比特规模量子算力云平台",
+"published": 1792420406.0
 },
 {
 "source": "InfoQ 中国",

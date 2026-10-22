@@ -1,8 +1,15 @@
 {
 "date": "2026-10-20",
-"total": 154,
+"total": 156,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "On AI writing",
+"link": "https://www.bolkunov.com/p/on-ai-writing",
+"summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 92 # Comments: 60",
+"published": 1792526111.0
+},
 {
 "source": "The Decoder",
 "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
@@ -51,6 +58,13 @@
 "link": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/",
 "summary": "OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 87.4 percent test pass rate across 20 languages, up from about 38 percent for GPT…",
 "published": 1792514429.0
+},
+{
+"source": "HN AI 热门",
+"title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+"link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+"summary": "Article URL: https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop Comments URL: https://news.ycombinator.com/item?id=50168190 Points: 183 # Comments: 228",
+"published": 1792511306.0
 },
 {
 "source": "InfoQ 中国",

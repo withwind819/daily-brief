@@ -1,6 +1,6 @@
 {
 "date": "2026-10-21",
-"total": 137,
+"total": 142,
 "categories": {
 "AI": [
 {
@@ -200,6 +200,13 @@
 "published": 1792584000.0
 },
 {
+"source": "量子位",
+"title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+"link": "https://www.qbitai.com/2026/10/504734.html",
+"summary": "医疗AI质变时刻",
+"published": 1792582259.0
+},
+{
 "source": "InfoQ 中国",
 "title": "AI 能否取代渗透测试？Cloudflare 的答案是：必须套上测试框架",
 "link": "https://www.infoq.cn/article/R2z2kCkRHhXwGqDZeMKN?utm_source=rss&utm_medium=article",
@@ -219,6 +226,13 @@
 "link": "https://www.infoq.cn/article/BQJltkL1FJ9AG3cMeUmB?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1792576800.0
+},
+{
+"source": "量子位",
+"title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+"link": "https://www.qbitai.com/2026/10/504730.html",
+"summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+"published": 1792575922.0
 },
 {
 "source": "InfoQ 中国",
@@ -242,6 +256,13 @@
 "published": 1792571574.0
 },
 {
+"source": "量子位",
+"title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+"link": "https://www.qbitai.com/2026/10/504653.html",
+"summary": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
+"published": 1792566905.0
+},
+{
 "source": "OpenAI 博客",
 "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
 "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
@@ -256,11 +277,25 @@
 "published": 1792566000.0
 },
 {
+"source": "量子位",
+"title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
+"link": "https://www.qbitai.com/2026/10/504638.html",
+"summary": "百万台搭载打底，智驾普及与安全并重",
+"published": 1792564846.0
+},
+{
 "source": "OpenAI 博客",
 "title": "Using thousands of AI agents to uncover new leads in biological data",
 "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
 "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
 "published": 1792558200.0
+},
+{
+"source": "量子位",
+"title": "实探宁德时代总部：“去宁化”是喊太大声了",
+"link": "https://www.qbitai.com/2026/10/504618.html",
+"summary": "电池开发，分工远比想象复杂",
+"published": 1792557356.0
 },
 {
 "source": "量子位",

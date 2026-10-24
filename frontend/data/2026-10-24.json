@@ -1,0 +1,38 @@
+{
+"date": "2026-10-24",
+"total": 4,
+"categories": {
+"科技": [
+{
+"source": "36氪",
+"title": "美股三大指数集体收跌 油气股大涨",
+"link": "https://36kr.com/newsflashes/4039187735368579?f=rss",
+"summary": "36氪获悉，美股三大指数集体收跌，道指跌1.24%，本周累计上涨0.41%；纳指跌0.21%，本周累计下跌0.71%；标普500指数跌0.52%，本周累计下跌0.47%。热门科技股多数下跌，谷歌跌超1%，亚马逊、Meta跌近1%，SpaceX涨超1%。油气板块大涨，雪佛龙、埃克森美孚、壳牌涨超2%。",
+"published": 1792804454.0
+},
+{
+"source": "36氪",
+"title": "9点1氪丨国内大模型均价涨至13元；原“死了么”APP公布收费标准，最高199元/年；寒武纪第三季度净利润14.04亿元，同比增长147.74%",
+"link": "https://36kr.com/p/4039177193411718?f=rss",
+"summary": "今日热点导览 微信紧急更新适配iPhoneDuo 证监会核准设立花旗证券中国公司 国际金价跌破4000，现货黄金创7月以来新低 人民币兑美元中间价报6.7180，上调15点 沃尔沃第三季度由盈转亏，将再砍2500个岗位 TOP3大新闻 国内大模型均价涨至13元 10月23日，中国信通院人工智能所联合发布《大模型词元服务性能监测报告（2026年）》。报告提出，经历了过去两年价格战后，2026年国内外模型服务价格明显上涨。国内2025下半年归一化均价为6.8元，而今年以来均价为1…",
+"published": 1792804010.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
+"link": "https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩 · 沃尔沃汽车拟全球裁减约 2500 个岗位 · 华为 Pura90 Plus 开启预订#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1792801609.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
+"link": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
+"summary": "Moonshot AI today introduced Kim K3.1 Pro, a large language model that can perform some tasks better than Claude Opus 5.5 and GPT-6 Astra. The LLM is a post-trained, or upgraded, version of an algorithm that the Chinese artificial intellige…",
+"published": 1792803353.0
+}
+]
+}
+}

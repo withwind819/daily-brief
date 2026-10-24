@@ -1,6 +1,6 @@
 {
 "date": "2026-10-21",
-"total": 142,
+"total": 145,
 "categories": {
 "AI": [
 {
@@ -298,6 +298,13 @@
 "published": 1792557356.0
 },
 {
+"source": "HN AI 热门",
+"title": "Using LLM for confidence scoring is a bad idea",
+"link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+"summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html Comments URL: https://news.ycombinator.com/item?id=50176082 Points: 223 # Comments: 100",
+"published": 1792556871.0
+},
+{
 "source": "量子位",
 "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
 "link": "https://www.qbitai.com/2026/10/504608.html",
@@ -543,6 +550,20 @@
 "link": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
 "summary": "Waymo only just started offering rides to the public in Las Vegas in September but is already serving a 24-square-mile area in the city.",
 "published": 1792601984.0
+},
+{
+"source": "Solidot",
+"title": "坏苹果效应：人们会效仿他人的违规行为",
+"link": "https://www.solidot.org/story?sid=85679",
+"summary": "俗话说，一颗烂苹果，能毁掉一整桶好苹果。发表在《Proceedings of the Royal Society B》期刊上的一项研究再次为坏苹果效应提供了证据。这项研究旨在探讨个人如何在社会情境中做出是否违规的决策。研究人员说，很多人可能以为自己的决策是完全自主做出的，但事实上在很多情况下，我们的行为深受他人的影响。研究人员在美国招募了 750 名参与者进行了一项在线实验，共和党人和民主党人的比例大致相当。研究结果显示了他人的选择如何产生影响：看到别人遵守规则会略微降低个人…",
+"published": 1792600862.0
+},
+{
+"source": "Solidot",
+"title": "鸟类是地球最重要的养分搬运者之一",
+"link": "https://www.solidot.org/story?sid=85678",
+"summary": "鸟类在塑造地球化学环境上的作用被低估了，它们是地球最重要的养分搬运者之一。研究人员揭示了鸟类如何通过自身的排泄物和身躯，将养分在陆地、湖泊和海洋之间搬运。这一过程深深影响着从土壤和水体的化学性质，到动植物的生长。飞行能力让鸟类能跨越广阔的距离，甚至逾越海洋和山脉等天然屏障。鸟类在处理和循环养分上也极其高效。鸟类的食物摄入率比体型相当的哺乳动物高出约 30%。因此鸟类始终处于进食状态——它们大量摄取富含氮和磷的种子、昆虫、无脊椎动物及果实——并以极高的速率释放出养分。鸟类会将高…",
+"published": 1792596351.0
 },
 {
 "source": "爱范儿",

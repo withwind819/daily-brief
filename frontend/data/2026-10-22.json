@@ -1,6 +1,6 @@
 {
 "date": "2026-10-22",
-"total": 123,
+"total": 129,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,13 @@
 "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
 "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capabili…",
 "published": 1792703849.0
+},
+{
+"source": "HN AI 热门",
+"title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+"link": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
+"summary": "Article URL: https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085 Comments URL: https://news.ycombinator.com/item?id=50200843 Points: 89 # Comments: 67",
+"published": 1792702283.0
 },
 {
 "source": "InfoQ 中国",
@@ -32,11 +39,25 @@
 "published": 1792694884.0
 },
 {
+"source": "HN AI 热门",
+"title": "AI and the Enclosure of the Scientific Commons",
+"link": "https://arxiv.org/abs/2610.27251",
+"summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 137 # Comments: 80",
+"published": 1792693696.0
+},
+{
 "source": "The Decoder",
 "title": "Major US banks are locking out AI agents that log in with customer credentials",
 "link": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
 "summary": "Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions. Morgan Stanley has blocked agents, while other banks are restricting ac…",
 "published": 1792693562.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+"link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+"summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycom…",
+"published": 1792692174.0
 },
 {
 "source": "InfoQ 中国",
@@ -51,6 +72,13 @@
 "link": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
 "summary": "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on-premises environmen…",
 "published": 1792691409.0
+},
+{
+"source": "HN AI 热门",
+"title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+"link": "https://github.com/NVIDIA/OpenShell",
+"summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 489 # Comments: 213",
+"published": 1792691046.0
 },
 {
 "source": "InfoQ 中国",
@@ -79,6 +107,13 @@
 "link": "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/",
 "summary": "Only 13 percent of companies are getting real business value from their AI investments, according to a Gartner survey of 2,002 CIOs. At the same time, 51 percent expect AI to actually increase their operating costs. Yet 75 percent of CEOs p…",
 "published": 1792685882.0
+},
+{
+"source": "HN AI 热门",
+"title": "Every AI model has the same \"controversial\" take on humans",
+"link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+"summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 616 # Comments: 593",
+"published": 1792685280.0
 },
 {
 "source": "InfoQ 中国",
@@ -156,6 +191,13 @@
 "link": "https://www.infoq.cn/article/0vwVMhufb66SBofWsvRz?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1792660260.0
+},
+{
+"source": "量子位",
+"title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+"link": "https://www.qbitai.com/2026/10/504879.html",
+"summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+"published": 1792660025.0
 },
 {
 "source": "MIT科技评论 AI",

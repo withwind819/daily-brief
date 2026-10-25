@@ -1,6 +1,6 @@
 {
 "date": "2026-10-20",
-"total": 156,
+"total": 157,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,13 @@
 "link": "https://www.bolkunov.com/p/on-ai-writing",
 "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing Comments URL: https://news.ycombinator.com/item?id=50171771 Points: 92 # Comments: 60",
 "published": 1792526111.0
+},
+{
+"source": "HN AI 热门",
+"title": "A practical guide to AI image generation, from diffusion to agents",
+"link": "https://danielball.com/notes/ai_image_generation.html",
+"summary": "Article URL: https://danielball.com/notes/ai_image_generation.html Comments URL: https://news.ycombinator.com/item?id=50171379 Points: 243 # Comments: 81",
+"published": 1792524159.0
 },
 {
 "source": "The Decoder",

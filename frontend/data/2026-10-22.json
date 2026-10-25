@@ -1,6 +1,6 @@
 {
 "date": "2026-10-22",
-"total": 129,
+"total": 130,
 "categories": {
 "AI": [
 {
@@ -37,6 +37,13 @@
 "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
 "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to bui…",
 "published": 1792694884.0
+},
+{
+"source": "HN AI 热门",
+"title": "Show HN: UI micro interactions prompts for AI",
+"link": "https://www.typeui.sh/micro-interactions",
+"summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 80 # Comments: 45",
+"published": 1792693977.0
 },
 {
 "source": "HN AI 热门",

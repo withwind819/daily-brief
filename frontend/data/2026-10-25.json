@@ -1,0 +1,234 @@
+{
+"date": "2026-10-25",
+"total": 32,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "Cloudflare 的 OHTTP 网关拒绝解密通过 Cloudflare 传入的请求",
+"link": "https://www.infoq.cn/article/4647jBOxmf3Ut0i1aVbx?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1792936800.0
+},
+{
+"source": "InfoQ 中国",
+"title": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
+"link": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1792924200.0
+},
+{
+"source": "The Decoder",
+"title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
+"link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
+"summary": "Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open system, built on three fine-tuned Qwen3.5 models, catches errors in robot actions…",
+"published": 1792922929.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
+"link": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
+"summary": "A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arrive by 2027. The artic…",
+"published": 1792921066.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
+"link": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
+"summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a mig…",
+"published": 1792919530.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock",
+"link": "https://www.infoq.cn/article/BHWP4JJDeExZZWsifFlg?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1792919160.0
+},
+{
+"source": "The Decoder",
+"title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
+"link": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/",
+"summary": "In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won't be decided by breakthroughs but by who ca…",
+"published": 1792915772.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
+"link": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
+"summary": "OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching. Anthropic's growth has slowed, but OpenAI is trading its own margins …",
+"published": 1792913411.0
+},
+{
+"source": "The Decoder",
+"title": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
+"link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
+"summary": "Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 built an open training environment with more than 110 applications, including 35…",
+"published": 1792911322.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "私募借道ETF配置资产，科创、港股两大主题受青睐",
+"link": "https://36kr.com/newsflashes/4041916396639365?f=rss",
+"summary": "今年尽管市场波动相对较大，但私募资金借道ETF配置资产热情不减。私募排排网统计显示，截至10月25日，已有151家私募管理人及其产品现身207只年内新成立ETF的前十大持有人，合计持有份额23.25亿份。从持仓方向来看，港股、科创两大主题ETF最受私募青睐。数据显示，42家私募管理人及产品布局30只名称含“港股”“恒生”的新发ETF，合计持有3.36亿份，占私募持有新发ETF总份额的14.45%。其中工银港股通医疗ETF、博时恒指港股通ETF、国联恒生港股通科技ETF等13只…",
+"published": 1792972767.0
+},
+{
+"source": "36氪",
+"title": "55只机器人主题指数基金上周净值增长率超10%",
+"link": "https://36kr.com/newsflashes/4041915781616520?f=rss",
+"summary": "上周（10月19日至23日，下同）指数基金整体交投活跃，其中机器人主题被动指数型基金净值增长明显，充分体现出工具化产品的配置价值。万得数据显示，55只机器人主题指数基金（A/C分开统计）上周净值增长率均超10%，排名居前的6只产品净值增长率更是超过17%；同时，从跟踪标的指数来看，跟踪国证机器人产业指数的产品净值增长率普遍高于跟踪中证机器人指数的产品。（证券日报）",
+"published": 1792972631.0
+},
+{
+"source": "少数派",
+"title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
+"link": "https://sspai.com/post/117460",
+"summary": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患Spotify 将要求家庭组成员定期扫码验证Arc 浏览器宣布下线央广总台澄清「国补停止」说法谷歌建设虚拟电厂，付费激励电网用户省电留给 AIiTunes Store 重受歌手青睐看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+"published": 1792971396.0
+},
+{
+"source": "The Verge",
+"title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+"link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+"summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. Tha…",
+"published": 1792964427.0
+},
+{
+"source": "TechCrunch",
+"title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+"link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+"summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+"published": 1792963876.0
+},
+{
+"source": "The Verge",
+"title": "Scott Walker’s The Drift will get under your skin",
+"link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+"summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, …",
+"published": 1792962489.0
+},
+{
+"source": "TechCrunch",
+"title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+"link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+"summary": "\"That's a 12-year-old view of the world.\"",
+"published": 1792959608.0
+},
+{
+"source": "The Verge",
+"title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+"link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+"summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then aud…",
+"published": 1792959379.0
+},
+{
+"source": "The Verge",
+"title": "Zen Browser is the Arc replacement I was looking for",
+"link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+"summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developin…",
+"published": 1792956290.0
+},
+{
+"source": "The Verge",
+"title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+"link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+"summary": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made f…",
+"published": 1792947600.0
+},
+{
+"source": "TechCrunch",
+"title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+"link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+"summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+"published": 1792947452.0
+},
+{
+"source": "The Verge",
+"title": "Now you can watch Instagram Reels on your Apple TV",
+"link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+"summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen i…",
+"published": 1792945217.0
+},
+{
+"source": "Solidot",
+"title": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
+"link": "https://www.solidot.org/story?sid=85706",
+"summary": "为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工程暂时停工，Google 芬兰高管已为此道歉。Google 砍伐森林的一个后果是由于猎物减少，狼群进入了附近的村庄寻找食物。 当地居民表示，由于森林里的野生动物全都离开了，狼进村了。Google 还在另一个数据中心选址砍伐了 15 万棵树。芬兰不是唯一一个为建造数据中心而生态系统遭到破坏的地方。美国西弗吉尼亚州的栗子树…",
+"published": 1792944971.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+"link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+"summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+"published": 1792944300.0
+},
+{
+"source": "Solidot",
+"title": "深水地平线漏油事件 16 年后海洋仍未恢复",
+"link": "https://www.solidot.org/story?sid=85705",
+"summary": "2010 年英国石油公司的深水地平线（Deepwater Horizon）深海钻油平台发生井喷并爆炸，引发了史上规模最大的石油泄漏事故。在封堵油井的 87 天内，有约 1.34 亿加仑原油和 77 亿标准立方英尺的天然气泄漏到墨西哥湾。16 年后，墨西哥湾的深海生态系统仍未从灾难中恢复。研究人员在 2011 年，2015-2023 年收集了样本，发现深海中上层物种的数量急剧下降。数据显示，鱼类数量下降了 63.5%，甲壳类动物下降了 62%，头足类动物（主要指鱿鱼）下降了 5…",
+"published": 1792941753.0
+},
+{
+"source": "TechCrunch",
+"title": "The hottest AI wearables and gadgets you should know about",
+"link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+"summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+"published": 1792937400.0
+},
+{
+"source": "The Verge",
+"title": "r/opensource just banned AI, non-English speakers, and more",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+"summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on …",
+"published": 1792934732.0
+},
+{
+"source": "The Verge",
+"title": "Google’s AI search changes upended online publishing",
+"link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The S…",
+"published": 1792929600.0
+},
+{
+"source": "Solidot",
+"title": "撸狗有助于抵抗下一次压力",
+"link": "https://www.solidot.org/story?sid=85703",
+"summary": "自古以来，人类就从抚摸狗中获得慰藉。大量研究承认养宠物对福祉的益处，但驱动这些益处的机制仍不清楚。在一项研究中，研究人员邀请了 64 名狗主人及其宠物来到实验室，研究抚摸狗是否能帮助人们更好地应对压力，以及身体接触是否是这种对大脑和身体产生影响的关键。研究人员设计了实验，以分离触摸狗如何影响人在压力期间和之后的大脑、心脏和情绪状态。51 名女性和 13 名男性，平均年龄 34 岁，带着自己的宠物狗参加了研究。狗必须至少 2 岁、健康，并在新环境中感到舒适。团队追踪了参与者的大…",
+"published": 1792926470.0
+},
+{
+"source": "少数派",
+"title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
+"link": "https://sspai.com/post/114741",
+"summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+"published": 1792909831.0
+},
+{
+"source": "36氪",
+"title": "一颗AI毫米波雷达，千里科技在补哪一环",
+"link": "https://36kr.com/p/4040807584863111?f=rss",
+"summary": "10月23日，千里科技发布了一颗AI毫米波雷达。在公开信息范围内，这是首个在雷达内部集成10 TOPS算力NPU的方案，雷达自身就能完成目标检测和分类，同时支持边缘侧、卫星与兼容三种工作模式。 这不是一次单纯的产品线扩充。 过去两年，智驾行业的竞争集中在模型上，谁的端到端更强，谁的数据闭环转得更快。但当模型的能力开始受限于传感器给到的原始信息，竞争就会往上游走一层，走到硬件。 这颗雷达要回答的问题，是当模型已经足够强，感知这一端还能不能被改写。 为什么雷达要开始装AI 智驾眼…",
+"published": 1792903755.0
+},
+{
+"source": "爱范儿",
+"title": "iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？",
+"link": "https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "还没捂热呢#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1792901444.0
+},
+{
+"source": "36氪",
+"title": "吉大刘春宝孵化，00后团队创业仿生灵巧脸，拿下数千万融资丨36氪首发",
+"link": "https://36kr.com/p/4040083368629381?f=rss",
+"summary": "图源/企业 本文约3500字，建议阅读9分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，仿生灵巧脸与情感交互技术公司——杭州灵颜科技有限公司（下称“灵颜科技”）近期已完成数千万元种子轮及种子+轮融资。种子轮投资人包括盈动资本、浙江火炬中心，种子+轮投资人包括毅达资本、梅花创投、领甪资本，老股东盈动资本继续追加投资。领甪资本担任本轮及后续轮次财务顾问。资金将主要用于产品迭代、核心零部件研发、算法平台建设以及团队扩充。 在具身智能与人形机器人产业狂飙突进的当下，当多数目光聚焦于机器人的…",
+"published": 1792890000.0
+}
+]
+}
+}

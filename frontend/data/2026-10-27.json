@@ -1,0 +1,222 @@
+{
+"date": "2026-10-27",
+"total": 30,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+"link": "https://www.infoq.cn/article/TrI8l3CYeAJER9tgR5Jt?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793092440.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "中信证券：预计26Q4国内铝价为22500元/吨",
+"link": "https://36kr.com/newsflashes/4043438201296002?f=rss",
+"summary": "36氪获悉，中信证券发布Q4大宗商品展望报告。报告称，印尼扩产及中东复产使中期电解铝供给压力上升，但海外边际产能成本及新增项目投资回报要求仍为铝价提供支撑，我们预计26Q4国内铝价为22500元/吨。碳酸锂当前库存仍低，但电池排产与锂盐采购需求增速或放缓，非洲锂精矿到港增加有望带动供应恢复，锂盐去库速度或随之放缓，价格面临调整压力。",
+"published": 1793065260.0
+},
+{
+"source": "36氪",
+"title": "鹏辉能源：人形机器人电池方面与国内头部客户有合作和小批量送样",
+"link": "https://36kr.com/newsflashes/4043450344805248?f=rss",
+"summary": "鹏辉能源10月26日在电话会议上表示，AIDC业务方面，公司相关电池产品处于客户导入与验证阶段，其中UPS备电电芯正在接受客户验厂，争取早日通过验厂，BBU产品已送样测试，暂未形成规模化的正式下单采购。人形机器人电池方面，公司和国内的头部客户有合作和小批量送样。（证券时报）",
+"published": 1793064984.0
+},
+{
+"source": "36氪",
+"title": "航聚科技启动IPO辅导",
+"link": "https://36kr.com/newsflashes/4043438596199305?f=rss",
+"summary": "36氪获悉，证监会网站披露，湖北航聚科技股份有限公司（简称“航聚科技”）于2026年10月26日在湖北证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为长江证券承销保荐有限公司。",
+"published": 1793064804.0
+},
+{
+"source": "36氪",
+"title": "国家统计局：中国9月规模以上工业企业利润同比 14.4%",
+"link": "https://36kr.com/newsflashes/4043451473351554?f=rss",
+"summary": "36氪获悉，国家统计局数据显示，1—9月份，全国规模以上工业企业实现利润总额60337.4亿元，同比增长15.5%。1—9月份，规模以上工业企业中，国有控股企业实现利润总额19395.5亿元，同比增长13.1%；股份制企业实现利润总额46727.6亿元，增长20.8%；外商及港澳台投资企业实现利润总额13371.4亿元，增长0.5%；私营企业实现利润总额15091.3亿元，增长8.7%。9月份，规模以上工业企业利润同比增长14.4%。",
+"published": 1793064692.0
+},
+{
+"source": "36氪",
+"title": "A股三大指数集体高开，天孚通信涨超3%",
+"link": "https://36kr.com/newsflashes/4043446558971008?f=rss",
+"summary": "36氪获悉，A股三大指数集体高开，沪指高开0.02%，深成指高开0.49%，创业板指高开0.89%；通信设备、半导体板块领涨，天孚通信涨超3%，联讯仪器、中际旭创、长鑫科技涨超2%；煤炭、油气板块跌幅居前，兰花科创跌超6%，统一股份跌超5%，中国神华跌超1%。",
+"published": 1793064392.0
+},
+{
+"source": "36氪",
+"title": "中国央行逆回购今日净投放10140亿元人民币",
+"link": "https://36kr.com/newsflashes/4043443657610119?f=rss",
+"summary": "36氪获悉，中国央行今日开展4120亿元人民币7天期逆回购操作，利率1.40%（上次为1.40%）。今日进行10000亿元人民币隔夜逆回购操作。",
+"published": 1793064215.0
+},
+{
+"source": "36氪",
+"title": "恒指开盘涨0.21%，恒生科技指数涨0.74%",
+"link": "https://36kr.com/newsflashes/4043443221238915?f=rss",
+"summary": "36氪获悉，恒指开盘涨0.21%，恒生科技指数涨0.74%；半导体、医药板块领涨，药明康德、华虹宏力涨超4%，澜起科技、兆易创新涨超3%；电气设备、银行板块跌幅居前，大金重工跌超2%，宁德时代跌超1%。",
+"published": 1793064188.0
+},
+{
+"source": "36氪",
+"title": "人民币兑美元中间价报6.7171，下调9点",
+"link": "https://36kr.com/newsflashes/4043436893770885?f=rss",
+"summary": "36氪获悉，人民币兑美元中间价报6.7171，下调9点；上一交易日中间价6.7162，上一交易日官方收盘价6.6681，上日夜盘报收6.6695。",
+"published": 1793063802.0
+},
+{
+"source": "36氪",
+"title": "中信证券：黄金买盘韧性支撑价格，铜价关注低库存与年底关税节点",
+"link": "https://36kr.com/newsflashes/4043435696804743?f=rss",
+"summary": "36氪获悉，中信证券发布Q4大宗商品展望报告。报告称，尽管美联储加息及紧缩预期对金价形成扰动，9月全球黄金ETF仍净流入67吨，投资需求呈现韧性；全球“去美元化”趋势及央行购金需求延续有望为金价形成有效托底。铜方面，矿端增量预期持续下修，极端天气及硫酸等辅料供应扰动或进一步约束生产，国内精炼铜供给收缩与低库存支撑价格高位运行。美国精炼铜关税延后尚未取消，年底预期节点前的补库需求或带来额外价格弹性。",
+"published": 1793063729.0
+},
+{
+"source": "爱范儿",
+"title": "荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？",
+"link": "https://www.ifanr.com/1686003?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "「被迫」从次高端跃升到高端机行列，既是时代使然，也是一个必然的结果。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1793063580.0
+},
+{
+"source": "TechCrunch",
+"title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+"link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+"summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chi…",
+"published": 1793063541.0
+},
+{
+"source": "36氪",
+"title": "英矽智能：公布ISM6331首次人体I期临床试验初步积极数据",
+"link": "https://36kr.com/newsflashes/4043432360793222?f=rss",
+"summary": "36氪获悉，英矽智能在港交所公告，公司近日于2026年欧洲肿瘤内科学会（ESMO）年会上以快速口头报告形式发布ISM6331的首次人体I期临床试验初步积极数据。ISM6331是一款由Chemistry42生成式AI平台赋能设计的在研口服泛TEAD抑制剂。截至2026年8月14日数据截止日，在疗效可评估的间皮瘤受试者中，每日一次130mg剂量组的客观缓解率（ORR）达到40%，在30—130mg剂量范围内，首次肿瘤评估时的疾病控制率（DCR）达到68.2%。",
+"published": 1793063525.0
+},
+{
+"source": "36氪",
+"title": "“星链”风波引发警觉，欧洲欲投百亿再启自主雄心",
+"link": "https://36kr.com/newsflashes/4043430187029382?f=rss",
+"summary": "欧洲再次吹响航天自主号角。据欧洲新闻台10月26日报道，在罗马太空峰会即将召开之前，欧洲正考虑一项耗资100 亿欧元的计划，旨在独立将宇航员送上太空。尽管欧洲新闻台强调，此举目的并非放弃国际合作，而是以更高的自主性参与其中。但不难看出，在当前“星链”限速风波引发美欧嫌隙进一步加深的背景下，减少外部依赖，谋求技术自主才是欧洲的终极诉求。（央视新闻）",
+"published": 1793063393.0
+},
+{
+"source": "36氪",
+"title": "韩国央行官员：受HBM产品带动，预计明年芯片产量将上升",
+"link": "https://36kr.com/newsflashes/4043412564530308?f=rss",
+"summary": "据报道，韩国央行官员表示，受HBM产品带动，预计明年芯片产量将上升，价格将继续上涨但涨幅放缓。（第一财经）",
+"published": 1793063093.0
+},
+{
+"source": "36氪",
+"title": "荷航将暂停阿姆斯特丹至迪拜航线运营，直至3月27日",
+"link": "https://36kr.com/newsflashes/4043396044280708?f=rss",
+"summary": "当地时间10月26日，荷兰皇家航空公司在官网发表声明称，在2026/2027年冬季航班季期间，直至2027年3月27日（含该日），该公司将暂停运营阿姆斯特丹至迪拜的航班。此外，飞往利雅得和达曼的航班将停飞至2026年11月27日（含该日）。（界面）",
+"published": 1793062909.0
+},
+{
+"source": "36氪",
+"title": "中信证券：供给约束延续，原油、煤炭及橡胶价格仍有支撑",
+"link": "https://36kr.com/newsflashes/4043406554305672?f=rss",
+"summary": "36氪获悉，中信证券研报表示，展望2026年第四季度，紧缩预期扰动仍存，供给约束与低库存继续支撑部分商品价格。铜价有望高位运行，煤价旺季或上行，原油预计高位震荡，橡胶有望偏强运行，黄金ETF及央行购金需求有望为金价托底。电解铝成本支撑仍存，中期供给压力上升。碳酸锂关注供应恢复与需求放缓带来的压力，钢铁、铁矿石预计低位筑底，硅产品等待库存与政策指引。",
+"published": 1793062730.0
+},
+{
+"source": "36氪",
+"title": "乐天旅行网站遭黑客入侵，信用卡信息被盗",
+"link": "https://36kr.com/newsflashes/4043405752685440?f=rss",
+"summary": "乐天集团在周一发布的声明中称，其旅行预订网站遭到非法访问，包括信用卡信息在内的资料被盗。该事件于9月10日被发现。被盗信息包含姓名、电子邮箱、电话号码，以及约3.6万名用户的支付信息。支付信息包括卡号后四位、发卡机构识别码和有效期。（新浪财经）",
+"published": 1793062559.0
+},
+{
+"source": "36氪",
+"title": "华泰证券：看好国内潮玩龙头持续打开全球市场的前景，潮玩品类海外高增可期",
+"link": "https://36kr.com/newsflashes/4043403625600131?f=rss",
+"summary": "36氪获悉，华泰证券研报表示，2026年CTE中国玩具展&潮玩展于10月21-23日在上海举办，参观了多家头部潮玩公司展位，重点关注品牌出海、品类拓展及品牌建设进展。核心发现包括：1. 多种潮玩品类的欧美市场需求具备加速增长潜力，众多品牌“摩拳擦掌”，全球知名授权IP+中国创意及品质的组合拳潜力广阔；2. 国内市场正在消化高基数，价格带K型分化，体验+营销+渠道运营精细化，长尾企业出清利好龙头公司整合；3. 品类进一步向高端化、成人化突破，助力品牌心智建设。看好国内潮玩龙头持…",
+"published": 1793062371.0
+},
+{
+"source": "36氪",
+"title": "OpenAI宣布在数学、计算机科学、物理学领域取得三项新发现",
+"link": "https://36kr.com/newsflashes/4043403309552769?f=rss",
+"summary": "当地时间10月26日，OpenAI宣布在数学、计算机科学和物理学领域取得三项新发现，并表示其正在与学术界的合作中尝试一种新方法。三项新发现分别涉及调和分析、复杂性理论和量子场论。OpenAI表示，其已联系外部专家，请他们充当引导者，组织团队来理解研究结果。其补充称，参与者不会被要求签署保密协议，并可自由讨论相关工作、分享中间成果并发表其结论。该参与自愿且无报酬，具有独立性。此外，OpenAI表示，不会为其内部模型产生的这些发现寻求学术署名。（界面）",
+"published": 1793062232.0
+},
+{
+"source": "36氪",
+"title": "两市融资余额减少55.63亿元",
+"link": "https://36kr.com/newsflashes/4043409186722695?f=rss",
+"summary": "36氪获悉，截至10月26日，上交所融资余额报12346.97亿元，较前一交易日减少26.54亿元；深交所融资余额报11545.62亿元，较前一交易日减少29.09亿元；两市合计23892.59亿元，较前一交易日减少55.63亿元。",
+"published": 1793062111.0
+},
+{
+"source": "36氪",
+"title": "长期限大额存单密集返场，流动性成卖点",
+"link": "https://36kr.com/newsflashes/4043401339179906?f=rss",
+"summary": "曾经一度淡出市场的长期限大额存单，近期迎来密集返场。10月以来，恒丰银行等股份行及部分中小银行，陆续重启3年期、5年期大额存单发行。不同于过往单纯以高利率吸引储户的模式，本轮发行的大额存单相较普通定期存款的利率溢价普遍收窄，部分产品利率甚至低于本行同期限定期存款。在此背景下，由“可转让”机制带来的流动性价值，正成为吸引客户的核心支点。在净息差持续承压、存量高息存款集中到期的双重约束下，银行正借助大额存单的流动性溢价，在控制负债成本、稳住存量资金之间，寻找资产负债管理的平衡点。…",
+"published": 1793062011.0
+},
+{
+"source": "36氪",
+"title": "三季报披露进入高峰期，10只个股业绩大增",
+"link": "https://36kr.com/newsflashes/4043396841903241?f=rss",
+"summary": "三季报披露进入高峰期。据证券时报·数据宝统计，10月26日晚，共661股发布2026年三季报。在去年同期盈利基础上，10股前三季度净利润实现同比1000%以上增长。国科微、亿道信息、天华新能排名前三，净利润增速依次为5640.94%、2784.15%、2446.71%；建新股份、三维通信、佛塑科技、中洲控股、香农芯创、兰花科创、万凯新材等股净利润增速均在1000%以上。（证券时报）",
+"published": 1793061777.0
+},
+{
+"source": "少数派",
+"title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+"link": "https://sspai.com/post/117600",
+"summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...查看全文",
+"published": 1793060878.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨Anthropic正式提交IPO申请；寿司郎传送带被曝窜出活老鼠；苹果客服称很多客户取消iPhone Duo订单",
+"link": "https://36kr.com/p/4043364384707456?f=rss",
+"summary": "今日热点导览 Kimi致歉：将为会员提供重置机会 马斯克宣布X长按点赞可向对方转账1美元 微软向约6万名员工开放自愿离职方案，AI巨额投入挤压人力预算 中国石油午后涨近4%，创2008年5月以来新高 科学家展示全球首款织进衣服的触摸屏 TOP 3大新闻 Anthropic正式提交IPO申请 10月26日，Anthropic正式提交纳斯达克IPO申请，股票代码定为“ANT”。Anthropic上半年营收163亿美元，去年同期为12亿美元；上半年净亏损807亿美元。 Anthro…",
+"published": 1793059690.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
+"link": "https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速 · 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil · 华为畅享系列累计发货突破 1.6 亿台#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1793059581.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Three insights you may have missed from theCUBE’s coverage of Workiva’s Amplify event",
+"link": "https://siliconangle.com/2026/10/26/three-insights-you-may-have-missed-from-thecubes-coverage-of-workivas-amplify-event-amplify/",
+"summary": "Enterprise AI governance is moving into the data, workflows and controls that determine what automated systems can do. As agents take on consequential work in finance, audit, compliance and sustainability, organizations need results that ar…",
+"published": 1793065290.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Intel buys quantum software pioneer Classiq for $2.2B",
+"link": "https://siliconangle.com/2026/10/26/intel-buys-quantum-software-pioneer-classiq-for-2-2b/",
+"summary": "Intel Corp. said today it has agreed to the terms of a blockbuster acquisition for the quantum computing software startup Classiq Technologies Ltd. It’ll pay $2.2 billion to buy the Israeli company, making it the second-largest acquisition …",
+"published": 1793065217.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Cutting both ways: AI sharpens systems protection while opening new exploits for malicious actors",
+"link": "https://siliconangle.com/2026/10/26/cybersecurity-ai-resilience-recovery-thecube-aicybersecurityresiliencesummit/",
+"summary": "The cybersecurity industry is discovering that powerful frontier AI models are a double-edged sword. Companies can use models to identify vulnerabilities in source code and system configurations faster than ever before. As it turns out, mal…",
+"published": 1793064707.0
+},
+{
+"source": "SiliconANGLE",
+"title": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price",
+"link": "https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/",
+"summary": "OpenAI Group PBC today released GPT-6.1 Terra, an upgrade to the middle tier model in its lineup of frontier artificial intelligence systems. The new model, the successor to GTP-5.6 Terra, costs around 50% less while handling computer use t…",
+"published": 1793061574.0
+}
+]
+}
+}

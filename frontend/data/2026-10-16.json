@@ -1,6 +1,6 @@
 {
 "date": "2026-10-16",
-"total": 155,
+"total": 157,
 "categories": {
 "AI": [
 {
@@ -239,6 +239,20 @@
 "title": "Benefit Street Partners answers questions faster with Codex",
 "link": "https://openai.com/index/benefit-street-partners",
 "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+"published": 1792108800.0
+},
+{
+"source": "OpenAI 博客",
+"title": "How Grupo Boticário uses AI to strengthen human connections",
+"link": "https://openai.com/index/grupo-boticario",
+"summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role…",
+"published": 1792108800.0
+},
+{
+"source": "OpenAI 博客",
+"title": "How Localiza reorganized work around generative AI",
+"link": "https://openai.com/index/localiza-generative-ai",
+"summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
 "published": 1792108800.0
 }
 ],

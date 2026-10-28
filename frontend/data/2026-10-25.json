@@ -1,14 +1,42 @@
 {
 "date": "2026-10-25",
-"total": 32,
+"total": 38,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+"link": "https://minimaxir.com/2026/10/cheap-llms/",
+"summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 434 # Comments: 434",
+"published": 1792962691.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+"link": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+"summary": "Article URL: https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs Comments URL: https://news.ycombinator.com/item?id=50234699 Points: 96 # Comments: 62",
+"published": 1792953743.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+"link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+"summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=502…",
+"published": 1792945706.0
+},
 {
 "source": "InfoQ 中国",
 "title": "Cloudflare 的 OHTTP 网关拒绝解密通过 Cloudflare 传入的请求",
 "link": "https://www.infoq.cn/article/4647jBOxmf3Ut0i1aVbx?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1792936800.0
+},
+{
+"source": "HN AI 热门",
+"title": "Imagine an AI future where being banned means you are now economically useless",
+"link": "https://twitter.com/boneGPT/status/2114035719853265264",
+"summary": "Article URL: https://twitter.com/boneGPT/status/2114035719853265264 Comments URL: https://news.ycombinator.com/item?id=50230995 Points: 99 # Comments: 80",
+"published": 1792932440.0
 },
 {
 "source": "InfoQ 中国",
@@ -23,6 +51,13 @@
 "link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
 "summary": "Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open system, built on three fine-tuned Qwen3.5 models, catches errors in robot actions…",
 "published": 1792922929.0
+},
+{
+"source": "HN AI 热门",
+"title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+"link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+"summary": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 144 # Comments: 87",
+"published": 1792921877.0
 },
 {
 "source": "The Decoder",
@@ -65,6 +100,13 @@
 "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
 "summary": "Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 built an open training environment with more than 110 applications, including 35…",
 "published": 1792911322.0
+},
+{
+"source": "HN AI 热门",
+"title": "Cerebras Deploys Trillion-Parameter AI Models",
+"link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+"summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 367 # Comments: 142",
+"published": 1792892029.0
 }
 ],
 "科技": [

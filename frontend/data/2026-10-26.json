@@ -1,14 +1,28 @@
 {
 "date": "2026-10-26",
-"total": 117,
+"total": 135,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+"link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+"summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 178 # Comments: 75",
+"published": 1793054508.0
+},
 {
 "source": "OpenAI 博客",
 "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
 "link": "https://openai.com/index/greptile-code-review-codex-astra",
 "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
 "published": 1793052000.0
+},
+{
+"source": "HN AI 热门",
+"title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
+"link": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
+"summary": "Article URL: https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/ Comments URL: https://news.ycombinator.com/item?id=50251062 Points: 81 # Comments: 41",
+"published": 1793049239.0
 },
 {
 "source": "The Decoder",
@@ -39,6 +53,13 @@
 "published": 1793038093.0
 },
 {
+"source": "HN AI 热门",
+"title": "GPT-6.1 Terra",
+"link": "https://openai.com/index/introducing-gpt-6-1-terra/",
+"summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 624 # Comments: 418",
+"published": 1793037677.0
+},
+{
 "source": "The Decoder",
 "title": "Researchers find six patterns that make AI text so exhausting to read",
 "link": "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/",
@@ -65,6 +86,20 @@
 "link": "https://www.infoq.cn/article/hilBQCk7QcvclfrgZbSf?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1793035020.0
+},
+{
+"source": "HN AI 热门",
+"title": "Concerning behavior from a popular open-weight AI model",
+"link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+"summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 324 # Comments: 125",
+"published": 1793032544.0
+},
+{
+"source": "量子位",
+"title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+"link": "https://www.qbitai.com/2026/10/505551.html",
+"summary": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+"published": 1793030791.0
 },
 {
 "source": "InfoQ 中国",
@@ -123,6 +158,13 @@
 "published": 1793020860.0
 },
 {
+"source": "HN AI 热门",
+"title": "Brown student maps the hidden global labor powering AI",
+"link": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+"summary": "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 182 # Comments: 178",
+"published": 1793019507.0
+},
+{
 "source": "InfoQ 中国",
 "title": "从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
 "link": "https://www.infoq.cn/article/0C1Wgt7N9NzM6KjHSFeA?utm_source=rss&utm_medium=article",
@@ -151,11 +193,46 @@
 "published": 1793008173.0
 },
 {
+"source": "量子位",
+"title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+"link": "https://www.qbitai.com/2026/10/505539.html",
+"summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+"published": 1793007973.0
+},
+{
+"source": "量子位",
+"title": "OpenAI开始断网训练最强模型：“安全起见”",
+"link": "https://www.qbitai.com/2026/10/505529.html",
+"summary": "模型开始利用GPU缓存聊天？",
+"published": 1793007477.0
+},
+{
+"source": "量子位",
+"title": "A社联创演讲：AI奇点已来",
+"link": "https://www.qbitai.com/2026/10/505521.html",
+"summary": "所谓奇点，或许是AI跃过人类的那个点。",
+"published": 1793007314.0
+},
+{
+"source": "量子位",
+"title": "NeoLab第一个商业模式：转售GPU",
+"link": "https://www.qbitai.com/2026/10/505478.html",
+"summary": "从冲刺AGI到转售GPU。",
+"published": 1793007107.0
+},
+{
 "source": "The Decoder",
 "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
 "link": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/",
 "summary": "Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there. The article Toyota is betting $6.4 billion a year on humanoid robots and factory automation appeared first …",
 "published": 1793006295.0
+},
+{
+"source": "量子位",
+"title": "中国近50%的新云生意，竟被这家公司包揽！",
+"link": "https://www.qbitai.com/2026/10/505454.html",
+"summary": "有点意外，但也不意外",
+"published": 1793005364.0
 },
 {
 "source": "MIT科技评论 AI",
@@ -172,6 +249,20 @@
 "published": 1793005200.0
 },
 {
+"source": "量子位",
+"title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+"link": "https://www.qbitai.com/2026/10/505443.html",
+"summary": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+"published": 1793003929.0
+},
+{
+"source": "量子位",
+"title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+"link": "https://www.qbitai.com/2026/10/505436.html",
+"summary": "10月21日，2026世界智能网联汽车大会在北京召开",
+"published": 1793001850.0
+},
+{
 "source": "OpenAI 博客",
 "title": "How Fanatics and OpenAI streamline the fan experience",
 "link": "https://openai.com/index/fanatics-streamline-fan-experience",
@@ -184,6 +275,20 @@
 "link": "https://openai.com/index/openai-cut-incident-investigation",
 "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
 "published": 1792998000.0
+},
+{
+"source": "量子位",
+"title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+"link": "https://www.qbitai.com/2026/10/505429.html",
+"summary": "高品质 AI Token 成为行业新风向",
+"published": 1792997444.0
+},
+{
+"source": "HN AI 热门",
+"title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+"link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+"summary": "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 81 # Comments: 115",
+"published": 1792987900.0
 },
 {
 "source": "OpenAI 博客",
@@ -321,11 +426,25 @@
 "published": 1793030305.0
 },
 {
+"source": "Solidot",
+"title": "母蝙蝠听到自己幼崽的叫声心跳会加速",
+"link": "https://www.solidot.org/story?sid=85716",
+"summary": "日本的一项研究观察了母蝙蝠如何识别幼崽叫声，发现母蝙蝠听到自己幼崽的叫声心跳会加速，听到其它幼崽的叫声则不会。研究人员从同志社大学附近的一个蝙蝠群落捕获了四只怀孕的蝙蝠。每只蝙蝠都产下了三只幼崽。幼崽出生两天后，科学家记录了它们的隔离叫声（Isolation call）样本。由于部分母蝙蝠没有雌性幼崽，为排除性别差异的影响，科学家只记录了雄性幼崽的叫声。隔离叫声类似人类婴儿在母亲离开之后的哭声。幼崽出生约 40 天后，研究人员将雌蝙蝠与幼崽分开，用心电图仪记录心率，播放不同的…",
+"published": 1793026124.0
+},
+{
 "source": "爱范儿",
 "title": "新 iPad mini 发布：5499 元起！应有尽有，除了高刷",
 "link": "https://www.ifanr.com/1685961?utm_source=rss&utm_medium=rss&utm_campaign=",
 "summary": "好消息：OLED 坏消息：60Hz#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
 "published": 1793025549.0
+},
+{
+"source": "Solidot",
+"title": "亚马逊计划年底推出互联网宽带服务",
+"link": "https://www.solidot.org/story?sid=85715",
+"summary": "亚马逊负责宽带卫星项目 Amazon Leo 的副总裁 Chris Weber 透露，该公司已经制造出 1000 颗卫星，其中 396 颗卫星在轨运行，他们正在调整卫星轨道，地面接收端还有大量工作要做，计划是到 2026 年底启动初步服务。亚马逊第一代宽带卫星星座计划包含 3232 颗卫星。该公司计划率先向消费者提供服务，随着后续卫星的发射，逐步扩大服务覆盖范围。亚马逊声称，其卫星网络最高可提供 1 Gbps 的下载速度和 400 Mbps 的上传速度。Amazon Leo …",
+"published": 1793025482.0
 },
 {
 "source": "TechCrunch",
@@ -340,6 +459,13 @@
 "link": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
 "summary": "The new iPad mini features a thinner and lighter design than its predecessor.",
 "published": 1793024743.0
+},
+{
+"source": "Solidot",
+"title": "咖啡热量 15 年增加接近四成",
+"link": "https://www.solidot.org/story?sid=85714",
+"summary": "研究人员分析了 3 万名 20 岁及以上美国成年人的膳食数据。2003-2018 年间，人均咖啡饮用量基本稳定在每天约 13 盎司。但人们每天从咖啡中获取的平均热量从 43 卡路里上升至 60 卡路里，涨幅接近 40%。研究人员将咖啡饮品分为两大类——纯咖啡和添加了其他配料的咖啡；再把各种添加物划分为多个类别，包括鲜奶、对半奶（一半鲜奶+一半淡奶油）、淡奶油、植物奶、植脂末、糖/糖浆、代糖，还有酒精、可可粉等其他配料。2003-2018 年发生改变的是人们往咖啡里添加配料的种…",
+"published": 1793024283.0
 },
 {
 "source": "TechCrunch",

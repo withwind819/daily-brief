@@ -1,6 +1,6 @@
 {
 "date": "2026-10-23",
-"total": 158,
+"total": 159,
 "categories": {
 "AI": [
 {
@@ -253,6 +253,13 @@
 "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
 "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
 "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+"published": 1792713600.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+"link": "https://openai.com/index/anima",
+"summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
 "published": 1792713600.0
 }
 ],

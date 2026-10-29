@@ -1,6 +1,6 @@
 {
 "date": "2026-10-27",
-"total": 138,
+"total": 147,
 "categories": {
 "AI": [
 {
@@ -81,6 +81,13 @@
 "published": 1793106000.0
 },
 {
+"source": "量子位",
+"title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+"link": "https://www.qbitai.com/2026/10/505865.html",
+"summary": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+"published": 1793105871.0
+},
+{
 "source": "The Decoder",
 "title": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
 "link": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
@@ -130,6 +137,13 @@
 "published": 1793099294.0
 },
 {
+"source": "量子位",
+"title": "印奇把4D雷达也端到端了",
+"link": "https://www.qbitai.com/2026/10/505852.html",
+"summary": "毫米波雷达，AI算力10TOPS",
+"published": 1793097612.0
+},
+{
 "source": "The Decoder",
 "title": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
 "link": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
@@ -144,11 +158,60 @@
 "published": 1793095096.0
 },
 {
+"source": "量子位",
+"title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+"link": "https://www.qbitai.com/2026/10/505830.html",
+"summary": "顶尖智能汽车玩家的终局，不会停在智能汽车",
+"published": 1793094891.0
+},
+{
 "source": "InfoQ 中国",
 "title": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
 "link": "https://www.infoq.cn/article/TrI8l3CYeAJER9tgR5Jt?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1793092440.0
+},
+{
+"source": "量子位",
+"title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+"link": "https://www.qbitai.com/2026/10/505799.html",
+"summary": "无人在环进店实测啃下长尾场景",
+"published": 1793090772.0
+},
+{
+"source": "量子位",
+"title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
+"link": "https://www.qbitai.com/2026/10/505773.html",
+"summary": "OCR 3.0时代，来了",
+"published": 1793090133.0
+},
+{
+"source": "量子位",
+"title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
+"link": "https://www.qbitai.com/2026/10/505719.html",
+"summary": "同一天，OpenAI还甩出3项AI科学新发现",
+"published": 1793089666.0
+},
+{
+"source": "量子位",
+"title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+"link": "https://www.qbitai.com/2026/10/505694.html",
+"summary": "还是专业的模型做专业的事情",
+"published": 1793089139.0
+},
+{
+"source": "量子位",
+"title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
+"link": "https://www.qbitai.com/2026/10/505687.html",
+"summary": "破解绿电直连项目落地僵局",
+"published": 1793087081.0
+},
+{
+"source": "量子位",
+"title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
+"link": "https://www.qbitai.com/2026/10/505635.html",
+"summary": "开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐",
+"published": 1793086862.0
 },
 {
 "source": "OpenAI 博客",

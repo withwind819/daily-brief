@@ -1,6 +1,6 @@
 {
 "date": "2026-10-28",
-"total": 157,
+"total": 163,
 "categories": {
 "AI": [
 {
@@ -214,11 +214,25 @@
 "published": 1793186100.0
 },
 {
+"source": "量子位",
+"title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+"link": "https://www.qbitai.com/2026/10/506194.html",
+"summary": "让基建作为常驻buff",
+"published": 1793185750.0
+},
+{
 "source": "The Decoder",
 "title": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
 "link": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
 "summary": "Cybersecurity startup Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach we…",
 "published": 1793184984.0
+},
+{
+"source": "量子位",
+"title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+"link": "https://www.qbitai.com/2026/10/506098.html",
+"summary": "让基建作为常驻buff",
+"published": 1793183559.0
 },
 {
 "source": "OpenAI 博客",
@@ -240,6 +254,27 @@
 "link": "https://www.infoq.cn/article/Qwr9oqOSAdmi1YibHVWr?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1793178420.0
+},
+{
+"source": "量子位",
+"title": "威卡：用数据集链接具身智能和工程机械",
+"link": "https://www.qbitai.com/2026/10/506063.html",
+"summary": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
+"published": 1793178087.0
+},
+{
+"source": "量子位",
+"title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
+"link": "https://www.qbitai.com/2026/10/506055.html",
+"summary": "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计",
+"published": 1793177940.0
+},
+{
+"source": "量子位",
+"title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+"link": "https://www.qbitai.com/2026/10/506042.html",
+"summary": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱",
+"published": 1793177726.0
 },
 {
 "source": "量子位",
@@ -487,6 +522,13 @@
 "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
 "summary": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
 "published": 1793198065.0
+},
+{
+"source": "爱范儿",
+"title": "推到重来！魏牌二代蓝山改头换面，长城不想再造奶爸车了",
+"link": "https://www.ifanr.com/1686428?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "打不过就换一个赛道。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1793197840.0
 },
 {
 "source": "爱范儿",

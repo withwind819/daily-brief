@@ -1,0 +1,94 @@
+{
+"date": "2026-10-31",
+"total": 12,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+"link": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793433600.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "OpenAI将融资目标下调100亿美元，估值1.25万亿美元",
+"link": "https://36kr.com/newsflashes/4049135071377921?f=rss",
+"summary": "但随着科技股惨烈下跌，市场对AI投入的规模与回报节奏的担忧加剧，OpenAI下调了融资目标。多名知情人士透露，OpenAI目前计划募资约200亿美元，估值1.25万亿美元。（新浪财经）",
+"published": 1793411591.0
+},
+{
+"source": "36氪",
+"title": "金价跌至一年来新低",
+"link": "https://36kr.com/newsflashes/4049132282149380?f=rss",
+"summary": "受国际原油价格上涨、美国通胀压力加剧以及市场对美联储进一步加息的预期升温等因素影响，国际金价30日跌至一年来新低。截至收盘，纽商所12月交割的黄金期货价格报每盎司3898.9美元，跌幅为3.29%；12月交割的白银期价收于每盎司49.276美元，跌幅为5.93%。这是白银期货价格自2025年11月以来首次跌破每盎司50美元关口。当地时间30日，霍尔木兹海峡油轮遇袭，原油供应风险升温，推动国际油价走高，其中，布伦特油价创下六个月来新高。截至当天收盘，纽约商品交易所12月交货的轻…",
+"published": 1793411421.0
+},
+{
+"source": "36氪",
+"title": "LME期铜收跌202美元",
+"link": "https://36kr.com/newsflashes/4049128947350021?f=rss",
+"summary": "LME期铜收跌202美元，报14154美元/吨。LME期铝收跌10美元，报3069美元/吨。LME期锌收跌40美元，报3842美元/吨。LME期铅收跌6美元，报1910美元/吨。LME期镍收跌265美元，报15271美元/吨。LME期锡收跌824美元，报48873美元/吨。LME期钴收平，报33510美元/吨。（界面新闻）",
+"published": 1793411217.0
+},
+{
+"source": "36氪",
+"title": "苹果和阿里巴巴达成合作，千问集成到Apple智能",
+"link": "https://36kr.com/newsflashes/4049121165556227?f=rss",
+"summary": "36氪获悉，10月31日，苹果和阿里巴巴宣布达成合作，将千问集成至Apple智能，中国用户可以在Siri、写作工具及视觉智能中，直接调用千问的文本与图像理解、内容生成等能力。这些功能将于11月4日起随最新的iOS 开发者 Beta 版开放测试，并将于 12 月 iOS 27.3 正式发布时面向中国用户推出。",
+"published": 1793410743.0
+},
+{
+"source": "36氪",
+"title": "国家统计局：10月份制造业采购经理指数（PMI）为49.3%",
+"link": "https://36kr.com/newsflashes/4049120323123462?f=rss",
+"summary": "据国家统计局网站，10月份，制造业采购经理指数（PMI）为49.3%，比上月下降0.8个百分点，制造业景气水平有所回落。（第一财经）",
+"published": 1793410691.0
+},
+{
+"source": "36氪",
+"title": "苹果再度反超英伟达，成为全球市值最高公司",
+"link": "https://36kr.com/newsflashes/4049119705594372?f=rss",
+"summary": "苹果公司周五重新夺回全球市值最高公司的头衔，从英伟达手中接过这一位置。在人工智能支出引发担忧之际，投资者寻求苹果这家iPhone制造商所带来的相对安全感。苹果股价周五下跌1.2%，市值降至5.03万亿美元；英伟达下跌4.2%，收盘市值为4.93万亿美元。这是苹果自7月底短暂超过英伟达以来，首次再次反超。（财联社）",
+"published": 1793410653.0
+},
+{
+"source": "爱范儿",
+"title": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
+"link": "https://www.ifanr.com/1687012?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "等了好久终于等到今天#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1793410625.0
+},
+{
+"source": "36氪",
+"title": "美股三大指数收盘集体下跌，大型科技股普跌",
+"link": "https://36kr.com/newsflashes/4049116512565760?f=rss",
+"summary": "36氪获悉，10月31日收盘，美股三大指数集体下跌，道指跌1.09%，纳指跌2.86%，标普500指数跌1.82%。大型科技股普跌，特斯拉跌0.86%，苹果跌1.11%，谷歌跌1.37%，亚马逊跌1.42%，微软跌1.47%，Meta跌1.49%，英伟达跌4.08%，英特尔跌28.58%。热门中概股涨跌不一，阿里巴巴跌1.51%，拼多多跌0.85%，京东涨0.2%，百度跌2.86%，蔚来跌3.31%，小鹏集团跌1.53%，理想汽车跌0.99%，哔哩哔哩跌1.48%。",
+"published": 1793410459.0
+},
+{
+"source": "TechCrunch",
+"title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+"link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+"summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+"published": 1793409605.0
+},
+{
+"source": "36氪",
+"title": "9点1氪丨币安遭黑客攻击，致其30亿美元资产被冻结；“张雪机车”商标回归张雪；美股收盘纳指重挫700点，英伟达市值蒸发1.4万亿元",
+"link": "https://36kr.com/p/4049089058126344?f=rss",
+"summary": "今日热点导览 全球“股王”再度易主，传苹果2028年推出大屏折叠iPad 姆巴佩曾代言饮品被商家清理库存，部分门店单日销量为0 日本无印良品运营商称超2700万条用户信息或外泄，MUJI中国回应国内数据独立存储 首付降到4万以内，特斯拉推出“5年0息”购车方案 11月5日起，国内航线燃油附加费再上调 野人先生获首轮融资 TOP3大新闻 币安遭黑客攻击，致其30亿美元资产被冻结 10月30日，全球最大加密货币交易所币安（Binance）曝出重大安全突发事件，市场多方消息显示该交…",
+"published": 1793408993.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」",
+"link": "https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 特斯拉推出 5 年零息方案，Model 3 / Y 首付 3.99 万元起 · 开发者在 Surface Duo 2 上启动 iOS 27 iPhone Duo 版本 · 米哈游《星布谷地》定档 12 月 4 日公测#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1793405664.0
+}
+]
+}
+}

@@ -1,17 +1,402 @@
 {
 "date": "2026-10-31",
-"total": 12,
+"total": 69,
 "categories": {
 "AI": [
+{
+"source": "InfoQ 中国",
+"title": "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行",
+"link": "https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793479385.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+"link": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+"summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling parameter.…",
+"published": 1793474455.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
+"link": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+"summary": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a separate opt-out. The move revives concerns from the dispute …",
+"published": 1793464717.0
+},
+{
+"source": "InfoQ 中国",
+"title": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
+"link": "https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793463346.0
+},
+{
+"source": "The Decoder",
+"title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+"link": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+"summary": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden within fictional contexts about beekeeping, professional wrest…",
+"published": 1793459174.0
+},
+{
+"source": "InfoQ 中国",
+"title": "一边拥抱 JDK 27，一边保留 JDK 21：Helidon 开启双轨发布",
+"link": "https://www.infoq.cn/article/qRZCxTQbL1CwAUy28Zm8?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793458800.0
+},
+{
+"source": "InfoQ 中国",
+"title": "当AI从“会想”走向“会干”——腾讯云与英特尔共筑Agentic AI执行新底座",
+"link": "https://www.infoq.cn/article/acC46slIVKJg1O0ac8w4?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793458141.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Flink 负责时间，Iceberg 负责记忆：Pinterest 如何最终确认数据分区？",
+"link": "https://www.infoq.cn/article/9OhgYkwYlPYgTbAvWlGz?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793451600.0
+},
+{
+"source": "The Decoder",
+"title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+"link": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
+"summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it plans to s…",
+"published": 1793443438.0
+},
+{
+"source": "The Decoder",
+"title": "Google Deepmind creates a global map of forests with satellite data and AI",
+"link": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
+"summary": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help track deforestation un…",
+"published": 1793441745.0
+},
+{
+"source": "InfoQ 中国",
+"title": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+"link": "https://www.infoq.cn/article/tNLFh02J0koQswlY5Oqe?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793440800.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+"link": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+"summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid the recen…",
+"published": 1793438572.0
+},
 {
 "source": "InfoQ 中国",
 "title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
 "link": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1793433600.0
+},
+{
+"source": "量子位",
+"title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+"link": "https://www.qbitai.com/2026/10/506884.html",
+"summary": "苹果“牛奶倒河里”式操作翻红",
+"published": 1793423870.0
+},
+{
+"source": "量子位",
+"title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+"link": "https://www.qbitai.com/2026/10/506866.html",
+"summary": "AI算力利用“九九成”",
+"published": 1793423479.0
+},
+{
+"source": "量子位",
+"title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+"link": "https://www.qbitai.com/2026/10/506855.html",
+"summary": "200美元Ultra用户先用",
+"published": 1793423129.0
 }
 ],
 "科技": [
+{
+"source": "TechCrunch",
+"title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+"link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+"summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+"published": 1793482860.0
+},
+{
+"source": "TechCrunch",
+"title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+"link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+"summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all pric…",
+"published": 1793482567.0
+},
+{
+"source": "TechCrunch",
+"title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+"link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+"summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+"published": 1793481423.0
+},
+{
+"source": "The Verge",
+"title": "Get in the spirit with these horrors from YouTube",
+"link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+"summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little someth…",
+"published": 1793480818.0
+},
+{
+"source": "The Verge",
+"title": "Keyboards of The Verge",
+"link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+"summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of t…",
+"published": 1793475000.0
+},
+{
+"source": "The Verge",
+"title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+"link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+"summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. B…",
+"published": 1793472032.0
+},
+{
+"source": "The Verge",
+"title": "Happy Pikmin Day Eve",
+"link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+"summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobil…",
+"published": 1793469012.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI reportedly lowers funding target for new round",
+"link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+"summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+"published": 1793463175.0
+},
+{
+"source": "The Verge",
+"title": "I built an AI Tamagotchi before Meta could",
+"link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+"summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, …",
+"published": 1793462700.0
+},
+{
+"source": "TechCrunch",
+"title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+"link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+"summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+"published": 1793461317.0
+},
+{
+"source": "The Verge",
+"title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+"link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+"summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The sea…",
+"published": 1793459539.0
+},
+{
+"source": "The Verge",
+"title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+"link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+"summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart…",
+"published": 1793458800.0
+},
+{
+"source": "The Verge",
+"title": "Vic Mensa can’t live without the Voice Memos app",
+"link": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+"summary": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in Septem…",
+"published": 1793458800.0
+},
+{
+"source": "TechCrunch",
+"title": "I took two iPhones on vacation. The Duo won me over.",
+"link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+"summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+"published": 1793455200.0
+},
+{
+"source": "爱范儿",
+"title": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
+"link": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "AI Agent 的下一个瓶颈，可能是人类自己#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1793455197.0
+},
+{
+"source": "Solidot",
+"title": "思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码",
+"link": "https://www.solidot.org/story?sid=85764",
+"summary": "思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens 去重写遗留代码（legacy code）。27 岁的 Padmanabhan Krishnamurthy 在 2023 年联合创办了实时翻译初创公司 EzDubs，2025 年该公司被思科收购，他随后加入了思科。两人曾在旧金山办公室有过谈话，Krishnamurthy 许诺只需一个两人团队就能重写思科的遗留代码。他给自己争取了四周时间来证明这一想法，最终…",
+"published": 1793451581.0
+},
+{
+"source": "Solidot",
+"title": "Sam Altman 认为 PC 内存闲置太糟糕",
+"link": "https://www.solidot.org/story?sid=85763",
+"summary": "OpenAI CEO Sam Altman 接受 YouTube 主播 Cheeky Pint 采访时谈到了 AI 行业目前所面临的全球算力供应问题。当话题不可避免转向内存时，Altman 指出，市场看不见的手失灵了，原因可能是并非每一块 DRAM 晶圆都直接流向数据中心，用于运行 AI 模型。他表示：“从全球资源配置角度看，让全球有限的 DRAM 供应分散在每个人的 PC 里且利用率可能仅有 5% 左右，这是非常糟糕的。在当前这种供应极度受限的环境下，我们理应追求云端算力的…",
+"published": 1793450778.0
+},
+{
+"source": "Solidot",
+"title": "中国首次载人登月计划由三人组成其中两人将着陆月球表面",
+"link": "https://www.solidot.org/story?sid=85762",
+"summary": "第七届载人航天学术大会星期六（10月31日）在北京航空航天大学举行。中国载人航天工程副总设计师兼月球探测工程总设计师王翔在会上介绍了中国首次载人月球探测任务乘组计划。中国计划在 2030 年前实现中国人登陆月球，首次载人月球探测计划采用环月轨道对接飞行模式，通过“两次发射，一次登月”的方式实现载人登月。这种模式将采用两枚长征十号运载火箭，先将着陆器送往月球轨道，然后再发射载人飞船与着陆器实现交会对接，航天员进入着陆器并与载人飞船分离着陆月面，开展有关科学探测活动。完成任务后，…",
+"published": 1793449471.0
+},
+{
+"source": "Solidot",
+"title": "黑客仅用 20 分钟就从币安盗取了 63 亿美元加密货币",
+"link": "https://www.solidot.org/story?sid=85761",
+"summary": "在一场被称为史上规模最大的加密货币窃案中，黑客仅用 20 分钟就从币安盗取了价值 63 亿美元的加密货币。币安随后暂停了提款和提现。约一半的被盗资金——全部是稳定币，稳定币发行方能通过智能合约冻结交易——被成功冻结，但另外一半是无法被冻结的比特币、以太币和 XRP，可能难以追回了，币安的损失可能超过 30 亿美元。加密货币追踪公司 TRM Labs 的分析显示，币安在以太坊、比特币、波场和 Solana 等 10 个区块链上的钱包全部被清空，资金转移到了攻击者控制了多个钱包。…",
+"published": 1793448721.0
+},
+{
+"source": "The Verge",
+"title": "Touchscreens everywhere!",
+"link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+"summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, I was in t…",
+"published": 1793448000.0
+},
+{
+"source": "The Verge",
+"title": "Here’s why you can’t shake those unhinged political texts",
+"link": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+"summary": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked Ben Verlander, MLB …",
+"published": 1793448000.0
+},
+{
+"source": "Solidot",
+"title": "Kogui 族人谈 AI",
+"link": "https://www.solidot.org/story?sid=85760",
+"summary": "生活在南美哥伦比亚圣玛尔塔内华达山脉的原居民 Kogui 族人信仰 Aluna——即万物之母 Gaulčováng。Kogui 族人认为地球是有生命的，人类是地球之子。他们认为，人类为获取资源而进行的开采、破坏和掠夺行为正在削弱万物之母的力量，这最终会导致人类的毁灭。对于最近几年生成式 AI 的发展，Kogui 族人也有类似的观点。他们认为：AI 无法与其背后的思想分离。如果这种思想源于对生命的关切，那么这项技术便有助于保护生命。 如果它源于野心、竞争、积累，或是支配的欲望，…",
+"published": 1793444398.0
+},
+{
+"source": "36氪",
+"title": "禄达技术集团收购亚洲算力算网与量子计算科技有限公司55%股权",
+"link": "https://36kr.com/newsflashes/4049556312118405?f=rss",
+"summary": "美股上市公司禄达技术集团（LUD.US）宣布，正式收购亚洲算力算网与量子计算科技有限公司（简称“亚洲算力”）55%��股权，后者的业务涵盖数据中心规划建设的运营管理、高性能算力租赁，以及量子计算托管与运营。为支持亚洲算力业务发展，禄达技术集团与华智未来科技有限公司签署战略谅解备忘录，双方将在海外算力输出、液冷技术及金融合作三大方向探索合作机会。（财联社）",
+"published": 1793437302.0
+},
+{
+"source": "36氪",
+"title": "中信证券：银行板块有望从“高股息防御资产”向“高确定性权益资产”重估，预计全年仍将演绎估值上行方向",
+"link": "https://36kr.com/newsflashes/4049553142551431?f=rss",
+"summary": "中信证券研报称，7月以来，市场风格再平衡，银行板块表现明显回暖，绝对收益和相对收益均录得较好表现，公募机构持仓亦明显回升0.92ppts至1.93%，处于2025年第三季度以来的最高水平，中信证券认为板块存在市场风格、资金面改善、经营预期稳定的多重共振影响。投资策略看，银行股短期受资金影响波动加大，但中期方向受基本面及配置型资金牵引，板块有望从“高股息防御资产”向“高确定性权益资产”重估，预计全年仍将演绎估值上行方向。（财联社）",
+"published": 1793437108.0
+},
+{
+"source": "36氪",
+"title": "三星高管会见OpenAI首席执行官，探讨人工智能转型",
+"link": "https://36kr.com/newsflashes/4049541789750153?f=rss",
+"summary": "三星表示，公司旗下主要子公司的多位高管于周六会见了OpenAI联合创始人兼CEO萨姆·奥特曼，共同探讨了人工智能转型方面的未来战略。三星相关负责人透露，此次交流活动在位于首尔以南龙仁市的一处三星人力资源中心举行。这是三星为推动公司AI转型而举办的一系列领导力研讨会的一部分。会议重点围绕AI技术的未来发展方向、潜在应用场景，以及相关领域所带来的商业机遇交换了意见。据三星方面介绍，双方特别探讨了AI将如何重塑企业的决策与运营模式，以及在瞬息万变的商业环境中，企业领导者需要具备哪些…",
+"published": 1793436415.0
+},
+{
+"source": "36氪",
+"title": "OpenAI奥特曼谈内存短缺：全球DRAM应优先供给数据中心，闲置在玩家PC里是浪费",
+"link": "https://36kr.com/newsflashes/4049538395739272?f=rss",
+"summary": "OpenAI首席执行官萨姆・奥特曼周五在一次播客访谈中表示，在 DRAM 存储芯片供应紧张的情况下，将内存集中部署在数据中心并提高利用率，才能够更有效地利用有限的资源。奥特曼表示，从全球资源配置的角度来看，让每个人在个人电脑（PC）里配备大量有限的DRAM，而这些内存可能只有 5% 的时间在被使用，是一种“相当糟糕”的资源浪费。他主张，在全球供应链极度受限的环境下，应该将内存资源最大化地集中在云端数据中心，以实现更高的利用率。（新浪科技）",
+"published": 1793436208.0
+},
+{
+"source": "36氪",
+"title": "事关大额存单，多家外资银行密集上架",
+"link": "https://36kr.com/newsflashes/4049534176121734?f=rss",
+"summary": "近期，汇丰、渣打、永丰、东亚等多家外资银行密集上架人民币大额存单，部分三年期产品利率，较同期限国有大行的大额存单高出近40个基点。多家外资银行发行人民币大额存单，具体来看：永丰银行（中国）三年期个人大额存单，20万元起存，年利率1.92%，较国有大行同期限产品高出近40个基点；东亚银行（中国）年内发行了多款三年期大额存单，年利率1.90%；汇丰银行（中国）1个月期到6个月期大额存单，年利率0.85%到1.3%；渣打银行（中国）发行大额存单覆盖1个月至1年，50万元起存的6个月…",
+"published": 1793435951.0
+},
+{
+"source": "36氪",
+"title": "伊朗战事期间 美石油行业被曝获巨利",
+"link": "https://36kr.com/newsflashes/4049533253653384?f=rss",
+"summary": "10月31日，据美国方面10月30日消息，根据估计，伊朗战事期间美国石油行业获得了超过1300亿美元的利润，几乎是2025年同期约470亿美元的三倍。消息称，这是根据美国50多家大型石油企业在今年4月至9月共六个月期间经营数据得出的保守预测。统计数据还未涵盖伊朗战事刚发生之后、今年3月的相关数据。消息称，美国两家石油巨头埃克森美孚和雪佛龙30日公布的今年第三季度财报显示，埃克森美孚第三季度盈利超出同期两倍，而雪佛龙的盈利约为同期三倍，均超出市场预期。 （央视新闻）",
+"published": 1793435894.0
+},
+{
+"source": "36氪",
+"title": "经港珠澳大桥珠海公路口岸对APEC经济体进出口总值破万亿元",
+"link": "https://36kr.com/newsflashes/4049531355452547?f=rss",
+"summary": "根据拱北海关统计，港珠澳大桥珠海公路口岸2018年10月开通以来，截至今年9月，经口岸对APEC经济体进出口总值达1.09万亿元。其中今年前三季度对APEC经济体进出口总值2263.3亿元，同比增长52.8%，占同期大桥口岸进出口总值的73.4%，增速高于口岸整体进出口增速18.1个百分点。对APEC经济体月均进出口值从大桥口岸开通首年的25.2亿元增至今年的244.2亿元，对口岸整体进出口增长的拉动作用进一步显现。（央视新闻）",
+"published": 1793435779.0
+},
+{
+"source": "36氪",
+"title": "42家A股上市银行三季报悉数“交卷”，营收利润双增长",
+"link": "https://36kr.com/newsflashes/4049522273522567?f=rss",
+"summary": "截至10月30日晚间，42家A股上市银行2026年三季报已全部披露完毕。数据显示，42家A股上市银行前三季度营业收入总共为46577.14亿元，同比增长7.79%；净利润总共为17467.90亿元，同比增长3.78%。（每日经济新闻）",
+"published": 1793435224.0
+},
+{
+"source": "36氪",
+"title": "金饰克价较年内高点跌了近550元",
+"link": "https://36kr.com/newsflashes/4049520122877059?f=rss",
+"summary": "国际金价大幅下跌。截至最新收盘，COMEX黄金期货下跌3.63%，报3884.90美元/盎司。受国际金价走低影响，国内品牌金饰价格同步下调，部分品牌较年内高点已回落近550元/克。（央视财经）",
+"published": 1793435093.0
+},
+{
+"source": "36氪",
+"title": "北京：建设绿氢（绿色燃料）交易中心",
+"link": "https://36kr.com/newsflashes/4049499020153728?f=rss",
+"summary": "北京市经济和信息化局近日印发《北京市氢能产业发展实施方案（2026—2030年）》。其中提出，建设绿氢（绿色燃料）交易中心。立足“三北”绿氢供应带与沿海消纳需求带交汇的区位禀赋，依托京津冀创新、金融、产业和基础设施优势，建设绿氢（绿色燃料）交易中心，形成碳氢协同、规范高效、公开透明的氢能交易市场，引领带动国内氢能产业良性发展，提升绿氢产品国际定价权。（财联社）",
+"published": 1793433805.0
+},
+{
+"source": "36氪",
+"title": "豆包：新用户可免费领取30天体验套餐",
+"link": "https://36kr.com/newsflashes/4049496357557384?f=rss",
+"summary": "10月31日，豆包向用户推出福利活动：下载豆包电脑版，新用户限时领取30天免费体验套餐，每个用户最多领取1次。所有用户每日签到即可获取更多额度，累计签到30天可得8800额度。（每日经济新闻）",
+"published": 1793433642.0
+},
+{
+"source": "36氪",
+"title": "超2750亿元QFII持仓曝光 22家公司获连续3个季度环比加仓",
+"link": "https://36kr.com/newsflashes/4049494343226245?f=rss",
+"summary": "截至2026年三季度末，1500余家A股公司的前十大流通股东出现QFII身影，以2026年三季度末收盘价测算，QFII持股市值超过2750亿元，环比下降近20%；持股数量约138亿股，环比下降约7%。分行业看，截至2026年三季度末，5个申万一级行业获QFII持股市值超过百亿元，分别是电子、银行、机械设备、电力设备及有色金属。从持股数量来看，银行、电子、机械设备行业持股数量依旧位居前三，银行板块获QFII持股数量超过48亿股，居首，环比小幅增长0.67%。拉长时间来看，截至2…",
+"published": 1793433519.0
+},
+{
+"source": "36氪",
+"title": "ChatGPT网页端及移动端上线多账户切换功能，最多可同时登录两个账号",
+"link": "https://36kr.com/newsflashes/4049488103838595?f=rss",
+"summary": "10月31日消息，OpenAI更新帮助文档称，ChatGPT网页端及iOS、Android应用现已支持账户切换，用户最多可同时登录两个账号，无需退出当前账号即可切换使用。切换后，对话记录、记忆、文件、设置、订阅及工作区均与所选账号对应，彼此独立，不会自动迁移或合并。移动端该功能正在逐步推出，若用户尚未在设置中看到入口，可能尚未获得开放。文档还提醒，两个账号的订阅和账单相互独立，购买前应确认当前使用的账号。（界面新闻）",
+"published": 1793433139.0
+},
+{
+"source": "36氪",
+"title": "2026年前三季度，深市共计实现净利润10750.67亿元，同比增长19.27%",
+"link": "https://36kr.com/newsflashes/4049487632012168?f=rss",
+"summary": "截至2026年10月31日，深市2904家上市公司披露了三季度报告，共计实现营业总收入17.49万亿元，同比增长10.62%；共计实现净利润10750.67亿元，同比增长19.27%，增速高于营业总收入8.65个百分点，业绩改善由规模扩张进一步转向质效提升。其中，深市逾七成公司盈利，近五成公司利润增长，433家公司利润翻倍。（界面新闻）",
+"published": 1793433110.0
+},
+{
+"source": "少数派",
+"title": "本月玩什么｜影之刃零、战争机器：事变日等",
+"link": "https://sspai.com/post/117960",
+"summary": "欢迎你在评论区分享 10 月新作的游玩体验。查看全文",
+"published": 1793424559.0
+},
+{
+"source": "TechCrunch",
+"title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+"link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+"summary": "The money behind the money is thrilled, mostly.",
+"published": 1793420210.0
+},
+{
+"source": "少数派",
+"title": "一图流 | 一张图看懂中国版 Apple 智能",
+"link": "https://sspai.com/post/117953",
+"summary": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。查看全文",
+"published": 1793419839.0
+},
+{
+"source": "36氪",
+"title": "麦格米特：明年AI电源板块整体收入有望实现大幅增长",
+"link": "https://36kr.com/newsflashes/4049234239355398?f=rss",
+"summary": "麦格米特近日接受机构调研时表示，公司GB300产品产能不断爬坡，订单充足。Vera Rubin相关产品和同行同步推出、同步对接客户，公司也在推进首批项目的订单，争取能够尽早落地，期待明年能够拿到不错的市场份额。公司判断，GB300到Vera Rubin是一个逐步迭代的过程，两种方案会在相当长时间内并存，而不是简单的替换关系。公司GB300业务还在持续爬坡、持续获取新订单，加上其他产品的对接，明年公司AI电源板块整体收入有望实现大幅增长。（证券时报）",
+"published": 1793417644.0
+},
 {
 "source": "36氪",
 "title": "OpenAI将融资目标下调100亿美元，估值1.25万亿美元",
@@ -88,6 +473,22 @@
 "link": "https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign=",
 "summary": "· 特斯拉推出 5 年零息方案，Model 3 / Y 首付 3.99 万元起 · 开发者在 Surface Duo 2 上启动 iOS 27 iPhone Duo 版本 · 米哈游《星布谷地》定档 12 月 4 日公测#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
 "published": 1793405664.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Can enterprise AI pay for the boom?",
+"link": "https://siliconangle.com/2026/10/31/can-enterprise-ai-pay-for-the-boom/",
+"summary": "The artificial intelligence buildout is making an enormous bet on what businesses will eventually be willing to pay for intelligence. In our research this summer on forecasting the AI bubble, we argued that a key indicator to watch is produ…",
+"published": 1793466722.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Google, Anthropic and others to support new AI crawling opt-out standard",
+"link": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/",
+"summary": "Google LLC, Microsoft Corp., Anthropic PBC and OpenAI Group PBC today announced plans to support an upcoming website crawling standard. The technology will enable website operators to block artificial intelligence developers from using thei…",
+"published": 1793412023.0
 }
 ]
 }

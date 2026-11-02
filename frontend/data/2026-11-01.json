@@ -1,8 +1,290 @@
 {
 "date": "2026-11-01",
-"total": 5,
+"total": 47,
 "categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
+"link": "https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793560373.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从近两小时到 30 秒，SQL 查询性能优化有了新解法 ｜ 技术实践",
+"link": "https://www.infoq.cn/article/adFNTX7Qiy7yYIGEmTlk?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793559492.0
+},
+{
+"source": "InfoQ 中国",
+"title": "写好的 Skill 如何让整个团队复用？Snowflake CoCo 打通共享与治理流程 ｜ 技术实践",
+"link": "https://www.infoq.cn/article/0ap8HB0DwK6Xa1lBSNVy?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793557493.0
+},
+{
+"source": "InfoQ 中国",
+"title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
+"link": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793552400.0
+},
+{
+"source": "The Decoder",
+"title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+"link": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+"summary": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task and lets …",
+"published": 1793545004.0
+},
+{
+"source": "The Decoder",
+"title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+"link": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
+"summary": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, w…",
+"published": 1793543809.0
+},
+{
+"source": "InfoQ 中国",
+"title": "移动身份系统的密码学基础：ISO/IEC 18013-5 企业架构蓝图",
+"link": "https://www.infoq.cn/article/9aUBUMmhC4s5mEJgXHDL?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793541600.0
+},
+{
+"source": "量子位",
+"title": "三年前布局，今年爆火丨西湖大学成立新中心",
+"link": "https://www.qbitai.com/2026/11/507076.html",
+"summary": "西湖世界模型研究中心成立",
+"published": 1793539690.0
+},
+{
+"source": "量子位",
+"title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+"link": "https://www.qbitai.com/2026/11/507038.html",
+"summary": "",
+"published": 1793538595.0
+},
+{
+"source": "The Decoder",
+"title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+"link": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/",
+"summary": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt official …",
+"published": 1793536381.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI is steering ChatGPT users toward more paid usage",
+"link": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+"summary": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically free up a sp…",
+"published": 1793534704.0
+},
+{
+"source": "The Decoder",
+"title": "Google wants video AI to understand what people need as they work",
+"link": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
+"summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmark shows that none of the tested models reliably pick the right moment in longer …",
+"published": 1793532321.0
+},
+{
+"source": "InfoQ 中国",
+"title": "如果 AI 幻觉也有预算，超支之后该怎么办？",
+"link": "https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793527200.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+"link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+"summary": "OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex. More complex models consume more of this quota, while simple …",
+"published": 1793526666.0
+},
+{
+"source": "量子位",
+"title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+"link": "https://www.qbitai.com/2026/11/507031.html",
+"summary": "让AI像牛顿一样思考",
+"published": 1793520157.0
+},
+{
+"source": "量子位",
+"title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+"link": "https://www.qbitai.com/2026/11/506990.html",
+"summary": "这事还是想得太简单了",
+"published": 1793519457.0
+},
+{
+"source": "量子位",
+"title": "Jev新成果，再次引爆开源",
+"link": "https://www.qbitai.com/2026/11/506922.html",
+"summary": "再次“性价比屠夫”",
+"published": 1793506717.0
+}
+],
 "科技": [
+{
+"source": "少数派",
+"title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+"link": "https://sspai.com/post/118191",
+"summary": "Apple 智能将随 iOS 27.3 登陆中国苹果对闪存的议价权受到压制Claude Code 官方扩展被植入后门美国 FCC 禁止中国实验室认证输美电子产品百度网盘通过磁力计数据规避「摇一摇」广告权限币安 63 亿美元资产被盗看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+"published": 1793575365.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+"link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+"summary": "Data centers are deeply unpopular. But what if we called them something else?",
+"published": 1793570123.0
+},
+{
+"source": "The Verge",
+"title": "NASA hopes the commercial space industry can help save Hubble",
+"link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+"summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030…",
+"published": 1793567361.0
+},
+{
+"source": "TechCrunch",
+"title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+"link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+"summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+"published": 1793566678.0
+},
+{
+"source": "The Verge",
+"title": "Flock keeps ignoring requests to cancel its contracts",
+"link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+"summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but fai…",
+"published": 1793563082.0
+},
+{
+"source": "The Verge",
+"title": "Apple’s HomeView could add security camera features",
+"link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+"summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording option…",
+"published": 1793553367.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Mobility: A new, bigger AV boom is here",
+"link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+"summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+"published": 1793552640.0
+},
+{
+"source": "Solidot",
+"title": "Google AI Mode 未给网站带来流量",
+"link": "https://www.solidot.org/story?sid=85767",
+"summary": "Reddit 的最新财报证实了众多网站的抱怨：Google AI Mode 未给网站带来流量。AI Mode 通过生成总结的方式响应用户的查询，而不是传统搜索的提供网站链接以及简要摘要。硅谷对 AI 的全面拥抱牺牲了构成互联网的无数网站。Reddit 联合创始人兼 CEO Steve Huffman 表示：“用户依然需要 Reddit，只是 Google 不再像过去那样将他们引导到 Reddit。”上季度来自 Google 搜索的引荐流量显著下滑。Google 向 AI Mo…",
+"published": 1793551591.0
+},
+{
+"source": "TechCrunch",
+"title": "Binance resumes withdrawals following $6.3 billion breach",
+"link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+"summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+"published": 1793550010.0
+},
+{
+"source": "The Verge",
+"title": "A fully playable version of Portal prequel F-Stop leaked",
+"link": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+"summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those fin…",
+"published": 1793549961.0
+},
+{
+"source": "TechCrunch",
+"title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+"link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+"summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+"published": 1793545200.0
+},
+{
+"source": "The Verge",
+"title": "North Korea linked to massive Binance crypto heist",
+"link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+"summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to …",
+"published": 1793543591.0
+},
+{
+"source": "TechCrunch",
+"title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+"link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+"summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+"published": 1793541600.0
+},
+{
+"source": "The Verge",
+"title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+"link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+"summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, som…",
+"published": 1793541600.0
+},
+{
+"source": "The Verge",
+"title": "New Zelda and GTA represent a games industry that no longer exists",
+"link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET.…",
+"published": 1793538000.0
+},
+{
+"source": "The Verge",
+"title": "Prop 45 in California could be hiding a loophole for data centers",
+"link": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+"summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timel…",
+"published": 1793538000.0
+},
+{
+"source": "36氪",
+"title": "新入口和旧城墙之下，“中国版Muse”有多远？",
+"link": "https://36kr.com/p/4051143495603336?f=rss",
+"summary": "文 | 李炤锋 编辑 | 张雨忻 1040万次，这是Meta的AI个人助理Muse上线不足两个月的累计下载量，由此，国内快速掀起了一轮Personal Agent产品热潮——谁能做出一个“中国版Muse”，成为了全行业都在关注的话题。 一批创业团队正在加速入场。去年离开字节的原豆包PC端产品负责人齐俊元，今年再次创业，推出主打持续记忆和主动服务的Today AI。以通用任务执行走红的Manus，则于近期推出个人助手Cue，为Agent配备邮箱、电脑等工具。以AI硬件r1起家的…",
+"published": 1793534460.0
+},
+{
+"source": "36氪",
+"title": "汤道生谈WorkBuddy商业化：不靠收入数字催团队",
+"link": "https://36kr.com/p/4051138782860421?f=rss",
+"summary": "腾讯正在把更多办公能力接入WorkBuddy。 10月29日，在2026腾讯全球数字生态大会上，腾讯发布跨应用办公协同体系Buddy One，连接腾讯文档、腾讯会议、ima和腾讯网盘等产品，推进账号、AI积分及部分服务权益互通。WorkBuddy也将进一步开放产品架���，支持企业自研智能体、第三方智能体和第三方通信系统接入。 今年6月，腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生曾表示，暂时不给WorkBuddy团队设置商业化目标。此次大会上，当智能涌现再次追问有…",
+"published": 1793534400.0
+},
+{
+"source": "Solidot",
+"title": "数据中心抵消了过去 15 年美国的减排努力",
+"link": "https://www.solidot.org/story?sid=85766",
+"summary": "Sierra Club 的分析显示，到 2030 年美国电力行业的二氧化碳排放量可能达到 21 亿公吨，比 2025 年的水平高出约 42%。这一预计增幅将抵消过去 15 年电力行业在减排上取得的成果。随着数据中心对资源的需求持续增长，AI 基础设施的电力需求正以清洁能源电网无法跟上的速度快速增长。为绕过缓慢的公用电网接入排队流程，部分科技公司建设了主要依赖化石燃料的自备发电设施。到 2030 年由数据中心开发商建设或委托建设的离网发电设施每年可能产生逾 4.6 亿公吨的二氧…",
+"published": 1793533513.0
+},
+{
+"source": "Solidot",
+"title": "NASA 征询拯救哈勃望远镜的方案",
+"link": "https://www.solidot.org/story?sid=85765",
+"summary": "哈勃望远镜在轨运行 36 年之后仍然极具价值，但它的轨道高度已经大幅下降，如果不采取行动它将于 2030 年代中期前重返大气层。NASA 本周公布了一份 Request For Information(RFI)，向商业公司征询提升哈勃的轨道、进行维护或对其进行受控重返大气层的方案。方案递交截至日期 11 月 30 日。NASA 未承诺是否资助一次哈勃拯救任务，它想知道有多少公司对此有兴趣，以及成本多少。哈勃的轨道高度已从 2002 年的 583 公里降至目前的 470 公里，…",
+"published": 1793532773.0
+},
+{
+"source": "36氪",
+"title": "年轻人的生活，「含王量」超浓",
+"link": "https://36kr.com/p/4050912402166918?f=rss",
+"summary": "腌入味了。 最近，《王者荣耀》的玩家有点忙。 打开游戏，守塔的语音变成了一句“保护我方应县木塔”。关掉游戏，他们跑到评论区追问：应县木塔在哪儿？多少年了？为什么是它？ 一座在山西竖立了970年的木塔，就这么被一群年轻人，从峡谷里“捞”了出来。 而带头的，是个连话都不会说的英雄。 盾山的语音没人能听得懂，整个峡谷一百多个英雄，只有他的话是纯音效——像台没调好频的收音机。听不听得懂不重要，反正他从来不靠嘴。队友快不行了，他把铁臂一张；塔快塌了，他直接钻进去，一点一点把塔补回来。 …",
+"published": 1793520186.0
+},
+{
+"source": "少数派",
+"title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+"link": "https://sspai.com/post/116991",
+"summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+"published": 1793516566.0
+},
+{
+"source": "TechCrunch",
+"title": "Data centers are now a midterm issue, even in Brooklyn",
+"link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+"summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+"published": 1793499730.0
+},
 {
 "source": "36氪",
 "title": "小米汽车：10月交付量超5万台",
@@ -37,6 +319,22 @@
 "link": "https://36kr.com/newsflashes/4050490153800582?f=rss",
 "summary": "英伟达近日在SEMICON West 2026上公开展示了下一代共封装光学（CPO）技术，名为OOI（Optics‑on‑Interposer，中介层上集成光学）。不同于现有CPO方案，OOI选择拿下有机封装基板，将光引擎直接集成到承载GPU的硅中介层之上，把光电转换环节进一步向芯片内核靠拢，为下一代超大规模AI集群提供全新互联思路。据英伟达研究院首席研究科学家尼古拉•内多维奇（Nikola Nedovic）介绍，该方案以更大面积的中介层取代现行有机封装基板，目前英伟达已拿到…",
 "published": 1793494800.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Project-by-project security reviews can’t keep pace with enterprise AI agents",
+"link": "https://siliconangle.com/2026/11/01/tokenization-helps-enterprises-move-ai-agents-production-evolve26/",
+"summary": "Enterprises racing to put AI agents into production are finding that tokenization and other data protection methods now decide how fast those projects move. But sensitive data fed into models is hard to pull back — and security reviews buil…",
+"published": 1793543154.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Agent demand can’t be forecast, meaning the database has to be ready for anything",
+"link": "https://siliconangle.com/2026/11/01/agentic-ai-architecture-demands-real-time-databases-evolve26/",
+"summary": "Enterprises building an agentic AI architecture are learning that the database matters as much as the model. AI agents fire off thousands of unplanned queries at once — and expect answers in milliseconds. PhoenixAI, the trade name of CelerD…",
+"published": 1793543139.0
 }
 ]
 }

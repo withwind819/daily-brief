@@ -1,6 +1,6 @@
 {
 "date": "2026-10-31",
-"total": 69,
+"total": 70,
 "categories": {
 "AI": [
 {
@@ -51,6 +51,13 @@
 "link": "https://www.infoq.cn/article/acC46slIVKJg1O0ac8w4?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1793458141.0
+},
+{
+"source": "量子位",
+"title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+"link": "https://www.qbitai.com/2026/10/506904.html",
+"summary": "AI已经自己找到Bug并提交PR",
+"published": 1793454584.0
 },
 {
 "source": "InfoQ 中国",

@@ -1,6 +1,6 @@
 {
 "date": "2026-10-30",
-"total": 154,
+"total": 159,
 "categories": {
 "AI": [
 {
@@ -46,6 +46,13 @@
 "published": 1793382299.0
 },
 {
+"source": "HN AI 热门",
+"title": "Proton's CEO Cancels AI 'Re-Interviews'",
+"link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+"summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 301 # Comments: 258",
+"published": 1793381085.0
+},
+{
 "source": "The Decoder",
 "title": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
 "link": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
@@ -58,6 +65,20 @@
 "link": "https://www.infoq.cn/article/O6mtiB7FVd0VSDHJe348?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1793379600.0
+},
+{
+"source": "HN AI 热门",
+"title": "US tech stocks see sharp falls over AI cost fears",
+"link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+"summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 269 # Comments: 303",
+"published": 1793376782.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI isn't replacing SREs, it's deskilling them",
+"link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+"summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 677 # Comments: 498",
+"published": 1793375538.0
 },
 {
 "source": "InfoQ 中国",
@@ -79,6 +100,13 @@
 "link": "https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1793371296.0
+},
+{
+"source": "HN AI 热门",
+"title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+"link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+"summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 314 # Comments: 389",
+"published": 1793369300.0
 },
 {
 "source": "InfoQ 中国",
@@ -156,6 +184,13 @@
 "link": "https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1793352180.0
+},
+{
+"source": "HN AI 热门",
+"title": "Ask HN: Are you tired too in this AI era?",
+"link": "https://news.ycombinator.com/item?id=50301479",
+"summary": "Although AI lets us do much more, I feel considerably more tired than before.We need to keep track of many things happening in parallel and read enormous amounts of generated text. The constant guardrailing, decision making, and context swi…",
+"published": 1793351863.0
 },
 {
 "source": "OpenAI 博客",

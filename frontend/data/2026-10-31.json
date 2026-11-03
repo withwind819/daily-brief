@@ -1,6 +1,6 @@
 {
 "date": "2026-10-31",
-"total": 70,
+"total": 73,
 "categories": {
 "AI": [
 {
@@ -16,6 +16,20 @@
 "link": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
 "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling parameter.…",
 "published": 1793474455.0
+},
+{
+"source": "HN AI 热门",
+"title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+"link": "https://ryanmadden.net/gpt-56-beats-factorio/",
+"summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 176 # Comments: 190",
+"published": 1793472634.0
+},
+{
+"source": "HN AI 热门",
+"title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+"link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+"summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 82 # Comments: 56",
+"published": 1793469749.0
 },
 {
 "source": "The Decoder",
@@ -403,6 +417,13 @@
 "link": "https://36kr.com/newsflashes/4049234239355398?f=rss",
 "summary": "麦格米特近日接受机构调研时表示，公司GB300产品产能不断爬坡，订单充足。Vera Rubin相关产品和同行同步推出、同步对接客户，公司也在推进首批项目的订单，争取能够尽早落地，期待明年能够拿到不错的市场份额。公司判断，GB300到Vera Rubin是一个逐步迭代的过程，两种方案会在相当长时间内并存，而不是简单的替换关系。公司GB300业务还在持续爬坡、持续获取新订单，加上其他产品的对接，明年公司AI电源板块整体收入有望实现大幅增长。（证券时报）",
 "published": 1793417644.0
+},
+{
+"source": "爱范儿",
+"title": "大众在合肥攒了个新平台，一年要往海外卖 30 万辆「中国大众」",
+"link": "https://www.ifanr.com/1687151?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "中国的大众，就是世界的大众。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1793414318.0
 },
 {
 "source": "36氪",

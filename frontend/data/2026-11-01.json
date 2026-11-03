@@ -1,6 +1,6 @@
 {
 "date": "2026-11-01",
-"total": 47,
+"total": 50,
 "categories": {
 "AI": [
 {
@@ -16,6 +16,13 @@
 "link": "https://www.infoq.cn/article/adFNTX7Qiy7yYIGEmTlk?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1793559492.0
+},
+{
+"source": "HN AI 热门",
+"title": "It wasn't AI that flipped Proton's charge",
+"link": "https://blog.raed.dev/posts/proton-loser-thinking/",
+"summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/ Comments URL: https://news.ycombinator.com/item?id=50328488 Points: 165 # Comments: 99",
+"published": 1793559235.0
 },
 {
 "source": "InfoQ 中国",
@@ -51,6 +58,13 @@
 "link": "https://www.infoq.cn/article/9aUBUMmhC4s5mEJgXHDL?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1793541600.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+"link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+"summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy Comments URL: https://news…",
+"published": 1793540844.0
 },
 {
 "source": "量子位",
@@ -114,6 +128,13 @@
 "link": "https://www.qbitai.com/2026/11/506990.html",
 "summary": "这事还是想得太简单了",
 "published": 1793519457.0
+},
+{
+"source": "HN AI 热门",
+"title": "The AI cost of JavaScript frameworks",
+"link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+"summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 468 # Comments: 386",
+"published": 1793513179.0
 },
 {
 "source": "量子位",

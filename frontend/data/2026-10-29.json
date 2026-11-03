@@ -1,8 +1,22 @@
 {
 "date": "2026-10-29",
-"total": 157,
+"total": 159,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Google value plunges by $500B as AI fears rattle Wall Street",
+"link": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+"summary": "Article URL: https://www.bbc.com/news/articles/cm9qzdqpxy48o Comments URL: https://news.ycombinator.com/item?id=50297037 Points: 80 # Comments: 35",
+"published": 1793312533.0
+},
+{
+"source": "HN AI 热门",
+"title": "Building an AI-native engineering org",
+"link": "https://twitter.com/sgondala2/status/2115832070274723875",
+"summary": "Article URL: https://twitter.com/sgondala2/status/2115832070274723875 Comments URL: https://news.ycombinator.com/item?id=50296730 Points: 193 # Comments: 202",
+"published": 1793311114.0
+},
 {
 "source": "HN AI 热门",
 "title": "We ran AI agent swarms in Minecraft and Mindustry",

@@ -1,0 +1,250 @@
+{
+"date": "2026-11-05",
+"total": 34,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京",
+"link": "https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793872800.0
+},
+{
+"source": "InfoQ 中国",
+"title": "混元 Hy4 实测：腾讯的产品基因，模型继承了几分？",
+"link": "https://www.infoq.cn/article/C61Q16LQIDq45l0iCCzV?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793871865.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Cloudflare 通过优化一致性哈希节省了 100 TB 内存",
+"link": "https://www.infoq.cn/article/yRvSUCFFcZEEXCgxyAO2?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793869200.0
+},
+{
+"source": "量子位",
+"title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+"link": "https://www.qbitai.com/2026/11/507675.html",
+"summary": "薪资+期权不限！实习生也能训核心模型",
+"published": 1793839294.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "视频大模型企业Sand.ai完成2亿美元A+轮融资",
+"link": "https://36kr.com/newsflashes/4056271755989892?f=rss",
+"summary": "视频大模型企业Sand.ai宣布完成2亿美元A+轮融资，本轮融资汇聚了产业资本、人民币及美元基金、上海国资等多方投资力量。其中，基石资本、网宿科技联合领投；时代资本、磐霖资本、东证资本等机构参投；天创资本携山东铁投产投、山东铁路基金战略参投；浦东创投、上海国方等上海国资背景机构加入；经纬创投、华业天成、中科创星等老股东持续加注。（证券时报）",
+"published": 1793847180.0
+},
+{
+"source": "36氪",
+"title": "OpenAI总裁称公司大部分收入已来自企业业务，预计2027年具备上市条件",
+"link": "https://36kr.com/newsflashes/4056256650417286?f=rss",
+"summary": "当地时间11月4日，OpenAI总裁格雷格·布罗克曼在一场科技会议上表示，公司目前大部分收入已来自企业客户，并预计OpenAI将在2027年具备上市条件。在被问及公司明年是否准备好首次公开募股（IPO）时，布罗克曼回答称：“我认为可以。”布罗克曼表示，OpenAI正加快企业业务拓展，与竞争对手Anthropic争夺企业客户，并积极推广Codex智能体产品。Anthropic预计可能在今年年底前上市。此前，OpenAI曾推迟上市计划，目前正加快融资步伐，以把握近期业务增长带来的…",
+"published": 1793846258.0
+},
+{
+"source": "36氪",
+"title": "前Claude Code产品负责人宣布加入OpenAI",
+"link": "https://36kr.com/newsflashes/4056253270791048?f=rss",
+"summary": "11月5日，Cat Wu在社交平台发文宣布加入OpenAI，担任核心产品（Core Products）产品管理负责人。她此前在Anthropic工作两年，曾参与Claude Code、Cowork和Tag等产品的开发。她表示，自己加入Anthropic时，Claude Code还只是一个内部工具，此后参与了该产品的发展，并称上周五是自己在Anthropic的最后一个工作日。Cat Wu表示，期待与OpenAI产品管理团队及公司员工合作，共同开发能够为用户及团队提供支持、同时让…",
+"published": 1793846052.0
+},
+{
+"source": "36氪",
+"title": "灵光2.0上线一周托管超116万项事务，用户突破2000万",
+"link": "https://36kr.com/newsflashes/4056252136051584?f=rss",
+"summary": "36氪获悉，11月5日消息，蚂蚁集团旗下AI助手灵光公布最新数据：自今年10月27日灵光2.0上线，一周内已帮助用户管理超116万项事务，执行超360万次任务。目前，灵光用户已突破2000万。",
+"published": 1793845982.0
+},
+{
+"source": "36氪",
+"title": "中信金石等在青岛成立新股权投资合伙企业，出资额2.02亿",
+"link": "https://36kr.com/newsflashes/4056247231337607?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，金石浚远（青岛）股权投资合伙企业（有限合伙）成立，执行事务合伙人为中信金石投资有限公司，出资额2.02亿元人民币，经营范围为以自有资金从事投资活动。合伙人信息显示，该合伙企业由青岛金石文化科技投资基金合伙企业（有限合伙）、金石深合（贵州）数字科技股权投资合伙企业（有限合伙）、金石成长股权投资（杭州）合伙企业（有限合伙）、中信金石投资有限公司共同出资。",
+"published": 1793845683.0
+},
+{
+"source": "36氪",
+"title": "沪指重回3700点",
+"link": "https://36kr.com/newsflashes/4056245508264840?f=rss",
+"summary": "36氪获悉，沪指重回3700点。",
+"published": 1793845578.0
+},
+{
+"source": "36氪",
+"title": "沪深京三市成交额突破1万亿",
+"link": "https://36kr.com/newsflashes/4056243082613639?f=rss",
+"summary": "36氪获悉，开盘52分钟，沪深京三市成交额突破1万亿，较上日此时放量超3800亿",
+"published": 1793845430.0
+},
+{
+"source": "36氪",
+"title": "恒生科技指数涨超5%",
+"link": "https://36kr.com/newsflashes/4056239280788360?f=rss",
+"summary": "36氪获悉，恒生科技指数涨超5%，天数智芯涨超10%，网易、美团涨超8%，哔哩哔哩涨超6%，腾讯控股、阿里巴巴涨超5%。",
+"published": 1793845198.0
+},
+{
+"source": "36氪",
+"title": "华福证券入股兴业期货，后者增资至6.25亿",
+"link": "https://36kr.com/newsflashes/4056238526305416?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，兴业期货有限公司发生工商变更，新增华福证券股份有限公司为股东，同时，注册资本由5亿元人民币增至6.25亿元人民币，增幅25%。该公司成立于1993年3月，法定代表人为陈文奇，经营范围为商品期货经纪、金融期货经纪、期货投资咨询、资产管理，现由兴业国际信托有限公司及上述新增股东共同持股。",
+"published": 1793845152.0
+},
+{
+"source": "36氪",
+"title": "志特新材在江西成立智能制造公司，注册资本5000万",
+"link": "https://36kr.com/newsflashes/4056238092702593?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，江西志特智能制造有限责任公司成立，法定代表人为江炉平，注册资本5000万元人民币，经营范围包括建筑劳务分包、金属结构制造、轻质建筑材料制造等。股东信息显示，该公司由志特新材料集团股份有限公司全资持股。",
+"published": 1793845125.0
+},
+{
+"source": "36氪",
+"title": "特朗普家族关联比特币矿企American Bitcoin Q3扭亏为盈，净利润1.26亿美元",
+"link": "https://36kr.com/newsflashes/4056234127430788?f=rss",
+"summary": "当地时间11月4日，比特币矿业及储备公司American Bitcoin公布2026年第三季度业绩，净利润约1.26亿美元，上一季度净亏损5720万美元；调整后EBITDA为2.21亿美元，上一季度为亏损4500万美元。公司第三季度挖矿收入约6340万美元，低于第二季度的6700万美元；毛利润约2580万美元，毛利率约41%，低于上一季度的49%，主要受季节性电力成本上升影响。American Bitcoin由美国总统唐纳德·特朗普之子埃里克·特朗普参与创立，埃里克目前担任公…",
+"published": 1793844883.0
+},
+{
+"source": "36氪",
+"title": "科创50指数涨超3%",
+"link": "https://36kr.com/newsflashes/4056225756156809?f=rss",
+"summary": "36氪获悉，科创50指数涨超3%。",
+"published": 1793844372.0
+},
+{
+"source": "36氪",
+"title": "韩国将引入IPO基石投资者制度，遏制新股上市后抛售",
+"link": "https://36kr.com/newsflashes/4056221304050816?f=rss",
+"summary": "韩国金融监管机构将为首次公开募股（IPO）引入基石投资者制度，以遏制新股上市后股价大幅下跌。韩国金融服务委员会表示，根据11月3日获得政府批准的新制度，承诺至少锁定六个月的机构投资者可以提前获配新股。相关规定将与资本市场法修正案一道于11月13日生效。韩国金融服务委员会表示，在IPO定价前引入稳定的中长期机构，应有助于增强投资者对IPO的信心，帮助避免股票上市后因持有人集中抛售而大幅下跌。（界面）",
+"published": 1793844101.0
+},
+{
+"source": "36氪",
+"title": "国内航线燃油附加费今起上调",
+"link": "https://36kr.com/newsflashes/4056214263927689?f=rss",
+"summary": "今日（11月5日）起，国内航线旅客运输燃油附加费征收标准调整。800公里（含）以下航段向每位成人旅客收取燃油费80元，800公里以上航段向每位成人旅客收取燃油费140元，较此前分别上涨了30元和50元。（央视新闻）",
+"published": 1793843671.0
+},
+{
+"source": "36氪",
+"title": "沪指拉升翻红，深成指、创业板指均涨超1%",
+"link": "https://36kr.com/newsflashes/4056211970413443?f=rss",
+"summary": "36氪获悉，沪指拉升翻红，深成指、创业板指均涨超1%，科创50指数涨超2%，光伏、贵金属、短剧、锂电池等涨幅居前，沪深京三市上涨个股近4500只。",
+"published": 1793843531.0
+},
+{
+"source": "36氪",
+"title": "美国财政部微调发债指引，暗示未来或改变招标规模",
+"link": "https://36kr.com/newsflashes/4056205323490177?f=rss",
+"summary": "美国财政部调整了自2024年初以来一直沿用的中长期国债发行指引。当地时间11月4日，美国财政部在声明中表示，根据当前预计的融资需求，预计“未来几个季度”中长期国债招标规模将保持不变。关键在于，财政部删除了此前置于这段时间之前的“至少”一词。新的措辞意味着，短期限国债招标规模可能增加，而长期限国债发行规模可能缩减。（界面）",
+"published": 1793843125.0
+},
+{
+"source": "36氪",
+"title": "创业板指、深成指双双翻红",
+"link": "https://36kr.com/newsflashes/4056202325202051?f=rss",
+"summary": "36氪获悉，创业板指、深成指双双翻红，光伏设备、贵金属、民航机场、白酒等方向领涨，沪深京三市上涨个股超4300只。",
+"published": 1793842942.0
+},
+{
+"source": "36氪",
+"title": "恒生科技指数涨超2%",
+"link": "https://36kr.com/newsflashes/4056197113336962?f=rss",
+"summary": "36氪获悉，恒生科技指数涨超2%，恒生指数涨近2%。",
+"published": 1793842624.0
+},
+{
+"source": "36氪",
+"title": "迪士尼宣布乔纳森·加森将出任皮克斯总裁",
+"link": "https://36kr.com/newsflashes/4056196261843845?f=rss",
+"summary": "迪士尼宣布，自明年1月4日起，乔纳森·加森（Jonathan Garson）将正式出任皮克斯动画工作室（Pixar Animation Studios）总裁，接替吉姆·莫里斯（Jim Morris）。莫里斯将转任荣誉总裁（president emeritus）。加森自2010年起便在皮克斯任职，在迪士尼的工作时间更是超过30年。在履新之前，他担任的是皮克斯的总经理一职。未来，加森将与继续担任首席创意官的彼特·道格特（Pete Docter）并肩合作。（新浪财经）",
+"published": 1793842572.0
+},
+{
+"source": "36氪",
+"title": "央行今日开展2630亿元隔夜逆回购操作",
+"link": "https://36kr.com/newsflashes/4056192198759299?f=rss",
+"summary": "36氪获悉，2026年11月5日中国人民银行以固定利率、数量招标方式开展了2630亿元隔夜逆回购操作，全额满足了一级交易商需求。操作利率为1.25%。",
+"published": 1793842324.0
+},
+{
+"source": "TechCrunch",
+"title": "Apple is reportedly cutting budgets for its internal AI usage",
+"link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+"summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+"published": 1793841982.0
+},
+{
+"source": "TechCrunch",
+"title": "After the midterms, a bigger clash over data centers could be coming",
+"link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+"summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+"published": 1793840534.0
+},
+{
+"source": "36氪",
+"title": "国资入股、「臻泰智能」获数千万元B轮融资，脑机康复产品进入500+医院｜36氪首发",
+"link": "https://36kr.com/p/4055104890655622?f=rss",
+"summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，近日，西安臻泰智能科技有限公司（下称\"臻泰智能\"）已完成数千万元B轮融资，本轮由张江科投、信达未来产业基金联合投资，这也是公司成立以来首次引入国资。募集资金将用于三类脑机接口创新医疗器械注册、底层核心技术研发，以及全国“医院—社区—居家”三级康复网络规模化落地。 此前，公司曾获联想创投、奇绩创坛、苏州胡杨林资本等机构投资。 臻泰智能创始人王浩冲为西安交通大学机械工程硕士、生物医学工程在职博士。他介绍，公司依托西安交通大学“863计划”项目…",
+"published": 1793840400.0
+},
+{
+"source": "The Verge",
+"title": "X says its updated web app is way faster",
+"link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+"summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal enginee…",
+"published": 1793838312.0
+},
+{
+"source": "少数派",
+"title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+"link": "https://sspai.com/post/118498",
+"summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...查看全文",
+"published": 1793837787.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
+"link": "https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 彭博调查：69% 中国受访者至少等到明年才换手机 · ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改 · 近七成汽车经销商试用 AI，部分已设智能体专员#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1793837759.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨张雪回应“校招年薪10万起被嫌低”；A股史诗级大涨；“iPhone显示下周五多地-30℃”，苹果致歉",
+"link": "https://36kr.com/p/4056098541425801?f=rss",
+"summary": "今日热点导览 中国微短剧有了英文名：Duanju 京东外卖赛道负责人郭庆离职 科创板史上单次最大回购要来了 马斯克回应美国中期选举 卫龙换帅，“90后”余风接任CEO 瑞幸发布三季报，第三季度省了11亿元配送费 TOP 3 大新闻 校招10万起薪被嫌低，张雪：选择是双向的 张雪机车创始人张雪在重庆大学校招开出研发岗10万起的年薪，引发学生质疑，对比当地车企薪资被认为竞争力不足。张雪回应称招聘是双向选择，不能强制企业抬高薪资。本次校招计划招百人，研发岗占七成，配套宿舍、涨薪等福…",
+"published": 1793836875.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Phaze raises $8.75M to give AI agents remote access to powerful workstations",
+"link": "https://siliconangle.com/2026/11/04/phaze-raises-8-75m-to-give-ai-agents-remote-access-to-powerful-workstations/",
+"summary": "If autonomous artificial intelligence agents are really going to become the future of the enterprise then they’re going to need to have a computer of their own so they can get on with their work without disturbing anyone else. The founders …",
+"published": 1793843176.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Kyndryl shares surge 30% on hyperscaler-related revenue growth",
+"link": "https://siliconangle.com/2026/11/04/kyndryl-shares-surge-30-on-hyperscaler-related-revenue-growth/",
+"summary": "Shares of Kyndryl Holdings Inc. jumped 30% today after it reported better-than-expected earnings for the second quarter of its 2027 fiscal year. Kyndryl generated $3.9 billion in sales during the three months ended Sept. 30. That represents…",
+"published": 1793842418.0
+},
+{
+"source": "SiliconANGLE",
+"title": "French blood banks hacked amid ‘deeply concerning’ wave of fridge and freezer cyberattacks in Europe",
+"link": "https://siliconangle.com/2026/11/04/french-blood-banks-hacked-as-europe-faces-deeply-concerning-wave-of-fridge-and-freezer-cyberattacks/",
+"summary": "In a recent spate of cyberattacks in Europe against fridges and freezers, the latest assault hit France’s national blood service, where hackers gained control of cold storage systems at medical facilities and turned up the temperature. The …",
+"published": 1793840706.0
+}
+]
+}
+}

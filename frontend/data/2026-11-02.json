@@ -1,6 +1,6 @@
 {
 "date": "2026-11-02",
-"total": 137,
+"total": 138,
 "categories": {
 "AI": [
 {
@@ -149,6 +149,13 @@
 "link": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/",
 "summary": "Anthropic swings back to an operating loss ahead of its blockbuster IPO. The article Anthropic grows revenue twelvefold but posts $23 billion loss appeared first on The Decoder.",
 "published": 1793636763.0
+},
+{
+"source": "HN AI 热门",
+"title": "Basically no one is using AI agents for their DoorDash orders",
+"link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+"summary": "Article URL: https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/ Comments URL: https://news.ycombinator.com/item?id=50338474 Points: 80 # Comments: 147",
+"published": 1793634525.0
 },
 {
 "source": "The Decoder",

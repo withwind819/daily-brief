@@ -1,0 +1,264 @@
+{
+"date": "2026-11-06",
+"total": 36,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "AI Native 企业研发工具链：架构重构与持续演进｜AICon北京",
+"link": "https://www.infoq.cn/article/4IUSd2wP28ua4Jd5fHG2?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793959200.0
+},
+{
+"source": "InfoQ 中国",
+"title": "AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
+"link": "https://www.infoq.cn/article/vMSj216sQUhmeDH4H0G7?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793952000.0
+},
+{
+"source": "InfoQ 中国",
+"title": "当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge",
+"link": "https://www.infoq.cn/article/QGaIWSgd9uwx2WGw0yFv?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1793949288.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "西部黄金更换法定代表人完成工商变更",
+"link": "https://36kr.com/newsflashes/4057680436499335?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，西部黄金股份有限公司发生工商变更，法定代表人由朱凌霄变更为李远，同时多名主要人员发生变更。该公司成立于2002年5月，注册资本约9.11亿元人民币，经营范围含非煤矿山矿产资源开采、金属与非金属矿产资源地质勘探、选矿、金银制品销售、贵金属冶炼等。据公司此前公告，朱凌霄因工作调整申请辞去董事、法定代表人及董事会战略委员会委员职务，辞任后不再担任公司及控股子公司任何职务。公司于10月15日召开董事会，确定李远为代表公司执行公司事务的董事，并由其担…",
+"published": 1793933692.0
+},
+{
+"source": "36氪",
+"title": "沪深两市成交额超1万亿元",
+"link": "https://36kr.com/newsflashes/4057686445593472?f=rss",
+"summary": "36氪获悉，沪深两市成交额超1万亿元，较上日此时缩量2588亿元。",
+"published": 1793933526.0
+},
+{
+"source": "36氪",
+"title": "科创50指数盘中大幅回升翻红",
+"link": "https://36kr.com/newsflashes/4057685225313153?f=rss",
+"summary": "36氪获悉，科创50指数盘中大幅回升翻红，早盘一度跌超5%。",
+"published": 1793933451.0
+},
+{
+"source": "36氪",
+"title": "京东方A：已拥有完备玻璃基封装载板制造工艺能力",
+"link": "https://36kr.com/newsflashes/4057677788599425?f=rss",
+"summary": "36氪获悉，京东方A接受机构调研时表示，公司目前已实现高深宽比TGV开孔、深孔填铜、低应力金属布线、高层数压合、高密度布线、低应力切割等玻璃基封装载板全流程工艺拉通，拥有完备玻璃基封装载板制造工艺能力。目前，公司试验线已实现全自动化设备通线，已有超过100×100mm尺寸的24层（11-2-11）玻璃基封装载板产出并送样，客样已通过了相关信赖性测试。",
+"published": 1793933415.0
+},
+{
+"source": "36氪",
+"title": "国家能源局：“十五五”时期，将进一步做大油气合作“朋友圈”",
+"link": "https://36kr.com/newsflashes/4057682893067396?f=rss",
+"summary": "11月6日，国家发展改革委召开奋进“十五五”系列新闻发布会，介绍筑牢安全底座有关情况。国家能源局发展规划司副司长葛炬表示，国家能源局将进一步统筹国内供应和多元进口，加强油气安全保障。一方面，抓好国内供应能力建设。另一方面，抓好多元进口保障。当前我们已与全球近50个国家开展油气贸易合作，进口来源涵盖全球主要油气出口国，油气国际合作稳定可靠。“十五五”时期，将进一步做大油气合作“朋友圈”，加强海外主要油气产区合作，提升来源和通道多元化水平。同时，将巩固拓展陆上战略进口通道，维护海…",
+"published": 1793933309.0
+},
+{
+"source": "36氪",
+"title": "芯片股持续回暖，华虹宏力涨超12%",
+"link": "https://36kr.com/newsflashes/4057676132111492?f=rss",
+"summary": "36氪获悉，芯片股持续回暖，华虹宏力涨超12%，盛美上海、中科飞测、华海清科、沪硅产业、中微公司、中芯国际等跟涨。",
+"published": 1793932896.0
+},
+{
+"source": "36氪",
+"title": "特朗普支持的世界自由金融公司启动WLFI代币回购计划",
+"link": "https://36kr.com/newsflashes/4057671499224193?f=rss",
+"summary": "特朗普支持的加密货币初创公司世界自由金融（World Liberty Financial）周四表示，将启动其WLFI治理代币的回购计划，该计划的资金将来源于初始拨款，其中可能包括其1美元稳定币储备产生的收入及其他来源。此前，由于共和党在本周美国中期选举中的表现不及预期，WLFI代币面临抛售压力，该公司随后发布了这一公告。据CoinMarketCap.com数据显示，自投票结束以来，该代币已下跌约10%，今年迄今跌幅已超过60%。该公司表示，该计划旨在鼓励参与WLFI治理，并提…",
+"published": 1793932613.0
+},
+{
+"source": "36氪",
+"title": "杜邦公司第三季度净销售额19亿美元，同比增长4%",
+"link": "https://36kr.com/newsflashes/4057669973431426?f=rss",
+"summary": "11月6日，杜邦公司最新财报披露，2026年第三季度净销售额为19亿美元，同比增长4%；经营性EBITDA（息税折旧摊销前利润）为4.69亿美元，同比增长8%。（界面）",
+"published": 1793932520.0
+},
+{
+"source": "36氪",
+"title": "36氪首发丨重载物理AI公司成立一年内融资近4亿，核心成员来自华为、理想，已运营车辆超百台",
+"link": "https://36kr.com/p/4057656248685701?f=rss",
+"summary": "作者 | 乔钰杰 编辑 | 袁斯来 本文约2800字，建议阅读7分钟 硬氪获悉，上海易博图科技有限公司（EABOT，以下简称“易博图”）近日连续完成两轮近4亿元融资，投资方包括知名投资人葛卫东、辰韬资本、弘毅投资、零一汽车、兴富资本、猎鹰投资旗下星奇基金等。 易博图成立于2026年2月，聚焦重载工业物理AI，核心业务是研发面向重载场景的“移动+操作”物理AI模型。目前，公司已运营100多台重卡，覆盖60条线路，主要集中在0-300公里的大宗物料短倒场景，并且已经在新疆、内蒙古…",
+"published": 1793931795.0
+},
+{
+"source": "36氪",
+"title": "36氪首发丨富锂锰电池企业完成数千万元融资，已在无人机领域批量出货并实现盈利",
+"link": "https://36kr.com/p/4057654395736963?f=rss",
+"summary": "作者 | 乔钰杰 编辑 | 袁斯来 本文约2600字，建议阅读6分钟 硬氪获悉，佛山陀普科技有限公司（以下简称“陀普科技”）近日完成数千万元A轮融资，投资方包括淮北集善、安徽恒纳、重庆海特。本轮融资资金用于安徽淮北0.5GWh生产基地的产能扩建，并计划于2027年1月投入生产。 陀普科技成立于2019年，是一家聚焦高能量密度锂电池及固态电池技术研发与产业化的企业。公司创始人陈光森博士拥有30余年电池研发与产业化经验，曾先后任职于日本株式会社研究院、新加坡材料研究院、德国Var…",
+"published": 1793931612.0
+},
+{
+"source": "36氪",
+"title": "36氪首发丨轴向磁通电机企业获超亿元融资，产能将达15万台，已合作多家头部车企",
+"link": "https://36kr.com/p/4057654794982537?f=rss",
+"summary": "图源/企业 本文约2300字，建议阅读6分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，轴向磁通电机方案提供商——叁零陆（常州）电气有限公司（下称“306电机”）近期已完成超亿元A轮融资。本轮融资由建信北京、申能诚毅、深高新投、纵横股份（688070.SH）、赫尔墨斯创投等共同投资。资金将主要用于扁线轴向磁通电机的研发投入、新产品开发与产能建设。 306电机成立于2016年，起始于电机零部件制造，并较早介入了扁线电机的研发与量产。公司创始人、董事长秦金玉拥有17年创业及企业管理经验…",
+"published": 1793931610.0
+},
+{
+"source": "36氪",
+"title": "美国德州候任州长要求暂停向SpaceX出售土地的潜在交易",
+"link": "https://36kr.com/newsflashes/4057654130938755?f=rss",
+"summary": "美国德克萨斯州候任州长Gina Hinojosa在胜选后的首次记者会上表示，她高度关注向马斯克旗下SpaceX出售州立公园土地的潜在交易。Hinojosa表示，她周四与德州公园与野生动物管理局负责人交谈，要求在她进行权力交接期间“不要采取任何行动”。此前有报道称，该州正在考虑出售博卡奇卡州立公园，SpaceX是潜在买家，不过德州州长Greg Abbott后来表示，近期不会有任何交易提交表决。（新浪财经）",
+"published": 1793931553.0
+},
+{
+"source": "36氪",
+"title": "美股科技股回调，中际旭创、新易盛回应：经营正常，订单与交付节奏未变",
+"link": "https://36kr.com/newsflashes/4057648475853701?f=rss",
+"summary": "当地时间11月5日，美股三大股指全线收跌，其中AI硬件板块继续下挫。对于隔夜海外市场出现的明显波动，光通信龙头中际旭创回应称，目前公司经营一切正常，海外客户订单及交付节奏未发生变化，基本面未发生变化。另外，新易盛也表示，目前生产经营正常，供货情况未有变化。（证券时报）",
+"published": 1793931208.0
+},
+{
+"source": "36氪",
+"title": "国内金饰克价多数下跌，周生生克价1221元",
+"link": "https://36kr.com/newsflashes/4057645845386377?f=rss",
+"summary": "11月6日，国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所调整，老庙黄金报价1222元/克，较昨日跌3元；周生生报价1221元/克，较昨日跌12元；周大福报价1229元/克，较昨日持平；老凤祥报价1225元/克，较昨日跌7元。（界面）",
+"published": 1793931048.0
+},
+{
+"source": "36氪",
+"title": "九州云箭启动IPO辅导",
+"link": "https://36kr.com/newsflashes/4057644092461955?f=rss",
+"summary": "36氪获悉，证监会网站披露，九州云箭空间科技股份有限公司于2026年11月5日在上海证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为国泰海通证券。辅导备案报告显示，该公司控股股东为季凤来，持股比例为10.38%。",
+"published": 1793930941.0
+},
+{
+"source": "36氪",
+"title": "韩国股市今年第11次触发熔断",
+"link": "https://36kr.com/newsflashes/4057643547153280?f=rss",
+"summary": "韩国综合股价指数（KOSPI）今天（11月6日）暴跌，跌幅超过8%，触发熔断机制，暂停交易20分钟。这是韩国有价证券市场今年第11次触发熔断。熔断解除之后，有价证券市场触发暂停程序化交易卖单的临时停牌机制。KOSPI自今年2月6日以来再次失守5000点，据分析，在美国民主党赢得中期选举的背景下，市场担忧人工智能数据中心项目将面临监管风险，导致美国股市遭遇科技股大抛售，KOSPI受此影响大跌。（CCTV国际时讯）",
+"published": 1793930907.0
+},
+{
+"source": "36氪",
+"title": "印尼称三家镍企计划削减2027年产量",
+"link": "https://36kr.com/newsflashes/4057639908955008?f=rss",
+"summary": "据印尼商业新闻（Bisnis Indonesia）报道，印尼能源与矿产资源部矿产业务发展总监Cecep Mochammad Yasin表示，华友钴业、Harita Nickel和青山控股集团计划在明年削减镍产量。据引述，Cecep表示，华友计划将其在东南苏拉威西的产量削减50%，而Harita Nickel和青山控股也正在准备类似的减产措施。报道称，此举旨在应对全球镍供应过剩的局面并支撑镍价。（新浪财经）",
+"published": 1793930685.0
+},
+{
+"source": "36氪",
+"title": "纽约时报公司据悉洽谈以3.3亿美元收购电影社交平台Letterboxd",
+"link": "https://36kr.com/newsflashes/4057632392221576?f=rss",
+"summary": "据知情人士称，纽约时报公司正就收购以电影为主题的社交平台Letterboxd进行独家谈判，对后者的估值约为3.3亿美元。若达成此项交易，将进一步推动该媒体机构在核心新闻业务之外的扩张；此前，纽约时报公司已先后收购了体育网站The Athletic、产品评测服务平台Wirecutter以及游戏Wordle。今年第三季度，该公司新增了42万名纯数字订阅用户，使其付费订阅用户总数达到1380万。（新浪财经）",
+"published": 1793930227.0
+},
+{
+"source": "36氪",
+"title": "深圳外贸前三季度规模已超去年全年",
+"link": "https://36kr.com/newsflashes/4057630612083849?f=rss",
+"summary": "36氪获悉，据“深圳发布”消息，深圳海关数据显示，前三季度，深圳累计进出口4.65万亿元，同比增长38.8%，规模已超去年全年、创历史新高，继续位居内地城市首位。",
+"published": 1793930118.0
+},
+{
+"source": "36氪",
+"title": "科创ETF今年10月净流入约620亿元",
+"link": "https://36kr.com/newsflashes/4057625832641670?f=rss",
+"summary": "近期，科创ETF获资金持续加仓。数据显示，2026年10月沪市134只科创ETF合计净流入约620亿元，其中科创宽基ETF净流入近600亿元，占比超过96%，宽基正在成为资金布局科创板的主要通道。（新浪财经）",
+"published": 1793929826.0
+},
+{
+"source": "36氪",
+"title": "港交所：10月底证券市场市价总值42.4万亿港元",
+"link": "https://36kr.com/newsflashes/4057618061595523?f=rss",
+"summary": "36氪获悉，11月5日，香港交易所数据显示：证券市场市价总值于2026年10月底为42.4万亿港元。2026年10月的平均每日成交金额为1807亿港元。2026年首十个月的平均每日成交金额为2638亿港元，同比上升2%。2026年首十个月的交易所买卖基金平均每日成交金额为371亿港元，同比上升8%。2026年首十个月有121家新上市公司，同比上升49%。2026年首十个月的首次公开招股集资金额为4039亿港元，同比上升84%。",
+"published": 1793929352.0
+},
+{
+"source": "36氪",
+"title": "央行公开市场开展2260亿元隔夜逆回购操作",
+"link": "https://36kr.com/newsflashes/4057611406611586?f=rss",
+"summary": "36氪获悉，央行公开市场开展2260亿元隔夜逆回购操作，操作利率1.25%。Wind数据显示，当日2780亿元逆回购到期。",
+"published": 1793928946.0
+},
+{
+"source": "36氪",
+"title": "富锂锰电池企业“陀普科技”完成数千万元融资",
+"link": "https://36kr.com/newsflashes/4057593166271360?f=rss",
+"summary": "36氪获悉，富锂锰电池企业“陀普科技”近日完成数千万元A轮融资，投资方包括淮北集善、安徽恒纳、重庆海特。本轮融资资金用于安徽淮北0.5GWh生产基地的产能扩建，并计划于2027年1月投入生产。",
+"published": 1793928787.0
+},
+{
+"source": "The Verge",
+"title": "OpenAI is stepping back from NDAs for data center projects",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+"summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-di…",
+"published": 1793925476.0
+},
+{
+"source": "少数派",
+"title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+"link": "https://sspai.com/post/118587",
+"summary": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。查看全文",
+"published": 1793924679.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+"link": "https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人 · 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因 · 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1793924115.0
+},
+{
+"source": "TechCrunch",
+"title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+"link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+"summary": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+"published": 1793923638.0
+},
+{
+"source": "The Verge",
+"title": "Airbnb is working on an AI travel agent",
+"link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+"summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like…",
+"published": 1793923572.0
+},
+{
+"source": "TechCrunch",
+"title": "Meta, Google, and TikTok sue California AG over teen social media law",
+"link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+"summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+"published": 1793923298.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨2027放假安排出炉，是近年调休最少的一年；美股现史诗级抛售，马斯克损失近千亿美元；《后会友期》爆火，致芒果服务器故障",
+"link": "https://36kr.com/p/4057514219131783?f=rss",
+"summary": "今日热点导览 前三季度结婚登记464.8万对 苹果下调员工AI使用预算，部分工程团队日额度或降至100美元 全球平板电脑出货量创新低，苹果跌近3成 C罗宣布从葡萄牙国家队退役 华虹宏力：前三季度净利润16.03亿元，同比增长138.23% 特朗普中期选举惨败，马斯克删帖 TOP 3大新闻 2027年放假安排出炉：2027将成为近年调休天数最少的一年 2027年全年放假安排11月5日下午正式出炉。9天超长春节假期将再次回归，2027年也将成为近年来调休天数最少的年份。2027年…",
+"published": 1793923234.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Dropbox acquires Tigris Data for $350M, releases new AI productivity features",
+"link": "https://siliconangle.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-releases-new-ai-productivity-features/",
+"summary": "Dropbox Inc. is acquiring cloud storage startup Tigris Data Inc. for $350 million. The company announced the deal today in conjunction with a major update to its product portfolio. It introduced DBX Agent Cloud, a service that artificial in…",
+"published": 1793928538.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Autonomous combat drone maker Shield AI buys radar startup Echodyne for $5.3B",
+"link": "https://siliconangle.com/2026/11/05/autonomous-combat-drone-maker-shield-ai-buys-radar-startup-echodyne-for-5-3b/",
+"summary": "Defense technology startup Shield AI Inc. said today it has agreed to buy the Bill Gates-backed radar startup Echodyne Inc. in a deal valued at $5.3 billion. The acquisition is intended to enhance Shield’s autonomous drone warfighting capab…",
+"published": 1793927594.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Five9 buys contact center intelligence startup Level AI after posting narrow earnings beat",
+"link": "https://siliconangle.com/2026/11/05/five9-buys-contact-center-intelligence-startup-level-ai-after-posting-narrow-earnings-beat/",
+"summary": "Contact center company Five9 Inc. flexed its acquisitive muscles today as it announced a $325 million all-cash deal to buy an artificial intelligence-native rival called Level AI as it posted its third-quarter financial results. The deal is…",
+"published": 1793925315.0
+}
+]
+}
+}

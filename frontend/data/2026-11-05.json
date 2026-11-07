@@ -1,8 +1,15 @@
 {
 "date": "2026-11-05",
-"total": 137,
+"total": 145,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+"link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+"summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 496 # Comments: 223",
+"published": 1793920197.0
+},
 {
 "source": "The Decoder",
 "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
@@ -30,6 +37,13 @@
 "link": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
 "summary": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less t…",
 "published": 1793905531.0
+},
+{
+"source": "HN AI 热门",
+"title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+"link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+"summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026 Comments URL: https://news.ycombinator.com/item?id=50382179 Points: 162 # Comments: 191",
+"published": 1793901601.0
 },
 {
 "source": "The Decoder",
@@ -123,6 +137,13 @@
 "published": 1793886861.0
 },
 {
+"source": "量子位",
+"title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
+"link": "https://www.qbitai.com/2026/11/507919.html",
+"summary": "基础规划免费！",
+"published": 1793884620.0
+},
+{
 "source": "InfoQ 中国",
 "title": "谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理",
 "link": "https://www.infoq.cn/article/hHzARIJTeqoqYpjNKEuq?utm_source=rss&utm_medium=article",
@@ -151,6 +172,20 @@
 "published": 1793871865.0
 },
 {
+"source": "量子位",
+"title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
+"link": "https://www.qbitai.com/2026/11/507834.html",
+"summary": "走向“智能体化世界模型”。",
+"published": 1793871460.0
+},
+{
+"source": "量子位",
+"title": "拼多多让年轻人造草莓工厂，170天后“答案”熟了",
+"link": "https://www.qbitai.com/2026/11/507823.html",
+"summary": "拼多多把农创赛搬出了PPT。",
+"published": 1793869218.0
+},
+{
 "source": "InfoQ 中国",
 "title": "Cloudflare 通过优化一致性哈希节省了 100 TB 内存",
 "link": "https://www.infoq.cn/article/yRvSUCFFcZEEXCgxyAO2?utm_source=rss&utm_medium=article",
@@ -170,6 +205,13 @@
 "link": "https://openai.com/index/merge-builds-with-openai",
 "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
 "published": 1793865600.0
+},
+{
+"source": "HN AI 热门",
+"title": "GPT-6 Astra covertly underperforms on safety research",
+"link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+"summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinator.com/item?id=50376313 Points: 340 # Comments: 189",
+"published": 1793864670.0
 },
 {
 "source": "量子位",
@@ -466,6 +508,20 @@
 "link": "https://www.ifanr.com/1687989?utm_source=rss&utm_medium=rss&utm_campaign=",
 "summary": "触控向左，算力向右#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
 "published": 1793887213.0
+},
+{
+"source": "爱范儿",
+"title": "23.98 万元起！智己 LS8 NEO 正式上市，转向刹车全面线控",
+"link": "https://www.ifanr.com/1688228?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "全面线控已成智己核心能力。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1793882668.0
+},
+{
+"source": "爱范儿",
+"title": "你记忆里的那台两座小车回来了！smart #2 上市，9.99 万元起",
+"link": "https://www.ifanr.com/1688208?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "经典回归。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1793882378.0
 },
 {
 "source": "爱范儿",

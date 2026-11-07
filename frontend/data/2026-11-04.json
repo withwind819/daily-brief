@@ -1,6 +1,6 @@
 {
 "date": "2026-11-04",
-"total": 168,
+"total": 169,
 "categories": {
 "AI": [
 {
@@ -79,6 +79,13 @@
 "link": "https://www.infoq.cn/article/cNO8PCwQoZMRHhIyVDrB?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1793815200.0
+},
+{
+"source": "HN AI 热门",
+"title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+"link": "https://news.ycombinator.com/item?id=50368804",
+"summary": "Hi HN! I'm Luke from Kino (https://kino.ai). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues a…",
+"published": 1793813513.0
 },
 {
 "source": "InfoQ 中国",

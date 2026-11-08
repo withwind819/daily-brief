@@ -1,6 +1,6 @@
 {
 "date": "2026-11-06",
-"total": 124,
+"total": 135,
 "categories": {
 "AI": [
 {
@@ -51,6 +51,13 @@
 "link": "https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1793978700.0
+},
+{
+"source": "量子位",
+"title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+"link": "https://www.qbitai.com/2026/11/508184.html",
+"summary": "Dario刚喊减速…",
+"published": 1793978516.0
 },
 {
 "source": "InfoQ 中国",
@@ -142,6 +149,20 @@
 "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
 "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning servic…",
 "published": 1793959200.0
+},
+{
+"source": "量子位",
+"title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+"link": "https://www.qbitai.com/2026/11/508174.html",
+"summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+"published": 1793957159.0
+},
+{
+"source": "量子位",
+"title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+"link": "https://www.qbitai.com/2026/11/508170.html",
+"summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+"published": 1793956911.0
 },
 {
 "source": "HN AI 热门",
@@ -820,6 +841,20 @@
 "published": 1793991412.0
 },
 {
+"source": "EU-Startups",
+"title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov. 02– Nov. 06)",
+"link": "https://www.eu-startups.com/2026/11/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-nov-02-nov-06/",
+"summary": "This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrest…",
+"published": 1793984123.0
+},
+{
+"source": "EU-Startups",
+"title": "DefenceTech unicorn TEKEVER strengthens Nordic ambitions amid €520 million funding round",
+"link": "https://www.eu-startups.com/2026/11/defencetech-unicorn-tekever-strengthens-nordic-ambitions-amid-e520-million-funding-round/",
+"summary": "Portuguese DefenceTech scale-up TEKEVER has today announced that they have secured €13 million from EIFO as part of their Series D raise of €520 million ($580 million) at a €5.7 billion ($6.4 billion) valuation to support the company’s cont…",
+"published": 1793978221.0
+},
+{
 "source": "SiliconANGLE",
 "title": "Midterm elections will put AI and data centers on trial, but Big Tech may end up winning anyway",
 "link": "https://siliconangle.com/2026/11/06/midterm-elections-will-put-ai-and-data-centers-on-trial-but-big-tech-may-end-up-winning-anyway/",
@@ -841,6 +876,13 @@
 "published": 1793973653.0
 },
 {
+"source": "EU-Startups",
+"title": "AutoStore to acquire Dutch warehouse and horticulture automation firm Logiqs for up to €30 million",
+"link": "https://www.eu-startups.com/2026/11/autostore-to-acquire-dutch-warehouse-and-horticulture-automation-firm-logiqs-for-up-to-e30-million/",
+"summary": "AutoStore, a Norwegian company specialising in intelligent fulfilment, has announced an agreement to acquire Logiqs, a Maasdijk-based provider of roaming pallet Automated Storage and Retrieval Systems (AS/RS), for up to €30 million. AutoSto…",
+"published": 1793970260.0
+},
+{
 "source": "Crunchbase",
 "title": "How To Challenge A Monopoly In The AI Age",
 "link": "https://news.crunchbase.com/ai/challenging-monopolies-semiconductors-anand-tensordyn/",
@@ -853,6 +895,41 @@
 "link": "https://news.crunchbase.com/venture/october-2026-lead-startup-investors/",
 "summary": "October was a busy month for U.S. startup funding, led by well-known venture investors with a healthy appetite for big deals. We take a look at active investor rankings across three categories: lead deal count, largest lead investments and …",
 "published": 1793966403.0
+},
+{
+"source": "EU-Startups",
+"title": "OPINION: Europe’s quantum startups need more than research funding",
+"link": "https://www.eu-startups.com/2026/11/opinion-europes-quantum-startups-need-more-than-research-funding/",
+"summary": "According to McKinsey’s 2026 Quantum Technology Monitor, investment in quantum technology startups reached €11.15 billion ($12.6 billion) in 2025, 6.3 times more than a year earlier. Only 3% came from public sources, including governments, …",
+"published": 1793960753.0
+},
+{
+"source": "EU-Startups",
+"title": "With a new equity round in sight, Candi Solar secures €44 million for solar projects in India",
+"link": "https://www.eu-startups.com/2026/11/with-a-new-equity-round-in-sight-candi-solar-secures-e44-million-for-solar-projects-in-india/",
+"summary": "Candi Solar, a Swiss clean energy company distributing solar solutions, announced a €44 million ($50 million) financing partnership to build rooftop, ground-mounted, and open-access solar installations paired with BESS across key business h…",
+"published": 1793958977.0
+},
+{
+"source": "EU-Startups",
+"title": "Bioliberty raises €2.95 million to bring its AI-powered rehabilitation technology into the home",
+"link": "https://www.eu-startups.com/2026/11/bioliberty-raises-e2-95-million-to-bring-its-ai-powered-rehabilitation-technology-into-the-home/",
+"summary": "Bioliberty, an Edinburgh- and Boston-based rehabilitation technology startup, has raised a €2.95 million ($3.3 million) Series A extension, bringing its total funding to €12.07 million ($13.5 million). The Series A extension adds four new i…",
+"published": 1793956393.0
+},
+{
+"source": "EU-Startups",
+"title": "Oxford spin-out Alethio Therapeutics raises €80.46 million Series A to advance targeted blood cancer therapies",
+"link": "https://www.eu-startups.com/2026/11/oxford-spin-out-alethio-therapeutics-raises-e80-46-million-series-a-to-advance-targeted-blood-cancer-therapies/",
+"summary": "Alethio Therapeutics (Alethio), an Abingdon-on-Thames-based biopharmaceutical company developing next-generation therapies for myeloproliferative neoplasms (MPNs), has announced the completion of an oversubscribed €80.46 million ($90 millio…",
+"published": 1793953025.0
+},
+{
+"source": "EU-Startups",
+"title": "Helsinki’s Vensum Power secures €9 million to scale its software-defined power conversion platform",
+"link": "https://www.eu-startups.com/2026/11/helsinkis-vensum-power-secures-e9-million-to-scale-its-software-defined-power-conversion-platform/",
+"summary": "Vensum Power, a Helsinki-based developer of Software-Defined Power Conversion (SDPC) solution, has closed a €9 million Series A round. The round was co-led by existing backer Lifeline Ventures alongside two new investors, Larsen & Toubro Gr…",
+"published": 1793951351.0
 },
 {
 "source": "SiliconANGLE",

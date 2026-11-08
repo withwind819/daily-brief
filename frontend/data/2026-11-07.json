@@ -1,8 +1,57 @@
 {
 "date": "2026-11-07",
-"total": 20,
+"total": 74,
 "categories": {
 "AI": [
+{
+"source": "The Decoder",
+"title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+"link": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+"summary": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to raise $80 to $100 billion before Thanksgiving. Rival OpenAI has…",
+"published": 1794073045.0
+},
+{
+"source": "The Decoder",
+"title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+"link": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+"summary": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more …",
+"published": 1794070598.0
+},
+{
+"source": "The Decoder",
+"title": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs",
+"link": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+"summary": "Thinking Machines' AI model Inkling 2 Small swears during its internal reasoning, 316 times across 2,655 benchmark runs, according to an analysis by Vals AI. The profanity typically shows up late in long runs that fail anyway. But it doesn'…",
+"published": 1794069060.0
+},
+{
+"source": "InfoQ 中国",
+"title": "不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构",
+"link": "https://www.infoq.cn/article/mF9A6U1M6SQFWfEKOJGW?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794067860.0
+},
+{
+"source": "The Decoder",
+"title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
+"link": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+"summary": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost. Because open models …",
+"published": 1794065750.0
+},
+{
+"source": "The Decoder",
+"title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
+"link": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+"summary": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests. The m…",
+"published": 1794054765.0
+},
+{
+"source": "The Decoder",
+"title": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
+"link": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+"summary": "The \"Into the Unknown\" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with agents cla…",
+"published": 1794050022.0
+},
 {
 "source": "InfoQ 中国",
 "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
@@ -11,14 +60,343 @@
 "published": 1794045600.0
 },
 {
+"source": "The Decoder",
+"title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
+"link": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
+"summary": "Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-person study, its 65.8 percent detection rate beat the traditional in-office meas…",
+"published": 1794045249.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
+"link": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
+"summary": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turning to wealthy private investors hints at a satur…",
+"published": 1794044723.0
+},
+{
+"source": "量子位",
+"title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+"link": "https://www.qbitai.com/2026/11/508449.html",
+"summary": "AI写代码太快，基础设施跟不上了",
+"published": 1794044336.0
+},
+{
 "source": "InfoQ 中国",
 "title": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
 "link": "https://www.infoq.cn/article/pMNGPheLLJ8hkfikmjUU?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1794042000.0
+},
+{
+"source": "量子位",
+"title": "OpenAI新融资到账110亿美元，不及原计划一半",
+"link": "https://www.qbitai.com/2026/11/508344.html",
+"summary": "融资缩水，硅谷投资人也谨慎了",
+"published": 1794039085.0
+},
+{
+"source": "量子位",
+"title": "为了去AI味，人类开始主动写烂文章了……",
+"link": "https://www.qbitai.com/2026/11/508330.html",
+"summary": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+"published": 1794038368.0
+},
+{
+"source": "量子位",
+"title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+"link": "https://www.qbitai.com/2026/11/508264.html",
+"summary": "苦单Session久矣，两大Agent玩家不谋而合。",
+"published": 1794027677.0
+},
+{
+"source": "量子位",
+"title": "AGENTS.MD，危险危险危险！！！",
+"link": "https://www.qbitai.com/2026/11/508244.html",
+"summary": "全新的电脑病毒",
+"published": 1794023035.0
+},
+{
+"source": "量子位",
+"title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+"link": "https://www.qbitai.com/2026/11/508236.html",
+"summary": "中国版cosmos再交卷",
+"published": 1794022304.0
+},
+{
+"source": "量子位",
+"title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+"link": "https://www.qbitai.com/2026/11/508196.html",
+"summary": "RSI不可能无限快",
+"published": 1794021809.0
 }
 ],
 "科技": [
+{
+"source": "TechCrunch",
+"title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+"link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+"summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+"published": 1794089242.0
+},
+{
+"source": "TechCrunch",
+"title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+"link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+"summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+"published": 1794086228.0
+},
+{
+"source": "TechCrunch",
+"title": "Parents want safer phones for kids. These companies are answering the call.",
+"link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+"summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+"published": 1794078000.0
+},
+{
+"source": "TechCrunch",
+"title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+"link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+"summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+"published": 1794072247.0
+},
+{
+"source": "TechCrunch",
+"title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+"link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+"summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+"published": 1794071880.0
+},
+{
+"source": "The Verge",
+"title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+"link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+"summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from …",
+"published": 1794070800.0
+},
+{
+"source": "爱范儿",
+"title": "最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
+"link": "https://www.ifanr.com/1688312?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "性能和豪华，仰望说它全都要。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794070233.0
+},
+{
+"source": "Solidot",
+"title": "ESA Hera 探测器发回 DART 撞击的小行星照片",
+"link": "https://www.solidot.org/story?sid=85825",
+"summary": "ESA Hera 探测器拍下了 Didymos 双小行星系统的首张近距离照片。这个系统由两颗小行星组成，直径 780 米的 Didymos 是主星，直径 151 米的 Dimorphos 则绕着它运行。2022 年 9 月 26 日，NASA DART 探测器直接撞上较小的 Dimorphos，再测量它绕行主星 Didymos 的时间改变了多少。为了进一步了解这次撞击的影响，Hera 于 2024 年 10 月 7 日发射，历经两年飞行抵达这对小行星附近。它将近距离调查撞击如…",
+"published": 1794068229.0
+},
+{
+"source": "Solidot",
+"title": "FAA 计划到 2028 年淘汰软盘",
+"link": "https://www.solidot.org/story?sid=85824",
+"summary": "FAA 计划到到 2028 年底前更换全美逾 400 个空管设施使用的软盘。新系统 Enterprise Information Display System 将取代可上溯至 1980 年代的旧系统。逾 25 年前软盘就基本停止使用，2011 年起不再大规模生产。去年美国国会批准了 125 亿美元资金用于更新陈旧的空管系统。FAA 目前还面临诸多技术难题，交通部长 Sean Duffy 正寻求额外 30 亿美元的资金。FAA 局长 Bryan Bedford 表示：“我们正摒…",
+"published": 1794067540.0
+},
+{
+"source": "The Verge",
+"title": "Costco members can get $5 off the reimagined Ocarina of Time",
+"link": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+"summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the pric…",
+"published": 1794067200.0
+},
+{
+"source": "The Verge",
+"title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+"link": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+"summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so …",
+"published": 1794067200.0
+},
+{
+"source": "The Verge",
+"title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+"link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+"summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A n…",
+"published": 1794066600.0
+},
+{
+"source": "The Verge",
+"title": "The US let Nvidia sell chips to an empty office in China",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+"summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on …",
+"published": 1794066225.0
+},
+{
+"source": "The Verge",
+"title": "AI broke the cybersecurity world. What’s next?",
+"link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+"summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always e…",
+"published": 1794063600.0
+},
+{
+"source": "The Verge",
+"title": "Good riddance, Cybertruck!",
+"link": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+"summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. …",
+"published": 1794062406.0
+},
+{
+"source": "The Verge",
+"title": "Zelda is back and better than ever",
+"link": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+"summary": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at t…",
+"published": 1794059341.0
+},
+{
+"source": "The Verge",
+"title": "Why a new report on Anthropic automating AI development is alarming researchers",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+"summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new rep…",
+"published": 1794054600.0
+},
+{
+"source": "Solidot",
+"title": "抗议者闯入微软在欧洲的一处数据中心工地",
+"link": "https://www.solidot.org/story?sid=85823",
+"summary": "逾百名活动人士闯入了阿姆斯特丹的一处微软 AI 数据中心施工现场，他们爬上起重机，悬挂气球并跳起舞，部分人则举着 Screw your datacenter 的标语。此次行动是针对 AI 基础设施迅速扩张所开展的一系列抗议活动之一。抗议者 Sam van der Beek 表示：“这些数据中心正摧毁我们的世界。它们消耗了海量资源，导致地球变得不再适宜居住。这就是我们今天来到这里的原因。”Stop Dirty Data Centers 联盟宣布，其成员于周五和周六在 16 个国…",
+"published": 1794051960.0
+},
+{
+"source": "Solidot",
+"title": "天宫即将迎来首位巴基斯坦宇航员",
+"link": "https://www.solidot.org/story?sid=85822",
+"summary": "一名巴基斯坦宇航员将加入神舟二十四号载人飞行任务的乘组。他是一位载荷专家。任务成行后，他将成为首位进入中国空间站的外国公民。这也将是中国载人航天工程历史上，首次由中国与外国宇航员共同执行太空飞行任务。今年早些时候，两名巴基斯坦预备宇航员——穆罕默德·泽尚·阿里（Muhammad Zeeshan Ali）和胡拉姆·达乌德（Khurram Daud），已经在北京开始与中国宇航员共同接受训练。按照计划，两人在中国完成各项训练并通过考核后，“其中 1 人将执行载人飞行任务，1 人作为…",
+"published": 1794050545.0
+},
+{
+"source": "Solidot",
+"title": "广电总局整治 AI 低俗微短剧",
+"link": "https://www.solidot.org/story?sid=85821",
+"summary": "广电总局周五晚上公布了一则通知，整治 AI 低俗短剧：“针对 AI 微短剧质量良莠不齐、AI 技术助长低俗不良内容反弹等问题，部署开展新一轮微短剧低俗化同质化专项治理工作，治理为期两个月，自 11 月 1 日起至 12 月底。新一轮专项治理聚焦两个方面的突出问题，内容创作方面，深化治理儿童类不良、软色情擦边、极端对立、拜金主义、严重违背家庭伦理道德等低俗不良内容；治理未按要求备案审核的特殊题材内容；治理“盗脸”“偷声”问题，规范 AI 微短剧创作。传播推广方面，治理片名、宣推…",
+"published": 1794050382.0
+},
+{
+"source": "36氪",
+"title": "巴西成立电动汽车工作组，推动交通低碳转型",
+"link": "https://36kr.com/newsflashes/4059309879334016?f=rss",
+"summary": "巴西11月6日举行国家能源政策委员会会议，批准国家能源转型计划，并成立电动汽车工作组，以跟踪巴西电动汽车推广进展，推动交通领域低碳转型。（新华社）",
+"published": 1794044783.0
+},
+{
+"source": "36氪",
+"title": "马斯克评估特斯拉与SpaceX合并之际，谷歌高管哈里森离任SpaceX独立董事",
+"link": "https://36kr.com/newsflashes/4059145122124674?f=rss",
+"summary": "SpaceX周五提交文件披露，长期担任公司董事的唐纳德·哈里森已经卸任。此时CEO埃隆·马斯克正推动SpaceX与特斯拉合并。 哈里森是谷歌企业发展总裁，2015年谷歌向SpaceX投资近10亿美元时加入董事会，谷歌至今持有大量SpaceX股份。 周五文件显示，哈里森于11月4日向公司提出辞职。文件写明：“哈里森辞职，并非因为他与公司在运营、政策或业务实践上存在任何分歧。” 哈里森是SpaceX董事会独立董事团成员之一，该独立董事小组正在评估和特斯拉合并的可能性。SpaceX…",
+"published": 1794043069.0
+},
+{
+"source": "少数派",
+"title": "一个 05 后的个人数码编年史",
+"link": "https://sspai.com/post/116750",
+"summary": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。查看全文",
+"published": 1794042306.0
+},
+{
+"source": "36氪",
+"title": "多地经销商确认雀巢即饮咖啡西区“撤编”，接近雀巢人士：将聚焦四大核心业务",
+"link": "https://36kr.com/newsflashes/4059086874317961?f=rss",
+"summary": "近日，有报道称，雀巢即饮咖啡西区已正式撤编。多位雀巢经销商表示，自11月1日起，雀巢即饮咖啡（RTD）西区正式拆分，分别并入西南区与西北区，原有的独立西区编制不复存在。对于上述即饮咖啡西区撤编相关事宜，有接近雀巢方面人士表示：“雀巢将聚焦大中华区的咖啡、营养品、食品和糖果四大核心业务。”（新浪财经）",
+"published": 1794041972.0
+},
+{
+"source": "36氪",
+"title": "韩股下跌，韩国散户狂买美股，5日净买入规模超8月全月",
+"link": "https://36kr.com/newsflashes/4059306396701833?f=rss",
+"summary": "韩国本土股市下跌之际，韩国散户正在加大美股买入力度。仅五个交易日内，美股净买入额接近3万亿韩元，超过8月全月规模。 韩国预托结算院证券信息平台SEIBro 7日数据显示，2日至6日，韩国散户美股净买入规模达21.9753亿美元，约合2.982万亿韩元。 该数值高于8月全月19.6234亿美元的净买入额，是9月10.0128亿美元的两倍多，相当于上月总额54.2312亿美元的约40%。也就是说，投资者在五个交易日内买入的美股，接近以往一个月的体量。（新浪财经）",
+"published": 1794040002.0
+},
+{
+"source": "36氪",
+"title": "“天宫”将迎首位外籍航天员，巴基斯坦载荷专家参加神舟二十四号任务",
+"link": "https://36kr.com/newsflashes/4059088300757897?f=rss",
+"summary": "据中国载人航天工程办公室消息，神舟二十四号载人飞行任务将有1名巴基斯坦航天员以载荷专家身份参加，在完成短期在轨飞行后，随神舟二十三号载人飞船返回。这是中国载人航天工程历史上首次中外航天员联合飞行，中国空间站将迎来首位外籍航天员到访。 2025年2月，中国和巴基斯坦在伊斯兰堡签署《关于选拔、训练巴基斯坦航天员并参与中国空间站飞行任务的合作协议》，正式启动巴基斯坦航天员选拔工作。经过初选、复选、定选三个阶段的严格筛选和评定，选拔出2名巴基斯坦预备航天员，在华完成各项训练并通过考核…",
+"published": 1794038096.0
+},
+{
+"source": "36氪",
+"title": "Meta首席战略官离职 转投AI推理初创公司Fireworks",
+"link": "https://36kr.com/newsflashes/4059085827527815?f=rss",
+"summary": "Meta首席战略官戴夫·韦纳周五确认，他将离开公司，出任AI推理初创企业Fireworks的首席财务官。韦纳2012年加入脸书，担任企业财务与业务规划副总裁，2014年升任首席财务官，在该岗位任职逾八年，2022年转任首席战略官。(财联社)",
+"published": 1794036382.0
+},
+{
+"source": "36氪",
+"title": "截至10月末 我国外汇储备规模为34052亿美元",
+"link": "https://36kr.com/newsflashes/4059083997188999?f=rss",
+"summary": "国家外汇管理局统计数据显示，截至2026年10月末，我国外汇储备规模为34052亿美元，较9月末上升49亿美元，升幅为0.14%。我国10月末黄金储备报7830万盎司，9月末为7747万盎司，为连续第24个月增持黄金。(财联社)",
+"published": 1794034772.0
+},
+{
+"source": "36氪",
+"title": "加州亿万富豪税提案公投或被否决，全美富豪税推进遇挫",
+"link": "https://36kr.com/newsflashes/4059082887451529?f=rss",
+"summary": "DDHQ在X平台预测，加州选民预计否决这项全美首个针对亿万富豪征税的提案，这场加州史上耗资巨大、分歧严重的政治斗争就此落幕。40号提案原本计划对2026年初居住在加州的亿万富豪资产征收一次性5%财富税，大部分税收收入用于补足医疗体系资金。数据显示，在约71%选票完成计票后，仅46%选民支持该提案，54%表示反对。提案失利，给全美针对巨额财富征税的相关尝试带来重大打击。支持者原本寄望加州为美国其他地区同类运动提供范本。但该提案遭到多方联盟反对，其中包含科技富豪、民主党州长加文·…",
+"published": 1794033448.0
+},
+{
+"source": "36氪",
+"title": "Meta首席战略官离职",
+"link": "https://36kr.com/newsflashes/4059310472615049?f=rss",
+"summary": "据报道，Meta首席战略官戴夫·韦纳确认将离开公司，出任AI推理初创企业Fireworks的首席财务官。（界面）",
+"published": 1794032648.0
+},
+{
+"source": "36氪",
+"title": "A股一周牛股出炉：最牛股ST豆神涨超65%，浙文影业五连板",
+"link": "https://36kr.com/newsflashes/4059042576307333?f=rss",
+"summary": "剔除月内上市新股和退市整理期个股，前20只牛股当周股价均涨超33%。其中电力设备板块独占8席，光伏上下游全线走强，成为本周市场焦点；传媒板块紧随其后，短剧、AI影视题材持续发酵，多股涨幅居前。最牛股ST豆神主营业务是人工智能（AI）教育、艺术类学习服务、智慧教育服务及文旅研学，受AI应用题材催化，该股股价连续拉升，本周累计大涨65.78%，登顶全市场涨幅榜。紧随其后的ST亿晶、浙文影业周涨幅均超61%。其中ST亿晶受益于光伏板块整体回暖、题材升温，股价斩获五连板；浙文影业在短…",
+"published": 1794032307.0
+},
+{
+"source": "36氪",
+"title": "银行股为QFII三季度盈利主要来源",
+"link": "https://36kr.com/newsflashes/4059040488969347?f=rss",
+"summary": "Wind数据统计显示，截至三季度末，QFII共持有1309只A股，三季度上涨的个股有752只，占比57.4%，平均涨幅为5.66%，跑赢上证指数11.82个百分点，跑赢创业板指33.46个百分点，其中涨幅超50%的有67只，翻倍的有25只。QFII持股三季度涨幅超50%的个股中，按申万一级行业分类，医药生物最多，达13只，占比26%，平均涨幅高达102%；基础化工5只，家用电器、电子、农林牧渔、轻工制造均为4只，食品饮料、房地产各3只。银行股则成为QFII三季度盈利主要来源，…",
+"published": 1794031221.0
+},
+{
+"source": "36氪",
+"title": "伦敦金现一度重返4100美元，机构关注黄金逢低配置机会",
+"link": "https://36kr.com/newsflashes/4059038932735109?f=rss",
+"summary": "近期，国际金价在快速反弹后再现震荡。伦敦金现自10月底跌破每盎司3900美元后逐步回升，11月5日盘中重返4100美元/盎司上方，11月6日截至记者发稿时，又回落至4050美元/盎司附近。分析人士认为，美元与美债收益率回落、能源通胀预期缓和，为金价修复提供支撑，但加息预期与流动性扰动仍存。央行购金及黄金ETF资金流入情况显示配置需求具有韧性，四季度可关注金价回调中的分批配置机会，后续需观察美国就业、通胀数据及美联储政策信号。（中证报）",
+"published": 1794030224.0
+},
+{
+"source": "36氪",
+"title": "光伏板块15只个股年内获融资客大幅加仓",
+"link": "https://36kr.com/newsflashes/4059037053211523?f=rss",
+"summary": "近期，光伏板块走强。11月以来（截至11月6日），光伏设备指数累计涨幅超过16%，大幅跑赢上证指数。从单家公司来看，15家光伏设备公司11月以来累计涨幅均超过20%，包括贝特利、艾能聚、时创能源等。从融资余额变动来看，最新（11月5日）融资余额较去年末增加的光伏设备公司有17家，其中15家的增幅超过10%，增幅居前的有拉普拉斯、首航新能、爱旭股份、TCL中环等。从市场表现来看，截至11月6日，上述15家公司今年以来平均跌幅超过8%，逆势上涨的有帝尔激光、拉普拉斯、TCL中环等…",
+"published": 1794028787.0
+},
+{
+"source": "36氪",
+"title": "SpaceX拟切入传统电信运营商领域",
+"link": "https://36kr.com/newsflashes/4059028625773700?f=rss",
+"summary": "马斯克 SpaceX 拟收购 Boost Mobile 切入传统电信运营商领域，AT&T 和 T-Mobile 据称已准备应对方案。 据悉，如果埃隆・马斯克旗下 SpaceX 成功收购 Boost Mobile，AT&T 和 T-Mobile 将可能切断这家运营商对其移动网络的访问权。 由于 Boost Mobile 目前高度依赖 AT&T 和 T-Mobile 提供网络容量，这一潜在举措可能使 SpaceX 借助收购快速进入美国移动通信市场的计划面临阻碍。（��浪科技）",
+"published": 1794027731.0
+},
+{
+"source": "TechCrunch",
+"title": "Sequoia shutting down its Scouts program marks the end of an era",
+"link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+"summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+"published": 1794027714.0
+},
+{
+"source": "36氪",
+"title": "欧洲央行考虑审查银行对数据中心的贷款，以评估人工智能相关风险",
+"link": "https://36kr.com/newsflashes/4059026136388742?f=rss",
+"summary": "11月6日，据报道，欧洲央行正考虑审查银行对数据中心的贷款，以评估人工智能市场情绪变化及估值波动可能带来的风险。据悉，欧洲央行高级官员已在内部及与受其监管的银行讨论这一方案。审查可能包括现场检查，重点考察银行如何评估未来现金流、抵押品价值及应对潜在违约风险。此次审查范围可能小于欧洲央行数年前开展的杠杆融资审查，具体方案尚未敲定。（界面）",
+"published": 1794026564.0
+},
+{
+"source": "TechCrunch",
+"title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+"link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+"summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets…",
+"published": 1794025003.0
+},
 {
 "source": "36氪",
 "title": "OpenAI：将继续推进其美国数据中心扩张计划",

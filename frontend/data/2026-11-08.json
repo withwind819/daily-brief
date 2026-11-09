@@ -1,17 +1,269 @@
 {
 "date": "2026-11-08",
-"total": 6,
+"total": 44,
 "categories": {
 "AI": [
+{
+"source": "InfoQ 中国",
+"title": "AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题",
+"link": "https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794154784.0
+},
+{
+"source": "InfoQ 中国",
+"title": "顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访",
+"link": "https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794150186.0
+},
+{
+"source": "The Decoder",
+"title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+"link": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+"summary": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says. The article Andrej Karpathy built a curated video platfor…",
+"published": 1794147780.0
+},
+{
+"source": "InfoQ 中国",
+"title": "租户隔离做了四层，就能放心了吗？工程师提醒：还得看得见边界是否生效",
+"link": "https://www.infoq.cn/article/zTFVgklcTFZvgE2fkV7A?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794146400.0
+},
+{
+"source": "The Decoder",
+"title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
+"link": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/",
+"summary": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on silicon hardware. They consider the assumption that consciousness depends on comp…",
+"published": 1794145761.0
+},
+{
+"source": "The Decoder",
+"title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+"link": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+"summary": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scaling \"has reward hacke…",
+"published": 1794138281.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+"link": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794132000.0
+},
+{
+"source": "The Decoder",
+"title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+"link": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+"summary": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmarks, the sa…",
+"published": 1794131459.0
+},
 {
 "source": "InfoQ 中国",
 "title": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
 "link": "https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1794128400.0
+},
+{
+"source": "量子位",
+"title": "资本正在撤离“世界模型”",
+"link": "https://www.qbitai.com/2026/11/508466.html",
+"summary": "没有永远的夏天",
+"published": 1794110995.0
 }
 ],
 "科技": [
+{
+"source": "The Verge",
+"title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+"summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Hu…",
+"published": 1794178490.0
+},
+{
+"source": "少数派",
+"title": "派早报：特斯拉将停产 Cybertruck",
+"link": "https://sspai.com/post/118805",
+"summary": "特斯拉将停产 Cybertruck深圳在 APEC 前夕整顿非法市场美国数据中心股持续遭抛售，大量建设项目被取消京津冀三地消协组织敦促航司、平台规范机票退改签FBI 警告冰柜网络安全攻击风险广电总局部署开展新一轮微短剧专项治理工作看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+"published": 1794177716.0
+},
+{
+"source": "The Verge",
+"title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+"link": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+"summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favor…",
+"published": 1794177442.0
+},
+{
+"source": "TechCrunch",
+"title": "Apps to distract you from the endless cycle of doomscrolling",
+"link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+"summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+"published": 1794175200.0
+},
+{
+"source": "TechCrunch",
+"title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+"link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+"summary": "In a memo to the company, Huang admitted that he had an affair.",
+"published": 1794171611.0
+},
+{
+"source": "TechCrunch",
+"title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+"link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+"summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+"published": 1794171600.0
+},
+{
+"source": "The Verge",
+"title": "Epic Games Launcher is coming to SteamOS",
+"link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+"summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Commun…",
+"published": 1794171125.0
+},
+{
+"source": "TechCrunch",
+"title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+"link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+"summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+"published": 1794169800.0
+},
+{
+"source": "The Verge",
+"title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+"summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement …",
+"published": 1794169359.0
+},
+{
+"source": "TechCrunch",
+"title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+"link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+"summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+"published": 1794167490.0
+},
+{
+"source": "The Verge",
+"title": "Apple is racing to make Siri more agentic",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+"summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional…",
+"published": 1794165499.0
+},
+{
+"source": "TechCrunch",
+"title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+"link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+"summary": "SNL seems to have its knives out for tech executives.",
+"published": 1794160804.0
+},
+{
+"source": "TechCrunch",
+"title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+"link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+"summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+"published": 1794159000.0
+},
+{
+"source": "The Verge",
+"title": "Elvis and Eminem rights holders are suing Suno",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+"summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimi…",
+"published": 1794158599.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Mobility: The Cybertruck experiment is over",
+"link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+"summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+"published": 1794157320.0
+},
+{
+"source": "The Verge",
+"title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+"link": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+"summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 pr…",
+"published": 1794153600.0
+},
+{
+"source": "Solidot",
+"title": "LG 因其智能电视监视用户面临法律诉讼",
+"link": "https://www.solidot.org/story?sid=85829",
+"summary": "今年 9 月，研究人员报告 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到 LG 的定向广告部门 LG Ad Solutions。LG 对该报告予以否认。消费者保护组织对此并不买账。葡萄牙的 Citizens Voice 请求葡萄牙法院对 LG 的声明进行审查，它希望法院介入调查，判定此类数据收集行为是否侵犯了消…",
+"published": 1794151424.0
+},
+{
+"source": "The Verge",
+"title": "Chatbots might be coming to Apple’s HomeView",
+"link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+"summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it see…",
+"published": 1794150030.0
+},
+{
+"source": "TechCrunch",
+"title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+"link": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+"summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+"published": 1794150000.0
+},
+{
+"source": "Solidot",
+"title": "太平洋垃圾带海水变得更蓝更绿",
+"link": "https://www.solidot.org/story?sid=85828",
+"summary": "2002-2022 年间，在太平洋垃圾带内，部分太平洋海域的颜色发生了变化，部分区域明显变得更蓝、更绿。一项新研究表明，这可能是海水中微塑料浓度增加所致。直径小于 300 微米的微塑料颗粒造成的海洋污染难以直接测量，实验室研究表明，这一尺寸的微塑料具有特定的光学特性，或许能让人们通过遥感手段测量其在海水中的浓度。太平洋垃圾带适合用来检验这一方法，因为2016年的原位测量显示，该区域近表层海水中较大微塑料颗粒的含量可能超过每立方米 17 毫克。太平洋垃圾带位于太平洋亚热带环流中…",
+"published": 1794148827.0
+},
+{
+"source": "Solidot",
+"title": "微软移除了 PC 到 PC 的迁移功能",
+"link": "https://www.solidot.org/story?sid=85827",
+"summary": "Windows 11 曾提供了一种 PC-to-PC 迁移工具，允许用户通过 Wi-Fi 或以太网在两台 PC 之间直接传输文件和设置。然而该工具如今已经移除。微软更新后的支持文档推荐用户使用 Windows Backup 工具。该工具不再依赖两台 PC 之间的直接连接，而是基于云存储服务 OneDrive。Windows Backup 需要用户登录个人微软账户，将支持的文件夹 Desktop、Documents、Pictures、Videos 和 Music 备份到 One…",
+"published": 1794148453.0
+},
+{
+"source": "Solidot",
+"title": "台积电考虑进入内存行业",
+"link": "https://www.solidot.org/story?sid=85826",
+"summary": "应最大客户英伟达的要求，台积电考虑进入内存行业，生产名为 3D DRAM 的先进内存芯片。台积电可能会选择新建工厂生产先进内存芯片，但尚不清楚计划何时开始生产。它也在探索收购现有工厂将其改造为内存芯片生产基地的可能性。该项目由台积电负责先进封装业务的副总裁徐国晋的领导。如果台积电进军先进内存芯片行业，它将不得不与三星电子、SK 海力士以及美光等公司展开竞争。",
+"published": 1794145388.0
+},
+{
+"source": "The Verge",
+"title": "There’s no slowing down media’s pivot-to-video 2.0",
+"link": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at …",
+"published": 1794142800.0
+},
+{
+"source": "爱范儿",
+"title": "别再拿《影之刃零》对比《黑神话》了",
+"link": "https://www.ifanr.com/1688282?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "《影之刃》有自己的江湖。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794110431.0
+},
+{
+"source": "爱范儿",
+"title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原",
+"link": "https://www.ifanr.com/1688364?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "磁带在 AI 时代迎来了第二春。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794108942.0
+},
+{
+"source": "少数派",
+"title": "苹果产品那些不够颠覆，却值得被学习的细节",
+"link": "https://sspai.com/post/118114",
+"summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+"published": 1794107934.0
+},
+{
+"source": "36氪",
+"title": "运动市场，打到骨折",
+"link": "https://36kr.com/p/4055180749198208?f=rss",
+"summary": "文｜贺哲馨 编辑｜乔芊 调整 2026年下半年，你很难找到一份好看的运动品牌财报。 国内头部品牌在同一季度首次集体出现零售流水负增长。安踏和FILA季度流水同比下跌，是2022年后的首次。李宁流水低单位数下降，电商是唯一的增长。特步主品牌同样中单位数下跌。361度是四家头部中唯一全线增长的一家，上半年营收增速也已放缓至8%。 耐克仍在下行通道，最新季度营收112亿美元，下降5%，管理层预计2027年全年营收下降个位数。彪马的降幅收窄至6.3%，但仍在下滑。 还在增长的国际品牌…",
+"published": 1794107146.0
+},
 {
 "source": "36氪",
 "title": "首批18只主动ETF全部提前结募",
@@ -46,6 +298,22 @@
 "link": "https://36kr.com/newsflashes/4060370161882248?f=rss",
 "summary": "伯克希尔哈撒韦公司第三季度营收为1056.47亿美元，去年同期为949.72亿美元；第三季度营业利润为127.1亿美元，同比下降5.8%；第三季度归属于股东的净利润为221.12亿美元，上年同期为307.96亿美元；第三季度每股A类等效普通股净收益为15,502美元；第三季度净投资收益为94.07亿美元，去年同期为173.11亿美元。截至9月30日，公司第三季度现金持仓为3569亿美元；现金储备较上一季度有所增加，达到3774亿美元，再创新高。公司第三季度回购了96亿美元股票…",
 "published": 1794099601.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Nvidia CEO Jensen Huang admits to having extramarital affair with suspected Chinese spy",
+"link": "https://siliconangle.com/2026/11/08/nvidia-ceo-jensen-huang-admits-to-having-extramarital-affair-with-suspected-chinese-spy/",
+"summary": "Nvidia Corp. said on Sunday it’s launching an “independent investigation” into reports that its founder and Chief Executive Jensen Huang had been targeted by a foreign intelligence plot, shortly after he admitted he “had been intimate” with…",
+"published": 1794180918.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AI cyber resilience and the trust gap",
+"link": "https://siliconangle.com/2026/11/08/ai-cyber-resilience-and-the-trust-gap/",
+"summary": "Backup and recovery has evolved into data protection, security and cyber recovery. Today, the focus is on business resilience. The scope continues to expand, with growing attention to how attackers use artificial intelligence and how defend…",
+"published": 1794152958.0
 }
 ]
 }

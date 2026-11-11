@@ -1,0 +1,257 @@
+{
+"date": "2026-11-11",
+"total": 35,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+"link": "https://www.infoq.cn/article/I49cXCJFBpOW3PcgPTW3?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794391200.0
+},
+{
+"source": "InfoQ 中国",
+"title": "微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+"link": "https://www.infoq.cn/article/mfy0RUYOqEAW8imUrGTY?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794387960.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "关注A股市场动态？加入36氪官方交流群，获取每日资讯与企业舆情",
+"link": "https://36kr.com/p/4064733248083080?f=rss",
+"summary": "看市场，不只看股价，也要关注企业正在发生什么。 每天A股开盘前，市场上总有大量信息值得关注。 上市公司发布了什么新公告？哪些企业有了新的业务进展？近期行业出现了哪些变化？热门概念背后，又有哪些值得关注的企业动态？ 信息越来越多，如何从中快速找到有价值的内容，成为不少市场关注者日常面临的问题。 为了让大家更方便地获取市场资讯、了解企业动态，36氪企业全情报持续运营官方股票舆情交流群，围绕A股市场资讯、上市公司舆情和行业热点，为群成员提供日常信息分享与交流。 目前，36氪官方交流…",
+"published": 1794363659.0
+},
+{
+"source": "36氪",
+"title": "Anthropic投资者提前兜售IPO配售股份，额外收取最高5%费用",
+"link": "https://36kr.com/newsflashes/4064728793371782?f=rss",
+"summary": "一些Anthropic PBC的支持者正在这宗势将创下纪录的上市交易前夕，将其预计获得的部分首次公开招股（IPO）配售股份提供给新的投资者。JonesTrading Institutional Services LLC正代表一些预计将在此次IPO中获得大额配售的投资者，推介一批价值最高5亿美元的Anthropic股票。买家除了按IPO最终发行价支付股款外，还要缴纳相当于发行价3%至5%的额外费用。（新浪财经）",
+"published": 1794363357.0
+},
+{
+"source": "36氪",
+"title": "晶瑞电材、中国石化在上海成立合资公司，注册资本1.26亿",
+"link": "https://36kr.com/newsflashes/4064727376270466?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，瑞高芯材（上海）电子材料有限公司成立，法定代表人为赵浩然，注册资本1.26亿元人民币，经营范围为电子专用材料销售。股东信息显示，该公司由晶瑞电子材料股份有限公司、中国石化上海高桥石油化工有限公司共同持股，持股比例分别为51%、49%。",
+"published": 1794363270.0
+},
+{
+"source": "36氪",
+"title": "美媒：黄仁勋已回英伟达上班",
+"link": "https://36kr.com/newsflashes/4064724701942661?f=rss",
+"summary": "据CNBC报道，知情人士透露，英伟达CEO黄仁勋（Jensen Huang）周一走进了公司位于加州圣克拉拉的总部，照常主持了与高层管理人员的晨会。知情人士称，黄仁勋在这场闭门会议开始时首先就最近的风波向员工表达了歉意。他没有接受任何提问，而是很快将话题转向业务和当天的主要议程。周二，黄仁勋也来到办公室开会。还有一周时间，英伟达就将发布新一季财报。（凤凰网科技）",
+"published": 1794363107.0
+},
+{
+"source": "36氪",
+"title": "36氪首发丨国产半导体模块厂商获近亿元 B 轮融资，营收大幅增长，海外占比近半",
+"link": "https://36kr.com/p/4064722121823367?f=rss",
+"summary": "作者 | 乔钰杰 编辑 | 袁斯来 本文约3800字，建议阅读9分钟 硬氪获悉，国产碳化硅（SiC）功率模块厂商利普思半导体（以下简称“利普思”）近日完成近亿元B轮融资，新投资方为上海新微资本。本轮资金将主要用于加大AIDC相关产品研发和全球市场推广。 利普思（Leapers）成立于2019年11月，总部位于江苏无锡，是一家专注于第三代半导体碳化硅功率模块研发、制造及销售的企业，致力于为高压、大电流等应用场景提供高功率密度、高可靠性的功率模块及相关解决方案。 随着AI数据中心…",
+"published": 1794363008.0
+},
+{
+"source": "36氪",
+"title": "刘强东也要入局短剧？京东内测独立短剧产品",
+"link": "https://36kr.com/newsflashes/4064721831384197?f=rss",
+"summary": "11月10日，京东内测独立短剧产品“京东追剧福利社”，采用免费模式，核心玩法是“看剧领福利、剧中同款直接买，京东发货”。京东做短剧的底层目标并非卖剧或抢占娱乐时长，而是把短剧当作一件导购工具，借助剧情的强情绪完成商品转化，将追剧观众沉淀为平台购物用户。不过目前相关功能尚处在测试完善阶段，实际体验中暂未发现对应的电商跳转入口。（澎湃）",
+"published": 1794362932.0
+},
+{
+"source": "爱范儿",
+"title": "300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？",
+"link": "https://www.ifanr.com/1688900?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "买情怀，送耳机#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794362927.0
+},
+{
+"source": "36氪",
+"title": "高盛领投网络安全初创企业Daylight Security，后者估值达4亿美元",
+"link": "https://36kr.com/newsflashes/4064719784711043?f=rss",
+"summary": "知情人士透露，高盛集团增长股权投资部门牵头对网络安全初创公司Daylight Security开展8000万美元B轮融资。这家总部位于纽约的企业本轮投后估值约4亿美元，融资完成后，公司累计融资总额达1.2亿美元。该公司客户包括AI代码生成初创企业Lovable、索尼旗下动漫流媒体平台Crunchyroll以及体验管理平台Qualtrics。（新浪财经）",
+"published": 1794362807.0
+},
+{
+"source": "36氪",
+"title": "36氪首发丨交大团队获中网投与清华系资本领投亿元级融资，以“原子+光子芯片”切入量子计算",
+"link": "https://36kr.com/p/4064699766068101?f=rss",
+"summary": "图源/企业 本文约3400字，建议阅读8分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，中性原子量子计算企业原基量子（Atomology）近期已完成亿元级天使轮融资。本轮融资由中国互联网投资基金（中网投）与清华系资本慕华科创联合领投，另有近10家机构参与跟投。资金将主要用于核心技术研发、工程化平台建设及核心团队扩充，加速推动中性原子量子计算系���从实验室原型向工程化、规模化和工业级产品演进。 原基量子成立于2026年4月，从诞生之初便选择了一条区别于传统科研团队的路径：基于中性原…",
+"published": 1794362400.0
+},
+{
+"source": "36氪",
+"title": "国产半导体模块厂商“利普思”获近亿元B轮融资",
+"link": "https://36kr.com/newsflashes/4064705033474949?f=rss",
+"summary": "36氪获悉，近日，国产半导体模块厂商“利普思”获近亿元B轮融资，新投资方为上海新微资本。本轮资金将主要用于加大AIDC相关产品研发和全球市场推广。",
+"published": 1794361906.0
+},
+{
+"source": "36氪",
+"title": "英洛华：公司磁材产品在机器人领域的业务尚处于开拓培育和送样验证阶段",
+"link": "https://36kr.com/newsflashes/4064699208225666?f=rss",
+"summary": "36氪获悉，英洛华近日接受机构调研时表示，目前公司磁材产品在新能源汽车、音响、节能电机等下游领域应用较多，占比均超20%，另外还有应用在智能家居、消费电子、电梯曳引机等领域，占比相对较少。目前公司磁材产品在机器人领域的业务尚处于开拓培育和送样验证阶段，暂未形成批量订单。",
+"published": 1794361551.0
+},
+{
+"source": "36氪",
+"title": "川土微电子启动IPO辅导",
+"link": "https://36kr.com/newsflashes/4064692976882562?f=rss",
+"summary": "36氪获悉，证监会网站披露，上海川土微电子股份有限公司（以下简称“川土微电子”）于2026年11月10日在上海证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为中信建投证券。",
+"published": 1794361170.0
+},
+{
+"source": "36氪",
+"title": "爱利彼半导体启动IPO辅导",
+"link": "https://36kr.com/newsflashes/4064687900202115?f=rss",
+"summary": "36氪获悉，证监会网站披露，爱利彼半���体设备（上海）股份有限公司（以下简称“爱利彼半导体”）于2026年11月10日在上海证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为申万宏源证券承销保荐有限责任公司。",
+"published": 1794360861.0
+},
+{
+"source": "36氪",
+"title": "A股三大指数集体低开，贵金属板块领跌",
+"link": "https://36kr.com/newsflashes/4064680542278533?f=rss",
+"summary": "36氪获悉，A股三大指数集体低开，沪指低开0.22%，深成指低开0.32%，创业板指低开0.17%；贵金属、文化传媒领跌，赤峰黄金、西部黄金、中文在线跌超3%，博纳影业跌超2%；白酒、通信设备板块涨幅居前，日海智能涨近6%，中际旭创涨2%，贵州茅台涨0.42%。",
+"published": 1794360412.0
+},
+{
+"source": "36氪",
+"title": "央行公开市场今日开展1870亿元人民币隔夜逆回购操作",
+"link": "https://36kr.com/newsflashes/4064676793078662?f=rss",
+"summary": "36氪获悉，央行公开市场今日开展1870亿元人民币隔夜逆回购操作，利率为1.25%。中国央行公开市场今日净回笼30亿元人民币。",
+"published": 1794360183.0
+},
+{
+"source": "36氪",
+"title": "恒指开盘跌0.83%，恒生科技指数跌0.96%",
+"link": "https://36kr.com/newsflashes/4064676328576134?f=rss",
+"summary": "36氪获悉，恒指开盘跌0.83%，恒生科技指数跌0.96%；新荷花上市首日高开27.61%；电气设备。煤炭板块领涨，宁德时代涨超2%；有色金属、汽车板块跌幅居前，招金矿业、灵宝黄金跌超4%，蔚来跌超3%，理想汽车、小鹏集团跌超2%。",
+"published": 1794360154.0
+},
+{
+"source": "36氪",
+"title": "人民币兑美元中间价报6.7191，下调24点",
+"link": "https://36kr.com/newsflashes/4064670313878405?f=rss",
+"summary": "36氪获悉，人民币兑美元中间价报6.7191，下调24点；上一交易日中间价6.7167，上一交易日官方收盘价6.6682，上日夜盘报收6.6805。",
+"published": 1794359787.0
+},
+{
+"source": "36氪",
+"title": "大疆Pocket 4系列将单台上涨500元？多家门店回应：未接到涨价通知",
+"link": "https://36kr.com/newsflashes/4064664793830278?f=rss",
+"summary": "近日在社交媒体上传出消息，称大疆Pocket 4、Pocket 4P及Nano全系列将于11月18日起全面上调价格，最高涨幅达13%，单台最高上涨500元；市场消息称此次调价可能与上游存储芯片成本上涨有关。新浪科技以消费者身份咨询了大疆创新京东自营旗舰店，客服表示，目前我们暂时没有收到涨价通知。随后，线下多个官方门店工作人员均表示，还没有接到官方的正式通知。有门店店员表示，“此系列产品不太可能涨价，上架以来价格比较稳定。”对于是否对Pocket系列产品有涨价打算，大疆官方暂无…",
+"published": 1794359450.0
+},
+{
+"source": "36氪",
+"title": "239股获融资买入超亿元，中际旭创获买入16.53亿元居首",
+"link": "https://36kr.com/newsflashes/4064661001622405?f=rss",
+"summary": "A股11月10日共有3872只个股获融资资金买入，有239股买入金额超亿元。其中，中际旭创、新易盛、长鑫科技融资买入金额排名前三，分别获买入16.53亿元、16.42亿元、9.79亿元。从融资买入额占当日总成交金额比重来看，有2只个股融资买入额占比超30%。其中泰达股份、天玛智控、元创股份融资买入额占成交额比重排名前三，分别为39.89%、32.11%、29.6%。（第一财经）",
+"published": 1794359219.0
+},
+{
+"source": "36氪",
+"title": "华泰证券：猪价二次探底推动产能去化再加速",
+"link": "https://36kr.com/newsflashes/4064657481077635?f=rss",
+"summary": "36氪获悉，华泰证券研报称，截至11月9日，涌益全国生猪均价8.6元/公斤，跌破本轮周期前次低点。华泰证券认为，近期猪价二次探底超出市场与产业预期，主要系行业供给与库存压力仍较大而消费需求承接较弱，第四季度生猪养殖行业旺季不旺基本确立。展望后市，随着猪价与仔猪价格再度刷新前低，行业现金流亏损加剧，或带动能繁母猪产能去化超预期演绎，为远期的猪价弹性及持续性打开空间，而板块持仓仍处相对底部，华泰证券重申生猪板块的布局机会。",
+"published": 1794359004.0
+},
+{
+"source": "TechCrunch",
+"title": "X launches its own clipping feature to spur influencer engagement",
+"link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+"summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+"published": 1794358933.0
+},
+{
+"source": "36氪",
+"title": "英国智库预测通胀明年达到4.4%峰值，2030年才能回落至目标水平",
+"link": "https://36kr.com/newsflashes/4064654823380103?f=rss",
+"summary": "英国一家权威学术智库预测，受伊朗冲突引发的工资“第二轮效应”影响，英国央行在2030年之前将无法使通胀率回落至目标水平。该智库同时上调了对今年经济增长的预期。英国国家经济社会研究院（NIESR）周二预测，通胀率将于2027年2月达到4.4%的峰值——这一数字高于该机构7月份预测的3.8%。这意味着2027年、2028年和2029年的通胀率都将超过英国央行2%的目标；直到2030年下半年，通胀率才会回落至目标水平，这比此前的预测晚了一年。（新浪财经）",
+"published": 1794358842.0
+},
+{
+"source": "36氪",
+"title": "市场监管总局部署多项举措，共建放心消费生态圈",
+"link": "https://36kr.com/newsflashes/4064653680022659?f=rss",
+"summary": "围绕2026年全国优化消费环境月“放心消费、你我共享”主题，市场监管总局昨天（10日）召开平台企业放心消费承诺座谈会，引导平台企业作出放心消费承诺、改善消费体验。市场监管总局提出，平台要建立完善首问负责和先行赔付制度，在提高AI客服水平的同时做好与人工客服的衔接，及时处置消费纠纷。目前，优化消费环境三年行动、全国优化消费环境月活动同步推进，全国放心消费平台已上线，商家可公示放心消费标识、获取流量支持，消费者可查询商家信用、便捷评价维权，平台明年还将上线一键和解功能，构建各方共…",
+"published": 1794358772.0
+},
+{
+"source": "36氪",
+"title": "新荷花香港IPO发行价定为每股40.2港元",
+"link": "https://36kr.com/newsflashes/4064649131054213?f=rss",
+"summary": "36氪获悉，港交所文件显示，新荷花将其香港上市交易发行价定为每股40.2港元，预计将于11月11日开始交易。公司拟发行约652万股，募资2.62亿港元（3340万美元）。",
+"published": 1794358494.0
+},
+{
+"source": "36氪",
+"title": "韩国金融安全监管机构发生数据泄露事件",
+"link": "https://36kr.com/newsflashes/4064638386623622?f=rss",
+"summary": "据报道，韩国金融安全院在一次网络攻击中发现了一起数据泄露事件，涉及当地银行从业人员的个人信息。该机构负责监管韩国金融行业的安全及网络攻击防范工作；其于当地时间周二下午3点左右发现了此次数据泄露事件，并立即通知了金融监管高层。被窃取的数据包括约200份行政表格（如个人信息授权同意书），以及约300人的个人详细信息（包括姓名和出生日期）。（新浪财经）",
+"published": 1794358320.0
+},
+{
+"source": "The Verge",
+"title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+"link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+"summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is al…",
+"published": 1794357264.0
+},
+{
+"source": "爱范儿",
+"title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
+"link": "https://www.ifanr.com/1688883?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "非付费用户什么时候能用上？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794356799.0
+},
+{
+"source": "少数派",
+"title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+"link": "https://sspai.com/post/118905",
+"summary": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。查看全文",
+"published": 1794356794.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜华为小折叠电脑MateBook Fold S亮相/《GTA VI》开启预载，全平台目标30fps/董明珠回应格力业绩下滑：铜价上涨，格力将继续用铜",
+"link": "https://www.ifanr.com/1688852?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 李斌：蔚来 ES9 将迎来第 4 万辆交付 · 台积电 10 月营收创今年单月新高，同比增长近六成 · 奥迪与上汽合作项目 CEO 称，AUDI 未来三年将推三款新车#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794356424.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨英伟达及黄仁勋遭股东集体诉讼，市值两天蒸发2.85万亿；Anthropic正式启动IPO路演；阿里拟分拆平头哥独立上市",
+"link": "https://36kr.com/p/4064610635781257?f=rss",
+"summary": "今日热点导览 外交部：中美双方就两国元首年内互动安排保持着沟通 全球芯片LOF于11月10日下午开市起停牌至收市 董明珠回应格力电器业绩下滑 宝马选定LG新能源、三星SDI供应下一代动力电池 百事公司北美业务陷入困境，裁员1000人 TOP3大新闻 黄仁勋及英伟达，被指控涉嫌欺诈股东 当地时间9日，美股收盘五分钟后，英伟达及黄仁勋便遭到股东集体诉讼，指控其涉嫌欺诈股东。分析师认为，一旦黄仁勋离任，英伟达将面临巨大的接班难题。现年63岁的黄仁勋是英伟达的核心支柱，金融数据服务商…",
+"published": 1794356152.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Industrial automation startup Path Robotics raises $300M in funding",
+"link": "https://siliconangle.com/2026/11/10/industrial-automation-startup-path-robotics-raises-300m-in-funding/",
+"summary": "Path Robotics Inc., a startup working to automate industrial welding workflows, today announced that it has raised $300 million in funding. Georgian led the Series E round. It was joined by a consortium that included the venture capital arm…",
+"published": 1794361899.0
+},
+{
+"source": "SiliconANGLE",
+"title": "What we learned about the hyperscalers from earnings season",
+"link": "https://siliconangle.com/2026/11/10/what-we-learned-about-the-hyperscalers-from-earnings-season/",
+"summary": "Recently Amazon.com Inc., Google owner Alphabet Inc. and Microsoft Corp. reported earnings within roughly 24 hours of each other, and this earnings season told us more about long-term artificial intelligence strategy than any keynote or pre…",
+"published": 1794358895.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AMD introduces Epyc 6 processors for AI agent workloads",
+"link": "https://siliconangle.com/2026/11/10/amd-introduces-epyc-6-processors-for-ai-agent-workloads/",
+"summary": "Advanced Micro Devices Inc. today debuted a new line of central processing units for servers. The Epyc 6 series, which is also known as Venice, comprises 10 CPUs that are organized into two groups. The first set includes chips with a large …",
+"published": 1794356311.0
+}
+]
+}
+}

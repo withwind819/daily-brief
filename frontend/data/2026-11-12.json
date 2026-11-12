@@ -1,14 +1,298 @@
 {
 "date": "2026-11-12",
-"total": 1,
+"total": 41,
 "categories": {
 "AI": [
+{
+"source": "InfoQ 中国",
+"title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+"link": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794481200.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Token越烧越多，利润却没涨：李彦宏要重新设计企业组织",
+"link": "https://www.infoq.cn/article/JPf7ud6wuk9fYmUDoMjo?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794480304.0
+},
+{
+"source": "InfoQ 中国",
+"title": "InfoQ 2026 年趋势报告：AI、ML与数据工程",
+"link": "https://www.infoq.cn/article/7Pecd1CshYIMvCTeBhrm?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794479012.0
+},
+{
+"source": "InfoQ 中国",
+"title": "让系统接管底层算法：HarmonyOS 7 FAST Kit 的性能与接入实践",
+"link": "https://www.infoq.cn/article/kIw9Wp2uSgCwrsgicIZ0?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794478859.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从“搜到知识”到“理解约束”：差旅 Agent 的业务语义、偏好图谱与上下文工程实践｜AICon北京",
+"link": "https://www.infoq.cn/article/V5Fwpg9gOBefx6xADcdd?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794477600.0
+},
+{
+"source": "InfoQ 中国",
+"title": "谷歌采用 DPoP 增强 OAuth 2.0，抵御令牌窃取与重放攻击",
+"link": "https://www.infoq.cn/article/FQHBH7cfSYPFUUdbmyui?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794474300.0
+},
 {
 "source": "OpenAI 博客",
 "title": "Gilbert + Tobin rethinks the business of law with AI",
 "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
 "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
 "published": 1794441600.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "工信部：9项脑机接口领域行业标准获批立项",
+"link": "https://36kr.com/newsflashes/4066203937952648?f=rss",
+"summary": "近日，工业和信息化部发布2026年第五批行业标准制修订计划，由工业和信息化部脑机接口标准化技术委员会（MIIT/TC4）归口的9项脑机接口领域行业标准获批立项。本次立项的9项脑机接口行业标准，涵盖产品分级分类、风险管理、交互界面、侵入式无线通信、数据与算法管理等方面，以及体育运动辅助训练、注意力监测等应用场景，搭建起覆盖脑机接口行业基础管理、核心技术、安全治理与场景落地的标准体系，为相关产品评估、技术开发和应用推广提供统一规范依据。（证券时报）",
+"published": 1794453925.0
+},
+{
+"source": "36氪",
+"title": "国内铁路首次，南溪河特大桥9号格构墩顺利完工",
+"link": "https://36kr.com/newsflashes/4066192537277315?f=rss",
+"summary": "11月12日上午9时，随着最后一方钢管混凝土顺利完成顶升，云南文山至蒙自铁路南溪河特大桥9号格构墩顺利完工。这是国内铁路工程中首次应用格构墩结构，标志着我国在山区高墩桥梁建设领域取得重要技术突破。南溪河特大桥全长789.71米，桥面与地面最大高差达118米，是云南文山至蒙自铁路全线最高桥梁。此次应用的钢管混凝土格构墩，通过钢管与工字钢拼装成“下宽上窄”的梯形墩体，内部灌注高强度混凝土，可节约混凝土和钢材30%至50%。同时，预制拼装工艺大幅降低了现场污染与施工风险，提升了抗震…",
+"published": 1794453229.0
+},
+{
+"source": "TechCrunch",
+"title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+"link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+"summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+"published": 1794453190.0
+},
+{
+"source": "36氪",
+"title": "盒马在南京成立涓选网络科技公司，注册资本1000万",
+"link": "https://36kr.com/newsflashes/4066168062727305?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，南京涓选网络科技有限公司成立，法定代表人为彭荣拱，注册资本1000万元人民币，经营范围含食品销售、食品互联网销售、互联网销售等。股东信息显示，该公司由盒马（中国）有限公司全资持股。",
+"published": 1794452691.0
+},
+{
+"source": "36氪",
+"title": "百度推出大模型交易平台词元所",
+"link": "https://36kr.com/newsflashes/4066188005692289?f=rss",
+"summary": "36氪获悉，在百度世界2026开幕式上，百度创始人李彦宏表示，模型迭代速度非常快，今年前9个月，几乎每天都有不止一款新模型发布，与此同时，对模型的调用需求也迎来大爆发。由此催生的一批词元中转站。为此，百度推出大模型交易平台词元所。他表示，词元所是大模型的交易所，希望汇聚好的模型和模型提供商，让企业乃至个人都能便捷地找到、购买和使用可信的模型Token。词元所上线一个月以来，入驻供应资源已超100个，日均调用次数突破5000万，日均调用Token超7000亿。",
+"published": 1794452420.0
+},
+{
+"source": "36氪",
+"title": "MSCI拟将“比特币巨鲸”Strategy从全球指数中剔除",
+"link": "https://36kr.com/newsflashes/4066166545535872?f=rss",
+"summary": "指数编制机构MSCI认定迈克尔・塞勒旗下的 Strategy（原名 MicroStrategy）以及其他多家公司的性质更接近投资基金，因此决定将它们从旗下全球指数中剔除；此举可能会抑制流入这些股票的被动投资。MSCI去年曾提议，将那些数字资产持有量占其总资产50%及以上的“数字资产国库型公司”剔除在外；随后，MSCI又针对其所谓的“非运营公司”展开了更广泛的评估。MSCI补充称，这类公司具有基金类特征，而基金类公司并不在其基准指数的纳入范围内。（新浪财经）",
+"published": 1794452242.0
+},
+{
+"source": "36氪",
+"title": "李彦宏：AI下一幕是智能组织",
+"link": "https://36kr.com/newsflashes/4066162633168001?f=rss",
+"summary": "36氪获悉，在百度世界2026大会开幕式上，百度创始人李彦宏表示，人工智能的下一幕是智能组织。如果说人工智能是新电能，智能组织就是AI时代新的厂房，是生产力真正发生的地方。只有匹配AI各种新能力的组织方式落地了，生产力才会大幅度提升，经济才能加速成长。",
+"published": 1794451705.0
+},
+{
+"source": "36氪",
+"title": "沪深两市成交额突破1万亿元",
+"link": "https://36kr.com/newsflashes/4066174736356485?f=rss",
+"summary": "36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时放量超2500亿元。",
+"published": 1794451610.0
+},
+{
+"source": "36氪",
+"title": "机构：英国房屋销售前景创2023年以来最悲观水平",
+"link": "https://36kr.com/newsflashes/4066164715885449?f=rss",
+"summary": "周四公布的一项调查显示，随着抵押贷款利率上升挤压了购房需求，10月份英国房地产测量师对未来短期房屋销售前景的看法降至三年多来的最低点。英国皇家特许测量师学会（RICS）表示，10月份其对未来12个月房屋销售的预期指数降至-17，测量师们预计房屋销售量将出现自2023年7月以来最广泛的下滑。（新浪财经）",
+"published": 1794451411.0
+},
+{
+"source": "36氪",
+"title": "李彦宏：百度内部DAA一年内增至3.7万，上涨超6倍",
+"link": "https://36kr.com/newsflashes/4066161326478471?f=rss",
+"summary": "36氪获悉，在百度世界2026大会开幕式上，百度创始人李彦宏表示，一年来，百度内部DAA（每天的活跃智能体数），从日均0.5万增长到3.7万，上涨超6倍；智能体执行的有效任务完成数，从每周平均8.4万个，增长到一周超过100万个，上涨11倍。百度已建设4300个Workspace，组织Skill累计沉淀超2万个。",
+"published": 1794451369.0
+},
+{
+"source": "36氪",
+"title": "国贸资本、智象元一、上影股份共同发布“新电影创作支持计划”",
+"link": "https://36kr.com/newsflashes/4066157381194886?f=rss",
+"summary": "36氪获悉，2026年金鸡百花电影节期间，国贸资本、智象元一与上影股份联合发起“新电影创作支持计划”。该计划面向专业团队与新兴创作者，聚焦AI技术应用，为影视项目提供开发、制作至发行等全链路支持，现场公布了首批18部推介作品。作为技术支持，智象元一发布了AI影视创作平台“帧赞2.0”及升级版视频模型。此外，活动举办了产业圆桌，多方代表围绕“AI+电影”的技术应用、商业空间及产业生态等议题进行了探讨。",
+"published": 1794451112.0
+},
+{
+"source": "爱范儿",
+"title": "联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有",
+"link": "https://www.ifanr.com/1689128?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "Chromebook's yesterday once more.#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794450862.0
+},
+{
+"source": "36氪",
+"title": "万华化学在宜昌成立新能源材料技术公司，注册资本8亿",
+"link": "https://36kr.com/newsflashes/4066152386696329?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，万华（宜昌）新能源材料技术有限公司成立，法定代表人为王晓星，注册资本8亿元人民币，经营范围含电子专用材料研发、电子专用材料制造、电子专用材料销售等。股东信息显示，该公司由万华化学（烟台）电池产业有限公司全资持股。",
+"published": 1794450457.0
+},
+{
+"source": "36氪",
+"title": "我们需要一个不卖瑜伽裤的lululemon吗？",
+"link": "https://36kr.com/p/4064801667584896?f=rss",
+"summary": "文｜贺哲馨 编辑｜乔芊 失灵 lululemon的创始人奇普·威尔逊（Chip Wilson）曾自诩创造了一台完美的商业机器，以至于他离开之后“即便是一台电冰箱来管理这家公司都能成功”。在这话说出的仅一年之后，这台机器的运转就出现了问题。 2025财年，lululemon在最主要的美洲市场营收下滑1%；2026财年跌势加快，第二季度美洲营收下降8%，可比销售跌了12%。今年1月，新款紧身裤Get Low因“透光”投诉暂停线上销售，上一次类似的风波还要追溯到2013年。 今年5…",
+"published": 1794450056.0
+},
+{
+"source": "36氪",
+"title": "寒武纪涨超13%，收复1000元关口",
+"link": "https://36kr.com/newsflashes/4066147409368192?f=rss",
+"summary": "36氪获悉，寒武纪扩大涨幅至13%，重新站上1000元整数关，总市值达6400亿元。",
+"published": 1794449942.0
+},
+{
+"source": "36氪",
+"title": "纪念孙中山先生诞辰160周年大会在京举行，习近平出席大会并发表重要讲话",
+"link": "https://36kr.com/newsflashes/4066141454291847?f=rss",
+"summary": "纪念孙中山先生诞辰160周年大会11月12日上午在京隆重举行。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话。中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希出席大会。（新华社）",
+"published": 1794449578.0
+},
+{
+"source": "36氪",
+"title": "燧原科技涨超15%创上市新高",
+"link": "https://36kr.com/newsflashes/4066140936311688?f=rss",
+"summary": "36氪获悉，算力芯片概念股燧原科技扩大涨幅至15%，创出上市以来新高，总市值超2400亿元，最近7个交易日累计上涨76%。",
+"published": 1794449547.0
+},
+{
+"source": "36氪",
+"title": "日本最高外汇事务官员三村淳：近几日汇率波动过快",
+"link": "https://36kr.com/newsflashes/4066124915528840?f=rss",
+"summary": "日本最高外汇事务官员三村淳12日表示，近期外汇市场的走势似乎过于迅速。他在财务省回答记者提问时作出上述表态，但拒绝对当前的汇率水平发表评论。他还提及了今年夏季进行的买入日元干预行动，称“现在忘记当时的记忆还为时过早”。12日上午的外汇市场中，日元兑美元汇率在159日元区间上方交投，较前一个交易日晚间走低。（新浪财经）",
+"published": 1794449516.0
+},
+{
+"source": "36氪",
+"title": "36氪首发丨海光创始核心技术团队创业AGI架构芯片，获清华系等基金数亿投资",
+"link": "https://36kr.com/p/4066136377873286?f=rss",
+"summary": "图源/视觉中国 本文约3400字，建议阅读8分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，原生通用人工智能（AGI）架构芯片研发商——通芯人工智能科技（北京）有限公司（下称“通芯智能”）成立半年已连续完成数亿元种子轮及天使轮融资。融资由清华校友种子基金、北京通用人工智能研究院、松霖科技、平治信息、暗物智能以及豫资涨泉等财务投资人共同参与，集聚产业资本、头部科技VC和财务资本。资金将主要用于芯片流片前的核心架构设计及研发。 通芯智能成立于2026年4月，由人工智能科学家、通研院院长…",
+"published": 1794449286.0
+},
+{
+"source": "36氪",
+"title": "创业板指拉升涨超1%，科创50指数涨近4%",
+"link": "https://36kr.com/newsflashes/4066135086273410?f=rss",
+"summary": "36氪获悉，创业板指拉升涨超1%，科创50指数涨近4%。半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近2000只。",
+"published": 1794449190.0
+},
+{
+"source": "36氪",
+"title": "“纬钛机器人”完成数亿元A轮融资",
+"link": "https://36kr.com/newsflashes/4066120395756673?f=rss",
+"summary": "36氪获悉，视触觉传感器研发商“纬钛机器人”近期完成数亿元A轮融资，由中车资本、永鑫方舟联合领投，银杏谷资本、木棉花基金、华仓资本、鲁信创投等机构参与投资。",
+"published": 1794449061.0
+},
+{
+"source": "36氪",
+"title": "美国ITC发布对用于电池电芯和电池的负极材料的337部分终裁",
+"link": "https://36kr.com/newsflashes/4066127975470216?f=rss",
+"summary": "36氪获悉，据中国贸易救济信息网消息，2026年11月10日，美国国际贸易委员会（ITC）发布公告称，对特定用于电池电芯和电池的负极材料（Certain Anode Materials for Use in Battery Cells and Batteries，调查编码：337-TA-1513）作出337部分终裁：对本案行政法官于2026年10月13日作出的初裁（No.7）不予复审，即基于申请方撤回，部分终止本案对美国注册专利号11,942,624的调查。",
+"published": 1794448756.0
+},
+{
+"source": "36氪",
+"title": "Alphabet启动亚洲债券发售，AI企业面临严格审查",
+"link": "https://36kr.com/newsflashes/4066119185306752?f=rss",
+"summary": "Alphabet Inc． 已开始推介其首次港元和新加坡元债券发售，在人工智能相关企业面临日益加剧的市场波动之际，测试投资者的兴趣。据知情人士透露，这家谷歌母公司为其拟发行的2年期、5年期和10年期港元债券设定的初始价格指引分别约为4.6%、5%和5.5%。该人士称，公司还在推介2年期、5年期、10年期和30年期新加坡元债券，价格指引分别约为2.75%、3.25%、3.65%和4%。此次发售的募集资金将用于一般企业用途，可能包括偿还现有债务。该人士表示，债券最早可能在周四定价…",
+"published": 1794448693.0
+},
+{
+"source": "36氪",
+"title": "梁钧出任华兴香港总裁",
+"link": "https://36kr.com/newsflashes/4066117375480709?f=rss",
+"summary": "华兴资本宣布，梁钧正式加入公司，出任华兴证券（香港）有限公司（简称“华兴香港”）总裁。未来，梁钧将全面领导华兴香港的整体业务，统筹经营全局及业务发展，负责制定并落实华兴香港的战略发展规划，加强各业务部门之间的协作，并推动华兴香港与集团其他业务板块形成更紧密的协同，同时确保华兴香港各项业务在符合相关监管要求的前提下稳健开展。（界面）",
+"published": 1794448463.0
+},
+{
+"source": "爱范儿",
+"title": "折叠屏手机的转身｜明日后视镜",
+"link": "https://www.ifanr.com/1689097?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "折叠屏手机的挑战，生态适配的试炼，也许才刚刚开始#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794447557.0
+},
+{
+"source": "36氪",
+"title": "成为中国无醇品牌奖牌数第一，「新零」无醇啤酒想让快乐与喝醉无关 | 项目报道",
+"link": "https://36kr.com/p/4005312451317633?f=rss",
+"summary": "作者 | 钟艺璇 当龙井茶、青梅、杨梅味的中国风味啤酒，与全世界的对手，尤其是德国、美国、比利时等传统强国同台对垒时，前者胜出的可能性有多大？ 「新零」无醇啤酒给出了答案。今年8月的世界啤酒大奖赛（WBA）上，新零啤酒在无醇/低醇风味组同时拿下国家冠军和金、银、铜；同期的世界西打大奖赛（WCA）上，新零啤酒的\"柿椰有橙\"西打果酒拿下组别总冠军与金奖，\"杨梅莲雾\"西打果酒拿下铜奖。 两项赛事合计13枚奖牌，新零从此成为中国无醇品牌中奖牌数第一。“我们是通过中国的风味，赢得了海外…",
+"published": 1794445200.0
+},
+{
+"source": "爱范儿",
+"title": "我们正目睹乔布斯后科技史上最严重的逼宫",
+"link": "https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "黄仁勋的至暗时刻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794444903.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜苹果支持社区将关停/曝英伟达董事会考虑罢免黄仁勋/余承东官宣华为子品牌OSTA星芒",
+"link": "https://www.ifanr.com/1689051?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 余承东官宣华为子品牌 OSTA 星芒，11 月 20 日首秀 · 张雪机车第 10 万台整车在重庆下线 · 曝 Anthropic 承销商考虑上调 IPO 发行价#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794443062.0
+},
+{
+"source": "少数派",
+"title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
+"link": "https://sspai.com/post/118935",
+"summary": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。查看全文",
+"published": 1794442929.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨黄仁勋已回英伟达上班，就最近的风波向员工致歉；贾国龙质押西贝全部股份；Anthropic IPO获数倍超额认购",
+"link": "https://36kr.com/p/4066019497464960?f=rss",
+"summary": "今日热点导览 阿里平头哥今年已增资399倍 刘强东也要入局短剧？京东内测独立短剧产品 国内金饰报价集体下调 苹果宣布官方社区将于11月20日永久关闭 SpaceX据悉尝试机架层“去英伟达化”：只买芯片，研发Kessel机柜绕过L6计算板 TOP3大新闻 美媒：黄仁勋已回英伟达上班 据CNBC报道，知情人士透露，英伟达CEO黄仁勋（Jensen Huang）周一走进了公司位于加州圣克拉拉的总部，照常主持了与高层管理人员的晨会。知情人士称，黄仁勋在这场闭门会议开始时首先就最近的风…",
+"published": 1794442343.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "A decade in, KubeVirt pushes virtual machines into the AI agent era",
+"link": "https://siliconangle.com/2026/11/11/confidential-computing-ai-agents-push-kubevirt-vms-forward-kubeconna/",
+"summary": "Confidential computing is drawing fresh interest as enterprises weigh where their most sensitive AI workloads can safely run. That shift is giving virtual machines a new role alongside containers on Kubernetes, rather than a slow retirement…",
+"published": 1794450476.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Google’s GKE Labs turns reinforcement learning into a Kubernetes workload",
+"link": "https://siliconangle.com/2026/11/11/model-fine-tuning-kubernetes-google-s-openrl-explained-kubeconna/",
+"summary": "Model fine-tuning through reinforcement learning is fast becoming one of the most demanding jobs in AI infrastructure. It mixes training, inference and sandboxed agent work in a single loop, often with research code tangled into the systems…",
+"published": 1794448263.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Nvidia’s board reportedly preparing to oust CEO Jensen Huang after reports of a second affair",
+"link": "https://siliconangle.com/2026/11/11/nvidias-board-reportedly-preparing-to-oust-jensen-huang-after-reports-of-a-second-affair/",
+"summary": "Nvidia Corp.’s board of directors is reportedly preparing to oust its founder and Chief Executive Jensen Huang after reports emerged that he had a second extramarital relationship with an executive at the company, just days after he admitte…",
+"published": 1794446900.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Google enters decision model market with Gemini Decisions API",
+"link": "https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/",
+"summary": "Google LLC today launched Gemini Decisions API, an artificial intelligence service designed to answer user questions in a cost-efficient manner. It’s powered by a new AI model called Gemini Decision 1. Traditional large language models are …",
+"published": 1794446525.0
 }
 ]
 }

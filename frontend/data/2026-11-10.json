@@ -1,6 +1,6 @@
 {
 "date": "2026-11-10",
-"total": 143,
+"total": 148,
 "categories": {
 "AI": [
 {
@@ -158,6 +158,13 @@
 "published": 1794307229.0
 },
 {
+"source": "量子位",
+"title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+"link": "https://www.qbitai.com/2026/11/509032.html",
+"summary": "",
+"published": 1794306938.0
+},
+{
 "source": "InfoQ 中国",
 "title": "ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京",
 "link": "https://www.infoq.cn/article/rsMuS4cuc2ir68ulGgEs?utm_source=rss&utm_medium=article",
@@ -191,6 +198,13 @@
 "link": "https://www.qbitai.com/2026/11/509017.html",
 "summary": "近亿元融资刚刚落袋",
 "published": 1794299605.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Singapore Airlines elevates travel & work with OpenAI technology",
+"link": "https://openai.com/index/singapore-airlines-travel-work",
+"summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+"published": 1794297600.0
 },
 {
 "source": "量子位",
@@ -254,6 +268,13 @@
 "link": "https://www.qbitai.com/2026/11/508798.html",
 "summary": "办公AI结束单机模式",
 "published": 1794274029.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Cogent and OpenAI build cyber defense factories for enterprises",
+"link": "https://openai.com/index/cogent-security",
+"summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+"published": 1794268800.0
 }
 ],
 "科技": [
@@ -447,6 +468,13 @@
 "published": 1794326048.0
 },
 {
+"source": "爱范儿",
+"title": "比大更大，塞进 7 个座位的领克 900L，在等一个「上桌吃饭」的时间",
+"link": "https://www.ifanr.com/1688954?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "领克得加快脚步了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794325831.0
+},
+{
 "source": "TechCrunch",
 "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
 "link": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
@@ -480,6 +508,13 @@
 "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
 "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
 "published": 1794319510.0
+},
+{
+"source": "爱范儿",
+"title": "Formula 2030 亮相，最帅极星来了！",
+"link": "https://www.ifanr.com/1688935?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "极星式设计的集大成之作。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794316260.0
 },
 {
 "source": "Solidot",

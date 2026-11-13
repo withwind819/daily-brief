@@ -1,6 +1,6 @@
 {
 "date": "2026-11-11",
-"total": 125,
+"total": 126,
 "categories": {
 "AI": [
 {
@@ -135,6 +135,13 @@
 "link": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
 "summary": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting. SpaceXSI …",
 "published": 1794401587.0
+},
+{
+"source": "量子位",
+"title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+"link": "https://www.qbitai.com/2026/11/509224.html",
+"summary": "模型即将开源",
+"published": 1794401034.0
 },
 {
 "source": "The Decoder",

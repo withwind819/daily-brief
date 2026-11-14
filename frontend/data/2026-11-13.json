@@ -1,8 +1,134 @@
 {
 "date": "2026-11-13",
-"total": 33,
+"total": 128,
 "categories": {
 "AI": [
+{
+"source": "InfoQ 中国",
+"title": "从快速部署到记忆共享，数据库如何支撑 Agent 应用？",
+"link": "https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794603252.0
+},
+{
+"source": "The Decoder",
+"title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
+"link": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
+"summary": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The company offered cloud providers billions…",
+"published": 1794600454.0
+},
+{
+"source": "InfoQ 中国",
+"title": "智能互动 Agent 在快手商业场景的落地实践",
+"link": "https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794596400.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+"link": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
+"summary": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or a fingerprint, while actual card details…",
+"published": 1794596121.0
+},
+{
+"source": "The Decoder",
+"title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+"link": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+"summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restrictions applied during SpaceX's IPO, and An…",
+"published": 1794592913.0
+},
+{
+"source": "InfoQ 中国",
+"title": "容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体",
+"link": "https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794589560.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+"link": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+"summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delay…",
+"published": 1794587821.0
+},
+{
+"source": "The Decoder",
+"title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
+"link": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
+"summary": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto power over a…",
+"published": 1794585229.0
+},
+{
+"source": "The Decoder",
+"title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+"link": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+"summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method reads characte…",
+"published": 1794583264.0
+},
+{
+"source": "InfoQ 中国",
+"title": "在银行业为基于 Kubernetes 的平台打造云原生文化",
+"link": "https://www.infoq.cn/article/AVoPIHgU8BvWY12j1sQ5?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794583080.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
+"link": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
+"summary": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The article Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history appeared first …",
+"published": 1794582908.0
+},
+{
+"source": "The Decoder",
+"title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
+"link": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
+"summary": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has over 10 million users, according to Meta's AI chief Alexandr Wang. Google Gemini…",
+"published": 1794582764.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI enters the cybersecurity market with two Daybreak products",
+"link": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
+"summary": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first on The Decoder.",
+"published": 1794582537.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Introducing ChatGPT Wallet",
+"link": "https://openai.com/index/introducing-chatgpt-wallet",
+"summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+"published": 1794582000.0
+},
+{
+"source": "InfoQ 中国",
+"title": "奥运史上第一次，一朵云整体留给了举办国",
+"link": "https://www.infoq.cn/article/7Wih8vL541W3vkq1WAHi?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794579691.0
+},
+{
+"source": "InfoQ 中国",
+"title": "应用只是冰山一角：构建大规模移动应用基础设施需要什么",
+"link": "https://www.infoq.cn/article/oKGTGPNZuleM61QqQOVf?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794574800.0
+},
+{
+"source": "InfoQ 中国",
+"title": "黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+"link": "https://www.infoq.cn/article/rFGveY8SswQhcMjroStB?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794569294.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Docker 呼吁通过隔离与治理保障智能体安全",
+"link": "https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794567600.0
+},
 {
 "source": "InfoQ 中国",
 "title": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
@@ -16,9 +142,457 @@
 "link": "https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1794561420.0
+},
+{
+"source": "量子位",
+"title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+"link": "https://www.qbitai.com/2026/11/509995.html",
+"summary": "一个时代结束了",
+"published": 1794560559.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Shield helps technicians hand off legacy portal work with OpenAI",
+"link": "https://openai.com/business/customer-stories/shield",
+"summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+"published": 1794556800.0
+},
+{
+"source": "量子位",
+"title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+"link": "https://www.qbitai.com/2026/11/509827.html",
+"summary": "12.9 北京，来MEET2027现场",
+"published": 1794556268.0
+},
+{
+"source": "量子位",
+"title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+"link": "https://www.qbitai.com/2026/11/509796.html",
+"summary": "250名国内顶尖三甲医院医生联合评测",
+"published": 1794555783.0
+},
+{
+"source": "量子位",
+"title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+"link": "https://www.qbitai.com/2026/11/509730.html",
+"summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
+"published": 1794554274.0
+},
+{
+"source": "量子位",
+"title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
+"link": "https://www.qbitai.com/2026/11/509716.html",
+"summary": "比亚迪正在把规模优势转化为技术与品牌价值",
+"published": 1794553962.0
+},
+{
+"source": "量子位",
+"title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
+"link": "https://www.qbitai.com/2026/11/509710.html",
+"summary": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
+"published": 1794553745.0
+},
+{
+"source": "量子位",
+"title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+"link": "https://www.qbitai.com/2026/11/509663.html",
+"summary": "数据不出域、本地可部署",
+"published": 1794553592.0
+},
+{
+"source": "量子位",
+"title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+"link": "https://www.qbitai.com/2026/11/509653.html",
+"summary": "想要什么功能，让Agent自己开发",
+"published": 1794552884.0
+},
+{
+"source": "量子位",
+"title": "特斯拉和SpaceX最快下月合并",
+"link": "https://www.qbitai.com/2026/11/509613.html",
+"summary": "马斯克帝国终极形态。",
+"published": 1794552186.0
+},
+{
+"source": "量子位",
+"title": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
+"link": "https://www.qbitai.com/2026/11/509614.html",
+"summary": "信息少传80%，准确率反而提高",
+"published": 1794551363.0
 }
 ],
 "科技": [
+{
+"source": "The Verge",
+"title": "Amazon has a plan to index the world’s online shopping data",
+"link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+"summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Produ…",
+"published": 1794613751.0
+},
+{
+"source": "TechCrunch",
+"title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+"link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+"summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+"published": 1794610800.0
+},
+{
+"source": "TechCrunch",
+"title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+"link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+"summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+"published": 1794609780.0
+},
+{
+"source": "TechCrunch",
+"title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+"link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+"summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+"published": 1794606278.0
+},
+{
+"source": "The Verge",
+"title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+"summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and …",
+"published": 1794602710.0
+},
+{
+"source": "The Verge",
+"title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+"link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+"summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a sol…",
+"published": 1794601800.0
+},
+{
+"source": "TechCrunch",
+"title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+"link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+"summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+"published": 1794600444.0
+},
+{
+"source": "TechCrunch",
+"title": "AI agent startup LangChain hits $3B valuation",
+"link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+"summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+"published": 1794598677.0
+},
+{
+"source": "The Verge",
+"title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+"link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+"summary": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found …",
+"published": 1794597278.0
+},
+{
+"source": "TechCrunch",
+"title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+"link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+"summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+"published": 1794595230.0
+},
+{
+"source": "爱范儿",
+"title": "余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元",
+"link": "https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "新 M8 的升级，主打「实用主义」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794593976.0
+},
+{
+"source": "The Verge",
+"title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+"link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+"summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice…",
+"published": 1794593441.0
+},
+{
+"source": "The Verge",
+"title": "Jensen Huang was reckless with the environment, too",
+"link": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+"summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drai…",
+"published": 1794591862.0
+},
+{
+"source": "Solidot",
+"title": "旅行者 1 号距离地球的距离达到一光日",
+"link": "https://www.solidot.org/story?sid=85883",
+"summary": "北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离将达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是“一光日”。如果将一光年划分为 365 个刻度，每格代表一个光日，那么 1977 年 9 月 5 日启程的旅行者 1 号，经过近半个世纪的飞行，终于抵达了第一格。今年 10 月，旅行者 1 号曾经历一场短暂的通信中断。NASA JPL 称，18 日和 19 日，NASA 深空网络连续两次未能收到探测器预期发出的信号。直到…",
+"published": 1794590087.0
+},
+{
+"source": "The Verge",
+"title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+"link": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+"summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking …",
+"published": 1794589976.0
+},
+{
+"source": "Solidot",
+"title": "非洲加速发展太阳能",
+"link": "https://www.solidot.org/story?sid=85882",
+"summary": "在津巴布韦首都哈拉雷（Harare）的一个工业区，如果想要寻找一个新的发电项目，你需要抬起头。Limpopo Way Power 太阳能发电站没有传统的独立厂区，而是将一排排太阳能电池板铺在两座仓库的屋顶上，它通过协议向工厂供电。在非洲和亚洲的很多地区，太阳能革命随处可见。能源智库 Ember 的报告预测，2026 年非洲太阳能新增装机量有望达到 17 GW，同比增长 45%。报告作者之一的 African Tech Futures Lab 研究总监 Joel Nana 表示…",
+"published": 1794589642.0
+},
+{
+"source": "The Verge",
+"title": "The new Apple TV has a YouTube problem",
+"link": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+"summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message sa…",
+"published": 1794588957.0
+},
+{
+"source": "The Verge",
+"title": "Microsoft’s massive Outlook outage might be over",
+"link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+"summary": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning, some people (including Ve…",
+"published": 1794586631.0
+},
+{
+"source": "TechCrunch",
+"title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+"link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+"summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+"published": 1794585612.0
+},
+{
+"source": "TechCrunch",
+"title": "The unfolding Jensen Huang scandal: a timeline",
+"link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+"summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+"published": 1794585480.0
+},
+{
+"source": "爱范儿",
+"title": "iPhone 20 爆料汇总：一整块玻璃，藏着苹果下一个十年",
+"link": "https://www.ifanr.com/1689409?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "iPhone 20 会是一台伟大的产品吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794584688.0
+},
+{
+"source": "TechCrunch",
+"title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+"link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+"summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+"published": 1794581875.0
+},
+{
+"source": "TechCrunch",
+"title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+"link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+"summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+"published": 1794581088.0
+},
+{
+"source": "TechCrunch",
+"title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+"link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+"summary": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+"published": 1794575720.0
+},
+{
+"source": "36氪",
+"title": "热门中概股美股盘前集体走弱，理想汽车跌超2%",
+"link": "https://36kr.com/newsflashes/4068190633366409?f=rss",
+"summary": "36氪获悉，热门中概股美股盘前集体走弱，截至发稿，理想汽车跌超2%，小鹏集团、蔚来、阿里巴巴、百度、网易跌超1%，拼多多跌0.77%，京东跌0.67%，哔哩哔哩跌0.53%。",
+"published": 1794574650.0
+},
+{
+"source": "36氪",
+"title": "江波龙：根据第三方公开的智能产品拆机信息，宇树机器狗等产品已采用了公司嵌入式存储",
+"link": "https://36kr.com/newsflashes/4068188501496706?f=rss",
+"summary": "36氪获悉，有投资者向江波龙提问，公司的产品有供应国内或者国外的机器人公司吗？公司除了供应特斯拉汽车的存储产品之外，还有没有供应特斯拉擎天柱机器人吗？公司有没有能适应机器人的spu方案存储产品呢？公司回答表示，公司具备较强的自研主控芯片技术，已经推出了覆盖SSD、UFS、eMMC、USB、SDCard等场景的多款自研主控芯片，搭配自研固件算法，从底层技术上赋予存储器产品更优异的性能，形成明显的技术壁垒。",
+"published": 1794574520.0
+},
+{
+"source": "36氪",
+"title": "美股大型科技股盘前涨跌不一，英伟达涨超1%",
+"link": "https://36kr.com/newsflashes/4068187392496512?f=rss",
+"summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，亚马逊、英伟达涨超1%，特斯拉涨0.62%，谷歌涨0.97%，苹果涨0.41%，闪迪、微软跌超1%，Meta跌0.03%。",
+"published": 1794574453.0
+},
+{
+"source": "36氪",
+"title": "拓荆科技：全资子公司拟出资不超3亿元参与设立私募基金",
+"link": "https://36kr.com/newsflashes/4068149440172937?f=rss",
+"summary": "36氪获悉，拓荆科技公告，公司全资子公司上海岩泉科技拟作为有限合伙人参与设立长存二期产业投资基金，认缴出资不超过3亿元，预计占基金认缴出资总额比例不超过10%。该基金主要投资于“存算感运用”及半导体产业链相关领域，存续期限9年。因关联方中微上海共同参与投资，本次交易构成关联交易，但不构成重大资产重组。",
+"published": 1794574347.0
+},
+{
+"source": "TechCrunch",
+"title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+"link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+"summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+"published": 1794574339.0
+},
+{
+"source": "36氪",
+"title": "华为Pura X View阔直板激活量破100万",
+"link": "https://36kr.com/newsflashes/4068183360656519?f=rss",
+"summary": "11月13日，华为首款阔直板手机华为PuraXView累计用户激活量已超过100万。该机搭载鸿蒙操作系统7、麒麟9030s芯片，提供四款配色，国补后到手价5499元起。",
+"published": 1794574207.0
+},
+{
+"source": "36氪",
+"title": "“欧几里得”空间望远镜发布首批重要观测数据，总量达170万GB",
+"link": "https://36kr.com/newsflashes/4068182942618755?f=rss",
+"summary": "据欧洲空间局消息，“欧几里得”空间望远镜12日发布了首批重要观测数据。这些数据包括捕捉到的超过10亿个宇宙天体发出的光，覆盖天空面积相当于9500个满月。这批数据包含超过一年的观测成果，将帮助科学家绘制迄今规模最大的宇宙三维地图，为探索暗物质、暗能量等宇宙奥秘提供重要依据。这批名为“DR1-Foundation”的数据是“欧几里得”望远镜自2023年发射以来首次发布的大规模观测成果，包含约13个月的观测数据，总量达170万GB。数据覆盖1900平方度天空，包括超过9亿个星系、…",
+"published": 1794574181.0
+},
+{
+"source": "36氪",
+"title": "ST创意：申请撤销其他风险警示",
+"link": "https://36kr.com/newsflashes/4068181521126537?f=rss",
+"summary": "36氪获悉，ST创意公告，公司拟向深交所申请撤销股票交易其他风险警示。公司此次申请撤销其他风险警示尚需经深交所审核，能否获得批准尚存在不确定性。",
+"published": 1794574094.0
+},
+{
+"source": "36氪",
+"title": "东方精工：选举唐灼林为董事长，聘任邱业致为总经理",
+"link": "https://36kr.com/newsflashes/4068142595986569?f=rss",
+"summary": "36氪获悉，东方精工公告，公司第六届董事会第一次会议审议通过相关人事议案：选举唐灼林为公司董事长，聘任邱业致为公司总经理、邵永锋为财务负责人、殷健为董事会秘书，任期均为三年。会议还选举产生第六届董事会审计委员会、提名委员会、薪酬与考核委员会委员。",
+"published": 1794573988.0
+},
+{
+"source": "36氪",
+"title": "香港将2026年经济增长预测上调至4.8%",
+"link": "https://36kr.com/newsflashes/4068172903470211?f=rss",
+"summary": "香港特区政府表示，考虑到今年首三季度的实际经济数字，以及第四季度经济有望进一步稳健增长，将2026年全年实质本地生产总值增长预测由3.5%至4.5%向上修订至4.8%。（新华社）",
+"published": 1794573568.0
+},
+{
+"source": "36氪",
+"title": "德州候任总检察长称将严格审查特斯拉与SpaceX的潜在合并交易",
+"link": "https://36kr.com/newsflashes/4068168198722689?f=rss",
+"summary": "德克萨斯州候任总检察长Nathan Johnson誓言，将仔细审查马斯克旗下SpaceX与特斯拉任何潜在的合并交易，并警告企业权力过度集中可能带来的风险。目前，这两家德州价值最高的公司正在考虑合并。“任何具有如此重大影响的公司合并，都应受到严密审查，”Johnson周四表示。（财联社）",
+"published": 1794573281.0
+},
+{
+"source": "TechCrunch",
+"title": "Jensen Huang didn’t show confidence in his successor, report says",
+"link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+"summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+"published": 1794572903.0
+},
+{
+"source": "36氪",
+"title": "科氪 | 家庭影院一步到位，一文读懂什么是激光电视",
+"link": "https://36kr.com/p/4067744401020041?f=rss",
+"summary": "激光电视是电视，不是投影仪。按国标 SJ/T 11791—2021，它必须配备专用投影幕，亮度以尼特计量而非流明。 它由激光光源、DMD 显示芯片、超短焦镜头和专用抗光幕四部分构成，贴墙几十厘米即可投出百吋画面。 与液晶电视的核心差异在成像方式：一个是背光直出，一个是投射到幕面后反射成像。 它更适合大客厅、大尺寸需求；前提是接受抗光幕为必需件，并提前规划主机位置与走线。 中国是全球激光显示的主要供给方，2026 年上半年全球激光显示产品出货量 115.8 万台。 随着大屏需求…",
+"published": 1794569708.0
+},
+{
+"source": "36氪",
+"title": "近百家企业带着真实场景，直接在WISE现场聊合作",
+"link": "https://36kr.com/p/4068039737987969?f=rss",
+"summary": "对接的桌子已摆好，先来看合作方向 WISE2026「产业对接」报名持续进行中。这次，我们将报名企业，以及他们想合作的方向、能够提供的产品、技术和服务整理公布。看看其中有没有你能帮上忙的事，也有没有能帮助你的伙伴。 如果有，欢迎报名。 本轮「产业对接」面向各行各业的企业和团队开放。无论是采购供应、研发生产、渠道合作，还是其他具体的业务需求，只要你想寻找合作伙伴，或能为其他企业提供帮助，都欢迎报名。我们会协助梳理双方需求与能力，让有可能合作的伙伴有机会面对面交流。 截止目前，共有…",
+"published": 1794566257.0
+},
+{
+"source": "Solidot",
+"title": "台积电内部员工数据泄露",
+"link": "https://www.solidot.org/story?sid=85881",
+"summary": "台积电在递交到 SEC 的一份声明中称，部分现任及前任员工的个人数据在未经授权的情况下出现在了一个外网上。相关信息与存储在某云服务提供商系统服务中的数据相吻合。台积电表示，目前尚未发现其自身系统遭到入侵的证据，且这些数据与其业务运营或客户信息无关。公司正通知受影响的员工，与该云服务商、相关调查机构以及一家外部网络安全公司合作，以查明事件真相。据报道，黑客在 DarkForums、BreachForums 等地下论坛上拍卖 6.9GB 容量的台积电员工数据，起标价为 3 BTC…",
+"published": 1794566237.0
+},
+{
+"source": "爱范儿",
+"title": "李飞飞最新世界模型正式开放，我用它一句话造出重庆山城",
+"link": "https://www.ifanr.com/1689379?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "世界模型的竞争要开始了吗#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794564295.0
+},
+{
+"source": "Solidot",
+"title": "地球冰冻圈不再处于安全运行空间内",
+"link": "https://www.solidot.org/story?sid=85880",
+"summary": "地球上的冰冻部分——包括冰盖、冰川、海冰、积雪和永久冻土——在调节地球气候、水资源供应和碳循环等诸多生态系统服务中发挥着至关重要的作用。但根据中外研究人员的一项新分析，冰冻圈的基本功能已不再处于安全运行空间（SOS）之内；其被推越界限的程度将给地球人口带来长期挑战。作为地球界限（planetary boundaries）方法的一部分，安全运行空间（SOS）定义了地球系统保持稳定与韧性、并使人类及生态系统能够繁荣发展的环境界限。研究人员对关键控制变量（包括陆地冰体积、海冰面积、…",
+"published": 1794563574.0
+},
+{
+"source": "少数派",
+"title": "本周看什么 | 最近值得一看的 10 部作品",
+"link": "https://sspai.com/post/118999",
+"summary": "📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ...查看全文",
+"published": 1794562762.0
+},
+{
+"source": "Solidot",
+"title": "《幻兽帕鲁》开发商给员工五天假期畅玩 GTA 6",
+"link": "https://www.solidot.org/story?sid=85879",
+"summary": "《幻兽帕鲁（Palworld）》开发商 Pocketpair 宣布了五天特别假期，让员工可以畅玩即将发售的 GTA 6。GTA 6 将于 11 月 19 日上市，有望创下游戏销售新记录，预计首周销量将高达数千万份拷贝。Pocketpair 表示，所有想要玩 GTA 6 的员工都可以利用这一特别假期。它同时表示《Palworld》和《Craftopia》的开发顺利，会按计划推进。此前游戏外设制造商罗技也宣布给所有员工放假一天去畅玩 GTA 6。",
+"published": 1794559741.0
+},
+{
+"source": "Solidot",
+"title": "英伟达员工请愿让黄仁勋复职",
+"link": "https://www.solidot.org/story?sid=85878",
+"summary": "英伟达创始人黄仁勋辞职后公司内部员工发起请愿让他复职。一名员工在内部意见系统上写道：我们都是人、都会犯错，黄仁勋办了那么多好事，理应得到第二次机会。黄仁勋担任英伟达 CEO 长达 33 年，领导公司成为世界市值最高的公司之一，很多员工都认为他对公司的贡献巨大，不应因此遭到抹杀。英伟达员工还通过 LinkedIn 公开表达对他的支持，且无人公开支持罢免他。",
+"published": 1794558838.0
+},
+{
+"source": "爱范儿",
+"title": "黄仁勋自嘲是「人渣」，英伟达员工集体喊话求回归",
+"link": "https://www.ifanr.com/1689360?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "没有黄仁勋的英伟达会怎样？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794558696.0
+},
+{
+"source": "36氪",
+"title": "万亿消费，奔向山海",
+"link": "https://36kr.com/p/4067852789372033?f=rss",
+"summary": "沿着广东G228滨海公路从汕尾驶向深圳，晨洲蚝乡的生蚝刚出水，盐田山海���的落日正铺满车窗。撒贝宁在节目里感慨：“一脚油门踩下去，整个世界都是你的。” 这声感叹，来自神州租车联合央视频打造的中国首档自驾文化探索节目《出发吧！神州山海》。随着六期节目走过戈壁、雨林与江南古村，一种正在成型的中国自驾文化也随之清晰起来：以公路为脉络、车轮为媒介，深度融合国土山河风貌、地域民俗人文、家庭亲友陪伴与松弛生活态度；依托国内立体交通网络，“长途快进、短途慢游”正成为越来越多人探索远方的独…",
+"published": 1794554643.0
+},
+{
+"source": "少数派",
+"title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+"link": "https://sspai.com/post/118153",
+"summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。查看全文",
+"published": 1794553200.0
+},
+{
+"source": "Solidot",
+"title": "无印良品客户信用卡数据泄露",
+"link": "https://www.solidot.org/story?sid=85877",
+"summary": "运营无印良品的良品计划公司社长清水智 12 日就遭遇非法访问问题在东京都内召开记者会，致歉称：“给大家带来了巨大担忧与困扰，对此由衷道歉。”包括已经解约的在内，信用卡的完整号码等可能已有约 109 万条信息泄露。清水承认信息管理存在疏漏，说明称部分系统存在漏洞，未能阻止非法访问。清水透露说“本应废弃的信用卡信息仍被保存”，表示“将推进建立不持有非必要信息的机制”。对于信息有可能泄露的信用卡，他表态说将承担换发新卡的手续费。良品计划 10 月 30 日发布消息称，官方 APP“…",
+"published": 1794552448.0
+},
+{
+"source": "Solidot",
+"title": "美国扣押了从币安盗走的逾 12 亿美元加密货币",
+"link": "https://www.solidot.org/story?sid=85876",
+"summary": "FBI 周四宣布扣押了价值逾 12 亿美元的加密货币。这些加密货币是黑客组织 TraderTraitor 此前从全球最大加密货币交易所币安盗走的。币安在这次事件中被盗走了价值 63 亿美元的加密货币，其中约半数的被盗加密货币——全部是稳定币，稳定币发行方能通过智能合约冻结交易——被成功冻结，但另外一半是难以被冻结的比特币、以太币和 XRP。美国政府表示它通过法庭授权扣押或冻结了逾 12 亿美元的加密货币。它没有透露更多细节。",
+"published": 1794551806.0
+},
+{
+"source": "爱范儿",
+"title": "AI 时代，公司的「新厂房」长什么样？",
+"link": "https://www.ifanr.com/1689182?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "真正决定公司未来十年身位的，是谁先动手重建那座名叫「智能组织」的新厂房。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794551659.0
+},
+{
+"source": "Solidot",
+"title": "微软云服务全球宕机",
+"link": "https://www.solidot.org/story?sid=85875",
+"summary": "微软云服务全球宕机，受影响服务包括了 Outlook、Teams 和 OneDrive 等办公工具以及 AI 工具 Copilot。微软通过其社交媒体账号表示正全力解决该问题。根据 Downdetector 的报告，截至周四 18:00 GMT，全球报告的 Outlook 故障数量接近 14 万。目前无迹象表明此次大范围宕机是由网络攻击引起的。微软表示，受影响的用户可能无法查看部分文件，或无法在日历应用中查看详细信息。Copilot 也可能无法正常运行。即时通讯和在线会议功能…",
+"published": 1794547836.0
+},
+{
+"source": "少数派",
+"title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+"link": "https://sspai.com/post/118512",
+"summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...查看全文",
+"published": 1794540948.0
+},
+{
+"source": "36氪",
+"title": "炸了！英伟达最大的雷，是没接班人",
+"link": "https://36kr.com/p/4067628486267780?f=rss",
+"summary": "CFO 接任临时 CEO。 文 | 刘思洁 封面来源 | 网络 当地时间2026年11月12日，英伟达官方宣布，联合创始人黄仁勋辞去公司总裁、首席执行官及董事会成员职务，即刻生效。 英伟达同时宣布，现任执行副总裁兼首席财务官科Colette Kress，出任临时CEO，并继续担任CFO，直至正式继任者确定。董事会将启动新任CEO遴选程序，同时考虑内部和外部候选人。此外，英伟达董事会还任命Harvey C. Jones担任公司首任董事会主席。 公告没有说明辞任原因。但过去一周，…",
+"published": 1794540550.0
+},
 {
 "source": "36氪",
 "title": "中国铝业在青海成立新能源公司，注册资本约7.34亿",
@@ -210,6 +784,97 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Exclusive: Onyx Security brings AI agent governance to Glean’s enterprise AI platform",
+"link": "https://siliconangle.com/2026/11/13/exclusive-onyx-security-brings-ai-agent-governance-to-gleans-enterprise-ai-platform/",
+"summary": "AI agent security startup Onyx Security Inc. today announced an integration with enterprise artificial intelligence platform company Glean Technologies Inc. to help enterprises govern the AI agents they build and run on Glean. Onyx and Glea…",
+"published": 1794610814.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Mirendil raises $1B in funding to speed up AI model development",
+"link": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
+"summary": "Mirendil Inc., a provider of software that speeds up artificial intelligence development, has raised $1 billion in early-stage funding. The startup stated on Thursday that Kleiner Perkins and Clearlake Capital jointly led the Series A inves…",
+"published": 1794604969.0
+},
+{
+"source": "Crunchbase",
+"title": "Crunchbase Data: Nvidia’s Startup Funding Deals Hit A Record. What’s Next After Huang?",
+"link": "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/",
+"summary": "Before it was thrust into crisis this week, Nvidia was steadily continuing its pace as one of the busiest startup investors around, including backing many of the biggest venture deals of 2026. We take a fresh look at where Nvidia and its ve…",
+"published": 1794601975.0
+},
+{
+"source": "Crunchbase",
+"title": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
+"link": "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+"summary": "It was another big week for AI-related startup financings. Mirendil, a developer of agentic AI for R&D, led the pack with a $1 billion series A, followed by Mercor, which secured $750 million to connect AI developers with human experts.",
+"published": 1794597604.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Agent fleets drag the messaging layer from afterthought to AI’s coordination core",
+"link": "https://siliconangle.com/2026/11/13/data-center-telemetry-runs-nats-graduates-from-cncf-kubeconna/",
+"summary": "Data center telemetry, sandboxed AI workloads and fleets of agents are pushing more machine-to-machine traffic through infrastructure than ever before, exposing the limits of messaging systems built for steadier demand. That shift is drawin…",
+"published": 1794590582.0
+},
+{
+"source": "SiliconANGLE",
+"title": "NeuralSat raises $3.2M to bring high-speed data connectivity and compute to space",
+"link": "https://siliconangle.com/2026/11/13/neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space/",
+"summary": "German startup NeuralSat GmbH announced Thursday that it has raised €2.9 million, about $3.2 million, in pre-seed funding to develop a 72-satellite data-relay processing network aimed at speeding up the flow of data from space. Capnamic and…",
+"published": 1794588311.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Sovereign or not? The 2026 Hyperscaler Buyer’s Guide",
+"link": "https://siliconangle.com/2026/11/13/sovereign-or-not-the-2026-hyperscaler-buyers-guide/",
+"summary": "Sovereignty is everywhere right now, and most people still can’t agree on what it means and, just as importantly, what it all means to them. This week theCUBE Research releases its new market report, Sovereign or Not? The 2026 Hyperscaler B…",
+"published": 1794585818.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Leaving VMware starts as a cost decision, but day-two operations decide whether it works",
+"link": "https://siliconangle.com/2026/11/13/data-management-layer-eases-vmware-exit-kubernetes-teams-kubeconna/",
+"summary": "Enterprises leaving legacy hypervisors are finding that moving virtual machines is only half the job, and that a portable data management layer often decides whether a Kubernetes migration succeeds. Rising license costs are pushing teams to…",
+"published": 1794582272.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Nvidia CEO Jensen Huang’s abrupt departure shakes AI industry’s foundations",
+"link": "https://siliconangle.com/2026/11/13/nvidia-ceo-jensen-huangs-abrupt-departure-shakes-ai-industrys-foundations/",
+"summary": "Oh, Jensen… really? Honeypot or not, the Chinese executive/accused spy with whom Nvidia CEO Jensen Huang admitted an affair this week should have been a flashing red light to him. So should fraternizing with one of your own VPs — and report…",
+"published": 1794582016.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Agents idling while they wait on humans push Kubernetes to hand back unused resources",
+"link": "https://siliconangle.com/2026/11/13/agentic-ai-workloads-push-kubernetes-return-idle-resources-kubeconna/",
+"summary": "Agentic AI workloads are handing Kubernetes an unexpected second act. The orchestrator once dismissed as reliable but boring is now at the center of how enterprises plan to run autonomous software. Past platform shifts, from physical server…",
+"published": 1794579777.0
+},
+{
+"source": "Crunchbase",
+"title": "Protein Startups Are Selling Lots Of Snacks And Drinks. Our Sample Tasting Found Most Neither Great Nor Horrible",
+"link": "https://news.crunchbase.com/agtech-foodtech/protein-startup-snacks-drinks-sample-taste/",
+"summary": "As we chronicled earlier this week, both startups and established food brands are making it simpler than ever to up protein intake. From sodas to snack bars to ice cream, it’s now possible to get a fix of this coveted macronutrient with foo…",
+"published": 1794571255.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Google Cloud takes aim at the cost of keeping idle AI agents running on Kubernetes",
+"link": "https://siliconangle.com/2026/11/13/distributed-training-inference-google-s-agent-projects-kubeconna/",
+"summary": "Kubernetes has become the go-to platform for distributed training and inference, but what happens to the compute bill when it runs AI agents that spend most of their time waiting? When an agent’s container or virtual machine stays provision…",
+"published": 1794555749.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Five thoughts from Cisco’s first quarter of fiscal 2027",
+"link": "https://siliconangle.com/2026/11/12/five-thoughts-from-ciscos-first-quarter-of-fiscal-2027/",
+"summary": "Cisco Systems Inc. opened fiscal 2027 with a quarter that should put any question about whether artificial intelligence will act as a massive tailwind for it to rest. Revenue and earnings hit records, growth rates were the best Cisco has po…",
+"published": 1794542782.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Applied Materials posts an impressive 53% jump in revenue as it beats expectations again",

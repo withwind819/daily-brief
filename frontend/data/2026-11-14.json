@@ -1,8 +1,57 @@
 {
 "date": "2026-11-14",
-"total": 17,
+"total": 67,
 "categories": {
 "AI": [
+{
+"source": "The Decoder",
+"title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+"link": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+"summary": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear wh…",
+"published": 1794683117.0
+},
+{
+"source": "The Decoder",
+"title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+"link": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+"summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time lim…",
+"published": 1794674881.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+"link": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+"summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort. The article Anthropic says outdated…",
+"published": 1794674576.0
+},
+{
+"source": "InfoQ 中国",
+"title": "GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+"link": "https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794668400.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+"link": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+"summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are b…",
+"published": 1794656451.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+"link": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+"summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to …",
+"published": 1794655301.0
+},
+{
+"source": "量子位",
+"title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+"link": "https://www.qbitai.com/2026/11/510297.html",
+"summary": "马斯克也签名了",
+"published": 1794650888.0
+},
 {
 "source": "InfoQ 中国",
 "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
@@ -16,9 +65,296 @@
 "link": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1794650400.0
+},
+{
+"source": "量子位",
+"title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+"link": "https://www.qbitai.com/2026/11/510232.html",
+"summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+"published": 1794650302.0
+},
+{
+"source": "量子位",
+"title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+"link": "https://www.qbitai.com/2026/11/510150.html",
+"summary": "童年的纸飞机，现在终于飞回我手里～",
+"published": 1794649714.0
+},
+{
+"source": "The Decoder",
+"title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+"link": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+"summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 ben…",
+"published": 1794649545.0
+},
+{
+"source": "量子位",
+"title": "绿电进Token出！联想重新定义词元工厂",
+"link": "https://www.qbitai.com/2026/11/510094.html",
+"summary": "年产2000万亿Token，成本狂降70%",
+"published": 1794649262.0
+},
+{
+"source": "量子位",
+"title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+"link": "https://www.qbitai.com/2026/11/510013.html",
+"summary": "狂揽3000万播放量",
+"published": 1794625175.0
+},
+{
+"source": "量子位",
+"title": "突发！DeepSeek开放全家桶API",
+"link": "https://www.qbitai.com/2026/11/510003.html",
+"summary": "官方App功能均可自由组合调用",
+"published": 1794623996.0
 }
 ],
 "科技": [
+{
+"source": "The Verge",
+"title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+"link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+"summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but…",
+"published": 1794692684.0
+},
+{
+"source": "TechCrunch",
+"title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+"link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+"summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+"published": 1794692482.0
+},
+{
+"source": "TechCrunch",
+"title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+"link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+"summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+"published": 1794686684.0
+},
+{
+"source": "The Verge",
+"title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+"link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+"summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated…",
+"published": 1794685660.0
+},
+{
+"source": "TechCrunch",
+"title": "Got an iPhone Duo? These 9 settings make it easier to use",
+"link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+"summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+"published": 1794679200.0
+},
+{
+"source": "TechCrunch",
+"title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+"link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+"summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+"published": 1794678304.0
+},
+{
+"source": "The Verge",
+"title": "Work to replace old copper wire led to the FAA’s ground stop",
+"link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+"summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secreta…",
+"published": 1794678268.0
+},
+{
+"source": "TechCrunch",
+"title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+"link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+"summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+"published": 1794677400.0
+},
+{
+"source": "Solidot",
+"title": "美国失去麻疹消除地位",
+"link": "https://www.solidot.org/story?sid=85889",
+"summary": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过一年。今年美国已报告逾 5400 例麻疹病例，创下自 1991 年以来的最高纪录。今年报告的病例几乎所有患者此前都未接种过麻疹、腮腺炎和风疹（MMR）疫苗，或者…",
+"published": 1794675175.0
+},
+{
+"source": "TechCrunch",
+"title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+"link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+"summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+"published": 1794674055.0
+},
+{
+"source": "The Verge",
+"title": "Here are our favorite deals from REI’s giant Holiday Sale",
+"link": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+"summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’r…",
+"published": 1794668400.0
+},
+{
+"source": "The Verge",
+"title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+"link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+"summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safet…",
+"published": 1794668400.0
+},
+{
+"source": "The Verge",
+"title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+"link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+"summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in…",
+"published": 1794665916.0
+},
+{
+"source": "Solidot",
+"title": "天问四号将尝试登陆木卫四",
+"link": "https://www.solidot.org/story?sid=85887",
+"summary": "11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。木卫四或 Callisto 是太阳系第三大卫星，也是木星第二大卫星，仅次于木卫三。木卫四的直径为水星直径的 99%，但是质量只有它的三分之一。木卫四由近乎等量的岩石和水所构成，其表面下 100 公里处可能有一个液态水构成的地下海洋，可能具有孕育生命的基本条件。",
+"published": 1794665552.0
+},
+{
+"source": "The Verge",
+"title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+"link": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+"summary": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple…",
+"published": 1794664800.0
+},
+{
+"source": "Solidot",
+"title": "微软云服务宕机持续逾 24 小时",
+"link": "https://www.solidot.org/story?sid=85886",
+"summary": "微软周六表示，影响各国企业和政府所用 Microsoft 365 应用的全球服务中断已经结束，这次中断持续了超过 24 小时。微软在 X 上发文说：“我们已完成解决这一事件根本问题的工作，并为其余受影响的客户和地区恢复了服务。”Teams、Outlook 和 Copilot 等微软应用都受到了这次服务中断的影响，导致数十个国家出现通信问题。微软表示，“没有发现”任何可能导致这次服务中断的外部干扰，并将问题归咎于服务器故障。这次中断是微软历史上持续时间最长的中断之一，也是今年的…",
+"published": 1794664550.0
+},
+{
+"source": "Solidot",
+"title": "美国历史上第三次航班大停飞",
+"link": "https://www.solidot.org/story?sid=85884",
+"summary": "美国 FAA 本周五宣布了其历史上第三次全国航班停飞，持续 4.5 小时后解除。此举导致近 1 万架次航班被取消。FAA 历史上第一次全国航班停飞是 2001 年的 911 事件，第二次是 2023 年 1 月 11 日，持续不到 2 小时。对于最新的事件，美国交通部长 Sean Duffy 给出的理由是空管系统依赖的仍是几十年前的模拟设备，已完全无法满足 21 世纪的需求。但也有报道称此次事件与软件升级失败有关：由 L3Harris Technologies 管理的通信网络…",
+"published": 1794662663.0
+},
+{
+"source": "The Verge",
+"title": "A gadget to make your dumb house smarter",
+"link": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+"summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the Insta…",
+"published": 1794661200.0
+},
+{
+"source": "The Verge",
+"title": "Jensen Huang and the decline of the visionary showman founder CEO",
+"link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+"summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces…",
+"published": 1794657600.0
+},
+{
+"source": "36氪",
+"title": "“爱达·花城号”开启第二个试运营航次",
+"link": "https://36kr.com/newsflashes/4069208477373312?f=rss",
+"summary": "今天（14日），第二艘国产大型邮轮“爱达·花城号”从广州南沙国际邮轮母港出发，开启第二个试运营航次。按计划，“爱达·花城号”将于11月15日抵达香港，并于11月16日返回广州南沙国际邮轮母港，该航次将重点针对区域航线运营及访港流程进行测试。（央视新闻）",
+"published": 1794650400.0
+},
+{
+"source": "36氪",
+"title": "微软称服务已全面恢复",
+"link": "https://36kr.com/newsflashes/4069263558694023?f=rss",
+"summary": "微软公司表示，其旗舰软件服务已全面恢复。此前发生的故障导致全球多地政府部门、交易员和企业的工作陷入停顿。微软网站上的服务运行状况更新显示：“所有产品均已正常运行。”对于Microsoft 365服务，微软表示，“积压的电子邮件已经处理完毕，因此该问题已得到解决。”受影响的产品包括Outlook、Teams和Copilot人工智能（AI）工具。周五，用户遭遇会议邀请收不到、网页无响应等问题。微软以往发生的服务中断很少持续超过数小时。这次故障的影响蔓延全球。据Downdetect…",
+"published": 1794648883.0
+},
+{
+"source": "36氪",
+"title": "北汽极狐贝塔和宁德时代合作换电版车型上市",
+"link": "https://36kr.com/newsflashes/4069258718385284?f=rss",
+"summary": "36氪获悉，北汽极狐贝塔和宁德时代合作换电版车型上市，S3车型5.83万元起，T1车型5.2万元起。家庭包月租399元、含5000公里额度；畅行包月租599元，适合里程需求大的用户。",
+"published": 1794647451.0
+},
+{
+"source": "36氪",
+"title": "币安称计划下周全面恢复提现服务",
+"link": "https://36kr.com/newsflashes/4069155924530308?f=rss",
+"summary": "币安周六表示，计划在下周末前恢复所有剩余网络和资产的提现功能。此前，这家全球最大的加密货币交易所遭遇了一起网络入侵事件，导致平台上价值63亿美元的资产在上个月被盗；目前，该交易所的运营正逐步恢复正常。币安在社交平台X上发文称：“本周，我们已恢复了87个网络的提现功能。我们的目标是在下周末前，恢复所有剩余网络和资产的提现。”（新浪财经）",
+"published": 1794646336.0
+},
+{
+"source": "36氪",
+"title": "比亚迪：网传“某数字能源出售给比亚迪”不实",
+"link": "https://36kr.com/newsflashes/4069192979714949?f=rss",
+"summary": "36氪获悉，比亚迪网络举报中心发文称，针对网络流传“某数字能源出售给比亚迪”相关信息，经核实：该消息无任何事实依据，属于虚假信息，请广大网友切勿轻信、转发。网络不是法外之地，对于编造、传播虚假信息扰乱网络秩序的行为，我们将保留追究相关主体法律责任的权利。",
+"published": 1794644632.0
+},
+{
+"source": "36氪",
+"title": "英国央行首席经济学家：需进一步加息",
+"link": "https://36kr.com/newsflashes/4069148906787968?f=rss",
+"summary": "英国央行首席经济学家警告，继12月加息之后，明年央行大概率还需要进一步加息，这表明部分政策制定者对通胀升温的态度趋于强硬。 休·皮尔表示，上周加息25个基点至4%，是让货币政策回归合理状态的“重要一步”，但“我们还有更多工作要做”。 他释放信号，鉴于存在第二轮效应风险——高能源成本传导至薪资以及更广范围的企业定价，除货币政策委员会12月17日下次会议的加息外，他目前预计2027年仍有必要继续加息。 他发表此番言论之际，尽管受伊朗战事扰动，英国经济今年迄今增长势头强劲。当前通胀…",
+"published": 1794642903.0
+},
+{
+"source": "36氪",
+"title": "中金公司与蚂蚁集团达成战略合作",
+"link": "https://36kr.com/newsflashes/4069303294546825?f=rss",
+"summary": "11月13日，中金公司与蚂蚁集团签署战略合作协议。双方将结合中金公司投研、金融服务积累与蚂蚁集团人工智能、行业生态、客户运营优势，围绕金融大模型技术创新、AI赋能财富管理、客户全生命周期服务等开展合作。根据协议，双方重点探索AI赋能财富管理人机协同模式，打造服务与营销协同的智能体集群；共建覆盖客户全生命周期的精细化财富经营体系；围绕智能体评测基准建设，在投研研判、财务文本解析、估值建模等场景开展技术验证。中金公司王曙光、蚂蚁集团韩歆毅出席并见证签约。",
+"published": 1794642562.0
+},
+{
+"source": "少数派",
+"title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+"link": "https://sspai.com/post/118276",
+"summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+"published": 1794642021.0
+},
+{
+"source": "36氪",
+"title": "9项量和单位领域国家标准发布，于2028年1月1日起正式实施",
+"link": "https://36kr.com/newsflashes/4069102536561539?f=rss",
+"summary": "市场监管总局（国家标准委）近日批准发布数学、空间和时间、原子物理学和核物理学等9项量和单位领域国家标准，将自2028年1月1日起正式实施。这是我国量和单位国家标准自1993年以来规模最大的一次整体修订。此次发布的9项量和单位标准等同采用ISO/IEC 80000《量和单位》系列国际标准的相应部分，实现与国际标准整体接轨。修订将原“空间和时间”与“周期及其有关现象”“原子物理学和核物理学”与“核反应和电离辐射”分别合并；同时全面反映国际单位制量子化变革成果，按基本单位新定义系统…",
+"published": 1794641399.0
+},
+{
+"source": "36氪",
+"title": "我国10吨级电动商用飞机有人驾驶首飞成功",
+"link": "https://36kr.com/newsflashes/4069081708876932?f=rss",
+"summary": "我国自主研制的10吨级电动商用飞机CE-25A在山东滨州完成首次有人驾驶智能飞行。当天，CE-25A飞机搭载2名飞行员、1名试飞工程师，飞机状态正常，各项指标符合预期。这是继CE-25A飞机今年2月2日无人驾驶智能首飞之后，该机研制再迈坚实一步。（新华社）",
+"published": 1794640130.0
+},
+{
+"source": "36氪",
+"title": "中美举行中美经贸磋商机制项下贸易理事会首次会议",
+"link": "https://36kr.com/newsflashes/4069249481725064?f=rss",
+"summary": "11月13日，中美双方通过视频会议方式举行中美经贸磋商机制项下贸易理事会首次会议。双方以中美元首会晤重要共识为引领，围绕落实前期中美经贸磋商成果，就关税、“300亿对300亿”对等降税安排、农产品贸易以及各自关心的其他议题进行了坦诚、深入、建设性的交流。双方将通过贸易理事会继续加强沟通，推动解决各自经贸关切，不断拉长合作清单，压缩问题清单，助力构建基于尊重、公平、对等的中美建设性战略稳定关系。（央视新闻）",
+"published": 1794639277.0
+},
+{
+"source": "36氪",
+"title": "深圳已成为中国内地首个外贸进出口超5万亿元的城市",
+"link": "https://36kr.com/newsflashes/4069038263571328?f=rss",
+"summary": "2026年APEC领导人会议周新闻中心举行广东省、深圳市专场中外媒体吹风会。会上，深圳市商务局局长张非梦表示，根据最新数据，深圳外贸再创新高，已成为中国内地首个外贸进出口超5万亿元的城市。（证券时报）",
+"published": 1794638976.0
+},
+{
+"source": "36氪",
+"title": "特斯拉：开始面向个人销售Cybercab",
+"link": "https://36kr.com/newsflashes/4069071474480002?f=rss",
+"summary": "特斯拉表示，已向一小部分客户开放Cybercab预订，意味着该公司准备向普通消费者推出这款无人驾驶汽车。这款两座车型没有方向盘和脚踏板，此前已作为特斯拉自动驾驶出租车服务的一部分在奥斯汀上线。特斯拉自动驾驶出租车官方账号周五在X平台发文称，如今Cybercab将对服务覆盖区域内的“选定客户”开放购买。目前尚不清楚特斯拉对个人使用的定义，也不清楚个人版Cybercab是否只能在奥斯汀现有的地理围栏区域内行驶——奥斯汀也是目前该自动驾驶车辆作为无人出租运营的唯一地点。特斯拉此前仅…",
+"published": 1794637461.0
+},
+{
+"source": "36氪",
+"title": "TRK抑制剂宜诺欣®纳入2026年国家医保药品目录",
+"link": "https://36kr.com/newsflashes/4069067317138563?f=rss",
+"summary": "36氪获悉，诺诚健华自主研发的新一代TRK抑制剂宜诺欣®（佐来曲替尼）已被纳入新版国家医保药品目录，用于治疗携带NTRK融合基因的成人和12岁以上青少年实体瘤患者。这标志着中国首款自主研发的新一代TRK抑制剂已纳入医保。新版国家医保目录将于2027年1月1日起开始实施。",
+"published": 1794635587.0
+},
+{
+"source": "36氪",
+"title": "中证协启动券商财务数智化应用调研，五阶段坐标勾勒智能财务路径",
+"link": "https://36kr.com/newsflashes/4069069479826307?f=rss",
+"summary": "中国证券业协会日前向各证券公司下发通知，开展财务数智化应用调研，旨在系统了解行业财务数智化应用现状，总结先进经验、剖析问题挑战，为行业深化财务数智化建设、提升财务核算质效和推动财务职能升级提供参考。值得注意的是，券商数智化转型正从财富管理、投资研究等前台业务，向财务、合规、风控、运营等中后台部门纵深推进，财务数智化正是这一趋势的集中缩影。此次调研恰逢证券业智能化提速。2026年被业内视为“金融智能体元年”，券商人工智能应用正从试点探索走向规模化验证。据易观千帆数据，截至202…",
+"published": 1794634161.0
+},
+{
+"source": "36氪",
+"title": "突破颅骨物理限制，鲲为推出经颅超声定位显微成像",
+"link": "https://36kr.com/newsflashes/4069059710211204?f=rss",
+"summary": "36氪获悉，11月13日，在CSUM2026重庆中华医学会会议上，深圳鲲为公司推出了Transcranial Ultrasound Localization Microscopy，经颅超声定位显微成像（缩写：tULM），是行业首个实现的无创经颅超声定位显微成像。其突破了颅骨的物理限制，实现无需打开颅骨声窗即可进行超分辨率造影，可用于脑组织灌注评估、脑功能成像、衰老研究、并在脑机接口及神经调控等领域提供重要的定位、分级及功能评估功能。",
+"published": 1794632966.0
+},
 {
 "source": "36氪",
 "title": "2026年版国家基本医保药品目录发布，新增107种药品",
@@ -102,9 +438,23 @@
 "link": "https://36kr.com/newsflashes/4068891349210249?f=rss",
 "summary": "36氪获悉，11月13日收盘，美股三大指数涨跌不一，纳指跌0.91%，标普500跌0.4%，道指涨0.1%；大型科技股涨跌不一，闪迪跌超5%，英伟达跌超2%，特斯拉跌超1%，谷歌、亚马逊小幅下跌，Meta涨超2%，苹果、微软小幅上涨；热门中概股涨跌不一，爱奇艺跌超7%，蔚来跌超4%，哔哩哔哩跌超1%，小鹏集团、理想汽车、网易小幅下跌，拼多多、京东涨超1%，百度、阿里巴巴小幅上涨。",
 "published": 1794618000.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
+"link": "https://www.ifanr.com/1689450?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 两部门公布新型储能方案，提出到 2030 年平均储能约 3 小时 · LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元 · 荣耀 700 系列定档 11 月 23 日，背屏可贴 GIF、看通知#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794614442.0
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "AT&T uses agentic AI to reinvent business processes from the ground up",
+"link": "https://siliconangle.com/2026/11/14/att-uses-agentic-ai-to-reinvent-business-processes-from-the-ground-up/",
+"summary": "AT&T Corp. is moving beyond using artificial intelligence to improve employee productivity, increasingly applying autonomous agents to redesign how its business operates. Nearly 500 agentic workflows are already in production, and the telec…",
+"published": 1794685033.0
+},
 {
 "source": "SiliconANGLE",
 "title": "FAA grounds all domestic flights after reported network outage",

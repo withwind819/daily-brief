@@ -1,6 +1,6 @@
 {
 "date": "2026-11-13",
-"total": 128,
+"total": 135,
 "categories": {
 "AI": [
 {
@@ -16,6 +16,13 @@
 "link": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
 "summary": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The company offered cloud providers billions…",
 "published": 1794600454.0
+},
+{
+"source": "HN AI 热门",
+"title": "No AI Slop: A Manifesto",
+"link": "https://www.slopmanifesto.com/",
+"summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 222 # Comments: 133",
+"published": 1794599516.0
 },
 {
 "source": "InfoQ 中国",
@@ -39,6 +46,13 @@
 "published": 1794592913.0
 },
 {
+"source": "HN AI 热门",
+"title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+"link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+"summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comments URL: https://news.ycombinator.com/item?id=50486748 Points: 438 # Comments: 110",
+"published": 1794591010.0
+},
+{
 "source": "InfoQ 中国",
 "title": "容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体",
 "link": "https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2?utm_source=rss&utm_medium=article",
@@ -58,6 +72,13 @@
 "link": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
 "summary": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto power over a…",
 "published": 1794585229.0
+},
+{
+"source": "HN AI 热门",
+"title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+"link": "https://text.npr.org/nx-s1-6029408",
+"summary": "Article URL: https://text.npr.org/nx-s1-6029408 Comments URL: https://news.ycombinator.com/item?id=50484960 Points: 195 # Comments: 196",
+"published": 1794583750.0
 },
 {
 "source": "The Decoder",
@@ -95,6 +116,13 @@
 "published": 1794582537.0
 },
 {
+"source": "HN AI 热门",
+"title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+"link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+"summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 482 # Comments: 725",
+"published": 1794582524.0
+},
+{
 "source": "OpenAI 博客",
 "title": "Introducing ChatGPT Wallet",
 "link": "https://openai.com/index/introducing-chatgpt-wallet",
@@ -123,11 +151,25 @@
 "published": 1794569294.0
 },
 {
+"source": "HN AI 热门",
+"title": "AI is destroying the trust between writers and readers",
+"link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+"summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Points: 370 # Comments: 234",
+"published": 1794568426.0
+},
+{
 "source": "InfoQ 中国",
 "title": "Docker 呼吁通过隔离与治理保障智能体安全",
 "link": "https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1794567600.0
+},
+{
+"source": "HN AI 热门",
+"title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+"link": "https://status.claude.com/incidents/nn11wk485zfn",
+"summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 493 # Comments: 390",
+"published": 1794565093.0
 },
 {
 "source": "InfoQ 中国",
@@ -219,6 +261,13 @@
 "link": "https://www.qbitai.com/2026/11/509614.html",
 "summary": "信息少传80%，准确率反而提高",
 "published": 1794551363.0
+},
+{
+"source": "HN AI 热门",
+"title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+"link": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+"summary": "Article URL: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html Comments URL: https://news.ycombinator.com/item?id=50476586 Points: 90 # Comments: 30",
+"published": 1794530321.0
 }
 ],
 "科技": [

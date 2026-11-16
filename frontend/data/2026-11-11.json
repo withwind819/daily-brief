@@ -1,8 +1,15 @@
 {
 "date": "2026-11-11",
-"total": 126,
+"total": 130,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+"link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+"summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 681 # Comments: 709",
+"published": 1794432275.0
+},
 {
 "source": "InfoQ 中国",
 "title": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
@@ -30,6 +37,13 @@
 "link": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
 "summary": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October 2026. One percent of companies still drive 80 percent of revenue for OpenAI and Anthropic. Customer support is emerging as a new growth driver, but i…",
 "published": 1794425711.0
+},
+{
+"source": "HN AI 热门",
+"title": "Retirement Savings Are Fueling the AI Bubble",
+"link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+"summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/ Comments URL: https://news.ycombinator.com/item?id=50457164 Points: 165 # Comments: 198",
+"published": 1794424003.0
 },
 {
 "source": "InfoQ 中国",
@@ -95,6 +109,13 @@
 "published": 1794415772.0
 },
 {
+"source": "HN AI 热门",
+"title": "AI, activity, and outcomes in software engineering",
+"link": "https://cabird.com/talks/shipping-faster/",
+"summary": "https://www.youtube.com/watch?v=0wumMeZsNsI Comments URL: https://news.ycombinator.com/item?id=50455332 Points: 131 # Comments: 112",
+"published": 1794414808.0
+},
+{
 "source": "The Decoder",
 "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
 "link": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
@@ -149,6 +170,13 @@
 "link": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
 "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue.…",
 "published": 1794399167.0
+},
+{
+"source": "HN AI 热门",
+"title": "My AI agents found an unmapped Maya site?",
+"link": "https://pietromiotti.com/latest/maya-site",
+"summary": "Article URL: https://pietromiotti.com/latest/maya-site Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 1036 # Comments: 392",
+"published": 1794398722.0
 },
 {
 "source": "InfoQ 中国",

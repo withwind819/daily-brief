@@ -1,6 +1,6 @@
 {
 "date": "2026-11-14",
-"total": 67,
+"total": 70,
 "categories": {
 "AI": [
 {
@@ -95,6 +95,13 @@
 "published": 1794649262.0
 },
 {
+"source": "HN AI 热门",
+"title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+"link": "https://news.ycombinator.com/item?id=50494696",
+"summary": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities?What is accessible to learn just from the internet an…",
+"published": 1794639402.0
+},
+{
 "source": "量子位",
 "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
 "link": "https://www.qbitai.com/2026/11/510013.html",
@@ -102,11 +109,25 @@
 "published": 1794625175.0
 },
 {
+"source": "HN AI 热门",
+"title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+"link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+"summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493251 Points: 1099 # Comments: 648",
+"published": 1794624779.0
+},
+{
 "source": "量子位",
 "title": "突发！DeepSeek开放全家桶API",
 "link": "https://www.qbitai.com/2026/11/510003.html",
 "summary": "官方App功能均可自由组合调用",
 "published": 1794623996.0
+},
+{
+"source": "HN AI 热门",
+"title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+"link": "https://claude.com/resources/articles/projects-redesigned",
+"summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 100 # Comments: 95",
+"published": 1794616091.0
 }
 ],
 "科技": [

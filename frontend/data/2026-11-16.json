@@ -1,17 +1,703 @@
 {
 "date": "2026-11-16",
-"total": 28,
+"total": 142,
 "categories": {
 "AI": [
+{
+"source": "The Decoder",
+"title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
+"link": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+"summary": "Google's Threat Intelligence Group has for the first time caught attackers finding and exploiting security vulnerabilities with no human involvement at all. An AI framework called \"exploit_agent,\" found on an exposed server, automatically c…",
+"published": 1794858133.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+"link": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+"summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it i…",
+"published": 1794856796.0
+},
+{
+"source": "The Decoder",
+"title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+"link": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+"summary": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article…",
+"published": 1794855175.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "The open-source movement wants Jensen Huang back",
+"link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+"summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, an…",
+"published": 1794854327.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从自动扩缩容到跨池调度：作业帮如何让 Flink 计算资源节省 30%？",
+"link": "https://www.infoq.cn/article/UTrbuCiAG5H9TiqcwgxI?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794852066.0
+},
+{
+"source": "InfoQ 中国",
+"title": "亚马逊云科技为EventBridge推出增强型自定义事件总线",
+"link": "https://www.infoq.cn/article/J4MJLMWsGagkT3eRVSJQ?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794850599.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Uber Eats重建搜索流水线，端到端延迟降低50%",
+"link": "https://www.infoq.cn/article/ah2izwCUPxX2y1herN7b?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794849841.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Envoy Gateway 1.9.1强化安全性并解决棘手的升级问题",
+"link": "https://www.infoq.cn/article/3HFLOphp4vIUZl2s3Xsr?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794848784.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Broadening access to AI for scientists",
+"link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+"summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+"published": 1794848400.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Strengthening the fight against online child sexual abuse with new tools and support",
+"link": "https://openai.com/index/strengthening-online-child-safety",
+"summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+"published": 1794848400.0
+},
+{
+"source": "The Decoder",
+"title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+"link": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+"summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Artificial A…",
+"published": 1794848164.0
+},
+{
+"source": "InfoQ 中国",
+"title": "DigitalOcean Managed Agents为AI智能体提供托管云基础设施",
+"link": "https://www.infoq.cn/article/LjVeWVAsBWwaiifdMRiu?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794847361.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Docker Sandbox Kit规范：将AI智能体权限打包为OCI镜像",
+"link": "https://www.infoq.cn/article/yV89L6iMCqSLDHeSoLxo?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794846131.0
+},
+{
+"source": "The Decoder",
+"title": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
+"link": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
+"summary": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects. The article Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML appeared first on The Decoder.",
+"published": 1794845422.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "Building trustworthy AI by fencing it in, not predicting it",
+"link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+"summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring inte…",
+"published": 1794845068.0
+},
+{
+"source": "InfoQ 中国",
+"title": "AI 来了，团队究竟怎么变？",
+"link": "https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794844595.0
+},
+{
+"source": "The Decoder",
+"title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+"link": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+"summary": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin. In a Pokémon Red test, the newer Claude Fable 5 got four times as far as the older Sonnet 3.7 by keeping just a handf…",
+"published": 1794842748.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Codex、Claude Code 都卷完了，居然还能跑出黑马？整个产品，现在都可以是一个提示词",
+"link": "https://www.infoq.cn/article/8TySw9wzqf0l90keJUNf?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794840268.0
+},
+{
+"source": "InfoQ 中国",
+"title": "DeepSeek又来掀桌子了！官方App全套能力开放API，联网搜索价格不到OpenAI、Claude的8%",
+"link": "https://www.infoq.cn/article/NWmk4epBL0jPAUtpKSKb?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794839904.0
+},
+{
+"source": "InfoQ 中国",
+"title": "马斯克喊话“真男人自己管理内存”，三十年系统老将警告：Rust 也拦不住 AI 制造复杂性",
+"link": "https://www.infoq.cn/article/FWqT2oGIEl9zlyJ7HXZF?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794839295.0
+},
+{
+"source": "InfoQ 中国",
+"title": "腾讯混元发布Hy4 flash，单任务成本仅为 Hy4 的 5%",
+"link": "https://www.infoq.cn/article/ejVJGwMvIIvplY8yio5r?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794839007.0
+},
+{
+"source": "InfoQ 中国",
+"title": "AI 写得快，谁来接住生产责任",
+"link": "https://www.infoq.cn/article/sIqEVPmL3P9PExLjPzPW?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794838203.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "Building AI that can work across the enterprise",
+"link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+"summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots to…",
+"published": 1794834000.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Science at the Frontier: How scientists use ChatGPT",
+"link": "https://openai.com/index/science-at-the-frontier",
+"summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+"published": 1794830400.0
+},
+{
+"source": "量子位",
+"title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+"link": "https://www.qbitai.com/2026/11/510542.html",
+"summary": "具身智能的真正价值是“把人的经验、技能复刻出来”",
+"published": 1794826651.0
+},
+{
+"source": "InfoQ 中国",
+"title": "AI 硬件能玩出多少新花样？这场黑客松正在寻找 20 支开发者团队",
+"link": "https://www.infoq.cn/article/ExwZoqvAjY423YKaXcpw?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794824938.0
+},
+{
+"source": "OpenAI 博客",
+"title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+"link": "https://openai.com/index/lvmh-media-division-partnership",
+"summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+"published": 1794819600.0
+},
+{
+"source": "量子位",
+"title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+"link": "https://www.qbitai.com/2026/11/510526.html",
+"summary": "12月1日，细数AI的未竟之问。",
+"published": 1794818717.0
+},
+{
+"source": "量子位",
+"title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+"link": "https://www.qbitai.com/2026/11/510496.html",
+"summary": "在华为待了快10000天。",
+"published": 1794816127.0
+},
 {
 "source": "InfoQ 中国",
 "title": "Super Agent 进群：今年11.11，多了个会主动干活的“数字人队长”",
 "link": "https://www.infoq.cn/article/myl5Mcw3iyCYv3ZJ3hwQ?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1794816000.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Our first phase of embedded assessments",
+"link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+"summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+"published": 1794816000.0
+},
+{
+"source": "量子位",
+"title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+"link": "https://www.qbitai.com/2026/11/510493.html",
+"summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+"published": 1794815937.0
+},
+{
+"source": "量子位",
+"title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+"link": "https://www.qbitai.com/2026/11/510486.html",
+"summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+"published": 1794815517.0
+},
+{
+"source": "量子位",
+"title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+"link": "https://www.qbitai.com/2026/11/510436.html",
+"summary": "余承东重新明确分工",
+"published": 1794813993.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Advancing computer-use agents for healthcare teams",
+"link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+"summary": "",
+"published": 1794808800.0
+},
+{
+"source": "OpenAI 博客",
+"title": "More ways to move care forward with ChatGPT for Healthcare",
+"link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+"summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+"published": 1794808800.0
+},
+{
+"source": "量子位",
+"title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+"link": "https://www.qbitai.com/2026/11/510416.html",
+"summary": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
+"published": 1794805522.0
+},
+{
+"source": "量子位",
+"title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+"link": "https://www.qbitai.com/2026/11/510404.html",
+"summary": "50岁，以“华为董事”之名退休，又有几人？",
+"published": 1794801270.0
+},
+{
+"source": "量子位",
+"title": "今天截止！2026年度AI表彰，错过再等一年！",
+"link": "https://www.qbitai.com/2026/11/510382.html",
+"summary": "量子位在寻找“能干”的答案",
+"published": 1794799193.0
+},
+{
+"source": "量子位",
+"title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+"link": "https://www.qbitai.com/2026/11/510369.html",
+"summary": "是石科技最新发布多模态模型服务",
+"published": 1794798459.0
+},
+{
+"source": "OpenAI 博客",
+"title": "The King’s Trust and OpenAI launch £1m partnership",
+"link": "https://openai.com/index/the-kings-trust-and-openai",
+"summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+"published": 1794787200.0
+},
+{
+"source": "OpenAI 博客",
+"title": "At Holiday Extras, dots get to work before anyone asks",
+"link": "https://openai.com/business/customer-stories/holiday-extras-dots",
+"summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+"published": 1794787200.0
 }
 ],
 "科技": [
+{
+"source": "少数派",
+"title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
+"link": "https://sspai.com/post/119160",
+"summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文",
+"published": 1794873460.0
+},
+{
+"source": "The Verge",
+"title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+"link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+"summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 2…",
+"published": 1794872158.0
+},
+{
+"source": "TechCrunch",
+"title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+"link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+"summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+"published": 1794871952.0
+},
+{
+"source": "The Verge",
+"title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+"link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+"summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreadi…",
+"published": 1794871054.0
+},
+{
+"source": "The Verge",
+"title": "United Airlines system outage disrupts departures just days after the big ground stop",
+"link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+"summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been…",
+"published": 1794869699.0
+},
+{
+"source": "TechCrunch",
+"title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+"link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+"summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+"published": 1794867151.0
+},
+{
+"source": "TechCrunch",
+"title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+"link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+"summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvi…",
+"published": 1794866582.0
+},
+{
+"source": "The Verge",
+"title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+"link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+"summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused…",
+"published": 1794865317.0
+},
+{
+"source": "TechCrunch",
+"title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+"link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+"summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+"published": 1794862862.0
+},
+{
+"source": "The Verge",
+"title": "California sues OpenAI over rogue AI hacking incidents",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+"summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law …",
+"published": 1794861961.0
+},
+{
+"source": "The Verge",
+"title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+"summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman sai…",
+"published": 1794861688.0
+},
+{
+"source": "The Verge",
+"title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
+"link": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
+"summary": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and headsets from Sony’s …",
+"published": 1794861374.0
+},
+{
+"source": "The Verge",
+"title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+"link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+"summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dom…",
+"published": 1794860977.0
+},
+{
+"source": "The Verge",
+"title": "US data centers now burn more electricity than a midsized country",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+"summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do,…",
+"published": 1794860878.0
+},
+{
+"source": "TechCrunch",
+"title": "California state AG sues OpenAI over rogue agent incidents",
+"link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+"summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+"published": 1794859633.0
+},
+{
+"source": "TechCrunch",
+"title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+"link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+"summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+"published": 1794858780.0
+},
+{
+"source": "The Verge",
+"title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+"link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+"summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 …",
+"published": 1794858647.0
+},
+{
+"source": "TechCrunch",
+"title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+"link": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+"summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
+"published": 1794857215.0
+},
+{
+"source": "TechCrunch",
+"title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+"link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+"summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+"published": 1794856322.0
+},
+{
+"source": "TechCrunch",
+"title": "Island is a new screen-time app that turns staying off your phone into a game",
+"link": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+"summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
+"published": 1794855258.0
+},
+{
+"source": "TechCrunch",
+"title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
+"link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+"summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
+"published": 1794853274.0
+},
+{
+"source": "TechCrunch",
+"title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+"link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+"summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+"published": 1794852670.0
+},
+{
+"source": "TechCrunch",
+"title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+"link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+"summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+"published": 1794850603.0
+},
+{
+"source": "TechCrunch",
+"title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+"link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+"summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+"published": 1794849000.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI will embed safety researchers to investigate AI subversion",
+"link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+"summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+"published": 1794848563.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+"link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+"summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+"published": 1794848400.0
+},
+{
+"source": "TechCrunch",
+"title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+"link": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+"summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
+"published": 1794848400.0
+},
+{
+"source": "Solidot",
+"title": "Robert Pattinson 成为第七任 007",
+"link": "https://www.solidot.org/story?sid=85905",
+"summary": "英国演员 Robert Pattinson 成为继 Daniel Craig 之后的第七任 007，将出演首部由亚马逊制作的 007 电影。Robert Pattinson 也成为第一位出演过蝙蝠侠的 007 演员。在 Daniel Craig 获选饰演 007 时，他当时还不是一线明星；相比其他竞争第七任 007 的演员，Robert Pattinson 已经是一位知名度极高的明星，大多数人都听说过他的名字。亚马逊显然是希望由一名有强大票房号召力的明星领衔主演其首部 007…",
+"published": 1794845920.0
+},
+{
+"source": "TechCrunch",
+"title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+"link": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+"summary": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
+"published": 1794845190.0
+},
+{
+"source": "TechCrunch",
+"title": "Audible turns to AI to help users discover audiobooks",
+"link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+"summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+"published": 1794844339.0
+},
+{
+"source": "Solidot",
+"title": "没有足够的植物纤维肠道细菌可能会吃你的肠道内壁",
+"link": "https://www.solidot.org/story?sid=85904",
+"summary": "植物性食物中的纤维和蛋白对我们有益，但它们是如何在人体内发挥有益作用的？普林斯顿大学研究团队在 PNAS 和 Nature Metabolism 期刊上发表了两篇论文，揭示了植物蛋白和纤维在体内转化为有益代谢产物的过程。研究人员针对了名为酚代谢物的化学物质：当肠道细菌消化特定氨基酸时会产生酚代谢物。酚代谢物源自两种氨基酸酪氨酸（tyrosine）和苯丙氨酸（phenylalanine）。研究人员发现，植物纤维和特定蛋白能影响这些氨基酸最终转化为何种化学物质。研究发现，植物纤维…",
+"published": 1794844287.0
+},
+{
+"source": "TechCrunch",
+"title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+"link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+"summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+"published": 1794841354.0
+},
+{
+"source": "Solidot",
+"title": "微软称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故",
+"link": "https://www.solidot.org/story?sid=85903",
+"summary": "微软公布了初步事件报告，称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故。它将于 11 月 20 日公布更详细的信息。微软称，它于今年 7 月部署了针对 Microsoft 365 网络网关服务器的一项修正，运行三个多月未出现问题。但这次修正引入了一个锁争用的 bug：一个 Windows 内部进程中多个任务争夺对共享资源的访问权，特定流量条件下会耗尽处理器和内存资源。微软此前的测试未能发现这一问题，原因是测试是在硬件性能较弱的机器上进行的，在拥有更多核心的新…",
+"published": 1794841234.0
+},
+{
+"source": "TechCrunch",
+"title": "Google Maps can now build trip itineraries with real-time details about each stop",
+"link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+"summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+"published": 1794840493.0
+},
+{
+"source": "Solidot",
+"title": "微软称下一代 Xbox 游戏机能玩 PC 游戏",
+"link": "https://www.solidot.org/story?sid=85902",
+"summary": "微软证实，代号为 Project Helix 的下一代 Xbox 游戏机既能玩主机游戏也能玩 PC 游戏。但暂时还不清楚游戏机是否能运行 Steam、Epic 等竞争对手的 PC 游戏启动器。目前所知的信息是 Project Helix 使用了基于 AMD Zen6 CPU + RDNA5 GPU 的定制 APU，与 PC 使用的 APU 区别并不大（游戏机配备的 RDNA5 CU 数量更多），因此玩 PC 游戏没多少问题，问题在于它如何控制玩家玩任意 PC 游戏。负责 Pr…",
+"published": 1794838439.0
+},
+{
+"source": "36氪",
+"title": "AI时代，TCL华星开始重新理解一块好屏",
+"link": "https://36kr.com/p/4071761698263939?f=rss",
+"summary": "当AI进入电脑，连屏幕的长宽比都可能发生变化。 在TCL科技集团高级副总裁、TCL华星首席执行官赵军看来，当用户需要与智能体对话，额外的显示面积就可能成为新需求。这也是TCL华星布局超宽屏的一个出发点。 这个细节揭示了显示产业正在面对的变化：AI终端的交互方式，会影响屏幕的尺寸、形态与技术选择，显示企业需要更早理解终端如何使用。 11月13日，TCL华星全球显示生态大会在武汉举行。从大会和群访，可以看到TCL华星的两条探索路径：通过显示技术适配AI终端，以及把AI引入屏幕的研…",
+"published": 1794831595.0
+},
+{
+"source": "爱范儿",
+"title": "影石这张「魔法相纸」，怎么治好了我的相册吃灰症？",
+"link": "https://www.ifanr.com/1689594?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "纸面上流转的不再是魔法世界的头条新闻，而是我们生活里那些真正值得举杯的闪光时刻。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794830401.0
+},
+{
+"source": "爱范儿",
+"title": "苹果眼镜明年见：没有屏幕，全靠 Siri 撑场面？",
+"link": "https://www.ifanr.com/1689712?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "这不会是苹果真正想带给这个时代的答案#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794826425.0
+},
+{
+"source": "Solidot",
+"title": "美国 ULA 的 Vulcan 火箭发射失败 40 颗亚马逊卫星被毁",
+"link": "https://www.solidot.org/story?sid=85900",
+"summary": "联合发射联盟（ULA）周日使用其 Vulcan 火箭发射 40 颗亚马逊 Leo 宽带卫星，火箭在二级飞行阶段出现了异常而发射失败，亚马逊的卫星未能正常入轨。Vulcan 火箭此前由于其火箭助推器的喷管问题而从今年 2 月起就停飞。Vulcan 火箭执行了四次发射，两次发生了喷管问题。执行此次发射任务 LV-01 的是其最强大的型号 Vulcan VC6L，配备了 6 枚固体火箭助推器。亚马逊向 ULA 订购了 38 次 Vulcan 发射订单，这次任务是第一次，亚马逊正快速…",
+"published": 1794825201.0
+},
+{
+"source": "爱范儿",
+"title": "几乎每家国产新能源都在营销的「6 人 12 箱」，原来根本就是违法的！",
+"link": "https://www.ifanr.com/1689701?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "别让营销高于安全。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794824842.0
+},
+{
+"source": "少数派",
+"title": "派评 | 近期值得关注的 App",
+"link": "https://sspai.com/post/119148",
+"summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+"published": 1794823787.0
+},
+{
+"source": "爱范儿",
+"title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
+"link": "https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "比 DeepSeek V4.1 Flash 性价比更高#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794822781.0
+},
+{
+"source": "Solidot",
+"title": "部分因为 AI Overviews Reddit 年访问量下滑 13%",
+"link": "https://www.solidot.org/story?sid=85899",
+"summary": "根据分析公司 Similarweb 的数据，2025 年 10 月至 2026 年 10 月期间，Reddit 的全球访问量下滑了 13%。来自 Google 搜索的流量减少，促使 Reddit 准备强制要求所有访客必须登录。2024 年 Reddit 与 Google 达成协议授权其使用平台内容用于 AI 训练，当时受益于 Google 的 Reddit 搜索流量处于激增阶段。根据 Similarweb 的数据，2023 年 5 月至 2024 年 5 月期间 Reddit…",
+"published": 1794821214.0
+},
+{
+"source": "36氪",
+"title": "36氪专访｜《愤怒的小鸟》前全球营销副总裁、Smadex CMO：最先拉响警报的，是移动游戏的下载量",
+"link": "https://36kr.com/p/4063717266838400?f=rss",
+"summary": "今年上半年，中国自主研发游戏海外市场实际销售收入达到 123.72 亿美元，同比增长 30.22%。同期国内市场增长 12.17%。也就是说，出海的增速已经接近国内市场的 2.5 倍，很难再用“增量补充”来形容它。 出海，曾经是一场关于投放效率的竞赛，现在更像一场关于时间和判断力的竞赛。对于已经把买量做成标配的中国团队来说，一些问题是共通的：品牌该从哪一天开始投？有了知名 IP 是不是就能等来自然量？30 天回本和 24 个月回本，差的只是耐心吗？ 在这些困难之下，广告主一侧…",
+"published": 1794820732.0
+},
+{
+"source": "爱范儿",
+"title": "制糖工厂推出 EdgeTie 边边线，以转角贴边设计改善车内充电体验",
+"link": "https://www.ifanr.com/1689628?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "硬糖边边线，今日上线。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794818230.0
+},
+{
+"source": "36氪",
+"title": "硬氪首发丨北科大院士团队创业二维半导体， 获英诺、中科创星等数千万元融资",
+"link": "https://36kr.com/p/4072171878486919?f=rss",
+"summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，二维半导体公司北科天弓天芯（北京）科技有限公司（以下简称「天弓天芯」）近日完成数千万元种子轮融资，由中科创星、英诺基金出资。本轮资金将主要用于团队建设、晶圆生产能力建设及技术成果转化。 「天弓天芯」成立于2026年5月，是北京科技大学张跃院士团队的科技成果转化项目，专注于打通二维半导体从材料生产到芯片制造的技术链条。 天弓天芯 其中，中国科学院院士张跃担任首席战略科学家；联合创始人兼CTO张铮为北京科技大学教授、国家杰出青年科学基…",
+"published": 1794817788.0
+},
+{
+"source": "爱范儿",
+"title": "苹果智能眼镜细节曝光，居然是戴在脸上的 AirPods",
+"link": "https://www.ifanr.com/1689616?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "真正认真对待软件的人，应该自己去制造硬件。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794817499.0
+},
+{
+"source": "Solidot",
+"title": "互联网档案存档 Salon",
+"link": "https://www.solidot.org/story?sid=85898",
+"summary": "有 31 年历史的 Salon 于 2026 年 11 月 5 日宣布从即日起停止出版。Salon 创办于 1995 年 11 月 5 日，是互联网早期重要的出版物。互联网档案的时光机器（Wayback Machine）已对 Salon 进行了近 30 年的存档——它先后使用过 salon1999.com、salonmag.com 等域名 1999 年后开始用 salon.com——互联网档案发布了一个实验性工具 Salon Explorer，方便用户挖掘 Salon 历年的…",
+"published": 1794817495.0
+},
+{
+"source": "36氪",
+"title": "36氪第一期创意项目征集大赛结果揭晓，TOP10项目正式出炉！",
+"link": "https://36kr.com/p/4072155203294089?f=rss",
+"summary": "一个好项目，值得被更多人看见。 历时一个月，36氪第一期创意项目征集大赛正式落下帷幕。从项目报名、内容发布，到公开投票、榜单评选，本次活动吸引了来自不同领域的创业团队参与。经过为期9天的公开投票，第一期TOP10项目现已正式揭晓。 本次活动共收到274个项目投稿，项目覆盖AI、机器人、硬科技、消费、企业服务、医疗健康、先进制造、出海等多个方向，既有围绕AI技术展开的应用探索，也有聚焦具体产业场景的产品创新。 我们希望通过这样的方式，让更多正在认真做产品、解决实际问题的创业团队…",
+"published": 1794817223.0
+},
+{
+"source": "36氪",
+"title": "杨哲轩谈数据编译、模型能力与机器人如何重新进入真实世界",
+"link": "https://36kr.com/p/4072117363495816?f=rss",
+"summary": "▲从一只瓷杯到可复用的数据资产——编译发生在每一次操作之后。 桌上摆着几只茶杯。采集者戴上头戴设备，把杯子逐一拿起、移开，再放回原位。设备记录了连续视频和惯性测量单元（IMU）数据。看上去，动作已经被完整保存。可一旦任务结束，这段经验通常也就结束了。它没有自然地变成下一次可以调用的能力。 但在杨哲轩看来，问题恰恰在这里：动作被记录下来，只是事情的开始。视频告诉我们发生过什么，却没有告诉模型下一步该怎么做。它缺少动力学、意图、空间关系，也缺少失败之后如何恢复的经验。要让一次整理…",
+"published": 1794816378.0
+},
+{
+"source": "Solidot",
+"title": "科学家发明电梳能促进头发生长",
+"link": "https://www.solidot.org/story?sid=85897",
+"summary": "如果你受到脱发的困扰，也许未来可以尝试名为 Detangle 的电梳。它是一种梳子形状的生物电子装置。北京航空航天大学研究人员在《Nature Communications》期刊上发表研究报告，Detangle 系统采用嵌入式电子梳齿结构，配备高度差异化的电极以及集成式药物负载模块，能产生增强电场，渗透毛囊区域的深度达到传统外用给药方式的约 9 倍。小鼠研究显示，Detangle 电梳能成为雄激素遗传性脱发的有力工具，全球有逾十亿人受到这种常见脱发的困扰。实验中，针对因睾酮诱…",
+"published": 1794816027.0
+},
+{
+"source": "少数派",
+"title": "Rosetta 2 即将退役，Mac 老应用何去何从？",
+"link": "https://sspai.com/post/118100",
+"summary": "Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...查看全文",
+"published": 1794814671.0
+},
+{
+"source": "Solidot",
+"title": "Tor 中继节点遭遇大规模 DDoS 攻击",
+"link": "https://www.solidot.org/story?sid=85896",
+"summary": "Tor 中继节点遭遇大规模 DDoS 攻击，Tor 项目释出更新 v0.4.9.17，加强中继节点对 IPv6 处理相关的 DoS 防御能力。中继节点运营者需要尽快升级。这次 DDoS 攻击影响到了大多数中继节点运营者。有运营者称其家庭网络受攻击影响而被堵塞，下载速度比正常水平下降了 99%。Tor 项目表示在评估更多的防御措施，会在未来发布后续更新。",
+"published": 1794812957.0
+},
+{
+"source": "Solidot",
+"title": "Microsoft 365 宕机导致 15 名酒店客人氯气中毒",
+"link": "https://www.solidot.org/story?sid=85895",
+"summary": "微软 Microsoft 365 服务上周发生了持续逾 24 小时的宕机事故，受影响的应用之一是电子邮件 Outlook。德国 Brühl 的梦幻乐园（Phantasialand）周六证实，由于 Outlook 下线，当自动加药系统向泳池内注入过量的氯，触发安全监控系统发出警报时，相关人员未能收到通过电子邮件发送的警报。结果导致 15 名入住乐园酒店 Hotel Ling Bao 的客人在使用泳池后遭遇氯气中毒。在接到酒店客人的投诉后，急救人员和消防部门赶赴现场。泳池一度关闭…",
+"published": 1794811080.0
+},
+{
+"source": "Solidot",
+"title": "比特币币值一个半月下跌四分之一",
+"link": "https://www.solidot.org/story?sid=85894",
+"summary": "10 月 3 日比特币币值是 84,680 美元，今天是 64,337.00 美元，一个半月币值下跌四分之一。加密货币分析公司 CryptoQuant 指出，投资者对比特币的兴趣也在减弱，其需求指标降至 2023 年 12 月以来的最低水平，而比特币交易所交易基金再次出现净卖出。导致比特币币值下跌的因素包括了美国出现通胀，以及 AI 的大规模支出吸走了资金。分析师称，比特币与科技股紧密捆绑。这使得比特币处于一种尴尬的境地：当市场对 AI 的热情高涨时，它必须与之争夺投资资金；…",
+"published": 1794810367.0
+},
+{
+"source": "36氪",
+"title": "哈工大团队创立、李泽湘出手，AR潜水面镜公司融资数千万｜硬氪首发",
+"link": "https://36kr.com/p/4070604926850185?f=rss",
+"summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，星域蔚蓝（深圳）科技有限公司（以下简称「星域蔚蓝」）近日完成数千万元天使+轮融资，本轮投资方为湖南财信。此前种子轮及天使轮投资方为初心资本、华山资本、香港X科技基金。资金将重点投向核心光学模组与水下可靠性体系的技术迭代，完善AR潜水互联系统的配套硬件生态，并加速全球渠道布局与规模化量产交付。 星域蔚蓝成立于2025年，聚焦水下智能AR装备赛道，专注极端水环境下光波导光学系统、潜水计算算法与高可靠性水下硬件的研发与制造。公司推出全球首款AR潜…",
+"published": 1794798000.0
+},
+{
+"source": "少数派",
+"title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
+"link": "https://sspai.com/post/119012",
+"summary": "能切换老设备音质的媒体播放器。查看全文",
+"published": 1794797531.0
+},
 {
 "source": "36氪",
 "title": "店匠科技发布Shoplazza Accounts产品，拓展金融业务布局",
@@ -200,6 +886,120 @@
 "link": "https://36kr.com/p/4071682515817605?f=rss",
 "summary": "今日热点导览 OpenAI解散机器人团队 SpaceX首次实现“筷子夹飞船” 2026年版国家基本医保药品目录发布，新增107种药品 微软就全球服务中断道歉 加密货币全线大跳水，超31万人爆仓 TOP3大新闻 黄仁勋讨论重掌英伟达，硅谷盟友游说支持回归 据报道，在被董事会驱逐数天之后，英伟达公司前首席执行官黄仁勋正在讨论重返公司的可能性。随着几位硅谷盟友开始游说支持他回归，黄仁勋已经在讨论重返公司的想法。一名黄仁勋的盟友透露，他们正在组建一个由硅谷企业高管组成的“作战室”，游…",
 "published": 1794787796.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Corma raises $125M to train cybersecurity-optimized foundation models",
+"link": "https://siliconangle.com/2026/11/16/corma-raises-125m-to-train-cybersecurity-optimized-foundation-models/",
+"summary": "Corma.ai Ltd., a startup that develops artificial intelligence models for cybersecurity teams, has raised $125 million in funding. NEA led the Series A round. Corma stated today that returning backers Khosla Ventures, Coatue and Sequoia Cap…",
+"published": 1794872890.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
+"link": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+"summary": "Noeri Inc., a startup developing artificial intelligence systems that continuously improve their outputs as they learn from an organization’s data and work, is launching with $110 million in funding. Today’s round was led by Menlo Ventures …",
+"published": 1794872751.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Alibaba launches Qwen4-Max with training, attention optimizations",
+"link": "https://siliconangle.com/2026/11/16/alibaba-launches-qwen4-max-with-training-attention-optimizations/",
+"summary": "Alibaba Group Holding Ltd. today introduced Qwen4-Max, its newest and most capable large language model. The algorithm not only generates higher-quality output than its predecessor but also costs less. Those improvements are the result of a…",
+"published": 1794864069.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Three insights you might have missed from theCUBE’s coverage of GraphSummit 2026",
+"link": "https://siliconangle.com/2026/11/16/three-insights-you-might-have-missed-from-thecubes-coverage-of-graphsummit-2026-neo4jgraphsummit/",
+"summary": "AI agents need more than enterprise data to be effective; they also need the business context that data lives in. Knowledge graphs could consolidate the enterprise context currently fed to different AI agents into a single knowledge layer. …",
+"published": 1794861960.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Talkdesk’s life sciences play shows why industry depth beats AI cost-cutting",
+"link": "https://siliconangle.com/2026/11/16/talkdesks-life-sciences-play-shows-why-industry-depth-beats-ai-cost-cutting/",
+"summary": "The customer experience arena, specifically the contact center, has been the low-hanging fruit for artificial intelligence deployments, with much of the focus on cost-cutting. The goals include fewer agents, shorter calls, higher containmen…",
+"published": 1794861404.0
+},
+{
+"source": "SiliconANGLE",
+"title": "At KubeCon 2026, the illusion of AI control meets the reality of implementation",
+"link": "https://siliconangle.com/2026/11/16/at-kubecon-2026-the-illusion-of-ai-control-meets-the-reality-of-implementation/",
+"summary": "I revisited Salt Lake City for KubeCon/CloudNativeCon NA 2026 hoping to find practical approaches to delivering customer value amidst a rapidly shifting kaleidoscope of artificial intelligence-driven solutions that are making it increasingl…",
+"published": 1794847305.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Alecto raises $20M seed funding to make UK property law more accessible to consumers with AI",
+"link": "https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai/",
+"summary": "Alecto Conveyancing Ltd., a London-based artificial intelligence-native law firm, today announced it raised $20 million in seed funding led by Insight Partners to make the law more accessible to the general public. Firstminute Capital, Blue…",
+"published": 1794846302.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Sumo Logic expands AWS Observability Solution with one-click deployment and new regions",
+"link": "https://siliconangle.com/2026/11/16/sumo-logic-expands-aws-observability-solution-with-one-click-deployment-and-new-regions/",
+"summary": "Data analytics software firm Sumo Logic Inc. today released an expanded AWS Observability Solution, a monitoring package for Amazon Web Services Inc. users that can now be deployed in one click from AWS Marketplace. Sumo Logic is pitching t…",
+"published": 1794837649.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Google says an AI framework turned security patches into exploits with no human in the loop",
+"link": "https://siliconangle.com/2026/11/16/google-says-an-ai-framework-turned-security-patches-into-exploits-with-no-human-in-the-loop/",
+"summary": "A new report out today from Google LLC’s Google Threat Intelligence Group finds that for the first time, attackers have used an artificial intelligence framework running with no human in the loop to turn security patches into exploits. Call…",
+"published": 1794837647.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Goodbye, manual work: AI-native CRM platform Dreamteam raises $53M to automate enterprise sales",
+"link": "https://siliconangle.com/2026/11/16/goodbye-manual-work-ai-native-crm-startup-dreamteam-raises-53m-to-autonomously-push-deals-forward/",
+"summary": "Intelligent sales software startup Dreamteam AI Inc. said today it has raised $53 million in early-stage funding to try to flip the narrative around customer relationship management platforms, which often seem like more of a hindrance than …",
+"published": 1794837609.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Palo Alto Networks report finds organizations struggle to track and secure AI agents in the cloud",
+"link": "https://siliconangle.com/2026/11/16/palo-alto-networks-report-finds-organizations-struggle-to-track-and-secure-ai-agents-in-the-cloud/",
+"summary": "A new report out today from cybersecurity company Palo Alto Networks Inc. finds that artificial intelligence agents have quickly become a fixture in software development, but many organizations can’t properly track or secure what those agen…",
+"published": 1794834012.0
+},
+{
+"source": "Crunchbase",
+"title": "In The AI Era, Keep Hiring New College Grads — And Make Them Managers From Day One",
+"link": "https://news.crunchbase.com/ai/new-college-grads-workforce-management-morse-strattam-quoia-kse/",
+"summary": "As AI takes over entry-level knowledge work, guest authors Bob Morse of Strattam Capital and Michael Quoia of KSE Leadership argue that these workers should begin their careers managing AI agents, developing skills in delegation, oversight …",
+"published": 1794830436.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Exaforce’s ExaU lets security staff spin up a personal team of AI agents",
+"link": "https://siliconangle.com/2026/11/16/exaforces-exau-lets-security-staff-spin-up-a-personal-team-of-ai-agents/",
+"summary": "Agentic security operations startup Exaforce Inc. today announced the launch of ExaU, a service that lets any security staff member spin up a personal team of artificial intelligence agents. The new service seeks to move past the first wave…",
+"published": 1794830411.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Detectify’s Agentic Tooling lets AI agents test suspected flaws in running applications",
+"link": "https://siliconangle.com/2026/11/16/detectifys-agentic-tooling-lets-ai-agents-test-suspected-flaws-in-running-applications/",
+"summary": "Swedish application security company Detectify AB today launched Agentic Tooling, a set of tools aimed at letting an organization’s own artificial intelligence agents test whether suspected vulnerabilities can be exploited in running applic…",
+"published": 1794816053.0
+},
+{
+"source": "Crunchbase",
+"title": "VC Firm Plural Closes On $1.1B To Invest In European Startups With Potential For ‘GDP-Level Impact’",
+"link": "https://news.crunchbase.com/venture/plural-closes-billion-euro-fund-european-ai-robotics-defense-startup-investment/",
+"summary": "London-based startup investor Plural, with a portfolio mix of energy, compute, defense, robotics, health and software, says it has closed on its largest fund to date — just over $1.1 billion, or 1 billion euros — to lead early-stage investm…",
+"published": 1794812439.0
+},
+{
+"source": "TechCrunch VC",
+"title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+"link": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+"summary": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
+"published": 1794812400.0
 }
 ]
 }

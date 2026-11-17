@@ -1,0 +1,271 @@
+{
+"date": "2026-11-17",
+"total": 37,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "Spring 近期资讯：Boot、Framework、Data、Security、Modulith 和 AI 的首个候选版本",
+"link": "https://www.infoq.cn/article/uCmKjbkjjkW17olm7smj?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794919355.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Vitest 5 通过共享 Vite 服务器、跟踪视图和更严格的测试默认设置来优先保障性能",
+"link": "https://www.infoq.cn/article/wy7Osc1cHY1U9gQR3pwH?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794916800.0
+},
+{
+"source": "InfoQ 中国",
+"title": "File Mover Express：亚马逊云科技发布用于 S3 文件传输的开源工具",
+"link": "https://www.infoq.cn/article/i0a4s8Cf7WMxcZha74kF?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794913200.0
+},
+{
+"source": "InfoQ 中国",
+"title": "openEuler 进军 Agentic Infra！主席熊伟：不讲大故事，先解决真问题",
+"link": "https://www.infoq.cn/article/JhBUwv1pHR3S986Ih0iJ?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794912080.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从 SDLC 到 ADLC：宝洁的 AI 原生组织实验",
+"link": "https://www.infoq.cn/article/prRYMYmhOvSY9EaMz8Oc?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794910513.0
+},
+{
+"source": "InfoQ 中国",
+"title": "阿里 Qwen4-Max 正式登场：单任务成本暴降 58%，前端编程全球第六",
+"link": "https://www.infoq.cn/article/bZrW40XdHeMSkfOBxL2C?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794910030.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Cloudflare 的后量子 GeoKey Manager 进入封闭测试阶段，暂不支持基于属性加密",
+"link": "https://www.infoq.cn/article/L4oHv9VcLJNRwhOXgOAi?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794909723.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "国家知识产权局印发《地理标志保护和运用“十五五”规划》",
+"link": "https://36kr.com/newsflashes/4073336005727107?f=rss",
+"summary": "今天了解到，国家知识产权局印发《地理标志保护和运用“十五五”规划》，明确了“十五五”时期地理标志工作的目标指标、重点任务和专项工程。《规划》提出，到2030年，地理标志全面赋能区域特色经济高质量发展，地理标志工作法治化水平进一步提高，保护更加有力，运用效益充分彰显，中国地理标志产品竞争力和国际影响力显著提升。《规划》要求，充分发挥国家知识产权强国建设工作部际联席会议作用，建立统一领导、部门协同、央地联动的工作体系。深化基础理论研究，加大人才培养力度，强化政策解读和典型案例推广…",
+"published": 1794890911.0
+},
+{
+"source": "36氪",
+"title": "10个月突破1600亿元，海南企业对APEC经济体贸易额创新高",
+"link": "https://36kr.com/newsflashes/4073350060364677?f=rss",
+"summary": "36氪获悉，据海南发布消息，据海口海关统计，前10个月，海南企业对我国以外的其他20个APEC经济体进出口1628.3亿元，同比增长46.9%，占同期海南外贸进出口总值的51.9%。其中，出口725.4亿元，增长86.6%；进口902.9亿元，增长25.4%。前10个月，海南企业自APEC经济体进口消费品141.9亿元，增长43%，占同期海南同类产品进口总值的39.4%。其中，海南三成以上的化妆品、近五成的首饰、九成的干鲜瓜果都进口自APEC经济体。此外，供应本地生产的原油、…",
+"published": 1794890688.0
+},
+{
+"source": "36氪",
+"title": "宇树科技董事长兼首席执行官王兴兴：机器人行业当前的机遇与现实挑战",
+"link": "https://36kr.com/newsflashes/4073367160083329?f=rss",
+"summary": "2026年APEC工商领导人峰会今日在深圳举办。在“共建开放普惠的人工智能创新生态”研讨环节，宇树科技董事长兼首席执行官王兴兴表示，大众所见到的AI、机器人成果仅是冰山一角，水下底层技术迭代速度迅猛，行业发展前景值得期待，各界应当主动拥抱AI技术变革。王兴兴还表示，行业仍面临多重现实难题，首要痛点是模型泛化能力不足，机器人更换应用场景往往需要重新训练，难以实现一台设备适配各类家庭与工作环境，不过全球技术演进已接近突破临界点。他同时提醒，即便机器人AI模型实现技术突破，产业链仍…",
+"published": 1794890601.0
+},
+{
+"source": "36氪",
+"title": "日本据悉拟推迟发行新型浮息国债",
+"link": "https://36kr.com/newsflashes/4073332115412097?f=rss",
+"summary": "日本可能推迟发行新型浮息国债。随着投资者预计本轮加息周期仅剩寥寥数次加息，借助这类债券对冲借贷成本上升的需求正在减弱。据知情人士透露，日本财务省倾向于推迟原定明年1月启动的发行计划。知情人士称，财务省计划在明年6月对国债发行计划进行年中评估时，重新审议这项提案。知情人士表示，财务省已经完成发行所需的系统升级，并将继续评估市场需求，以考虑是否在2027财年或更晚推出这类国债。路透此前报道了这一可能推迟的消息。（新浪财经）",
+"published": 1794890015.0
+},
+{
+"source": "36氪",
+"title": "业绩快报 | 爱奇艺Q3Non-GAAP运营盈利，内容生态转型与AI战略初显成效",
+"link": "https://36kr.com/p/4073327210304649?f=rss",
+"summary": "11月16日，爱奇艺（NASDAQ:IQ）发布2026年第三季度财报。报告期内，公司保持核心业务领先的同时，继续推进“转型长视频社交媒体”与“All in AI”两大战略。三季度，平台内容供给进一步扩大，内容成本结构持续优化，Non-GAAP运营利润重回盈利。 数据显示，三季度，公司实现总收入60.1亿元（人民币，下同），Non-GAAP运营利润2500万元。分业务看，会员服务收入39.7亿元，在线广告服务收入12.8亿元，内容发行收入4亿元，其他收入3.6亿元。 内容领先是…",
+"published": 1794889900.0
+},
+{
+"source": "36氪",
+"title": "小米辟谣汽车召回短信",
+"link": "https://36kr.com/newsflashes/4073329288828036?f=rss",
+"summary": "36氪获悉，小米辟谣发文称，近日，公司发现有不法分子冒充“小米汽车”发送诈骗短信，声称“小米汽车11月15日起开始召回”，要求车主尽快登录所附网址并提供相关个人信息。小米汽车不存在短信中的“11月15日起开始召回”事项，相关内容纯属虚构。此类短信也并非小米汽车官方通知。",
+"published": 1794889661.0
+},
+{
+"source": "36氪",
+"title": "中指研究院：10月重点城市二手房市场保持较高活跃度，成交量同⽐增幅有所扩⼤",
+"link": "https://36kr.com/newsflashes/4073312305288323?f=rss",
+"summary": "36氪获悉，据中指研究院消息，10月，重点城市二手房市场保持较高活跃度，成交量同⽐增幅有所扩⼤。十大城市二手房价格环比延续下跌态势。根据中国房地产指数系统百城价格指数，2026年10月，百城二手住宅均价环比下跌0.61%，同比下跌6.72%；十大城市二手住宅均价环比下跌0.66%，同比下跌6.74%。整体来看，贷款贴息政策有助于降低购房成本，推动部分购房需求加快释放，二手房市场成交活跃度有望得到一定支撑。价格方面，随着需求持续释放、市场交易保持一定规模，二手房供需关系有望逐步…",
+"published": 1794889463.0
+},
+{
+"source": "36氪",
+"title": "易方达在广东成立前沿科技公司，注册资本1亿",
+"link": "https://36kr.com/newsflashes/4073272768451718?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，易方达前沿科技（广东）有限公司成立，法定代表人为严江鹏，注册资本1亿元人民币，经营范围包括人工智能理论与算法软件开发、人工智能通用应用系统、人工智能应用软件开发等。股东信息显示，该公司由易方达基金管理有限公司全资持股。",
+"published": 1794888732.0
+},
+{
+"source": "36氪",
+"title": "习近平对人民法院工作作出重要指示",
+"link": "https://36kr.com/newsflashes/4073335140815752?f=rss",
+"summary": "中共中央总书记、国家主席、中央军委主席习近平近日对人民法院工作作出重要指示指出。习近平强调，新征程上，要全面贯彻新时代中国特色社会主义法治思想，坚持党的领导，坚持以人民为中心，坚持走中国特色社会主义法治道路，坚持依法独立公正行使审判权，深化司法体制改革，规范司法权力运行，加快建设公正高效权威的社会主义司法制度，严格落实管党治党政治责任，锻造忠诚干净担当的过硬队伍，以高质量司法更好保障高质量发展和高水平安全，持续增强人民群众对司法公正的获得感，为建设更高水平平安中国、法治中国，…",
+"published": 1794888646.0
+},
+{
+"source": "36氪",
+"title": "段永平三季度减持英伟达",
+"link": "https://36kr.com/newsflashes/4073334662648967?f=rss",
+"summary": "投资人段永平旗下H&H International Investment披露2026年三季度13F持仓文件，截至三季度末，该机构美股持仓市值约为172亿美元。三季度组合延续高集中度特征，苹果、伯克希尔B股仍为前两大重仓股，拼多多、特斯拉获明显加仓，英伟达、谷歌、苹果等科技龙头被减持，同时清仓阿里巴巴、CRCL等公司，新进SpaceX。从调仓细节来看，拼多多是三季度加仓力度最大标的，增持296.88万股，持仓占比由9.99%提高至12.69%，为组合第三大重仓股；特斯拉增持69…",
+"published": 1794888617.0
+},
+{
+"source": "36氪",
+"title": "360回应市场部负责人被带走",
+"link": "https://36kr.com/newsflashes/4073328210219907?f=rss",
+"summary": "11月16日晚，有消息人士确认，360副总裁、市场部负责人卜思南上周被警方带走调查。今日360回应表示， 公司内审发现该员工涉嫌经济问题，立即向公安机关报案，目前该员工正在接受有关部门调查。公司一贯要求全体员工严格遵守法律法规和公司制度，对贪腐及其他违法违规行为持零容忍态度，一经查实，绝不姑息。（一财）",
+"published": 1794888578.0
+},
+{
+"source": "36氪",
+"title": "创新药研发公司“CataX AI”完成4000万元种子轮融资",
+"link": "https://36kr.com/newsflashes/4073327324402822?f=rss",
+"summary": "近日，上海凯思达生物医药科技有限公司（简称“CataX AI”）宣布完成4000万元人民币种子轮融资，由启明创投孵化并独家投资。据了解，CataX AI创立于上海，是一家智能体（Agent）原生的创新药研发公司。CataX AI聚焦临床开发端，以智能体为技术底座，并由此构建“Clinical-of-One”（全栈临床）这一全新的组织范式，计划通过许可引进或共同开发，推动临床前及早期临床阶段资产完成临床概念验证（PoC）。",
+"published": 1794888169.0
+},
+{
+"source": "36氪",
+"title": "恒指午间休盘跌0.77%，恒生科技指数跌0.46%",
+"link": "https://36kr.com/newsflashes/4073327250429064?f=rss",
+"summary": "36氪获悉，恒指午间休盘跌0.77%，恒生科技指数跌0.46%；软件服务、煤炭、造纸与包装板块跌幅居前，哔哩哔哩跌超8%，兖煤澳大利亚跌超6%，嘉耀控股跌超5%；半导体、耐用消费品、纺织服装板块领涨，华虹宏力涨超9%，布鲁可涨超5%，老铺黄金涨超4%；南向资金净买入21.21亿港元。",
+"published": 1794888165.0
+},
+{
+"source": "36氪",
+"title": "商务部等9部门深入推进再生资源回收体系建设",
+"link": "https://36kr.com/newsflashes/4073324953851017?f=rss",
+"summary": "商务部、国家发展改革委、工业和信息化部等9部门近日印发的《关于深入推进再生资源回收体系建设促进回收行业高质量发展的意见》，11月17日对外发布。意见围绕推广应用典型回收模式、抓好“新三样”固废回收拆解、促进回收行业提质升级等方面提出16项重点任务。意见指导各地针对多品种综合性再生资源、大件废旧家具、废旧家电等不同品类，因地制宜选择典型回收模式加以运用。同时，对“新三样”固废回收利用作出总体部署，要求补齐动力电池回收短板，健全光电设备回收利用体系，全面畅通“设计—制造—应用—回…",
+"published": 1794888025.0
+},
+{
+"source": "36氪",
+"title": "中稀有色：对明年稀土市场行情持相对乐观态度",
+"link": "https://36kr.com/newsflashes/4073309766816646?f=rss",
+"summary": "中稀有色在2026年第三季度业绩说明会上表示，2026年在稀土供给刚性、需求稳健的行业背景下，稀土价格稳中有进，这为公司的高质量发展提供了条件。公司的核心任务是在做好自身管理的同时，抓好市场机遇，以自身经营的确定性，应对外界环境的不确定性，公司对明年稀土市场行情持相对乐观态度。（界面）",
+"published": 1794887748.0
+},
+{
+"source": "36氪",
+"title": "半日主力资金加仓电子、计算机板块",
+"link": "https://36kr.com/newsflashes/4073317014049925?f=rss",
+"summary": "主力资金早间净流入家用电子、计算机、基础化工、机械设备等板块，净流出传媒、银行、煤炭、农林牧渔等板块。具体到个股来看，有研新材、中芯国际、京东方A获净流入21.16亿元、13.38亿元、7.94亿元。净流出方面，文投控股、中国稀土、东方海洋遭抛售8.51亿元、5.37亿元、4.94亿元。（第一财经）",
+"published": 1794887540.0
+},
+{
+"source": "36氪",
+"title": "深圳前海合作区进出口首次突破万亿大关",
+"link": "https://36kr.com/newsflashes/4073274209981319?f=rss",
+"summary": "据深圳海关统计，扩区五年来，前海合作区进出口额从2021年的3780.5亿元增至2025年的7574.3亿元。今年前10个月，前海合作区进出口1.07万亿元，首次站上万亿元台阶，同比增长超七成。其中，对APEC其他经济体进出口规模占前海合作区进出口总值的七成。集成电路、电脑及其零部件、3D打印机等高价值产品是外贸增长核心支撑。目前，前海合作区已拥有超1万家制造业企业、959家规上工业企业，覆盖国民经济制造业31个大类中的28类，门类齐全、产业链完整。截至目前，累计向全国复制推…",
+"published": 1794887431.0
+},
+{
+"source": "36氪",
+"title": "习近平会见越共中央总书记、国家主席苏林",
+"link": "https://36kr.com/newsflashes/4073311405970307?f=rss",
+"summary": "11月17日上午，中共中央总书记、国家主席习近平在深圳会见来华出席亚太经合组织第三十三次领导人非正式会议的越共中央总书记、国家主席苏林。（新华社）",
+"published": 1794887198.0
+},
+{
+"source": "36氪",
+"title": "上海前10个月对APEC其他经济体进出口2.76万亿元，同比增长22.9%",
+"link": "https://36kr.com/newsflashes/4073310889431940?f=rss",
+"summary": "据上海海关统计，今年前10个月，上海对APEC其他经济体进出口规模2.76万亿元，同比增长22.9%。分贸易伙伴看，前10个月，上海对越南、韩国、新加坡进出口增速分别达88.4%、73.8%、38.7%。（澎湃）",
+"published": 1794887166.0
+},
+{
+"source": "36氪",
+"title": "华为申请注册韬定律关联商标",
+"link": "https://36kr.com/newsflashes/4073272129590408?f=rss",
+"summary": "36氪获悉，天眼查知识产权信息显示，近日，华为技术有限公司申请注册“τCHIP”“τECO”“τEDA”商标，国际分类涉及科学仪器、材料加工等，当前状态均为等待实质审查。该公司成立于1987年9月，法定代表人为赵明路，注册资本约411.4亿人民币，经营范围包括信息系统设计、集成、运行维护等，由华为投资控股有限公司全资持股。 据媒体报道，今年5月，该公司在上海举办的电气电子工程师学会国际电路与系统研讨会上正式提出韬(τ)定律。",
+"published": 1794887010.0
+},
+{
+"source": "36氪",
+"title": "A股三大指数午间休盘涨跌不一，半导体板块领涨",
+"link": "https://36kr.com/newsflashes/4073298484221065?f=rss",
+"summary": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指跌0.01%，深成指涨0.69%，创业板指涨0.72%；半导体、电脑硬件、电子元器件板块领涨，影石创新涨超15%，华虹宏力涨超14%，安克创新涨超6%，文化传媒、媒体、石油天然气板块跌幅居前，横店影视跌停，郑州煤电跌超8%，和顺石油跌超4%。",
+"published": 1794886409.0
+},
+{
+"source": "爱范儿",
+"title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
+"link": "https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "一人犯错，全员受罚。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794885728.0
+},
+{
+"source": "36氪",
+"title": "前安克CMO创办的AI可穿戴硬件再获新融资，产品已量产｜硬氪首发",
+"link": "https://36kr.com/p/4072342767047814?f=rss",
+"summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI Memory智能硬件公司「穗升科技」近日完成数千万元Pre-A轮融资，本轮由NexTide Capital、阿尔法公社投资。资金将重点投入长期记忆引擎、主动式Agent的体验优化，拓展家庭、团队场景，推进硬件量产交付，并搭建海外渠道、完善本地化交付能力。 穗升科技成立于2025年，旗下品牌Memoket以可穿戴硬件为入口，结合自研底层长记忆引擎，提供能够理解用户前情、主动与用户交互的Personal Agent。首款硬件Gem贴合用户…",
+"published": 1794884400.0
+},
+{
+"source": "少数派",
+"title": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
+"link": "https://sspai.com/post/118442",
+"summary": "当外部的限制开始逐渐渗透、内化到每个人的内心，另一种真正的「可能性」在现今尤为珍贵。查看全文",
+"published": 1794884391.0
+},
+{
+"source": "36氪",
+"title": "36氪创意项目征集赛 · 第二期正式开启！",
+"link": "https://36kr.com/p/4073250329318534?f=rss",
+"summary": "创意项目征集赛第二期正式开启！ 36氪创意项目征集赛第二期正式启动！ 本期继续面向不同领域、不同发展阶段的创业项目及创新创意开放征集，通过项目报道、公开展示和大众投票，让更多有价值的想法走到台前。 无论你正在打磨一款产品、探索一种新的商业模式，还是已经组建团队并开始落地实践，都可以来参与。 入选项目将有机会角逐「创意项目TOP10」，获得36氪专访、榜单推荐及多渠道曝光，让项目获得更多展示机会。 一、什么样的项目值得报名？ 不设赛道限制，期待更多有意思的创意。 无论是AI、机…",
+"published": 1794884116.0
+},
+{
+"source": "爱范儿",
+"title": "微软全球大宕机，AI 怎么又成了背锅侠",
+"link": "https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "微软宕机与美国航班停飞，背后都是 AI 失控吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794882230.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日",
+"link": "https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元 · 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用 · 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794874730.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨DeepSeek因算力不足限额；英伟达董事会没考虑让黄仁勋回公司担任CEO；AI演员代言美瞳广告被罚6.82万",
+"link": "https://36kr.com/p/4073099271230601?f=rss",
+"summary": "今日热点导览 阿里正式发布Qwen4，智能体及编程能力进阶 金饰价格连跌5个交易日，盘中跌破3900美元/盎司 三星将为SpaceX生产卫星芯片，目标2030年投入运行 大麦娱乐：因专注发展个人事业，樊路远辞任董事会主席及首席执行官 英伟达AI算力合约份额下跌，英伟达GPU占比仅39% TOP3大新闻 因算力不足，DeepSeek对App/网页版限额使用 DeepSeek对App/网页版的长对话进行了限额使用。多名用户反馈，DeepSeek提示因“算力不足，不再支持超过7天不…",
+"published": 1794874261.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Open AI hit with lawsuit in California over Hugging Face rogue agent incident",
+"link": "https://siliconangle.com/2026/11/16/open-ai-hit-with-lawsuit-in-california-over-hugging-face-rogue-agent-incident/",
+"summary": "California Attorney General Rob Bonta today announced the state has launched a lawsuit against OpenAI Group PBC after the company’s AI agents earlier this year went rogue and hacked the open-source AI platform Hugging Face Inc. The 31-page …",
+"published": 1794880565.0
+},
+{
+"source": "SiliconANGLE",
+"title": "At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries",
+"link": "https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/",
+"summary": "Nvidia Corp. today introduced a set of offerings designed to speed up scientific research across a range of fields. The lineup is headlined by Rubin HPC, an upcoming graphics card with significantly more cores than the company’s current fla…",
+"published": 1794879914.0
+}
+]
+}
+}

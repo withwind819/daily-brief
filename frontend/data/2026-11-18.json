@@ -1,0 +1,285 @@
+{
+"date": "2026-11-18",
+"total": 39,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+"link": "https://www.infoq.cn/article/uGTol3TSzOV72NSrcBrB?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794999600.0
+},
+{
+"source": "InfoQ 中国",
+"title": "代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+"link": "https://www.infoq.cn/article/eqUZMBIWrmaH7XxbfGro?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794996000.0
+},
+{
+"source": "InfoQ 中国",
+"title": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+"link": "https://www.infoq.cn/article/lMs1bM1muspglUjMr1l3?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1794988800.0
+},
+{
+"source": "量子位",
+"title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+"link": "https://www.qbitai.com/2026/11/510737.html",
+"summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+"published": 1794970163.0
+},
+{
+"source": "量子位",
+"title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+"link": "https://www.qbitai.com/2026/11/510726.html",
+"summary": "英伟达公布了老黄离职后的首份财报",
+"published": 1794963822.0
+},
+{
+"source": "量子位",
+"title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+"link": "https://www.qbitai.com/2026/11/510707.html",
+"summary": "Sol逼近旗舰性能",
+"published": 1794962954.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "远景动力46120大圆柱电芯累计交付1000万颗",
+"link": "https://36kr.com/newsflashes/4074733950260103?f=rss",
+"summary": "36氪获悉，近日，远景动力46120大圆柱电芯累计交付突破1000万颗。该产品目前主要由其河北沧州、江苏江阴两大生产基地规模化量产。公开信息显示，远景动力46120电芯采用46毫米直径、120毫米高度设计，将配套宝马全新纯电iX5 等车型。",
+"published": 1794974023.0
+},
+{
+"source": "36氪",
+"title": "半日主力资金加仓计算机板块，抛售有色金属、传媒板块",
+"link": "https://36kr.com/newsflashes/4074722799572098?f=rss",
+"summary": "主力资金早间净流入计算机、通信、电子、交通运输、机械设备等板块，净流出有色金属、传媒、医药生物、非银金融、商贸零售等板块。具体到个股来看，联合化学、北纬科技、华工科技获净流入7.99亿元、7.92亿元、7.87亿元。净流出方面，紫金矿业、药明康德、源杰科技遭抛售4.97亿元、4.60亿元、3.85亿元。（证券时报）",
+"published": 1794973931.0
+},
+{
+"source": "36氪",
+"title": "协创数据：374.9亿元的算力云服务协议中拟投入的服务器均为境内合规服务器",
+"link": "https://36kr.com/newsflashes/4074730442609800?f=rss",
+"summary": "36氪获悉，协创数据公告，2026年10月，公司全资子公司协创智算科技(深圳)有限公司与客户公司签署预计总金额不超过人民币374.9亿元的算力云服务协议，协议已正式生效。截至公告披露日，公司已向合格供应商下达对应服务器设备的正式采购订单，供应商已书面确认设备排产计划及交付周期。经公司核查，本协议项下拟投入的服务器均为境内合规服务器。相关服务器不涉及以境外云算力资源作为本项目履约来源的情况。",
+"published": 1794973809.0
+},
+{
+"source": "爱范儿",
+"title": "曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰",
+"link": "https://www.ifanr.com/1690064?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "Rimac 已经拿到了大结果。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794973219.0
+},
+{
+"source": "36氪",
+"title": "亿纬锂能首发AIDC全场景储能解决方案，构筑AI能源底座",
+"link": "https://36kr.com/newsflashes/4074714789155716?f=rss",
+"summary": "当地时间11月17日，亿纬锂能在RE+2026发布AIDC全场景储能解决方案，覆盖源网侧、配电侧和机架侧。包括20尺5MWh 1P高功率储能系统、调频专用电芯、6.9MWh储能系统、超高倍率BBU+CBU、磐盾6C/10C备电柜和混合超级电容器。该公司称，将以全场景方案构筑AI时代的能源底座。",
+"published": 1794972853.0
+},
+{
+"source": "36氪",
+"title": "A股三大指数午间休集体下跌，算力租赁概念走强",
+"link": "https://36kr.com/newsflashes/4074713617535876?f=rss",
+"summary": "36氪获悉，A股三大指数午间休集体下跌，沪指跌0.4%，深成指跌0.75%，创业板跌0.58%；家电板块领涨，长虹美菱、澳柯玛、四川长虹等多股涨停；算力租赁概念走强，青云科技涨超10%，真视通、润健股份、常山北明等多股涨停；文化传媒板块跌幅居前，文投控股、横店影视、慈文传媒等多股跌停。",
+"published": 1794972782.0
+},
+{
+"source": "36氪",
+"title": "千问办公电商版向所有商家开放，推出“品牌知识库”",
+"link": "https://36kr.com/newsflashes/4074691768439938?f=rss",
+"summary": "36氪获悉，11月18日，千问办公电商版推出全新“品牌知识库”功能。商家在千问办公网页端切换至“电商经营”模式，上传网店链接、过往图片和设计规范等品牌资料后，千问办公就能理解品牌风格，在生成图片、视频和文案时统一品牌调性，用得越多越懂品牌。",
+"published": 1794971806.0
+},
+{
+"source": "36氪",
+"title": "中石化在重庆成立油气勘探开发公司，注册资本1亿",
+"link": "https://36kr.com/newsflashes/4074687860069252?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，重庆渝星油气勘探开发有限公司成立，法定代表人为李芝力，注册资本1亿元人民币，经营范围包括陆地石油和天然气开采、矿产资源勘查、燃气经营等。股东信息显示，该公司由中国石油化工股份有限公司全资持股。",
+"published": 1794971566.0
+},
+{
+"source": "36氪",
+"title": "习近平会见韩国总统李在明",
+"link": "https://36kr.com/newsflashes/4074685674607753?f=rss",
+"summary": "11月18日上午，国家主席习近平在深圳会见来华出席亚太经合组织领导人非正式会议的韩国总统李在明。（央视新闻）",
+"published": 1794971076.0
+},
+{
+"source": "36氪",
+"title": "“耀速科技”完成新一轮数千万元战略融资",
+"link": "https://36kr.com/newsflashes/4074671426442376?f=rss",
+"summary": "36氪获悉，近日，“耀速科技”（Xellar）宣布完成新一轮数千万元战略融资，本轮融资获得上海国投先导，石药国方基金等相关投资主体支持。本轮融资将重点用于“3D Bio Intelligence（3D生物智能）”平台的持续建设，深化器官芯片、人工智能与自动化实验技术的融合，加速高质量人源化生物数据积累、生物机制解析及AI模型能力建设，推动面向下一代药物研发的生物智能基础设施持续升级。",
+"published": 1794970207.0
+},
+{
+"source": "36氪",
+"title": "习近平：“十五五”规划是中国面向全球工商界发出的合作邀约",
+"link": "https://36kr.com/newsflashes/4074658316882823?f=rss",
+"summary": "11月18日上午，国家主席习近平在深圳出席2026年亚太经合组织工商领导人峰会开幕式并发表主旨演讲。习近平指出，中国“十五五”规划既是自身的发展蓝图，也为亚太乃至全球经济增长提供机遇清单，是中国面向全球工商界发出的合作邀约。中国将为全球工商界提供超大规模的开放市场，中国正在加快建设开放大市场，扩大优质产品和服务进口，将不断催生多样化新需求。中国将为全球工商界提供互促共进的合作环境。面对单边主义、保护主义冲击，中国始终践行真正的多边主义，坚定维护多边贸易体制，维护世贸组织规则，…",
+"published": 1794969407.0
+},
+{
+"source": "36氪",
+"title": "习近平：坚定信心、勇毅前行，促进亚太共同繁荣",
+"link": "https://36kr.com/newsflashes/4074657314772105?f=rss",
+"summary": "11月18日上午，国家主席习近平在深圳出席2026年亚太经合组织工商领导人峰会开幕式并发表主旨演讲。他指出，亚太经合组织伴随经济全球化浪潮而生，推动亚太地区引领时代风气之先。中国愿同各方一道，坚定信心、勇毅前行，携手建设亚太共同体，促进亚太共同繁荣。（央视新闻）",
+"published": 1794969345.0
+},
+{
+"source": "36氪",
+"title": "习近平将会见韩国总统李在明",
+"link": "https://36kr.com/newsflashes/4074656181081220?f=rss",
+"summary": "11月18日上午，国家主席习近平将在深圳会见来华出席亚太经合组织第三十三次领导人非正式会议的韩国总统李在明。（央视新闻）",
+"published": 1794969276.0
+},
+{
+"source": "36氪",
+"title": "墨西哥称在海滩收集到疑似SpaceX星舰助推器碎片",
+"link": "https://36kr.com/newsflashes/4074645661406345?f=rss",
+"summary": "墨西哥称收集了2公斤冲上塔毛利帕斯州海滩的碎片，这些碎片可能与SpaceX于11月13日从德克萨斯州发射的星舰有关。星舰助推器在未能返回基地重新使用之前坠入大海。（新浪财经）",
+"published": 1794969047.0
+},
+{
+"source": "少数派",
+"title": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
+"link": "https://sspai.com/post/118975",
+"summary": "想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。查看全文",
+"published": 1794969000.0
+},
+{
+"source": "36氪",
+"title": "习近平：中方支持成立世界湾区经济合作联盟",
+"link": "https://36kr.com/newsflashes/4074651545916553?f=rss",
+"summary": "11月18日上午，国家主席习近平在深圳出席2026年亚太经合组织工商领导人峰会开幕式并发表主旨演讲。习近平指出，亚太地区汇集了世界上最重要的湾区，湾区经济具有鲜明的开放性、协同性、外溢性。深圳就位于粤港澳大湾区。中方支持成立世界湾区经济合作联盟，深化各湾区交流互动，探索亚太经济合作新路径。（新华社）",
+"published": 1794968993.0
+},
+{
+"source": "36氪",
+"title": "腾讯申请注册元宝搜索商标",
+"link": "https://36kr.com/newsflashes/4074640230339462?f=rss",
+"summary": "36氪获悉，天眼查知识产权信息显示，近日，腾讯科技（深圳）有限公司申请注册“元宝搜索”商标，国际分类涉及网站服务、科学仪器，当前状态均为等待实质审查。该公司成立于2000年2月，法定代表人为马化腾，注册资本200万美元，经营范围包括从事计算机软硬件的技术开发、销售自行开发的软件等，由中霸集团有限公司全资持股。11月11日，腾讯全新搜索产品元宝搜索正式上线。",
+"published": 1794968720.0
+},
+{
+"source": "36氪",
+"title": "物理AI数据基座服务商“柏川数据”完成5000元 Pre-A轮融资",
+"link": "https://36kr.com/newsflashes/4074640638628998?f=rss",
+"summary": "36氪获悉，物理AI数据基座服务商“柏川数据”（ByteTree）宣布完成5000万元Pre-A轮融资，投资方包含元禾厚望、毅峰资本，以及星海图在内的2家具身智能产业方。本轮融资资金将用于物理AI数据管线建设、具身智能算法研发、高质量数据集构建，以及特殊场景机器人的研发与应用。",
+"published": 1794968328.0
+},
+{
+"source": "36氪",
+"title": "盒马在湖州成立涓达网络科技公司，注册资本1000万",
+"link": "https://36kr.com/newsflashes/4074612400903296?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，湖州涓达网络科技有限公司成立，法定代表人为巩硕，注册资本1000万元人民币，经营范围含互联网销售、农副产品销售、食用农产品零售等。股东信息显示，该公司由盒马（中国）有限公司全资持股。",
+"published": 1794967739.0
+},
+{
+"source": "36氪",
+"title": "现货黄金失守3800美元关口",
+"link": "https://36kr.com/newsflashes/4074630517478275?f=rss",
+"summary": "36氪获悉，现货黄金跌破3800美元/盎司关口，为2025年9月30日以来首次，日内跌幅达1.2%。",
+"published": 1794967710.0
+},
+{
+"source": "36氪",
+"title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+"link": "https://36kr.com/newsflashes/4074623465772160?f=rss",
+"summary": "11月18日上午，国家主席习近平在深圳前海国际会议中心出席2026年亚太经合组织工商领导人峰会开幕式并发表主旨演讲。（央视新闻）",
+"published": 1794967279.0
+},
+{
+"source": "36氪",
+"title": "英伟达供应链采购承诺升至3900亿美元",
+"link": "https://36kr.com/newsflashes/4074612875236483?f=rss",
+"summary": "英伟达临时CEO兼CFO Colette Kress在2027财年第三季度业绩电话会上表示，第三季度采购承诺金额增至3900亿美元，高于上一季度的2790亿美元，同时英伟达的数据中心租赁及云服务承诺合计达到1020亿美元，主要由长期数据中心租赁承诺推动。英伟达正与合作伙伴加快晶圆、基板和先进封装等关键环节的产能扩张。业绩会上Colette Kress宣布，与景硕科技、三星电机在基板领域达成新协议，并与矽品精密在先进封装领域达成合作。上述合作是对英伟达10月与Amkor、揖斐电…",
+"published": 1794967253.0
+},
+{
+"source": "TechCrunch",
+"title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+"link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+"summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+"published": 1794966261.0
+},
+{
+"source": "36氪",
+"title": "硬氪首发丨玻璃基板装备企业获近亿元融资，英诺基金连续三轮加注",
+"link": "https://36kr.com/p/4074564838659207?f=rss",
+"summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，玻璃基板装备企业「深微芯创」连续完成三轮融资，累计近亿元。投资方包括深产投及老股东英诺基金等。其中，英诺基金连投三轮。本轮融资将主要用于核心装备研发、市场拓展及团队建设。 「深微芯创」成立于2026年，主要面向先进封装和光电融合领域，提供玻璃基板加工关键装备、核心工艺及成套技术方案。 公司创始人肖文博士拥有新加坡国立大学材料科学与工程博士学位，此前曾任全球半导体设备龙头企业产品技术负责人，并深度参与全球首条玻璃基板生产线建设，深度…",
+"published": 1794963761.0
+},
+{
+"source": "36氪",
+"title": "英伟达季度营收破千亿美金，但昨日的世界已经远去",
+"link": "https://36kr.com/p/4074562529645445?f=rss",
+"summary": "作者 | 邱晓芬 编辑 | 袁斯来 在黄仁勋离职卷起的风暴眼中，英伟达交出了近年来可能最受瞩目的财报。 北京时间11月18日凌晨，英伟达发布2027财年第三季度财报。这是原CFO Colette Kress接任临时CEO以来，英伟达的首份成绩单。 财报数据显示，英伟达第三季度营收达到1158亿美元，同比增长103%；净利润达到653亿美元，同比增长105%，双双创下历史新高。其中，数据中心业务营收达到1076亿美元，同比增长110%，占总营收的93%。 其中，按照客户总部所在…",
+"published": 1794963676.0
+},
+{
+"source": "少数派",
+"title": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
+"link": "https://sspai.com/post/119210",
+"summary": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。查看全文",
+"published": 1794962763.0
+},
+{
+"source": "爱范儿",
+"title": "黄仁勋官宣愿意回归，英伟达董事会：不考虑！",
+"link": "https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "出走容易，回归难#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794962396.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权",
+"link": "https://www.ifanr.com/1689915?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 英伟达季度营收首次突破千亿美元，数据中心收入增长 110% · TGA 2026 公布提名，《GTA 6》领跑、《影之刃零》角逐年度游戏 · macOS 27.3 收紧 App 文件访问权限#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1794961969.0
+},
+{
+"source": "TechCrunch",
+"title": "Nvidia promises that revenue will keep soaring — for now",
+"link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+"summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+"published": 1794961010.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨李飞飞率World Labs正式加入AMD，苏姿丰主导庆祝仪式；360集团副总裁涉及大额贪腐被警方带走调查；高盛预测金价2年后才能重回高位",
+"link": "https://36kr.com/p/4074508571104132?f=rss",
+"summary": "今日热点导览 李飞飞率World Labs正式加入AMD，苏姿丰主导庆祝仪式 京东集团：第三季度营收3096亿元，同比增长3.5% OPPO Reno17系列正式发布 Siri AI每日限额，订阅后可获得最高20倍的额外使用额度 红果短剧有望推电视端App TOP 3大新闻 黄仁勋公开表态：愿意重新执掌英伟达 英伟达前首席执行官黄仁勋发表了辞职后的首份公开声明。他表示，如果董事会允许，他愿意再次执掌该公司。“自我离职以来，我听到了大量来自英伟达员工、投资者、商业伙伴和客户的呼…",
+"published": 1794960294.0
+},
+{
+"source": "TechCrunch",
+"title": "Stripe backer Atomico calls for Europe to own its success stories",
+"link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+"summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+"published": 1794960060.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Brain implant technology startup Science Corp. raises $400M to bring its medical devices to market",
+"link": "https://siliconangle.com/2026/11/17/brain-implant-technology-startup-science-corp-raises-400m-to-bring-its-medical-devices-to-market/",
+"summary": "Brain-computer interface company Science Corp. today revealed it has raised $400 million in a late-stage round of funding that brings its valuation to $3.5 billion. The Series D round, announced in a blog post today, was led by high-profile…",
+"published": 1794967092.0
+},
+{
+"source": "SiliconANGLE",
+"title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+"link": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+"summary": "Genesis AI SAS today announced that it has raised $500 million in funding from a group of prominent investors. Premji Invest, Khosla Ventures and Eclipse led the Series A round. They were joined by the venture capital arms of Nvidia Corp., …",
+"published": 1794965373.0
+}
+]
+}
+}

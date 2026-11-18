@@ -1,6 +1,6 @@
 {
 "date": "2026-11-09",
-"total": 147,
+"total": 148,
 "categories": {
 "AI": [
 {
@@ -289,6 +289,13 @@
 "link": "https://www.infoq.cn/article/YZx670AAiudsqZjx3UNo?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1794182880.0
+},
+{
+"source": "OpenAI 博客",
+"title": "How VistaPrint helps small businesses get the word out",
+"link": "https://openai.com/ads/customers/vistaprint",
+"summary": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word …",
+"published": 1794182400.0
 }
 ],
 "科技": [

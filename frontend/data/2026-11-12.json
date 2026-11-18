@@ -1,6 +1,6 @@
 {
 "date": "2026-11-12",
-"total": 150,
+"total": 151,
 "categories": {
 "AI": [
 {
@@ -246,6 +246,13 @@
 "title": "Supporting research on AI and children’s safety",
 "link": "https://openai.com/index/children-first-declaration",
 "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+"published": 1794441600.0
+},
+{
+"source": "OpenAI 博客",
+"title": "ChatGPT Ads increases its market presence in 44 countries",
+"link": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+"summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
 "published": 1794441600.0
 }
 ],

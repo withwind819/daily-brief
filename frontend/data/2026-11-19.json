@@ -1,0 +1,313 @@
+{
+"date": "2026-11-19",
+"total": 43,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功",
+"link": "https://www.infoq.cn/article/aYOP1HZW5bbdhSmzSuaP?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795086000.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
+"link": "https://www.infoq.cn/article/eO0w7sdaGClvppFqwt5j?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795086000.0
+},
+{
+"source": "InfoQ 中国",
+"title": "微软将停用 Azure 部署环境，而且不会推出替代产品",
+"link": "https://www.infoq.cn/article/UEZ4CPEr1vyESW6z647r?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795082400.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从可用到好用：Agent 的观测、评估与持续优化｜AICon北京",
+"link": "https://www.infoq.cn/article/u8eHrtbbchlNRkP94ALh?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795082400.0
+},
+{
+"source": "量子位",
+"title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+"link": "https://www.qbitai.com/2026/11/511071.html",
+"summary": "语言模型单张3090卡即可运行",
+"published": 1795057305.0
+},
+{
+"source": "量子位",
+"title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+"link": "https://www.qbitai.com/2026/11/510947.html",
+"summary": "国产AI工具实现「一个人就是一个剧组」",
+"published": 1795048000.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "半日主力资金加仓电子板块，抛售计算机、传媒板块",
+"link": "https://36kr.com/newsflashes/4076148021171078?f=rss",
+"summary": "主力资金早间净流入电子、食品饮料、家用电器、公用事业等板块，净流出计算机、传媒、银行、农林牧渔等板块。具体到个股来看，华东重机、中芯国际、襄阳轴承获净流入15.15亿元、12.69亿元、7.74亿元。净流出方面，海光信息、中科曙光、紫光股份遭抛售8.48亿元、5.31亿元、5.28亿元。（第一财经）",
+"published": 1795060331.0
+},
+{
+"source": "36氪",
+"title": "谷歌推出Gemini 4 Neon模型",
+"link": "https://36kr.com/newsflashes/4076129189287046?f=rss",
+"summary": "谷歌正式推出Gemini 4 Neon。据介绍，企业日常业务高度依赖电子表格、PDF文档、图表及音视频资料。Neon能够在单个100万token上下文窗口内同步处理各类异构数据，并将其整合为结构化交付物。该模型定价为每百万输入token 3美元（缓存输入token享0.5折优惠，仅需0.15美元/百万），每百万输出token 15美元。（界面）",
+"published": 1795060064.0
+},
+{
+"source": "36氪",
+"title": "瑞斯康达：算力DCI产品正开展客户测试验证及市场投放",
+"link": "https://36kr.com/newsflashes/4076114315760772?f=rss",
+"summary": "瑞斯康达在2026年第三季度业绩说明会上表示，运营商集采方面，公司订单落地节奏随集采周期、项目实施安排有所波动。电力、油气等行业领域，公司稳步推进客户拓展与试点落地，持续挖掘行业需求。算力DCI相关产品正有序开展客户测试验证及市场投放，放量节奏取决于客户场景落地进度。（证券时报）",
+"published": 1795059640.0
+},
+{
+"source": "36氪",
+"title": "聚焦个人知识与成长领域，「Akasi」要做更垂直的Personal Agent｜早期项目",
+"link": "https://36kr.com/p/4075055709508740?f=rss",
+"summary": "毋庸置疑，PA（Personal Agent，个人智能体）已经是当下最热闹的AI产品方向。 2026年9月，Meta 发布 Muse，希望它能主动替用户处理邮件、安排旅行、推进长期目标；10月，国内的 Today AI 宣布累计融资超过 2 亿美元。能记住一个人、持续替他办事的 AI，吸引了大公司和创业者同时入场。 但 PA 还远未收敛成一种固定的产品形态。替人订票、购物、管理日程的个人助手，是目前最容易被看见的一种。更广泛的探索还包括如何帮助一个人学习、创作、理解自己，以及…",
+"published": 1795059621.0
+},
+{
+"source": "36氪",
+"title": "A股三大指数午间休盘集体下跌，电脑硬件板块领跌",
+"link": "https://36kr.com/newsflashes/4076128037000070?f=rss",
+"summary": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.44%，深成指跌0.51%，创业板指跌0.63%；电脑硬件、贵金属、互联网板块领跌，中科曙光跌超9%，润泽科技跌超8%，紫金矿业跌超4%；软饮料、航空、工程机械板块涨幅居前，原尚股份涨停，三一重工、东鹏饮料涨超1%。",
+"published": 1795059111.0
+},
+{
+"source": "36氪",
+"title": "“原力无限INFIFORCE”完成数千万元Pre-B轮融资",
+"link": "https://36kr.com/newsflashes/4076104296420484?f=rss",
+"summary": "36氪获悉，具身大脑企业“原力无限INFIFORCE”近日完成数千万元Pre-B轮融资，由杭州市属国有资本投资运营平台杭州资本独家投资。资金将重点投向具身大脑AtomBrain的技术研发，持续深耕真实落地场景，推进产品工程化打磨与规模化产业化落地。",
+"published": 1795058674.0
+},
+{
+"source": "36氪",
+"title": "机构：手游《明日方舟》累计海外收入超10亿美元",
+"link": "https://36kr.com/newsflashes/4076095838475136?f=rss",
+"summary": "36氪获悉，Sensor Tower发布2026年10月中国手游海外市场收入及下载量排行榜。榜单显示，10月，《Gossip Harbor》、《明日方舟》、《鸣潮》位列中国手游海外收入增长榜前三，其中《Gossip Harbor》海外收入再创新高，自今年2月以来连续9个月蝉联中国手游出海收入榜冠军。根据Sensor Tower数据，自2020年海外上线以来，《明日方舟》累计海外收入突破10亿美元。",
+"published": 1795058274.0
+},
+{
+"source": "36氪",
+"title": "现货黄金失守3700美元关口",
+"link": "https://36kr.com/newsflashes/4076107143467907?f=rss",
+"summary": "36氪获悉，现货黄金跌破3700美元关口，为去年9月以来新低，跌幅1.1%。",
+"published": 1795057836.0
+},
+{
+"source": "36氪",
+"title": "中国铝业旗下西南铝业集团增资至42.2亿，增幅111%",
+"link": "https://36kr.com/newsflashes/4076074812396421?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，西南铝业（集团）有限责任公司发生工商变更，注册资本由20亿元人民币增至42.2亿元人民币，增幅111%。该公司成立于1982年2月，法定代表人为李响，经营范围包括铝及铝合金、镁合金、钛合金、高温合金以及铝基复合材料等金属材料的生产和销售等，由中国铝业集团高端制造股份有限公司全资持股。",
+"published": 1795057770.0
+},
+{
+"source": "36氪",
+"title": "三大指数均跌超1%",
+"link": "https://36kr.com/newsflashes/4076105173619846?f=rss",
+"summary": "36氪获悉，三大指数均跌超1%，AI漫剧、家电、游戏、光伏等板块跌幅居前，沪深京三市下跌个股超5000只。",
+"published": 1795057716.0
+},
+{
+"source": "36氪",
+"title": "韩国投资者9月净买入102亿美元美股，为4月以来最多",
+"link": "https://36kr.com/newsflashes/4076065711297670?f=rss",
+"summary": "韩国投资者9月份空前买入美国国债，与今年早些时候大举抛售美债相比出现明显逆转。美国财政部的数据显示，韩国投资者当月净买入115亿美元美国国债，为1977年有数据以来最高。今年前九个月，韩国投资者有七个月净卖出美债，其中2月份的净卖出规模创纪录。韩国投资者9月还增加了对美国股票的配置。随着科技股在夏季过后继续反弹，韩国投资者当月净买入102亿美元美股，为4月以来最多。韩国投资者的买入与整体趋势背道而驰。外国投资者持有的美国国债规模在9月份下降755亿美元，至一年最低9.24万亿…",
+"published": 1795057219.0
+},
+{
+"source": "爱范儿",
+"title": "刚拒绝黄仁勋回归，英伟达官宣全员加薪，热门接班人曝光",
+"link": "https://www.ifanr.com/1690288?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "英伟达何去何从#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795057165.0
+},
+{
+"source": "36氪",
+"title": "从传统外贸到自有品牌：一家温岭工厂的出海转向",
+"link": "https://36kr.com/p/4076034642924416?f=rss",
+"summary": "用热泵替代老式锅炉取暖在国内早已不是新鲜事，但却是世界许多地方正在悄然发生的改变。2025年欧洲热泵销量增长甚至达到两位数。 在浙江温岭，贴着「鑫磊」标识的空气动力设备与暖通空调产品正陆续发往东南亚、中东与欧洲市场。 作为一家国家级专精特新“小巨人”企业，鑫磊的业务覆盖空气压缩机、鼓风机、真空泵和暖通空调设备等产品。2025年，暖通空调设备收入同比增长24.75%，是公司主要增长板块之一。 1996年创办以来，鑫磊长期以贴牌代工为主，产品销往欧美与东南亚；近年鑫磊开始向海外推…",
+"published": 1795056958.0
+},
+{
+"source": "36氪",
+"title": "我国16座水库进行“三个大坝”建设试点",
+"link": "https://36kr.com/newsflashes/4076090345673600?f=rss",
+"summary": "从水利部了解到，目前，我国选取三峡、小浪底、安徽佛子岭等16座覆盖不同年代、不同坝型的代表性水库，全面开展安全大坝、生态大坝、智能大坝建设试点。2027年底前完成试点建设，形成一批可复制、可推广的技术方案和管理模式，全面提升我国水库大坝现代化建设运行管理能力。（央视新闻）",
+"published": 1795056811.0
+},
+{
+"source": "36氪",
+"title": "日本央行行长称将根据经济和物价前景决定加息步伐",
+"link": "https://36kr.com/newsflashes/4076064903336834?f=rss",
+"summary": "日本央行行长植田和男表示，将在评估经济和物价前景风险的同时，考虑加息的时机和步伐。他表示，要将核心通胀率稳定在2%左右，以免价格失控。需要关注中东局势、人工智能相关需求和外汇情况。（新浪财经）",
+"published": 1795056747.0
+},
+{
+"source": "36氪",
+"title": "撕开欧美中高端健身器材缺口，浙江跑出健身器材全球化黑马",
+"link": "https://36kr.com/p/4076016687617157?f=rss",
+"summary": "过去三十年，全球家庭健身的话语权一直握在欧美品牌手中，从硬件、内容、到软件乃至AI的创新叙事，主场都在太平洋彼岸。中国虽然是全球最大的健身器材制造国，却始终只有工厂、没有品牌。 美国智能健身品牌Peloton市值一度自高位大幅回撤，使主流叙事判定“家庭健身”只是疫情催生的短暂泡沫，也让一些后起的新兴品牌抓住市场机会，来自杭州的健身品牌「麦瑞克」在海外实现逆势生长：2021年启动出海，近两年海外销售额复合增长率约75%。 今年麦瑞克在亚马逊美国站动感单车、划船机、椭圆机三大类目…",
+"published": 1795056637.0
+},
+{
+"source": "36氪",
+"title": "国家网络安全通报中心发布JAVA远程代码执行高危漏洞预警",
+"link": "https://36kr.com/newsflashes/4076085864403843?f=rss",
+"summary": "36氪获悉，国家网络安全通报中心发布JAVA远程代码执行高危漏洞预警：11月17日，境外安全研究机构Calif披露了名为Java4Shell的高危漏洞（CVE-2026-114938），该漏洞存在于OpenJDK Base64解码路径中，当攻击者向Java应用提交特制的Base64数据时，可触发堆内存越界写入，造成敏感信息泄露甚至远程代码执行，Oracle已紧急发布修复版本。该漏洞影响范围广，大量暴露于互联网的Java应用，极易成为网络攻击的重点目标。",
+"published": 1795056537.0
+},
+{
+"source": "36氪",
+"title": "迈得医疗：药械组合类装备正面向医美、减重注射笔等开拓客户",
+"link": "https://36kr.com/newsflashes/4076079882278018?f=rss",
+"summary": "迈得医疗在2026年第三季度业绩说明会上表示，公司药械组合类装备以定制化非标设备为主，公司正在面向生物药、医美、减重注射笔、预灌封方向持续开拓客户，已有客户进入商务对接，最终以双方签订的正式合同为准。同时公司积极推进国际化布局，持续挖掘海外耗材厂商需求，稳步拓展海外市场。（界面）",
+"published": 1795056172.0
+},
+{
+"source": "36氪",
+"title": "恒实科技等在沈阳成立卫星技术公司,注册资本1000万",
+"link": "https://36kr.com/newsflashes/4076063999366272?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，恒泰实达（辽宁）卫星技术有限公司成立，法定代表人为郑峰，注册资本1000万元人民币，经营范围包括卫星技术综合应用系统集成、卫星通信服务、卫星遥感数据处理等。股东信息显示，该公司由北京恒泰实达科技股份有限公司、德纵（北京）科技合伙企业（有限合伙）分别持股51%、49%。",
+"published": 1795056092.0
+},
+{
+"source": "36氪",
+"title": "工信部：启动新一批“5G+工业互联网”融合应用试点，加强6G与工业融合的前瞻研究",
+"link": "https://36kr.com/newsflashes/4076073754825864?f=rss",
+"summary": "工业和信息化部总经济师高东升在2026中国5G+工业互联网大会上表示，当前以人工智能为代表的新一代信息技术，加速赋能行业深度融合，对工业互联网、网络互联、数据质量、平台建设提出了新的要求。对此，工信部将坚持系统布局，优化工业互联网新架构，深化迭代支撑“人工智能+制造”的新型工业互联网体系架构，巩固网联基础，突出智联能力，布局一批重大工程、重点项目，加强政策、基础设施、应用生态协同推进。同时，夯实新一代智能制造新结构，深入实施智能工厂梯度培育行动，支持领军企业建设，有序开展工业…",
+"published": 1795055798.0
+},
+{
+"source": "36氪",
+"title": "金饰克价跌至1125元",
+"link": "https://36kr.com/newsflashes/4076062681469831?f=rss",
+"summary": "国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所调整，老庙黄金报价1125元/克，较昨日跌25元；周大福报价1132元/克，较昨日跌19元；老凤祥报价1132元/克，较昨日跌18元。（界面）",
+"published": 1795055654.0
+},
+{
+"source": "36氪",
+"title": "奥尔特曼：OpenAI也计划上市，很难想象没有黄仁勋的AI行业",
+"link": "https://36kr.com/newsflashes/4076058187584388?f=rss",
+"summary": "随着竞争对手Anthropic即将上市，OpenAI首席执行官兼联合创始人奥尔特曼周三表示，OpenAI也在继续推进自身的IPO计划。“我们计划上市，”奥尔特曼在DealBook峰会上表示，并补充说“有许多理由表明这是正确的决定”。当被问及英伟达创始人兼前首席执行官黄仁勋的离职时，奥尔特曼称，“很难想象没有黄仁勋的人工智能行业。”（财联社）",
+"published": 1795055320.0
+},
+{
+"source": "36氪",
+"title": "九阳股份盘中涨停，上演“地天板”",
+"link": "https://36kr.com/newsflashes/4076063568204936?f=rss",
+"summary": "36氪获悉，九阳股份盘中涨停，上演“地天板”，成交额超36亿元。",
+"published": 1795055176.0
+},
+{
+"source": "36氪",
+"title": "习近平：携手搭建亚太共同体的“四梁八柱”",
+"link": "https://36kr.com/newsflashes/4076056650044293?f=rss",
+"summary": "11月19日上午，国家主席习近平在深圳主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话，强调亚太各方要携手搭建亚太共同体的“四梁八柱”。习近平指出，中国是亚太经济合作的倡导者、推动者、先行者。中方愿同各方一道，集思广益、汇聚合力，携手搭建亚太共同体的“四梁八柱”。一是强化经贸支柱。推动区域经贸协定对接，围绕亚太自贸区加强政策对话，提高各方参与高水平经贸安排的能力。二是升级联通支柱。巩固“硬联通”，完善基础设施网络；增强“软联通”，促进政策和监管协调；密切“心联通”，促…",
+"published": 1795054754.0
+},
+{
+"source": "36氪",
+"title": "36氪首发丨钠电正极材料厂商获金投致源战略投资数千万元，万吨线将于Q4量产",
+"link": "https://36kr.com/p/4076024574301061?f=rss",
+"summary": "图源/企业 本文约3100字，建议阅读8分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，钠离子电池正极材料公司——钠远新材科技（无锡）有限公司（下称“钠远新材”）近期已完成数千万元A轮融资，由金投致源战略投资。本轮资金将主要用于马鞍山经开区先进电池终端集成智造基地建设，同时支撑无负极电池开发及海外市场拓展。 钠远新材成立于2022年，由深耕电池行业多年的德国海归博士团队创立。创始人刘众擎博士曾任职于德国于利希研究中心（欧洲顶尖能源研究机构），师从德国工程院院士Martin Wint…",
+"published": 1795052817.0
+},
+{
+"source": "The Verge",
+"title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+"link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+"summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Tim…",
+"published": 1795052385.0
+},
+{
+"source": "TechCrunch",
+"title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+"link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+"summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not …",
+"published": 1795048976.0
+},
+{
+"source": "TechCrunch",
+"title": "Elon Musk says: ‘I’m not MAGA’",
+"link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+"summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
+"published": 1795048849.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
+"link": "https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本 · 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪 · 英特尔再裁全球 IT 员工，继续推进组织精简#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795048564.0
+},
+{
+"source": "36氪",
+"title": "「镁伽科技」完成近2亿美元融资，建设直接面向真实世界的AI智能基础设施｜36氪首发",
+"link": "https://36kr.com/p/4075322592187524?f=rss",
+"summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，近日，镁伽科技已完成新一轮近2亿美元融资。本轮融资由阿曼苏丹国主权财富基金阿曼投资局（OIA）参与投资，亚投资本、Granite Asia、创新工场等老股东加注，招银国际、苏创投、三江招商集团等机构跟投，覆盖国际主权资本、头部金融资本及地方国资产业资本等。 当前，AI for Science想要真正跑通绕不开一个底层问题：数据。成规模、高质量、可复用的科研数据目前仍是稀缺资源，而国内绝大多数生命科学实验室的设备和耗材仍不具备大规模、一致性…",
+"published": 1795048200.0
+},
+{
+"source": "少数派",
+"title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
+"link": "https://sspai.com/post/119239",
+"summary": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。查看全文",
+"published": 1795048170.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨Anthropic IPO定价83美元；iPhone Duo铰链风波升级；浑水宣布做空英伟达",
+"link": "https://36kr.com/p/4075920892581000?f=rss",
+"summary": "今日热点导览 OpenAI发布GPT-6.2 Astra，GPT-6.2双模型分层定价 董明珠APEC现场寻找合作机会，称格力研发机器人十几年了 马斯克：预计SpaceX不会向OpenAI出售任何算力 大疆Osmo Pocket 4系列涨价，最高涨560元 三星电机与英伟达扩大在AI芯片组件方面的合作 TOP 3大新闻 Anthropic IPO定价每股83美元 当地时间11月18日，Anthropic将其IPO发行价定为每股83美元，这一定价高于该公司此前的预估。该公司将于…",
+"published": 1795046482.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Google’s latest midtier model Gemini 4 Neon is three times faster than Carbon and wins on some metrics",
+"link": "https://siliconangle.com/2026/11/18/googles-latest-midtier-model-gemini-4-neon-is-three-times-faster-than-carbon-and-wins-on-some-metrics/",
+"summary": "After laying low during the summer while competitors Anthropic PBC and OpenAI Group PBC unleashed powerful new frontier models, Google LLC is hitting back. Having released its latest flagship model Gemini 4 Carbon one month ago, followed by…",
+"published": 1795056916.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Everpure beats expectations as AI accelerates revenue growth for ninth straight quarter",
+"link": "https://siliconangle.com/2026/11/18/everpure-beats-expectations-as-ai-accelerates-revenue-growth-for-a-ninth-straight-quarter/",
+"summary": "Data center infrastructure company Everpure Inc. posted third-quarter earnings and revenue that surpassed analysts’ expectations and raised its full-year forecast for the third successive quarter, and its stock gained just over 4% in after-…",
+"published": 1795054258.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Fintech startup Payhawk valued at $2B in $280M round",
+"link": "https://siliconangle.com/2026/11/18/fintech-startup-payhawk-valued-at-2b-in-280m-round/",
+"summary": "Payhawk Ltd., a startup that helps enterprises manage their business expenses, has raised $280 million in funding. The Series C round was led by Goldman Sachs’ growth equity arm. The bank was joined by Greenoaks, Lightspeed and more than a …",
+"published": 1795052394.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Six days, six outages: Why reliability isn’t resilience",
+"link": "https://siliconangle.com/2026/11/18/six-days-six-outages-why-reliability-isnt-resilience/",
+"summary": "A rash of major outages over the past week all seem to follow a similar script. Services go dark, Downdetector lights up, the provider posts a string of status updates, a root cause emerges a few days later, and everyone goes back to work, …",
+"published": 1795051311.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Google Cloud brings AI agents to the supercomputing bottleneck",
+"link": "https://siliconangle.com/2026/11/18/hpc-meets-ai-agents-google-cloud-targets-time-discovery-sc26/",
+"summary": "High-performance computing, or HPC, is merging with artificial intelligence faster than many research teams can adapt. Compute capacity is hard to get, and workloads now run across clouds and on-premises clusters. The metric that matters is…",
+"published": 1795047801.0
+}
+]
+}
+}

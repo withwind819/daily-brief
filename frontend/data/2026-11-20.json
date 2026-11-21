@@ -1,14 +1,147 @@
 {
 "date": "2026-11-20",
-"total": 38,
+"total": 121,
 "categories": {
 "AI": [
+{
+"source": "The Decoder",
+"title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+"link": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+"summary": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to 0.2 percen…",
+"published": 1795206710.0
+},
+{
+"source": "The Decoder",
+"title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+"link": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+"summary": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protections remain incomple…",
+"published": 1795204227.0
+},
+{
+"source": "The Decoder",
+"title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+"link": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+"summary": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working. The article Google's Gemini can now run Mac a…",
+"published": 1795200631.0
+},
+{
+"source": "InfoQ 中国",
+"title": "财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
+"link": "https://www.infoq.cn/article/3xzCDJBbDREm4EJFJWrH?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795200494.0
+},
+{
+"source": "InfoQ 中国",
+"title": "“美国大豆包”又发新模型，Neon 接入 Antigravity 后编程解题率升至三倍多",
+"link": "https://www.infoq.cn/article/tDxNggErsJNeb53ZkYeF?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795200094.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Agent 上岗，你敢放手吗？",
+"link": "https://www.infoq.cn/video/qafOtORWUX0eD0WfSlYi?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795199142.0
+},
+{
+"source": "InfoQ 中国",
+"title": "华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一",
+"link": "https://www.infoq.cn/article/LCqRiGDSeMBfXo4iktdA?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795198751.0
+},
+{
+"source": "MIT科技评论 AI",
+"title": "The most misunderstood graph in AI just got a major update",
+"link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+"summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are a…",
+"published": 1795198515.0
+},
+{
+"source": "InfoQ 中国",
+"title": "AI 漫剧不缺作品，缺什么？｜QLab直播",
+"link": "https://www.infoq.cn/article/27xI2tBkStO5qz52VBPw?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795194869.0
+},
+{
+"source": "HN AI 热门",
+"title": "Google workers tell their employer not to punish schools that don't want AI",
+"link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+"summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 269 # Comments: 198",
+"published": 1795193967.0
+},
+{
+"source": "The Decoder",
+"title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+"link": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+"summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now prod…",
+"published": 1795190163.0
+},
+{
+"source": "The Decoder",
+"title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+"link": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
+"summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your device while r…",
+"published": 1795187005.0
+},
+{
+"source": "The Decoder",
+"title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
+"link": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
+"summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language models based on diffusion processes, an alternative approach to the token-by-to…",
+"published": 1795186430.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Grab 通过安全策略应对 AI 生成代码变更激增，提升移动端 App 稳定性",
+"link": "https://www.infoq.cn/article/AH8deOIGb5hMHRPIKfrf?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795183200.0
+},
+{
+"source": "HN AI 热门",
+"title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+"link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+"summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off Comments URL: https://news.ycombinator.com/item?id=50574383 Points: 192 # Comments: 233",
+"published": 1795181399.0
+},
+{
+"source": "The Decoder",
+"title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+"link": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
+"summary": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks. Temporary threads that aren't saved to history are also launchin…",
+"published": 1795180771.0
+},
+{
+"source": "InfoQ 中国",
+"title": "OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+"link": "https://www.infoq.cn/article/ENG8g3E0RX3IiuvgD7BG?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795179600.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
+"link": "https://www.infoq.cn/article/WGpi7vxi1pCiJeJBKbm7?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795176000.0
+},
 {
 "source": "InfoQ 中国",
 "title": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
 "link": "https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1795172400.0
+},
+{
+"source": "HN AI 热门",
+"title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+"link": "https://architectlabs.com/blog/frostbite",
+"summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 632 # Comments: 328",
+"published": 1795168901.0
 },
 {
 "source": "InfoQ 中国",
@@ -32,14 +165,378 @@
 "published": 1795168800.0
 },
 {
+"source": "OpenAI 博客",
+"title": "Combatting adversarial distillation",
+"link": "https://openai.com/index/combatting-adversarial-distillation",
+"summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+"published": 1795168800.0
+},
+{
+"source": "The Decoder",
+"title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
+"link": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
+"summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill appeared firs…",
+"published": 1795168791.0
+},
+{
+"source": "HN AI 热门",
+"title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+"link": "https://signal.org/blog/protecting-your-privacy/",
+"summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 525 # Comments: 310",
+"published": 1795167736.0
+},
+{
+"source": "量子位",
+"title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+"link": "https://www.qbitai.com/2026/11/511610.html",
+"summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+"published": 1795161898.0
+},
+{
+"source": "量子位",
+"title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+"link": "https://www.qbitai.com/2026/11/511603.html",
+"summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
+"published": 1795155366.0
+},
+{
+"source": "量子位",
+"title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+"link": "https://www.qbitai.com/2026/11/511582.html",
+"summary": "已开源Agnes Harness",
+"published": 1795152251.0
+},
+{
 "source": "量子位",
 "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
 "link": "https://www.qbitai.com/2026/11/511426.html",
 "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
 "published": 1795136858.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+"link": "https://openai.com/business/customer-stories/hebbia",
+"summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+"published": 1795132800.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Can AI help scientists identify promising drug candidates?",
+"link": "https://openai.com/index/introducing-medchembench",
+"summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+"published": 1795132800.0
 }
 ],
 "科技": [
+{
+"source": "TechCrunch",
+"title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+"link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+"summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+"published": 1795208309.0
+},
+{
+"source": "The Verge",
+"title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+"link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+"summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and th…",
+"published": 1795207432.0
+},
+{
+"source": "TechCrunch",
+"title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+"link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+"summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+"published": 1795204421.0
+},
+{
+"source": "The Verge",
+"title": "Rockstar says GTA VI made $3.79 billion in its first day",
+"link": "https://www.theverge.com/games/1036279/gta-vi-sales",
+"summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense grat…",
+"published": 1795203306.0
+},
+{
+"source": "TechCrunch",
+"title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+"link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+"summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+"published": 1795203128.0
+},
+{
+"source": "The Verge",
+"title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
+"link": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
+"summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original …",
+"published": 1795202100.0
+},
+{
+"source": "The Verge",
+"title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+"link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+"summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to a…",
+"published": 1795200619.0
+},
+{
+"source": "TechCrunch",
+"title": "Super-hot rock geothermal could end data center energy woes",
+"link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+"summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
+"published": 1795199640.0
+},
+{
+"source": "The Verge",
+"title": "Multiplying your Switch 2’s storage costs less than usual right now",
+"link": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
+"summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, …",
+"published": 1795198500.0
+},
+{
+"source": "The Verge",
+"title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+"link": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+"summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdo…",
+"published": 1795197600.0
+},
+{
+"source": "TechCrunch",
+"title": "Chips can survive the space environment — can their financing?",
+"link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+"summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+"published": 1795196401.0
+},
+{
+"source": "The Verge",
+"title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+"link": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+"summary": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks and other Apple devic…",
+"published": 1795196039.0
+},
+{
+"source": "The Verge",
+"title": "Teenage Engineering’s first CD player puts the spinning disc on display",
+"link": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
+"summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray. T…",
+"published": 1795194352.0
+},
+{
+"source": "The Verge",
+"title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+"link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+"summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians …",
+"published": 1795192453.0
+},
+{
+"source": "The Verge",
+"title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
+"link": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
+"summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team o…",
+"published": 1795191735.0
+},
+{
+"source": "TechCrunch",
+"title": "Bending Spoons buys Mailchimp for $3.68B",
+"link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+"summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+"published": 1795191366.0
+},
+{
+"source": "TechCrunch",
+"title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+"link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+"summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
+"published": 1795189567.0
+},
+{
+"source": "Solidot",
+"title": "Anthropic 的数论学家声称证明黎曼猜想",
+"link": "https://www.solidot.org/story?sid=85949",
+"summary": "美国数学家 Levent Alpöge 以数论和算术统计方面的工作著称，他目前在 AI 公司 Anthropic 工作。他发表声明，声称与公司 AI 工具 Claude 合作获得了数论经典难题黎曼猜想的一般性证明。他们发现了黎曼猜想的一个证明，而这个证明方法可以进一步证明广义黎曼猜想和扩展黎曼猜想。他称论证过程极其冗长，形式化工作已经完成，但产生的文档难以阅读，他表示正致力于对其进行简化，使其更通俗易懂。",
+"published": 1795187645.0
+},
+{
+"source": "Solidot",
+"title": "GTA 6 创游戏史上最高首日销售额",
+"link": "https://www.solidot.org/story?sid=85948",
+"summary": "根据 Sensor Tower 的数据，本周四上市的开放世界游戏 GTA 6 预购量和首日销量合计超过 2450 万份，收入约 23.6 亿美元。相比之下，今年票房最高的电影《蜘蛛侠：崭新之日》总票房收入为 25 亿美元。GTA 6 开发商 Rockstar 及其母公司 Take-Two 尚未披露销售数据，只是强调需求“空前”。GTA 6 的开发成本超过 10 亿美元，是史上制作成本最高的游戏。Sensor Tower 称，GTA 6 极高的热度将导致玩家在其它单机游戏上投入…",
+"published": 1795185501.0
+},
+{
+"source": "TechCrunch",
+"title": "Six AI-powered gadgets that could make your home office smarter",
+"link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+"summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+"published": 1795183200.0
+},
+{
+"source": "TechCrunch",
+"title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+"link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+"summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+"published": 1795181100.0
+},
+{
+"source": "TechCrunch",
+"title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+"link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+"summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+"published": 1795180871.0
+},
+{
+"source": "36氪",
+"title": "热门中概股美股盘前多数下跌，网易跌超6%",
+"link": "https://36kr.com/newsflashes/4078099126621059?f=rss",
+"summary": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，网易跌超6%，京东、百度、小鹏集团跌超2%，拼多多、哔哩哔哩、理想汽车跌超1%，蔚来跌0.76%，阿里巴巴涨0.36%。",
+"published": 1795179417.0
+},
+{
+"source": "36氪",
+"title": "美股大型科技股盘前普跌，Anthropic跌超9%",
+"link": "https://36kr.com/newsflashes/4078096790525063?f=rss",
+"summary": "36氪获悉，美股大型科技股盘前普跌，截至发稿，Anthropic跌超9%，闪迪跌超6%，Meta跌超3%，英伟达、亚马逊、微软跌超2%，特斯拉跌超1%，谷歌跌0.57%，苹果涨0.15%。",
+"published": 1795179274.0
+},
+{
+"source": "36氪",
+"title": "法兴银行预计2027年美联储将再加息两次，每次25个基点",
+"link": "https://36kr.com/newsflashes/4078031808304257?f=rss",
+"summary": "法兴银行预计2027年美国GDP增速为1.7%；预计2027年美联储将再加息两次，每次25个基点；预计2027年美国10年期国债收益率将达4.51%。（财联社）",
+"published": 1795179202.0
+},
+{
+"source": "Solidot",
+"title": "阿里巴巴警告未来两年算力紧缺",
+"link": "https://www.solidot.org/story?sid=85947",
+"summary": "阿里巴巴集团首席执行官吴泳铭在星期四召开的二季度业绩电话会上说，全球各区域的算力政策出现了非常大的变化，将对阿里云的数据中心建设产生影响。根据目前的初步评估，阿里此前制定的到 2032 年全球数据中心规模超过 20 吉瓦的目标有可能下调，资本开支可能有一定程度降低。不过公司管理层相信，美国商务部的算力管制新规对 AI 产品进度的影响短暂，公司目前已经运用自行研发的晶片训练下一代大模型。阿里巴巴预测，2027 年及 2028 年将是中国算力市场最紧缺的两年。",
+"published": 1795178897.0
+},
+{
+"source": "Solidot",
+"title": "无限滚动自动播放有害社会",
+"link": "https://www.solidot.org/story?sid=85946",
+"summary": "根据发表在《The Lancet Psychiatry》期刊上的一篇报告，全球逾十分之一人口可能受到问题性互联网使用的影响，每年由此带来的经济和社会成本可能高达数十亿美元。问题性互联网使用包括了：强迫性使用社交媒体、过度沉迷游戏、网络赌博、强迫性网购、问题性色情内容消费，以及反复搜索加剧焦虑的健康信息。无限滚动的信息流、视频自动播放、个性化推荐以及各类通知等都在诱导用户不断回到社交应用和平台中。报告作者认为责任不应仅由用户和家庭承担，设计数字产品的企业也难辞其咎。企业在设计数…",
+"published": 1795171851.0
+},
+{
+"source": "爱范儿",
+"title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
+"link": "https://www.ifanr.com/1690596?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "最好的智驾芯片，是让你彻底忘掉它。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795171187.0
+},
+{
+"source": "Solidot",
+"title": "三名胰腺癌患者在注射病毒后遏制了肿瘤继续发展",
+"link": "https://www.solidot.org/story?sid=85945",
+"summary": "在美国的一项临床试验中，三名胰腺癌患者在注射病毒后成功遏制肿瘤继续发展。项目领导者、明尼苏达大学的 Masato Yamamoto 表示临床试验注射的剂量仅为最终目标剂量的十分之一，因此疗效超出了预期。研究人员将对另外 15 名患者使用更高剂量的药物以确定最佳给药水平。胰腺癌被称为最致命的癌症，原因之一是症状出现较晚，此时癌症已扩散无法通过手术切除。一旦确诊，患者生存期为三到六个月左右。另一大原因是胰腺肿瘤有坚硬的纤维外壳，阻碍了化疗药物的渗透。试验未设置对照组，很难判断杀癌…",
+"published": 1795170448.0
+},
+{
+"source": "36氪",
+"title": "一届学生60万？外国玩家：想来中国上学了 | 玩点好的",
+"link": "https://36kr.com/p/4077807099057031?f=rss",
+"summary": "文丨句号 编辑丨果脯 “如果我是老师，我肯定不会对学生这么坏。” 可能是在被罚站时，也可能是被老师喊来家长后，这样的想法总是会瞬间被唤醒。《我带过的最差一届》（以下简称《最差一届》），一款非对称式派对游戏，给了玩家们一次师生身份转换的机会。 《我带过的最差一届》官方宣传图 由B站up主夜之黄泉带队顽核社开发，《最差一届》在Steam新品节上斩获超过60万下载量，发售首日销量即达成10万份。爆笑的节目效果引得各路主播纷纷加入这场校园乱斗，在中文社区之外，中式校园题材也吸引着越来…",
+"published": 1795169654.0
+},
+{
+"source": "少数派",
+"title": "本周看什么 | 最近值得一看的 10 部作品",
+"link": "https://sspai.com/post/119337",
+"summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...查看全文",
+"published": 1795168441.0
+},
+{
+"source": "Solidot",
+"title": "Vint Cerf 谈 TCP/IP 为何从未申请专利",
+"link": "https://www.solidot.org/story?sid=85944",
+"summary": "现年 83 岁的 Vint Cerf 因在 1970 年代与 Bob Kahn 合作设计了 TCP/IP 协议而被誉为互联网之父，他在今年早些时候卸任 Google 首席互联网布道官一职，但并没停止工作，他正参与创办名为 Tolero 的公司，为星际 互联网构建软件。他接受采访时开玩笑的说，光速太慢了。Vint Cerf 谈论了当年设计 TCP/IP 协议时为什么没有为其申请专利。他说，1970 年代初在开发 TCP/IP 项目时，曾反复思考几个问题：是否应该为它申请专利？是…",
+"published": 1795167606.0
+},
+{
+"source": "爱范儿",
+"title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
+"link": "https://www.ifanr.com/1690642?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "在手机里打开了一个关于 AI 的「平行宇宙」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795166225.0
+},
+{
+"source": "36氪",
+"title": "Anthropic上市首日涨17%，市值一度冲至2万亿刀，AI热潮还能持续多久？",
+"link": "https://36kr.com/p/4077873869099904?f=rss",
+"summary": "Anthropic与科技巨头们唇齿相依 文 | 刘思洁 封面来源 | Unsplash 11月19日，Anthropic（Nasdaq：ANT）正式登陆纳斯达克，股票发行价最终定在83美元，开盘价111.50美元，盘中最高涨至115.10美元，按完全稀释口径计算，市值一度约2.08万亿美元，按已发行股份计算约1.51万亿美元，收盘报97.17美元，收盘时较发行价高约17%。 其募资额也超越SpaceX，为813亿美元，刷新了全球IPO募资纪录。盘中最高时，Anthropic一…",
+"published": 1795166093.0
+},
+{
+"source": "TechCrunch",
+"title": "The US national cyber director is stepping down",
+"link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+"summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+"published": 1795166059.0
+},
+{
+"source": "爱范儿",
+"title": "给 Gemini 道歉，请自觉排队",
+"link": "https://www.ifanr.com/1690572?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "Gemini 4 真的越来越好用了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795165393.0
+},
+{
+"source": "Solidot",
+"title": "韩国利用紧急短信等方法抓住了 111 起高考作弊",
+"link": "https://www.solidot.org/story?sid=85943",
+"summary": "韩国高考从本周四开始，有约 50 万名考生参加。为打击高科技作弊，韩国采取了一种极端的方法：在全国范围内发送紧急短信，之后在没有预先通知的情况下不定时追加发送。该短信无法拒收，只要手机处于开机状态，手机就将持续发出 10.5 秒的提示音。据韩国媒体报道，该方法发现了 54 起未上交手机的案例。通过探测 WiFi 等方式查出 52 起携带智能设备案例。在考试过程中被发现利用智能终端的作弊案例 5 起，包括使用智能眼镜（1起）、使用微型摄像头和无线耳机（1起）、利用智能手机拍摄考…",
+"published": 1795163103.0
+},
+{
+"source": "Solidot",
+"title": "微软测试对被盗或丢失设备远程锁定",
+"link": "https://www.solidot.org/story?sid=85942",
+"summary": "微软在测试一项新功能，允许企业 IT 管理员在不清除数据的情况下远程锁定丢失或被盗的 Windows 设备。被称为远程锁定（Remote Lock）的新功能已提供给运行 Build 26320.10003 或 Build 26340.10013 的 Windows 11 Insider Preview 设备。IT 管理员可通过 Microsoft Intune 自定义配置配置文件，锁定加入 Microsoft Entra 的运行 Windows 企业版、教育版或专业版的设备。…",
+"published": 1795161781.0
+},
+{
+"source": "少数派",
+"title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+"link": "https://sspai.com/post/119327",
+"summary": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...查看全文",
+"published": 1795160066.0
+},
+{
+"source": "Solidot",
+"title": "大脑的言语感知中枢也能生成口语词汇",
+"link": "https://www.solidot.org/story?sid=85941",
+"summary": "大脑名为韦尼克的区域（Wernicke’s area，该脑区长期以来被认为仅参与言语感知）也会生成口语词汇。韦尼克区是大脑听觉皮层的一部分，以往主要以其在言语感知中的关键作用而闻名。然而，韦尼克区受损者不仅难以理解言语，在组词造句方面也面临障碍。研究人员现在发现，韦尼克区不仅能感知词语，还能在言语产生前被激活以生成词语。利用高分辨率皮层脑电图，研究人员记录了 28 名参与者在执行说话和聆听任务时大脑皮层中单个神经元的活动。这些研究揭示了韦尼克区中的一个独立的神经元亚群，后者在…",
+"published": 1795158332.0
+},
+{
+"source": "Solidot",
+"title": "Google 于 2027 年 1 月在全球实施 Android 开发者身份验证",
+"link": "https://www.solidot.org/story?sid=85940",
+"summary": "Google 去年宣布了 Android 开发者身份验证计划。尽管遭到了开发者和用户的广泛反对，Google 仍然坚持推进该计划。Google 从今年 9 月起开始在部分国家阻止安装未经开发者身份验证的应用，而这一要求将很快推广到全球。Google 宣布将于 2027 年 1 月起在所有地区实施开发者身份验证，敦促尚未验证身份的应用开发者尽快完成登记。一旦 Android 开发者身份验证在用户所在的地区生效，那么用户将无法通过侧载（sideloading）安装未经开发者身份验…",
+"published": 1795157341.0
+},
+{
+"source": "Solidot",
+"title": "Visa、Mastercard 和 JPMorgan 证实客户数据泄露",
+"link": "https://www.solidot.org/story?sid=85939",
+"summary": "Visa、Mastercard 和摩根大通（JPMorgan）披露客户数据泄露，但数据是通过第三方服务提供商泄漏的，它们自身的核心系统或支付网络都未受影响。泄漏的数据包括姓名、电邮地址，部分还包含电话号码和邮编。网络勒索组织 n0n 于 11 月 16 日声称获取了三家银行/支付公司的持卡人记录，其中包括数万持卡人电邮地址所对应的数十万次营销互动。对公布数据的核查发现，除了客户还有银行员工的电邮地址泄漏。",
+"published": 1795156432.0
+},
+{
+"source": "Solidot",
+"title": "小鼠拳击俱乐部或能解释为什么人类爱观赏暴力事件",
+"link": "https://www.solidot.org/story?sid=85938",
+"summary": "人类爱围观暴力事件，无论是电影、游戏还是格斗比赛。科学家一直在争论观看暴力事件是否会让我们变得更具攻击性，但这也可能是一种适应性生存策略。根据发表在《自然》期刊上的一项研究，相比不围观打架的小鼠，观看其它小鼠打架的雄鼠学会了足够的战斗技巧，在面对更强壮、更具有攻击性的对手时能更好的保护自己。研究团队将雄鼠随机分为三组——战斗组、观众组和新手组，对每组小鼠进行为期八天的训练，每天三次，每次十分钟。新手组在单独的房间里玩鼠玩具，观众组则在一个透明屏障后观看不同战斗组小鼠打斗。第九…",
+"published": 1795154092.0
+},
+{
+"source": "爱范儿",
+"title": "触屏只是它最不起眼的升级｜MacBook PROLED 评测",
+"link": "https://www.ifanr.com/1690404?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "触屏不是她的全部#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795147217.0
+},
 {
 "source": "36氪",
 "title": "半日主力资金加仓农林牧渔板块，抛售非银金融板块",
@@ -123,6 +620,13 @@
 "link": "https://36kr.com/newsflashes/4077504782848896?f=rss",
 "summary": "伴随着首批18只主动ETF上市公告书披露，其前十名基金份额持有人情况也随之揭晓，不少私募产品出现在前十持有人名单中，展现出较高的配置热情。私募排排网数据显示，共有22家私募证券管理人出现在15只首批上市的主动ETF前十持有人名单中，合计持有份额5.24亿份。（证券时报）",
 "published": 1795143141.0
+},
+{
+"source": "少数派",
+"title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+"link": "https://sspai.com/post/118879",
+"summary": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。查看全文",
+"published": 1795142872.0
 },
 {
 "source": "36氪",
@@ -259,6 +763,83 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Anthropic researcher claims to have proven Riemann hypothesis using Claude",
+"link": "https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/",
+"summary": "An Anthropic PBC researcher claims to have used Claude to prove the Riemann hypothesis, which is widely considered to be the most important open question in mathematics. Levent Alpöge announced his discovery today on his personal website. A…",
+"published": 1795210091.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Equifax cuts database firefighting after moving billing to Oracle on AWS",
+"link": "https://siliconangle.com/2026/11/20/multicloud-strategy-equifax-moves-billing-oracle-aws-oracleaiworld/",
+"summary": "A multicloud strategy once meant deciding which workloads lived with which provider. Now database providers are moving into the clouds customers already use, and AI projects are raising the value of those migrations well beyond the back off…",
+"published": 1795208037.0
+},
+{
+"source": "Crunchbase",
+"title": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
+"link": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
+"summary": "U.S. startups continued to secure sizable rounds, led by brain-computer interface company Science securing a fresh $400 million.",
+"published": 1795205754.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Inference pushes AI to smaller sites, making the data layer the deciding factor",
+"link": "https://siliconangle.com/2026/11/20/inference-monolithic-data-center-ai-data-layer-sc26/",
+"summary": "Inference is moving to the center of enterprise AI spending, and the AI data layer is emerging as the piece that decides whether those investments pay off. As GPU costs climb and component shortages persist, the architecture behind AI is sh…",
+"published": 1795205360.0
+},
+{
+"source": "SiliconANGLE",
+"title": "AI deals shrink to as little as 30 days as the data layer sets the pace",
+"link": "https://siliconangle.com/2026/11/20/ai-data-infrastructure-deals-shrink-year-to-30-days-sc26/",
+"summary": "Artificial intelligence has turned data infrastructure from a back-office purchase into the bottleneck that decides how fast GPUs pay off. As hyperscalers, neoclouds and enterprises race to expand their data layers, the way that infrastruct…",
+"published": 1795202867.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Own, don’t rent: Why agentic AI is pulling cloud computing back on-prem",
+"link": "https://siliconangle.com/2026/11/20/model-plane-shifts-prem-agentic-ai-favors-owning-compute-sc26/",
+"summary": "Agentic AI is reviving an argument over renting versus owning compute, and the model plane — the layer that decides where AI models run — sits at the center of it. Open-source efforts such as Upbound Inc.’s Modelplane route inference across…",
+"published": 1795196793.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Anthropic goes public, but is it too late to save the AI trade?",
+"link": "https://siliconangle.com/2026/11/20/anthropic-goes-public-but-is-it-too-late-to-save-the-ai-trade/",
+"summary": "Anthropic came through with its initial public offering Thursday, but did it just signal a top in the AI trade? The artificial intelligence model maker’s IPO went almost picture-perfectly, really, producing a 17% pop that wasn’t so high tha…",
+"published": 1795186854.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Enterprise AI hits a wall of power and cooling, not GPU supply",
+"link": "https://siliconangle.com/2026/11/20/edge-inference-hits-power-cooling-limits-gpu-supply-sc26/",
+"summary": "Enterprises racing to build AI factories and push edge inference into the field are learning that buying graphics processing units is the easy part. Power, cooling and network throughput now decide whether those costly systems produce intel…",
+"published": 1795179331.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Canada’s sovereign AI ambitions come with a local economic bargain",
+"link": "https://siliconangle.com/2026/11/20/canadas-sovereign-ai-ambitions-come-with-local-economic-bargain-dellatsc26/",
+"summary": "Data center backlash is pushing builders to show communities what they get in return, and public-private partnerships are becoming one answer. As the race for sovereign AI heats up, the question is shifting from where intellectual property …",
+"published": 1795177017.0
+},
+{
+"source": "Crunchbase",
+"title": "5 Interesting Startup Deals You May Have Missed: Reflecting Sunlight From Space, Better Breathing And Smarter Garbage Trucks",
+"link": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-solar-healthcare-space-tech/",
+"summary": "What if solar farms could keep generating electricity after sunset with a little help from mirrors orbiting Earth? Or researchers could send an experiment into space for less than the price of a car? Our latest roundup also includes a compa…",
+"published": 1795176025.0
+},
+{
+"source": "Crunchbase",
+"title": "What The Telecom Bust Taught Me About AI’s Debt Boom",
+"link": "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/",
+"summary": "The AI buildout’s growing reliance on debt echoes the telecom bubble, raising the risk that infrastructure spending will outpace the revenue needed to meet fixed repayment obligations. According to guest author David Spreng of Runway Growth…",
+"published": 1795176001.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Lawmakers form bipartisan caucus to create meaningful AI safety legislation",

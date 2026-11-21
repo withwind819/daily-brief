@@ -1,8 +1,15 @@
 {
 "date": "2026-11-18",
-"total": 163,
+"total": 170,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "LLM assisted reverse engineering",
+"link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+"summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 315 # Comments: 82",
+"published": 1795040953.0
+},
 {
 "source": "The Decoder",
 "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
@@ -67,11 +74,25 @@
 "published": 1795024833.0
 },
 {
+"source": "HN AI 热门",
+"title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+"link": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+"summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https:/…",
+"published": 1795020082.0
+},
+{
 "source": "The Decoder",
 "title": "Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author",
 "link": "https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/",
 "summary": "The AI detection tool Pangram flags 99 percent of a prize-winning Peruvian novel as AI-generated, but Mexican publisher Almadía is standing by the award after its own review. Pangram also classified over 80 percent of the author's personal …",
 "published": 1795018148.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI agents ask better questions than KPMG accountants in audit trial",
+"link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+"summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 496 # Comments: 262",
+"published": 1795016974.0
 },
 {
 "source": "The Decoder",
@@ -249,6 +270,13 @@
 "published": 1794986690.0
 },
 {
+"source": "HN AI 热门",
+"title": "AI is killing All About Berlin",
+"link": "https://nicolasbouliane.com/blog/death-by-ai",
+"summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 813 # Comments: 712",
+"published": 1794984446.0
+},
+{
 "source": "OpenAI 博客",
 "title": "Managing frontier AI risk: From training to deployment",
 "link": "https://openai.com/index/managing-frontier-ai-risk",
@@ -277,6 +305,13 @@
 "published": 1794970163.0
 },
 {
+"source": "HN AI 热门",
+"title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
+"link": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
+"summary": "Article URL: https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages Comments URL: https://news.ycombinator.com/item?id=50540836 Points: 98 # Comments: 58",
+"published": 1794966311.0
+},
+{
 "source": "量子位",
 "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
 "link": "https://www.qbitai.com/2026/11/510726.html",
@@ -289,6 +324,13 @@
 "link": "https://www.qbitai.com/2026/11/510707.html",
 "summary": "Sol逼近旗舰性能",
 "published": 1794962954.0
+},
+{
+"source": "HN AI 热门",
+"title": "Google's AI answers reducing search traffic by 40%",
+"link": "https://revscope.co/blog/search-seo-geo-2026/",
+"summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 710 # Comments: 565",
+"published": 1794961078.0
 },
 {
 "source": "OpenAI 博客",
@@ -529,6 +571,13 @@
 "link": "https://www.solidot.org/story?sid=85925",
 "summary": "如果你阅读本文，那么你的社媒信息流肯定充斥着猫咪。这并不出人意料，毕竟互联网是属于猫的。人类对家猫的喜爱其实是一种相对较近的现象。在很多地方，猫曾被视为可疑之物，遭受过残酷对待。猫最早的文学记载之一是成文于九世纪，由一位不知名爱尔兰僧侣所作的诗《Pangur Bán》。生活在 12 世纪的诗人陆游一生创作了逾 9000 篇诗作，其中有多篇是以猫为主题，有三篇甚至冠名为《赠猫》。陆游之前尚未见有以猫为赠诗对象的文学记载。陆游在诗里坦诚养猫是为保护藏书免受鼠患，“惭愧家贫策勋薄，…",
 "published": 1795013902.0
+},
+{
+"source": "爱范儿",
+"title": "奔驰新 E 级车机上手！响应速度超越新势力，唯独少了点「奔驰味」",
+"link": "https://www.ifanr.com/1690546?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "对比奔驰过往的产品，无疑是一次大跨越。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795012252.0
 },
 {
 "source": "Solidot",

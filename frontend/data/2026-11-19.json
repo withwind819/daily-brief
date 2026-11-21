@@ -1,6 +1,6 @@
 {
 "date": "2026-11-19",
-"total": 147,
+"total": 155,
 "categories": {
 "AI": [
 {
@@ -25,6 +25,13 @@
 "published": 1795116499.0
 },
 {
+"source": "HN AI 热门",
+"title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+"link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+"summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 114 # Comments: 243",
+"published": 1795114036.0
+},
+{
 "source": "InfoQ 中国",
 "title": "模型刚接进业务，CEO又要换新：红帽如何接住企业AI落地难题？",
 "link": "https://www.infoq.cn/article/6xqcZfMgJ99ZQiGFbjym?utm_source=rss&utm_medium=article",
@@ -39,11 +46,32 @@
 "published": 1795107761.0
 },
 {
+"source": "HN AI 热门",
+"title": "Chrome AI features wasting much bandwidth",
+"link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+"summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 133 # Comments: 51",
+"published": 1795107265.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI isn't replacing your job. It's turning it into low-paid gig work",
+"link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+"summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 145 # Comments: 80",
+"published": 1795106750.0
+},
+{
 "source": "InfoQ 中国",
 "title": "杀入Agent主场之后：两年内部分替代自回归，扩散智能的底气从何而来？| 专访",
 "link": "https://www.infoq.cn/article/rtBT5s1opGGazFgQi0YS?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1795105953.0
+},
+{
+"source": "HN AI 热门",
+"title": "Fuck Your AI Safeguards",
+"link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+"summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 600 # Comments: 246",
+"published": 1795105818.0
 },
 {
 "source": "InfoQ 中国",
@@ -72,6 +100,13 @@
 "link": "https://www.infoq.cn/minibook/UAGTBMHJ8mTIx95CFzmo?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1795102888.0
+},
+{
+"source": "HN AI 热门",
+"title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+"link": "https://thedataexchange.media/pete-warden-moonshine/",
+"summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 269 # Comments: 247",
+"published": 1795102692.0
 },
 {
 "source": "InfoQ 中国",
@@ -114,6 +149,13 @@
 "link": "https://www.infoq.cn/article/sbD3maMohpCIExV3UUH0?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1795093200.0
+},
+{
+"source": "HN AI 热门",
+"title": "The AI Superintelligence Debate Has Serious Flaws",
+"link": "https://spectrum.ieee.org/ai-superintelligence-debate",
+"summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 104 # Comments: 163",
+"published": 1795090630.0
 },
 {
 "source": "InfoQ 中国",
@@ -219,6 +261,20 @@
 "link": "https://www.qbitai.com/2026/11/511071.html",
 "summary": "语言模型单张3090卡即可运行",
 "published": 1795057305.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI will not make you rich (2025)",
+"link": "https://colossus.com/article/ai-will-not-make-you-rich/",
+"summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 108 # Comments: 70",
+"published": 1795053088.0
+},
+{
+"source": "HN AI 热门",
+"title": "Black high school students sue after AI mistakes Doritos bag for gun",
+"link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+"summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item…",
+"published": 1795049840.0
 },
 {
 "source": "量子位",

@@ -1,8 +1,15 @@
 {
 "date": "2026-11-17",
-"total": 145,
+"total": 147,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+"link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+"summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 327 # Comments: 464",
+"published": 1794950172.0
+},
 {
 "source": "The Decoder",
 "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
@@ -16,6 +23,13 @@
 "link": "https://www.infoq.cn/article/X8xujm6xovp7z2YzWbpM?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1794941587.0
+},
+{
+"source": "HN AI 热门",
+"title": "Not Everything Needs an LLM",
+"link": "https://newsletter.posthog.com/p/decision-models",
+"summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 187 # Comments: 75",
+"published": 1794939378.0
 },
 {
 "source": "OpenAI 博客",

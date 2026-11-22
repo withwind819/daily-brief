@@ -1,6 +1,6 @@
 {
 "date": "2026-11-20",
-"total": 121,
+"total": 133,
 "categories": {
 "AI": [
 {
@@ -74,6 +74,20 @@
 "published": 1795193967.0
 },
 {
+"source": "量子位",
+"title": "米哈游发了个VLA论文",
+"link": "https://www.qbitai.com/2026/11/511740.html",
+"summary": "8B参数，50小时自主运行",
+"published": 1795191926.0
+},
+{
+"source": "量子位",
+"title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+"link": "https://www.qbitai.com/2026/11/511727.html",
+"summary": "",
+"published": 1795190859.0
+},
+{
 "source": "The Decoder",
 "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
 "link": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
@@ -121,6 +135,13 @@
 "link": "https://www.infoq.cn/article/ENG8g3E0RX3IiuvgD7BG?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1795179600.0
+},
+{
+"source": "量子位",
+"title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+"link": "https://www.qbitai.com/2026/11/511722.html",
+"summary": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
+"published": 1795177081.0
 },
 {
 "source": "InfoQ 中国",
@@ -184,6 +205,13 @@
 "link": "https://signal.org/blog/protecting-your-privacy/",
 "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/ Comments URL: https://news.ycombinator.com/item?id=50572348 Points: 525 # Comments: 310",
 "published": 1795167736.0
+},
+{
+"source": "量子位",
+"title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
+"link": "https://www.qbitai.com/2026/11/511679.html",
+"summary": "联合华为昇腾，五年冲刺十万卡",
+"published": 1795165155.0
 },
 {
 "source": "量子位",
@@ -806,11 +834,25 @@
 "published": 1795196793.0
 },
 {
+"source": "EU-Startups",
+"title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)",
+"link": "https://www.eu-startups.com/2026/11/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-nov-16-nov-20/",
+"summary": "This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrest…",
+"published": 1795193127.0
+},
+{
 "source": "SiliconANGLE",
 "title": "Anthropic goes public, but is it too late to save the AI trade?",
 "link": "https://siliconangle.com/2026/11/20/anthropic-goes-public-but-is-it-too-late-to-save-the-ai-trade/",
 "summary": "Anthropic came through with its initial public offering Thursday, but did it just signal a top in the AI trade? The artificial intelligence model maker’s IPO went almost picture-perfectly, really, producing a 17% pop that wasn’t so high tha…",
 "published": 1795186854.0
+},
+{
+"source": "EU-Startups",
+"title": "UK startup Clarity Sensors receives €2.2 million NIHR award to make advanced medical imaging more accessible",
+"link": "https://www.eu-startups.com/2026/11/uk-startup-clarity-sensors-receives-e2-2-million-nihr-award-to-make-advanced-medical-imaging-more-accessible/",
+"summary": "Cambridge-based semiconductor startup Clarity Sensors has secured a €2.2 million to support the development of a new generation of photon-counting CT detectors designed to make advanced medical imaging more affordable and accessible to hosp…",
+"published": 1795184663.0
 },
 {
 "source": "SiliconANGLE",
@@ -820,11 +862,25 @@
 "published": 1795179331.0
 },
 {
+"source": "EU-Startups",
+"title": "Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers",
+"link": "https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/",
+"summary": "Archer (formerly hackajob), a London- and New York-based AI recruiting agent that works for both recruiters and job seekers, has raised €9.1 million ($10 million) in a new funding round. The round was led by Volition Capital, with participa…",
+"published": 1795178513.0
+},
+{
 "source": "SiliconANGLE",
 "title": "Canada’s sovereign AI ambitions come with a local economic bargain",
 "link": "https://siliconangle.com/2026/11/20/canadas-sovereign-ai-ambitions-come-with-local-economic-bargain-dellatsc26/",
 "summary": "Data center backlash is pushing builders to show communities what they get in return, and public-private partnerships are becoming one answer. As the race for sovereign AI heats up, the question is shifting from where intellectual property …",
 "published": 1795177017.0
+},
+{
+"source": "EU-Startups",
+"title": "Following €1 billion funding round, Quantum Systems commits over €10 million to expand drone support in Ukraine",
+"link": "https://www.eu-startups.com/2026/11/following-e1-billion-funding-round-quantum-systems-commits-over-e10-million-to-expand-drone-support-in-ukraine/",
+"summary": "Quantum Systems and Frontline Robotics will commit more than €10 million to Ukraine to strengthen long-term support capacity for unmanned systems – arriving amid over €1.8 billion in European DefenceTech financing reported by EU-Startups in…",
+"published": 1795176170.0
 },
 {
 "source": "Crunchbase",
@@ -839,6 +895,34 @@
 "link": "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/",
 "summary": "The AI buildout’s growing reliance on debt echoes the telecom bubble, raising the risk that infrastructure spending will outpace the revenue needed to meet fixed repayment obligations. According to guest author David Spreng of Runway Growth…",
 "published": 1795176001.0
+},
+{
+"source": "EU-Startups",
+"title": "Building in the UK? Key changes and deadlines founders need to know",
+"link": "https://www.eu-startups.com/2026/11/building-in-the-uk-key-changes-and-deadlines-founders-need-to-know/",
+"summary": "In last month’s UK Budget, the Chancellor halved the lifetime limit on Business Asset Disposal Relief and introduced a new Founders’ Relief. Both take effect on 6 April 2027, and the details of the new relief are out for consultation until …",
+"published": 1795170218.0
+},
+{
+"source": "EU-Startups",
+"title": "Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe",
+"link": "https://www.eu-startups.com/2026/11/madrid-based-wilco-secures-e2-5-million-to-scale-its-ai-patient-follow-up-platform-across-europe/",
+"summary": "Wilco, a Madrid-based startup building AI voice and messaging agents for healthcare clinic groups, has announced its launch and a new €2.5 million funding round. The round was led by Samaipata, the European venture capital fund known for ba…",
+"published": 1795168585.0
+},
+{
+"source": "EU-Startups",
+"title": "Berkshire-backed Bending Spoons to buy Mailchimp for €3.35 billion; announces €1.18 billion private placement",
+"link": "https://www.eu-startups.com/2026/11/berkshire-hathaway-backed-bending-spoons-to-buy-mailchimp-for-e3-35-billion-announces-e1-18-billion-private-placement/",
+"summary": "Bending Spoons, a Milan-based technology company that acquires and transforms digital businesses, has signed a definitive agreement to acquire Mailchimp, the email marketing automation platform, from Intuit, in a deal valued at €3.35 billio…",
+"published": 1795162541.0
+},
+{
+"source": "EU-Startups",
+"title": "Gradyent lands €20 million EIB loan to expand digital twin technology across Europe’s heating networks",
+"link": "https://www.eu-startups.com/2026/11/dutch-startup-gradyent-lands-e20-million-eib-loan-to-expand-digital-twin-technology-across-europes-heating-networks/",
+"summary": "Gradyent, a Rotterdam-based SaaS provider for digital optimisation of district heating, cooling, and industrial networks, has secured a €20 million venture loan from the European Investment Bank (EIB). This financing follows a €28 million o…",
+"published": 1795160474.0
 },
 {
 "source": "SiliconANGLE",

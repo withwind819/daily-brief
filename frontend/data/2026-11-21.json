@@ -1,14 +1,56 @@
 {
 "date": "2026-11-21",
-"total": 26,
+"total": 79,
 "categories": {
 "AI": [
+{
+"source": "The Decoder",
+"title": "Nvidia researchers argue huge AI context windows are a dead end",
+"link": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+"summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative. In tests, periodic summaries and targeted keyword search usually matched fu…",
+"published": 1795278225.0
+},
+{
+"source": "The Decoder",
+"title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+"link": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+"summary": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New Yorker report, leader Soryu Forall's group records every breath its members tak…",
+"published": 1795277069.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+"link": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+"summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since edit…",
+"published": 1795267955.0
+},
+{
+"source": "The Decoder",
+"title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+"link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+"summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers …",
+"published": 1795259989.0
+},
 {
 "source": "InfoQ 中国",
 "title": "智能体 AI 架构：当前挑战与未来机遇",
 "link": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1795258800.0
+},
+{
+"source": "The Decoder",
+"title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+"link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+"summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis's Intellig…",
+"published": 1795257182.0
+},
+{
+"source": "The Decoder",
+"title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+"link": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+"summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IPO. AI doub…",
+"published": 1795256864.0
 },
 {
 "source": "InfoQ 中国",
@@ -23,15 +65,316 @@
 "link": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1795255200.0
+},
+{
+"source": "The Decoder",
+"title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+"link": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+"summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated trai…",
+"published": 1795252644.0
+},
+{
+"source": "量子位",
+"title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+"link": "https://www.qbitai.com/2026/11/511779.html",
+"summary": "还实现可变形物体操控全球首通",
+"published": 1795242959.0
+},
+{
+"source": "量子位",
+"title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+"link": "https://www.qbitai.com/2026/11/511570.html",
+"summary": "专为本地部署而生",
+"published": 1795242751.0
+},
+{
+"source": "量子位",
+"title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+"link": "https://www.qbitai.com/2026/11/511757.html",
+"summary": "还透露了不少训练背后的秘诀",
+"published": 1795242655.0
 }
 ],
 "科技": [
+{
+"source": "The Verge",
+"title": "Amazon is complaining about NYC Council on shipping labels, too",
+"link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+"summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Deliv…",
+"published": 1795298371.0
+},
+{
+"source": "TechCrunch",
+"title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+"link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+"summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+"published": 1795297030.0
+},
+{
+"source": "TechCrunch",
+"title": "A tale of two Nvidias",
+"link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+"summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+"published": 1795295262.0
+},
+{
+"source": "The Verge",
+"title": "The UN fails to agree on rules regulating ‘killer robots’",
+"link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+"summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start di…",
+"published": 1795291417.0
+},
+{
+"source": "TechCrunch",
+"title": "Trump says reported FBI database hack is ‘not good’",
+"link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+"summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+"published": 1795286693.0
+},
+{
+"source": "The Verge",
+"title": "The FBI and USDA were reportedly hacked",
+"link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+"summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the Nat…",
+"published": 1795282947.0
+},
+{
+"source": "TechCrunch",
+"title": "Here are the top AI agents that can live in your text messages",
+"link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+"summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+"published": 1795280400.0
+},
+{
+"source": "TechCrunch",
+"title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+"link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+"summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+"published": 1795276800.0
+},
+{
+"source": "The Verge",
+"title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+"link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+"summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and …",
+"published": 1795276800.0
+},
+{
+"source": "The Verge",
+"title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+"link": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+"summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making…",
+"published": 1795276800.0
+},
+{
+"source": "TechCrunch",
+"title": "Alaska, your next governor is a Wikipedia nerd",
+"link": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+"summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+"published": 1795274309.0
+},
+{
+"source": "The Verge",
+"title": "Can Anthropic afford to put safety first?",
+"link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+"summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers…",
+"published": 1795273200.0
+},
+{
+"source": "The Verge",
+"title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+"link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+"summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail fo…",
+"published": 1795272928.0
+},
+{
+"source": "Solidot",
+"title": "地球 28 光年外发现一个三星系统",
+"link": "https://www.solidot.org/story?sid=85955",
+"summary": "天文学家在距离地球 28 光年处发现了一个三星系统，挑战了对恒星演化的现有观念。该系统被命名为 Welopōʻa，包括两颗白矮星和一颗红矮星。白矮星是类太阳恒星耗尽燃料后的高致密残骸，而红矮星则比太阳暗淡得多。天文学家是在红矮星周围寻找行星时意外发现这一三星结构的：这颗红矮星与另一颗白矮星近距离相互旋转，而另一颗更遥远的白矮星围着这两个天体旋转。地球 100 光年内从未发现了类似天体结构。红矮星与其中一个白矮星距离非常近，意味着白矮星之前的类太阳恒星在红巨星阶段必定会与红矮星…",
+"published": 1795272048.0
+},
+{
+"source": "Solidot",
+"title": "人类免疫系统衰老在 40 岁和 60 岁后会加速",
+"link": "https://www.solidot.org/story?sid=85954",
+"summary": "生死之旅从来不是平坦的。人体的衰老会呈现突然的跳跃加速，科学家正试图弄清楚衰老加速在细胞层面是何时发生的。发表在《Nature Communications》期刊上的一项研究调查了人类免疫系统，发现免疫系统衰老有两次突然加速。新加坡研究人员分析了 1828 名不同族裔、年龄在 19-97 岁之间健康个体的单细胞转录组。研究人员共对比了 380 万个免疫细胞，发现了基因活性发生显著变化的两次尖峰。两次尖峰分别出现在 40 岁左右和 60 岁后。每次尖峰人体内都出现炎症加剧，免疫…",
+"published": 1795271145.0
+},
+{
+"source": "Solidot",
+"title": "夜空中的人造卫星轨迹",
+"link": "https://www.solidot.org/story?sid=85953",
+"summary": "新西兰天文摄影师 Brendan Larsen 在今年 9 月的一个晚上，历时逾两个小时拍摄了 578 张夜空照片。随后通过后期拼接呈现出如今地球轨道上卫星的密集程度。他在 Photoshop 中叠加了这些照片，剔除了恒星，只保留卫星运行轨迹所产生的光迹。整个过程耗时约 45 小时，每张照片中大约包含 25 颗左右的卫星。最终呈现的照片包含了约 1400 颗不同卫星留下的 14000 条运行轨迹——这些卫星用途包括了气象监测、互联网通信和导航系统等，它们都拥挤着争夺着有限的空…",
+"published": 1795269943.0
+},
+{
+"source": "The Verge",
+"title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+"link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+"summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, …",
+"published": 1795269600.0
+},
+{
+"source": "The Verge",
+"title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+"link": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+"summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is …",
+"published": 1795266000.0
+},
+{
+"source": "The Verge",
+"title": "The game of the year is finally here",
+"link": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+"summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the In…",
+"published": 1795266000.0
+},
+{
+"source": "36氪",
+"title": "WISE2026「年度人物·产业攻坚者」名册正式发布丨他们，向产业深处走去",
+"link": "https://36kr.com/p/4079476599772038?f=rss",
+"summary": "“在行动和言说中，人们表明了他们是谁。” 汉娜·阿伦特在《人的境况》中讨论人的独特性，而商业世界习惯以浪潮辨认一代人。人工智能、具身智能、硬科技，几个词便能勾勒当下创业的轮廓。 2026年，这些词正在落到具体的人身上。创业者带着各自的技术积累走到台前，在算力、芯片、机器人乃至更长周期的科研方向上寻找机会。商业版图沿着技术的边界重新划分，判断一家公司的潜力，也越来越需要理解创业者究竟选中了什么问题。 但趋势解释不了全部。同一个时代提供相似的机会，人们带着不同的知识与经验进入其中…",
+"published": 1795265092.0
+},
+{
+"source": "Solidot",
+"title": "人类数学家匆忙发布广义黎曼猜想的证明手稿",
+"link": "https://www.solidot.org/story?sid=85952",
+"summary": "今年 9 月 OpenAI 宣布解决 Navier-Stokes 问题时引发了广泛争议，原因是当时有数学家正致力于解决该问题，而且已经取得了突破。现在 Anthropic 数学家发表几十万页的文档声称证明了黎曼猜想。数学家 Alessandro Maria Masullo 在广义黎曼猜想问题上投入了 12 年时间，他也取得了进展，其证明手稿正由另一名数学家 Brian Conrad 审阅，两人计划花一年时间完善手稿然后征求更多人意见后发表。但 Anthropic 的声明促使人…",
+"published": 1795259399.0
+},
+{
+"source": "Solidot",
+"title": "GTA 6 首日销售额达到创纪录的 37.9 亿美元",
+"link": "https://www.solidot.org/story?sid=85951",
+"summary": "GTA 6 开发商 Rockstar Games 母公司 Take-Two Interactive 披露，游戏的预购加上首日销售额达到创纪录的了 37.9 亿美元。这是娱乐产品历史上金额最高的首日收入，超过了《复仇者联盟 4：终局之战》的全球总票房 29 亿美元。Take-Two 未公布游戏具体的销售数量。GTA 6 的开发成本据估计可能超过 15 亿美元，为史上最昂贵的游戏。开发游戏的员工有 21% 约 1000 人在公司工作了超过 10 年时间，这在游戏公司中间是非常罕见…",
+"published": 1795258113.0
+},
+{
+"source": "Solidot",
+"title": "为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织",
+"link": "https://www.solidot.org/story?sid=85950",
+"summary": "位于美国佛罗里达州的 RansomwareHelp.com 向勒索软件受害者提供解密服务，它通过其官网督促受害者不要支付赎金，声称它的先进解密工具能将数据、服务器和系统 100% 恢复到原始状态，受害者不需要向勒索软件组织屈服。RansomwareHelp.com 称其密码学专家利用独有工具和算法，能实现 100% 的数据恢复，成功率超过 99%。这家成立六年的公司声称有逾 28 年的行业经验，拥有一支由 80 名密码学、网络安全、取证分析和逆向工程专家组成的团队。它表示不会…",
+"published": 1795255865.0
+},
+{
+"source": "36氪",
+"title": "中国通号：国内首款4.9GHz无蜂窝基站获证商用",
+"link": "https://36kr.com/newsflashes/4079229665236104?f=rss",
+"summary": "据中国通号消息，中国通号所属低空公司自主研发的4.9GHz无蜂窝移动通信基站，正式取得工业和信息化部颁发的电信设备进网许可证，成为国内首款获证的4.9GHz无蜂窝移动通信基站。（证券时报）",
+"published": 1795248419.0
+},
+{
+"source": "36氪",
+"title": "近期贵金属价格波动加剧，多家银行发布风险提示",
+"link": "https://36kr.com/newsflashes/4079229117404038?f=rss",
+"summary": "11月21日消息，近期贵金属价格波动加剧，工商银行、建设银行、招商银行11月20日发布关于贵金属市场波动风险的提示。工商银行建议投资者坚持适度均衡的原则，从中长期视角理性进行投资配置，守护资产安全。建设银行请投资者及时关注持仓情况和保证金余额变化情况，防范贵金属市场风险。招商银行提示投资者，合理控制贵金属资产持仓规模，避免短期投机或跟风交易，控制投资总量。（央视财经）",
+"published": 1795248386.0
+},
+{
+"source": "36氪",
+"title": "马斯克称FSD V15下个月将全面推送",
+"link": "https://36kr.com/newsflashes/4079212995089289?f=rss",
+"summary": "特斯拉CEO埃隆·马斯克在X平台上发帖称，FSD V15版本下个月将全面推送。他写道：“SFT（有监督微调）与其说是“微调”，倒不如说是“用电锯理发”！这种流程本应直接整合进基础训练阶段。而且，还要专门搞个“系统提示词”（system prompt），简直荒谬！模型默认的行为表现就该足够合理才对。上述观点在特斯拉的AI（虽然还称不上“超级”AI）上已经得到了体现。它是目前地球上最高效的AI。FSD V15下个月将全面推送。它一定会带来非凡的体验。”（新浪财经）",
+"published": 1795247402.0
+},
+{
+"source": "36氪",
+"title": "《GTA6》带动PS5价格持续上涨，Pro版本涨至1.6万元",
+"link": "https://36kr.com/newsflashes/4079173631874179?f=rss",
+"summary": "《侠盗猎车手6》（GTA 6）带动PS5价格持续上涨。目前PS5 Pro的价格仍在进一步走高。截至发稿，天猫自营国行PS5 Pro数字版报价11499元，港版报价15999元。得物App上，国行数字版报价8899元，港版报价12056元。多个平台的报价相比《GTA6》发售当天，普遍上涨1000至2000元。也就是说，想在自己家里用上能增强GTA6画面的PS5 Pro，实际支出普遍在8000元以上，港版现货甚至涨至1.6万元。（蓝鲸新闻）",
+"published": 1795244999.0
+},
+{
+"source": "36氪",
+"title": "中信建投食品饮料2027年投资策略：周期底部范式重构 红利守正成长出奇",
+"link": "https://36kr.com/newsflashes/4079154734257289?f=rss",
+"summary": "中信建投证券发布食品饮料2027年投资策略报告称，食饮选股新范式：优先选择自由现金流稳定、分红率与股息率可验证、位居行业龙头且格局稳定、管理层有明确的股东回报动作（回购注销、承诺分红）的公司；以“大盘红利底仓”（头部白酒、龙头乳企等高股息资产）承接确定性，以“成长突围资产”（大健康赛道、消费出海、国企改革等）+“周期困境反转资产”（牧业乳业、成本周期和涨价链）博取弹性，构成攻守兼备的哑铃结构。新投资范式下的三类资产投资框架：红利打底，成长突围，周期反转。主线一：红利资产，分为…",
+"published": 1795243846.0
+},
+{
+"source": "36氪",
+"title": "问界M9车主被曝开启辅助驾驶时睡觉，官方暂无回应",
+"link": "https://36kr.com/newsflashes/4079153796354949?f=rss",
+"summary": "近日，一位武汉问界M9车主在社交媒体上发布视频，炫耀自己出差返程时全程开启辅助驾驶，直接在驾驶位熟睡，引发关注。网络上流传的视频显示，该车主表示，“科技改变生活，全程智驾！出差回程太累了，倒头就睡。华为问界 M9全程智驾开回武汉。”他还称车子一共行驶6.3万公里，其中4万多公里都是全程智驾。目前，该车主的账号和视频已经无法搜索到。针对此事，截至发稿前，鸿蒙智行方面暂无回应。（新浪科技）",
+"published": 1795243789.0
+},
+{
+"source": "36氪",
+"title": "沐曦股份曦云C系列GPU率先完成腾讯混元Hy4 Day 0适配",
+"link": "https://36kr.com/newsflashes/4079148232168323?f=rss",
+"summary": "据沐曦股份消息，11月20日，腾讯混元正式开源Hy4。沐曦股份旗下曦云C系列GPU率先完成Hy4的Day 0适配。（财联社）",
+"published": 1795243449.0
+},
+{
+"source": "36氪",
+"title": "美新科技：子公司星曜宇航已启动4米级舱段生产",
+"link": "https://36kr.com/newsflashes/4079129043653510?f=rss",
+"summary": "美新科技在接待机构调研时表示，子公司四川星曜宇航航天科技有限公司成立于2026年2月，是一家专注于商业航天运载火箭全箭结构件的专业化企业。目前项目进展顺利，各类设备陆续进场安装中，10月底已启动了4米级舱段生产。（财联社）",
+"published": 1795242278.0
+},
+{
+"source": "36氪",
+"title": "美国证券交易委员会据悉正对英伟达潜在会计问题展开调查",
+"link": "https://36kr.com/newsflashes/4079125046449286?f=rss",
+"summary": "据美国媒体11月20日引述知情人士消息报道，美国证券交易委员会（SEC）正在对英伟达潜在会计问题展开调查。这一消息进一步加剧英伟达投资者的担忧情绪，英伟达股价当天跌超14%，报125.5美元，较10月高点243.4美元跌超48%，接近腰斩。从单周来看，英伟达股价重挫23%，创2008年10月以来最大单周跌幅，单周市值缩水近9000亿美元（约合人民币超6万亿元）。对比其10月6日的历史最高价，英伟达市值已累计蒸发约2.7万亿美元（约合人民币超18万亿元），最新市值为3.03万亿…",
+"published": 1795242034.0
+},
+{
+"source": "36氪",
+"title": "中信证券：预计全国性机制电价政策有望在2027年推出",
+"link": "https://36kr.com/newsflashes/4079025427747719?f=rss",
+"summary": "中信证券最新研报指出，随着沿海电价重回上涨，核电的周期性电价下降风险已经消除；火电容量电价推出后，核电面临结构性电价下降冲击，通过政策保障以应对该冲击极具必要性和可行性。考虑试点省市运行效果良好，中信证券预计全国性机制电价政策有望在2027年推出；2027~2028年，预计机制电价推出将提振核电公司业绩幅度约4%-6%。（财联社）",
+"published": 1795235954.0
+},
+{
+"source": "36氪",
+"title": "源杰科技独家直投芯钬量子A++轮融资",
+"link": "https://36kr.com/newsflashes/4079020257924233?f=rss",
+"summary": "11月20日晚，上海芯钬量子科技有限公司宣布完成A++轮融资，由源杰科技独家直投。此前，公司天使轮、A轮及A+轮分别由慧眼资本、京东方显智链和交银资本投资。本轮融资后，芯钬量子将围绕工业AI与多物理场仿真能力的深度融合持续加大投入。芯钬量子表示，未来还将探索量子计算、超导、光子芯片、自旋电子及拓扑物态等前沿领域的应用需求。（界面新闻）",
+"published": 1795235638.0
+},
+{
+"source": "36氪",
+"title": "优必选入选恒生科技指数，在资讯科技业中位列第14位",
+"link": "https://36kr.com/newsflashes/4079019737076616?f=rss",
+"summary": "恒生指数公司今日公布截至2026年9月30日的恒生指数系列季度检讨结果，人形机器人第一股优必选成功获纳入恒生科技指数成份股，在资讯科技业中位列第14位，权重水平将直接决定被动指数资金的配置规模。恒生指数公司表示，截至今年6月，跟踪恒生科技指数的基金资产规模达到404亿美元（约2725亿元人民币），根据权重测算，预计本次纳入恒科指数将会给优必选带来超过20亿港元增量资金。",
+"published": 1795235606.0
+},
+{
+"source": "36氪",
+"title": "比特币跌破56000美元，日内跌超6%",
+"link": "https://36kr.com/newsflashes/4079019133965185?f=rss",
+"summary": "11月21日，比特币跌破56000美元，日内跌超6%。（每日经济新闻）",
+"published": 1795235570.0
+},
+{
+"source": "TechCrunch",
+"title": "Startup sues Apple in India over tap-to-share contacts feature",
+"link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+"summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+"published": 1795233600.0
+},
+{
+"source": "少数派",
+"title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+"link": "https://sspai.com/post/119291",
+"summary": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ...查看全文",
+"published": 1795233600.0
+},
 {
 "source": "36氪",
 "title": "腾讯姚顺雨团队：Hy4仍有很大改进空间，计划训练更大规模模型",
 "link": "https://36kr.com/newsflashes/4078961086764168?f=rss",
 "summary": "11月21日凌晨，腾讯首席AI科学家姚顺雨带着混元团队出现在海外社交媒体社区，做了一场文字AMA（公开问答）。问答环节，有人直言：字节跳动和Kimi等（参数量）似乎都在往3T甚至5T推，你们为什么停在700B？混元团队回应：“Hy3和Hy4已经证明，较小的模型也能超越较大的模型，而且更便宜。”不过，混元团队也表示，Hy4仍有很大的改进空间，尤其是通过后训练。“我们正投入大量精力进行大规模强化学习，同时继续改善用户体验和模型安全。我们还计划训练更大规模的模型。”（每日经济新闻）",
 "published": 1795232027.0
+},
+{
+"source": "爱范儿",
+"title": "美股一夜崩盘，AI 泡沫真要破了？",
+"link": "https://www.ifanr.com/1690789?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "AI 泡沫要破了吗#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795231842.0
 },
 {
 "source": "36氪",
@@ -153,6 +496,13 @@
 "published": 1795226114.0
 },
 {
+"source": "爱范儿",
+"title": "刚刚，曝黎曼猜想被证明，Claude 立大功",
+"link": "https://www.ifanr.com/1690750?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "AI 恐怖如斯 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795224549.0
+},
+{
 "source": "36氪",
 "title": "9点1氪丨黄仁勋或将创办新公司；水贝金价一度跌破800元/克；纳指100进入技术性熊市",
 "link": "https://36kr.com/p/4078827757310856?f=rss",
@@ -168,6 +518,27 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Sovereignty starts with data, not chips, says Stuttgart AI factory chief",
+"link": "https://siliconangle.com/2026/11/21/sovereignty-data-not-chips-stuttgart-sovereign-ai-factory-sc26/",
+"summary": "A sovereign AI factory is only as valuable as the companies that can actually get onto it. Across Europe, publicly funded AI factories are racing to give startups and small manufacturers supercomputer-class GPUs without pushing them into lo…",
+"published": 1795297691.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Inference now drives two-thirds of AI workloads, changing where chips get deployed",
+"link": "https://siliconangle.com/2026/11/21/inference-two-thirds-ai-workloads-chip-deployment-positron-sc26/",
+"summary": "AI spending is shifting from giant training clusters toward smaller, quickly built sites, and modular data centers are becoming a natural home for inference workloads. Power, cooling and memory supply now shape where tokens get generated as…",
+"published": 1795285706.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Sovereign AI: Where control becomes an architectural requirement",
+"link": "https://siliconangle.com/2026/11/21/sovereign-ai-where-control-becomes-an-architectural-requirement/",
+"summary": "We believe sovereignty is becoming an architectural requirement for firms operating globally, especially in highly regulated industries. The business question for buyers is how much control an organization needs over the systems that produc…",
+"published": 1795283418.0
+},
 {
 "source": "SiliconANGLE",
 "title": "CrowdStrike reportedly in talks to acquire cybersecurity provider Zscaler",

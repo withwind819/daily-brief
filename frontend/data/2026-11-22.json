@@ -1,8 +1,71 @@
 {
 "date": "2026-11-22",
-"total": 12,
+"total": 48,
 "categories": {
 "AI": [
+{
+"source": "InfoQ 中国",
+"title": "财务团队的 AI 蓝图",
+"link": "https://www.infoq.cn/video/UUqekkOQ8haEXZ792UjU?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795370098.0
+},
+{
+"source": "InfoQ 中国",
+"title": "打造 AI 优先的销售与营销运营体系",
+"link": "https://www.infoq.cn/video/mihBFvImttvJlSFUqC49?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795369309.0
+},
+{
+"source": "InfoQ 中国",
+"title": "智能体企业新前沿：驱动高效智能",
+"link": "https://www.infoq.cn/video/Ly5HbhY4pNMCF04abkFo?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795369108.0
+},
+{
+"source": "The Decoder",
+"title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+"link": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+"summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy daily wor…",
+"published": 1795360548.0
+},
+{
+"source": "The Decoder",
+"title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+"link": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+"summary": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results. For Perplexity, the API is part of a broader s…",
+"published": 1795357228.0
+},
+{
+"source": "The Decoder",
+"title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+"link": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+"summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warns, though …",
+"published": 1795352443.0
+},
+{
+"source": "The Decoder",
+"title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+"link": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+"summary": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who were simply…",
+"published": 1795349276.0
+},
+{
+"source": "The Decoder",
+"title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+"link": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+"summary": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code. The solution arrived years earlier than expec…",
+"published": 1795345711.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Pinterest 联合英特尔将开源性能分析推向互联网级规模",
+"link": "https://www.infoq.cn/article/fs4IuBTjwIwR1xUgdjqt?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795345200.0
+},
 {
 "source": "InfoQ 中国",
 "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
@@ -16,9 +79,198 @@
 "link": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1795341600.0
+},
+{
+"source": "The Decoder",
+"title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+"link": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+"summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 Astra and So…",
+"published": 1795340497.0
+},
+{
+"source": "量子位",
+"title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+"link": "https://www.qbitai.com/2026/11/511904.html",
+"summary": "用葡萄糖发电控制血糖。",
+"published": 1795328507.0
+},
+{
+"source": "量子位",
+"title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+"link": "https://www.qbitai.com/2026/11/511870.html",
+"summary": "",
+"published": 1795327434.0
+},
+{
+"source": "OpenAI 博客",
+"title": "Perplexity and Intelligence",
+"link": "https://openai.com/index/perplexity-and-intelligence",
+"summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+"published": 1795305600.0
 }
 ],
 "科技": [
+{
+"source": "36氪",
+"title": "8点1氪丨黄仁勋遭董事会罢免主要原因曝光；零跑汽车回应“A10后备厢被几箱啤酒压穿底”；PS5 Pro涨至1.6万元",
+"link": "https://36kr.com/p/4081573022552962?f=rss",
+"summary": "今日热点导览 美国证券交易委员会据悉正对英伟达潜在会计问题展开调查 同名同姓引误读，搜狐张朝阳辟谣“被出具警示函” 小米从小鹏挖来了欧洲汽车业务负责人 菜百股份提示贵金属市场波动风险 马斯克称FSD V15下个月将全面推送 TOP 3大新闻 黄仁勋遭董事会罢免主要原因曝光：缺乏坦诚 两名熟悉英伟达董事长及其他董事私下讨论情况的人士透露，最终促使董事会做出决定的，是和黄仁勋“缺乏坦诚”、“撒谎”有关的多项问题。消息人士称，黄仁勋在11月8日承认存在婚外情。在随后数日，更多婚外情…",
+"published": 1795391457.0
+},
+{
+"source": "少数派",
+"title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+"link": "https://sspai.com/post/119418",
+"summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想OpenAI 公布反蒸馏举措黄仁勋据称将攻击下属作为管理方式GTA 6 首日销售额近 40 亿美元特斯拉升级 FSD，推出实景渲染功能AMD 股票被做空看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+"published": 1795390467.0
+},
+{
+"source": "The Verge",
+"title": "We haven’t seen the last of the major tech outages",
+"link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+"summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Directo…",
+"published": 1795387682.0
+},
+{
+"source": "爱范儿",
+"title": "iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始",
+"link": "https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "更多的新品，也不能消除苹果的 AI 焦虑#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795385948.0
+},
+{
+"source": "TechCrunch",
+"title": "‘You Can See Everything’ has made more than $100M worldwide",
+"link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+"summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+"published": 1795383768.0
+},
+{
+"source": "TechCrunch",
+"title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+"link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+"summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+"published": 1795382047.0
+},
+{
+"source": "TechCrunch",
+"title": "The best apps to make new friends right now",
+"link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+"summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+"published": 1795381200.0
+},
+{
+"source": "TechCrunch",
+"title": "Why data centers are at the center of the Big Tech backlash",
+"link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+"summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+"published": 1795370923.0
+},
+{
+"source": "The Verge",
+"title": "Delta flights in and out of Atlanta delayed due to system outage",
+"link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+"summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one o…",
+"published": 1795369604.0
+},
+{
+"source": "The Verge",
+"title": "Binding of Isaac developer removes AI music from Repentance Plus",
+"link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+"summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand …",
+"published": 1795368320.0
+},
+{
+"source": "TechCrunch",
+"title": "TechCrunch Mobility: A/B testing robots vs. humans",
+"link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+"summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+"published": 1795367160.0
+},
+{
+"source": "The Verge",
+"title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+"link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+"summary": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its …",
+"published": 1795366800.0
+},
+{
+"source": "The Verge",
+"title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+"link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+"summary": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Ur…",
+"published": 1795365209.0
+},
+{
+"source": "Solidot",
+"title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
+"link": "https://www.solidot.org/story?sid=85959",
+"summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足美国 65% 家庭的用电需求。研究人员调查了刚刚上市的 AI 公司 Anthropic 的用电需求。他们发现 Anthropic 未在美国承诺使用任何可再生能源，它近期斥资 34 亿美元承诺采购 1.7 GW 的燃气发电设备。与 Anthropic 签署算力合同的美国数据中心提供商绝大部分将使用化石燃料提供电力。研究人…",
+"published": 1795361523.0
+},
+{
+"source": "The Verge",
+"title": "Protesters storm Meta offices in India",
+"link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+"summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of p…",
+"published": 1795360507.0
+},
+{
+"source": "TechCrunch",
+"title": "Can a TV be too large? An investigation",
+"link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+"summary": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+"published": 1795359600.0
+},
+{
+"source": "The Verge",
+"title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+"link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+"summary": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knock…",
+"published": 1795356000.0
+},
+{
+"source": "The Verge",
+"title": "‘The show is starting soon. Please turn on your headphones.’",
+"link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+"summary": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black drawstring bag with a p…",
+"published": 1795356000.0
+},
+{
+"source": "The Verge",
+"title": "How Tamagotchis got us hooked on digital pets",
+"link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+"summary": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signed up to pa…",
+"published": 1795353327.0
+},
+{
+"source": "36氪",
+"title": "WISE2026「年度企业系列名册」正式发布丨成为自己的时代",
+"link": "https://36kr.com/p/4080920403743624?f=rss",
+"summary": "“你要成为你自己。” 尼采在《快乐的科学》中写下这句话。对于一家企业，“成为自己”也需要时间。名字可以在创办之初确定，它所代表的东西，要由此后许多年的选择慢慢写成。 2026年，AI与硬科技正在重塑中国商业的版图。今年的年度企业系列名册中，AI是无法绕过的重心。当一项技术成为各行各业共同的背景，赛道名称能够说明企业身处何处，却难以解释它何以独特。同一轮技术变革中，选中了什么问题，愿意为之投入多久，逐渐构成一家企业的轮廓。 这些选择正在形成更细致的产业分工。围绕一台机器人，本体…",
+"published": 1795352011.0
+},
+{
+"source": "Solidot",
+"title": "Waymo 无人驾驶出租车因旧金山洪水而陷入困境",
+"link": "https://www.solidot.org/story?sid=85958",
+"summary": "无人驾驶汽车暂时还无法应付洪水淹没道路的情况：今年早些时候 Waymo 的无人驾驶出租车因亚特兰大的洪水而受困；本周旧金山遭遇强降雨，多处街道被淹，这也导致了多辆 Waymo 汽车受困。Golden Gate Park Panhandle 旁的 Oak 街有两条车道被淹，积水从井盖涌出，Waymo 汽车停在了井盖前，堵住了一条可通行的车道，迫使后面的汽车从水更深的车道绕路。一名 Waymo 乘客搭乘出租车从 North Beach 到 Mission Bay，整个行程耗时一个…",
+"published": 1795348899.0
+},
+{
+"source": "Solidot",
+"title": "地球捕获了一颗迷你月球",
+"link": "https://www.solidot.org/story?sid=85957",
+"summary": "地球引力在今年四月捕获了一颗迷你小行星。这颗直径约 2 米的迷你月球将在地球轨道上一直停留到 12 月初，之后它将摆脱地球引力继续沿着绕太阳的轨道运行。由于其极其微小且暗淡，天文学家花了数周时间才确认它并非报废的人造卫星或卫星碎片。负责跟踪太阳系内小行星、彗星等天体的国际天文学联合会小行星中心在 10 月下旬将其命名为 2026 QQ8。地球其实并不缺乏迷你月球，天文学家曾多次用该名称描述被地球引力捕获的小行星：在地球轨道上停留约一年的 2006 RH120，绕地球运行约三年…",
+"published": 1795343467.0
+},
+{
+"source": "Solidot",
+"title": "丰田尼桑本田同意标准化零部件以降低成本",
+"link": "https://www.solidot.org/story?sid=85956",
+"summary": "日本三大汽车制造商丰田、尼桑和本田同意推进零部件标准化以降低制造成本。短期内标准化工作将从三个方面入手：统一钢材的质量标准、规范塑料和树脂的相关技术要求，统一线束的颜色编码方案。未来标准化范围将扩大至整车的更多零部件。选择这三个方面作为首批标准化对象，是因为它们通常不被消费者注意到，不会影响各大品牌的身份认同。而这三个方面在汽车制造商的生产成本中占比较大，采取标准化能带来立竿见影的成本削减效果。日本汽车制造商正面临来自中国汽车制造商日益激烈的竞争。",
+"published": 1795341907.0
+},
 {
 "source": "36氪",
 "title": "2026年度领航级智能工厂培育名单公布 陕西1家工厂入选",

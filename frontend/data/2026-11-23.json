@@ -1,0 +1,206 @@
+{
+"date": "2026-11-23",
+"total": 28,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "JDK 24之后的虚拟线程：生产环境的Java发生了哪些变化",
+"link": "https://www.infoq.cn/article/JSf8dl9laEVQLb7dCROQ?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795431600.0
+},
+{
+"source": "InfoQ 中国",
+"title": "具身智能进入大浪淘沙阶段，企业需要怎样的人才？",
+"link": "https://www.infoq.cn/article/a22y9GDY1yHuAJkOIF8z?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795430914.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了",
+"link": "https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795425656.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "蚂蚁百灵开源医疗健康模型LingSante-3.1-flash",
+"link": "https://36kr.com/newsflashes/4081776064140163?f=rss",
+"summary": "36氪获悉，11月23日，蚂蚁宣布开源百灵医疗健康模型LingSante-3.1-flash，模型在多项推理、安全对齐和Agent评测中达到开源SOTA。根据全球医疗AI评测平台InclusionMed综合指数，该模型位列全球开源模型首位。据悉，该模型面向专业医疗场景，支持最长1M Token上下文，能够处理大量病历、检查报告和医学文献，开展复杂病例分析、医学证据检索与综合，并通过工具调用辅助完成多步骤医疗任务。目前，该模型已在蚂蚁阿福上使用。",
+"published": 1795403839.0
+},
+{
+"source": "36氪",
+"title": "“固态锂电池标准项目组”将成立，正式编制《固态锂离子电池和电池组安全技术规范》",
+"link": "https://36kr.com/newsflashes/4081773620909191?f=rss",
+"summary": "从工信部锂离子电池及类似产品标准工作组获悉，根据国家标准委关于下达2026年第八批推荐性国家标准计划及相关标准外文版计划的通知，推荐性国家标准《固态锂离子电池和电池组安全技术规范》正式下达制定计划，该标准由339-1（工业和信息化部（电子））提出并归口，委托中国电子技术标准化研究院组织起草。中国电子技术标准化研究院作为工信部锂离子电池及类似产品标准工作组的秘书处单位，将联合国内锂离子电池领域产、学、研、用等单位共同开展该标准的编制工作。现拟在工作组下成立“固态锂电池标准项目组…",
+"published": 1795403690.0
+},
+{
+"source": "The Verge",
+"title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+"link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+"summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But whi…",
+"published": 1795402800.0
+},
+{
+"source": "36氪",
+"title": "马斯克称存储芯片涨价使特斯拉AI4车载电脑成本翻倍",
+"link": "https://36kr.com/newsflashes/4081755206538115?f=rss",
+"summary": "特斯拉CEO埃隆·马斯克11月22日表示，受全球DRAM内存和NAND闪存价格上涨影响，特斯拉AI4车载计算机的物料成本已经翻倍。（新浪财经）",
+"published": 1795402566.0
+},
+{
+"source": "36氪",
+"title": "宁德时代在福建成立海上风电公司，注册资本1000万",
+"link": "https://36kr.com/newsflashes/4081746145236098?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，福建润培海上风电有限公司成立，法定代表人为周国飞，注册资本1000万元人民币，经营范围含发电业务、输电业务、供（配）电业务等。股东信息显示，该公司由宁德时代旗下时代绿色能源有限公司全资持股。",
+"published": 1795402013.0
+},
+{
+"source": "36氪",
+"title": "恒生指数盘中跌破22000点关口",
+"link": "https://36kr.com/newsflashes/4081745407300486?f=rss",
+"summary": "36氪获悉，恒生指数盘中跌破22000点关口，创2025年4月30日以来新低。",
+"published": 1795401968.0
+},
+{
+"source": "36氪",
+"title": "A股三大指数均跌超1%",
+"link": "https://36kr.com/newsflashes/4081740932781184?f=rss",
+"summary": "36氪获悉，A股三大指数均跌超1%，科创50指数跌超4%；房地产、半导体、军工、家电等方向跌幅居前；沪深京三市下跌个股超4800只",
+"published": 1795401695.0
+},
+{
+"source": "36氪",
+"title": "证券业人工智能应用发展联盟正式成立",
+"link": "https://36kr.com/newsflashes/4081740361290627?f=rss",
+"summary": "36氪获悉，据中证协消息，11月20日，证券业人工智能应用发展联盟成立大会在杭州召开。联盟由中国证监会科技监管司指导，中国证券业协会牵头，联合证券公司、科技企业共21家机构共同发起，是非法人、非营利的开放性行业协作平台，旨在统筹整合行业产学研用资源，协同推进人工智能技术在证券行业规范稳妥落地，重点围绕共性技术攻关与前沿研究、标准制定与合规规范、产业协同与创新应用、风险监测与安全治理等方面开展工作。",
+"published": 1795401660.0
+},
+{
+"source": "36氪",
+"title": "国内首个，蚂蚁阿福上线实时视频功能，实现AI“望闻问切”",
+"link": "https://36kr.com/newsflashes/4081738682045569?f=rss",
+"summary": "11月23日，蚂蚁集团旗下健康AI蚂蚁阿福发布新版：基于蚂蚁百灵医疗健康系列模型，新增实时视频“看健康”功能，用户可给阿福打视频电话，让AI看症状、看状态、看药品，实现AI“望闻问切”，分析健康问题，并可联动医生在线把关。此外，阿福App还升级了“AI健康管家”能力，可个性化制定减重、控糖、育儿等专业方案，并陪伴用户达成。",
+"published": 1795401558.0
+},
+{
+"source": "36氪",
+"title": "AI体育硬件公司“英汉思动力Enhanced Robotics”完成超亿元B轮融资",
+"link": "https://36kr.com/newsflashes/4081734258234246?f=rss",
+"summary": "36氪获悉，近日，AI体育硬件公司“英汉思动力Enhanced Robotics”完成超亿元B轮融资，投资方为国科投资。本轮资金将重点投向技术研发迭代、产能升级扩容与市场化落地，并进一步加码海外渠道建设，搭建稳定的海外经销与用户服务体系。",
+"published": 1795401288.0
+},
+{
+"source": "36氪",
+"title": "美国达美航空超2000个航班因系统故障延误或取消",
+"link": "https://36kr.com/newsflashes/4081728846549896?f=rss",
+"summary": "美国最大的航空公司之一——达美航空公司11月22日因技术系统出现故障，导致当日全美范围内超过2000架次达美航空航班出现延误或被取消。根据航班追踪网站发布的数据，截至美东时间22日18时30分，全美范围内有多达1975架次达美航空航班出现延误，约占当日达美航空航班总架次的58%。此外，有108架次达美航空航班被取消。达美航空当天对媒体表示，其中约70%的航班延误与自动化系统故障有关，其余延误则是由恶劣天气等原因导致。（新华社）",
+"published": 1795400957.0
+},
+{
+"source": "36氪",
+"title": "塔塔钢铁拟最高1551亿印度卢比收购APL Apollo Tubes 26.38%股权，并发起公开收购",
+"link": "https://36kr.com/newsflashes/4081721303536773?f=rss",
+"summary": "11月23日，塔塔钢铁宣布，已与APL Apollo Tubes主要股东S Gupta Holding Private Limited签署股份购买协议，拟以最高约1551.06亿印度卢比现金收购后者所持APL Apollo Tubes约26.38%的股权，分三阶段完成，交易价格均为每股2100卢比，预计最迟于2028年3月31日前完成。同时，塔塔钢铁将以每股2301.40卢比的价格向APL Apollo Tubes公众股东发起强制公开收购，拟收购最多26%的股权，若获全额接受…",
+"published": 1795400497.0
+},
+{
+"source": "36氪",
+"title": "悦安新材等在赣州成立新公司，注册资本3200万",
+"link": "https://36kr.com/newsflashes/4081688406987648?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，江西悦纳新材料有限公司成立，法定代表人为张阳，注册资本3200万元人民币，经营范围包括有色金属合金制造、有色金属合金销售、金属制品销售等。股东信息显示，该公司由江西悦安新材料股份有限公司、海口渝城企业管理服务合伙企业（有限合伙）、海口众行企业管理服务合伙企业（有限合伙）共同持股。",
+"published": 1795400229.0
+},
+{
+"source": "36氪",
+"title": "海致科技获纳入恒生科技指数成份股",
+"link": "https://36kr.com/newsflashes/4081716848628610?f=rss",
+"summary": "近日，恒生指数有限公司刊发季度检讨结果公告，海致科技获纳入恒生科技指数成份股。相关变动将于12月4日收市后实施，并于12月7日起正式生效。从挂牌上市，到纳入覆盖香港市场整体的宽基指数，再到跻身聚焦科技主题的旗舰指数，海致科技仅用了9个月。",
+"published": 1795400225.0
+},
+{
+"source": "36氪",
+"title": "Babycare李阔：亲历一场风暴，许多模糊的理解变具体了｜专访",
+"link": "https://36kr.com/p/4079471785186184?f=rss",
+"summary": "文｜任彩茹 编辑｜乔芊 2026年6月18日，一则“纸尿裤有毒”的消息登上热搜第一，业内外一片哗然。 舆论带来的影响迅速而直观。这是618大促的最后一天，而Babycare作为被点名的品牌之一，当天退货率冲上90%。创始人李阔来到会议室的感受是，“气氛太压抑了，每个人的表情都如临大敌、委屈、肃穆”。他返回办公室，拿了一些饮料和巧克力，用轻松的语气说：“大家先吃点甜的，我们再来聊如何应对。” 舆论之前，Babycare今年上半年的业绩一路飘红，增速超过20%。 从事件的烈度和影…",
+"published": 1795399752.0
+},
+{
+"source": "36氪",
+"title": "宇树科技一度大涨近9%，股价重回到600元以上",
+"link": "https://36kr.com/newsflashes/4081704970507144?f=rss",
+"summary": "36氪获悉，宇树科技一度大涨近9%，股价重回到600元以上。",
+"published": 1795399500.0
+},
+{
+"source": "36氪",
+"title": "四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品",
+"link": "https://36kr.com/newsflashes/4081700061893507?f=rss",
+"summary": "36氪获悉，国家发展改革委、民政部、国家卫生健康委、教育部印发《“一老一小”服务体系建设实施方案》。其中提出，支持养老、托育机构应用智能管理服务、智慧消防安防等系统，提升管理水平。推动养老机构配置智能健康监测、辅助器具等设备。鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品，支持在养老机构、社区等场景应用或设置体验区。鼓励有条件的地方利用电子政务服务平台等汇总各类信息，为家庭获取上门服务提供便利渠道。",
+"published": 1795399201.0
+},
+{
+"source": "36氪",
+"title": "四部门：到2030年3岁以下婴幼儿入托率较2025年提高6个百分点",
+"link": "https://36kr.com/newsflashes/4081699751170944?f=rss",
+"summary": "36氪获悉，国家发展改革委、民政部、国家卫生健康委、教育部印发《“一老一小”服务体系建设实施方案》。其中提出，到2030年，养老、托育服务设施布局更加合理、条件明显改善，医养结合持续深化，“一老一小”服务体系进一步健全、供需适配度进一步提高，养老机构护理型床位占比达到73%，社区养老服务机构和设施覆盖率达到70%，3岁以下婴幼儿入托率较2025年提高6个百分点，覆盖城乡、布局合理、价格可接受、质量有保障的普惠养老、托育服务供给格局基本形成。",
+"published": 1795399182.0
+},
+{
+"source": "36氪",
+"title": "蚂蚁集团旗下公司等入股微面科技",
+"link": "https://36kr.com/newsflashes/4081687852602244?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，北京微面科技有限公司发生工商变更，新增蚂蚁集团旗下上海云玚企业管理咨询有限公司、首形科技（上海）有限公司等为股东，同时，注册资本由约113.6万元人民币增至约139.8万元人民币。该公司成立于2025年7月，法定代表人为唐健凯，经营范围包括人工智能理论与算法软件开发、人工智能基础软件开发、人工智能公共数据平台等，现由唐健凯、北京百面科技中心（有限合伙）及上述新增股东等共同持股。",
+"published": 1795398455.0
+},
+{
+"source": "36氪",
+"title": "AI抛售潮来袭，新兴市场股票势将抹去2026年全部涨幅",
+"link": "https://36kr.com/newsflashes/4081686973485954?f=rss",
+"summary": "随着市场对人工智能交易可持续性的担忧不断加剧，抛售潮从美国蔓延至亚洲，新兴市场股票正面临抹去今年全部涨幅的局面。周一，MSCI新兴市场股指下跌1.2%至1404.03点，有望创下自2023年以来最长的“八连跌”纪录。上周五，该指数较6月份的高点下跌逾20%，正式进入技术性熊市。（新浪财经）",
+"published": 1795398402.0
+},
+{
+"source": "36氪",
+"title": "“化合积电”完成B+轮融资，东山精密投资入股",
+"link": "https://36kr.com/newsflashes/4081681920562049?f=rss",
+"summary": "36氪获悉，近日，“化合积电”完成B+轮融资，东山精密全资产业投资平台——东山产业投资入股，福建金投和兴证资本等创投基金跟投，老股东万久科技（金东石）持续加码。木雁资本将担任化合积电后续融资独家财务顾问。",
+"published": 1795398093.0
+},
+{
+"source": "36氪",
+"title": "创业板指、北证50指数双双翻红",
+"link": "https://36kr.com/newsflashes/4081675784868993?f=rss",
+"summary": "36氪获悉，创业板指、北证50指数双双翻红。",
+"published": 1795397719.0
+},
+{
+"source": "TechCrunch",
+"title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+"link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+"summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+"published": 1795397153.0
+},
+{
+"source": "爱范儿",
+"title": "华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
+"link": "https://www.ifanr.com/1690613?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "面向 AI，面向世界，面向未来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795395454.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元",
+"link": "https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "· 曝小米汽车欧洲团队再添一名前小鹏高管 · 神舟二十四号完成发射前最后一次全区合练 · AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45%#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795393524.0
+}
+]
+}
+}

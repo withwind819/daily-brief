@@ -1,8 +1,15 @@
 {
 "date": "2026-11-21",
-"total": 84,
+"total": 86,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Pandex – Official European Law for AI Agents, over MCP",
+"link": "https://www.pandex.io",
+"summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 140 # Comments: 36",
+"published": 1795294061.0
+},
 {
 "source": "The Decoder",
 "title": "Nvidia researchers argue huge AI context windows are a dead end",
@@ -128,6 +135,13 @@
 "link": "https://www.qbitai.com/2026/11/511757.html",
 "summary": "还透露了不少训练背后的秘诀",
 "published": 1795242655.0
+},
+{
+"source": "HN AI 热门",
+"title": "ClawDOS – An AI coding agent for DOS",
+"link": "http://ricapar.net/ClawDOS/",
+"summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 175 # Comments: 52",
+"published": 1795239481.0
 }
 ],
 "科技": [

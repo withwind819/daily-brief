@@ -1,8 +1,15 @@
 {
 "date": "2026-11-22",
-"total": 48,
+"total": 53,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+"link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+"summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 749 # Comments: 304",
+"published": 1795381276.0
+},
 {
 "source": "InfoQ 中国",
 "title": "财务团队的 AI 蓝图",
@@ -39,11 +46,25 @@
 "published": 1795357228.0
 },
 {
+"source": "HN AI 热门",
+"title": "Show HN: I built a game where you are an LLM's subagent",
+"link": "https://github.com/gulivan/worker755",
+"summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 357 # Comments: 89",
+"published": 1795355818.0
+},
+{
 "source": "The Decoder",
 "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
 "link": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
 "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warns, though …",
 "published": 1795352443.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI is becoming a disaster for the climate",
+"link": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+"summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the Comments URL: https://news.ycombinator.com/item?id=50598961 Points: 134 # Comments: 64",
+"published": 1795349986.0
 },
 {
 "source": "The Decoder",
@@ -100,6 +121,20 @@
 "link": "https://www.qbitai.com/2026/11/511870.html",
 "summary": "",
 "published": 1795327434.0
+},
+{
+"source": "HN AI 热门",
+"title": "AI Supply Chain Security: What Canary Tokens Found",
+"link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+"summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 104 # Comments: 22",
+"published": 1795324303.0
+},
+{
+"source": "HN AI 热门",
+"title": "The Mythology of Conscious AI",
+"link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+"summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 181 # Comments: 550",
+"published": 1795313402.0
 },
 {
 "source": "OpenAI 博客",

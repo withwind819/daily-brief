@@ -1,6 +1,6 @@
 {
 "date": "2026-11-22",
-"total": 53,
+"total": 57,
 "categories": {
 "AI": [
 {
@@ -9,6 +9,13 @@
 "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
 "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 749 # Comments: 304",
 "published": 1795381276.0
+},
+{
+"source": "HN AI 热门",
+"title": "Harvard CS 2881R AI Safety",
+"link": "https://boazbk.github.io/mltheoryseminar/",
+"summary": "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 81 # Comments: 8",
+"published": 1795370514.0
 },
 {
 "source": "InfoQ 中国",
@@ -102,6 +109,13 @@
 "published": 1795341600.0
 },
 {
+"source": "HN AI 热门",
+"title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+"link": "https://simonwillison.net/2026/Nov/21/muru/",
+"summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 80 # Comments: 12",
+"published": 1795341421.0
+},
+{
 "source": "The Decoder",
 "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
 "link": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
@@ -170,6 +184,13 @@
 "source": "爱范儿",
 "title": "iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始",
 "link": "https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "更多的新品，也不能消除苹果的 AI 焦虑#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795385948.0
+},
+{
+"source": "爱范儿",
+"title": "iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始",
+"link": "https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign",
 "summary": "更多的新品，也不能消除苹果的 AI 焦虑#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
 "published": 1795385948.0
 },
@@ -338,6 +359,13 @@
 "source": "爱范儿",
 "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
 "link": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
+"summary": "AI 恐怖如斯#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795311314.0
+},
+{
+"source": "爱范儿",
+"title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+"link": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign",
 "summary": "AI 恐怖如斯#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
 "published": 1795311314.0
 },

@@ -1,0 +1,327 @@
+{
+"date": "2026-11-25",
+"total": 45,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障",
+"link": "https://www.infoq.cn/article/YAc2TqCHc09kAFF1A7BS?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795611600.0
+},
+{
+"source": "InfoQ 中国",
+"title": "领英自研 GitOps 引擎替代 Argo CD，用于 Kubernetes 部署",
+"link": "https://www.infoq.cn/article/bRlUV5HDDY68ocVwWKOk?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795608000.0
+},
+{
+"source": "InfoQ 中国",
+"title": "作者访谈：finprim——TypeScript 金融校验统一库实践案例",
+"link": "https://www.infoq.cn/article/xcfFQPW9fF1hVHyOdE0R?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795604400.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Octop 托管 CodeBuddy 实战：打造 7×24 小时在线的 AI 程序员",
+"link": "https://www.infoq.cn/article/cgiP7vstrXKH94L1zj76?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795602602.0
+},
+{
+"source": "InfoQ 中国",
+"title": "用 Super-agent 的理念，拆解 Octop 团队模式",
+"link": "https://www.infoq.cn/article/xJVcbBYI4m86a9TIA6HH?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795602524.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Clipto首席科学家韩玫已确认出席 AICon北京，分享Agent 的长上下文从哪里来",
+"link": "https://www.infoq.cn/article/XpM5q7sE88iSlxNsRrVu?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795600800.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Cloudflare 正式推出 Basin 无服务器分析服务",
+"link": "https://www.infoq.cn/article/235X0EQdwejPvQYvlali?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795600800.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Google Cloud 终于能“封顶”账单了，但超出的费用仍可能照常收",
+"link": "https://www.infoq.cn/article/Wl4EJAhaA33aGwbqxwTS?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795600800.0
+},
+{
+"source": "InfoQ 中国",
+"title": "性能提升 6.4 倍、依赖归零，Effect 4.0 值得立即升级吗？",
+"link": "https://www.infoq.cn/article/f1gd1zOMyb76FoYtYEsG?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795593600.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "贝莱德、IFM据悉考虑下调对Stack数据中心的收购报价",
+"link": "https://36kr.com/newsflashes/4084715217119621?f=rss",
+"summary": "11月25日，据报道，知情人士称，因行业波动加剧，由贝莱德和IFM Investors组成的财团正在考虑下调对Stack Infrastructure亚太地区数据中心的收购报价。知情人士称，该投资集团可能会削减要约中的股权部分，并将部分付款与项目交付情况挂钩。目前讨论仍在进行中，尚未做出最终决定。（界面）",
+"published": 1795583231.0
+},
+{
+"source": "36氪",
+"title": "中美贸易理事会项下农业工作组首次会议在京举行",
+"link": "https://36kr.com/newsflashes/4084710375795331?f=rss",
+"summary": "36氪获悉，据商务部网站，11月23-24日，中美双方在北京举行中美贸易理事会项下农业工作组首次会议。双方以中美元首会晤重要共识为引领，就农产品监管及市场准入、农产品贸易等议题进行了坦诚、深入、建设性的交流。双方将继续通过农业工作组加强沟通，推动解决各自农业领域关切，助力中美经贸关系健康、稳定、可持续发展。",
+"published": 1795582936.0
+},
+{
+"source": "36氪",
+"title": "越南计划于2028年启动高铁项目",
+"link": "https://36kr.com/newsflashes/4084708932528521?f=rss",
+"summary": "市场消息：越南计划于2028年启动高铁项目。（新浪财经）",
+"published": 1795582847.0
+},
+{
+"source": "36氪",
+"title": "Jeep将在3年内推多款新能源车，第一款明年上市",
+"link": "https://36kr.com/newsflashes/4084705686514057?f=rss",
+"summary": "11月25日，Stellantis（上海）汽车有限公司总经理潘立胤表示，公司已经明确了Jeep品牌未来的产品规划，接下来三年将带来多款新能源车型，价格区间覆盖入门、主流市场并延伸至豪华赛道。（新浪财经）",
+"published": 1795582649.0
+},
+{
+"source": "36氪",
+"title": "久远银海：公司自研的“银海闻语”大模型已应用于医疗医保、数字政务和智慧城市等领域",
+"link": "https://36kr.com/newsflashes/4084699238328704?f=rss",
+"summary": "36氪获悉，久远银海在互动平台表示，公司自研的“银海闻语”大模型已应用于医疗医保、数字政务和智慧城市等领域。",
+"published": 1795582256.0
+},
+{
+"source": "36氪",
+"title": "阿里健康宣布战略核心方向：做中国家庭长期可托付的AI健康管家",
+"link": "https://36kr.com/newsflashes/4084692544891527?f=rss",
+"summary": "11月25日，阿里健康在2027财年中期业绩分析师会上宣布公司下阶段战略重心：战略聚焦家庭健康，做中国家庭长期可托付的AI健康管家。公司将以“家庭健康档案”和“个人健康模型”为核心引擎，为中国有健康管理需求的家庭，精准定制覆盖防、筛、诊、治、康及保险支付全链路的长期解决方案。阿里健康董事会主席兼首席执行官余涌在会上表示：未来将深度绑定千问和集团多元用户场景，构建健康管理与服务闭环的Agent，为千问、淘宝、天猫、阿福等应用提供健康服务支撑。",
+"published": 1795581847.0
+},
+{
+"source": "36氪",
+"title": "独家谈判启动，比亚迪拟再买一家欧洲工厂",
+"link": "https://36kr.com/newsflashes/4084692285598081?f=rss",
+"summary": "法国时间11月24日，比亚迪确认，已与英力士汽车（INEOS Automotive）展开独家谈判，拟收购后者位于法国汉巴赫的制造工厂。该拟议交易仍须经相关企业工会协商。比亚迪称，公司目标是在汉巴赫工厂生产车辆时，充分考虑欧洲驾驶员的需求。据悉，通过这一收购项目，比亚迪将维持汉巴赫工厂的生产运营，支持当地就业，并为当地员工和供应商创造新的机遇。将制造环节更靠近欧洲消费者，是比亚迪强化在电动出行领域的领导地位并助力欧洲汽车工业发展的战略组成部分。（第一财经）",
+"published": 1795581831.0
+},
+{
+"source": "36氪",
+"title": "创业板引入做市商制度在即，券商积极筹备技术、业务准备",
+"link": "https://36kr.com/newsflashes/4084690952497797?f=rss",
+"summary": "深交所11月22日发布消息称创业板拟引入做市商制度，并起草细则性文件征求意见。最新获悉，深交所已向券商下发通知，要求券商按时做好开展创业板股票做市交易业务相关业务和技术准备，旨在确保做市商制度平稳落地，相关要求包括明确做市业务牵头负责人、开展技术相关筹备工作等等。目前，券商正陆续执行相关交易所安排。受访人士观点认为，创业板引入做市商制度是深化创业板改革的重要举措，有助于提高投资者成交效率、降低交易成本，进一步壮大稳市力量、增强市场韧性。（财联社）",
+"published": 1795581750.0
+},
+{
+"source": "36氪",
+"title": "我国首套600MW级压缩空气储能系统膨胀机顺利下线",
+"link": "https://36kr.com/newsflashes/4084681607653767?f=rss",
+"summary": "近日，我国在压缩空气储能系统研发领域取得重大突破。由中国科学院工程热物理研究所联合中储国能（北京）技术有限公司研制的国际首套600MW级压缩空气储能系统膨胀机完成集成测试，顺利下线。（央视新闻）",
+"published": 1795581180.0
+},
+{
+"source": "36氪",
+"title": "美好医疗：脑机接口植入体产品已进入小批量供货阶段",
+"link": "https://36kr.com/newsflashes/4084661432641924?f=rss",
+"summary": "36氪获悉，美好医疗在互动平台表示，公司作为全球人工植入耳蜗龙头企业的战略合作伙伴与核心供应商，积累了丰富的精密制造经验。在此基础上，公司将相关核心工艺能力延伸至脑机接口植入体业务，逐步构建了涵盖精密注塑、钛合金加工、微组装、封装、检测等关键环节的能力体系，能够为下游客户提供从工艺开发到批量交付的制造支持。公司脑机接口植入体产品已进入小批量供货阶段，后续规模化落地节奏主要取决于下游客户的临床进展、产品注册以及商业化进程。",
+"published": 1795580743.0
+},
+{
+"source": "36氪",
+"title": "希音：与美国FTC订立协议，公司将向美国财政部支付1亿美元",
+"link": "https://36kr.com/newsflashes/4084673754278528?f=rss",
+"summary": "36氪获悉，希音在港交所公告，诚如公司日期为2026年8月24日的招股章程及2026年9月28日的2026中期报告所披露，美国联邦贸易委员会就公司在美国的业务运营开展了调查。公司宣布，为符合集团之客户、员工及业务的最佳利益，已于2026年11月24日与FTC就该调查订立一份协议。该协议将于有关法院批准后生效。根据该协议，公司将向美国财政部支付1亿美元的款项。该款项将于该协议生效后30日内支付。该协议并不构成公司对FTC相关指控的承认，本公司对FTC就本集团业务和合规实践所作的…",
+"published": 1795580700.0
+},
+{
+"source": "36氪",
+"title": "福立旺增资至4.58亿，增幅约14%",
+"link": "https://36kr.com/newsflashes/4084659637447296?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，福立旺精密机电（中国）股份有限公司发生工商变更，注册资本由约4.03亿元人民币增至约4.58亿元人民币，增幅约14%。该公司成立于2006年5月，法定代表人为许惠钧，经营范围包括风动和电动工具制造、金属工具制造、金属制日用品制造等。股东信息显示，该公司由WINWIN OVERSEAS GROUP LIMITED、卢大光、香港中央结算有限公司等共同持股。",
+"published": 1795580454.0
+},
+{
+"source": "36氪",
+"title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+"link": "https://36kr.com/newsflashes/4084659139865219?f=rss",
+"summary": "据中国载人航天工程办公室消息，神舟二十四号载人飞船入轨后，于北京时间2026年11月25日11时56分，成功对接于空间站天和核心舱前向端口，整个对接过程历时约3.5小时。按任务计划，3名航天员随后将从神舟二十四号载人飞船进入空间站天和核心舱。神舟二十三号航天员乘组已做好迎接神舟二十四号航天员乘组进驻各项准备工作。（央视新闻）",
+"published": 1795579808.0
+},
+{
+"source": "36氪",
+"title": "恒指午间休盘涨0.21%，恒生科技指数涨0.2%",
+"link": "https://36kr.com/newsflashes/4084651909818759?f=rss",
+"summary": "36氪获悉，恒指午间休盘涨0.21%，恒生科技指数涨0.2%；零售、消费者服务、食品饮料板块走强，名创优品涨超7%，呷哺呷哺涨超6%，阿里健康涨超4%；半导体、电气设备板块下挫，华虹宏力跌超13%，宁德时代跌6%；南向资金净流出2.47亿港元。",
+"published": 1795579367.0
+},
+{
+"source": "36氪",
+"title": "雅戈尔董事长在上海成立信息咨询公司，注册资本1000万",
+"link": "https://36kr.com/newsflashes/4084638340295302?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，上海嘉锐泰信息咨询有限公司成立，法定代表人为雅戈尔董事长李寒穷，注册资本1000万元人民币，经营范围为信息技术咨询服务、信息咨询服务、社会经济咨询服务。股东信息显示，该公司由李寒穷全资持股。",
+"published": 1795578539.0
+},
+{
+"source": "36氪",
+"title": "半日主力资金加仓通信板块，抛售银行板块",
+"link": "https://36kr.com/newsflashes/4084634755819905?f=rss",
+"summary": "主力资金早间净流入通信、医药生物、有色金属等板块，净流出银行、电子、家用电器等板块。具体到个股来看，天孚通信、青山纸业、胜宏科技获净流入13.51亿元、8.09亿元、6.39亿元。净流出方面，寒武纪、中京电子、华虹宏力遭抛售4.17亿元、4.14亿元、4.02亿元。（第一财经）",
+"published": 1795578320.0
+},
+{
+"source": "36氪",
+"title": "鸿富诚：公司募投项目按计划推进中",
+"link": "https://36kr.com/newsflashes/4084633080506757?f=rss",
+"summary": "36氪获悉，鸿富诚在互动平台表示，公司募投项目按计划推进中。因基地建成及产线导入需要一定周期，现有产能承载趋于饱和，收购现成厂房可缩短建设周期，与募投项目形成衔接补充。",
+"published": 1795578218.0
+},
+{
+"source": "36氪",
+"title": "A股三大指数午间休盘集体下跌，零售股逆势拉升",
+"link": "https://36kr.com/newsflashes/4084621563488640?f=rss",
+"summary": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌1.01%，深成指跌1.19%，创业板指跌1.72%；光刻机、先进封装、GPU概念下挫，北方华创跌超8%，联合化学跌超7%，蓝箭电子跌超5%；零售、教育、餐饮旅游板块拉升，中央商场、百大集团、中公教育涨停，凯撒旅业涨超5%。",
+"published": 1795577515.0
+},
+{
+"source": "36氪",
+"title": "机器人上班、火箭卫星登场｜WISE把一座未来之城搬到了现场",
+"link": "https://36kr.com/p/4084605857753478?f=rss",
+"summary": "WISE2026未来之城展区怎么逛？最新打开方式，一文解锁。今年，WISE将在现场设置约1000平方米的未来展区。我们不把科技产品摆进展柜，我们把一座正在生长的“未来之城”，提前开放给所有人。 在现场给机器人安排了工作 在未来展区，你会见到一群已经“找到工作”的机器人。优理奇科技将带来机器人乐队，光谷东智的机器人则准备转行当摄影师。你可以围观机器人如何完成一场协同表演，也可以思考一个问题：当机器人具备更好的感知、控制和协作能力，它是否会成为未来内容现场的一部分？ 站到指定位置…",
+"published": 1795576637.0
+},
+{
+"source": "36氪",
+"title": "星巴克据悉正与银行洽谈出售其日本业务事宜",
+"link": "https://36kr.com/newsflashes/4084605874514560?f=rss",
+"summary": "据知情人士透露，星巴克已聘请顾问，为可能以数十亿美元的价格出售其日本业务做准备。这家美国咖啡连锁店正在与包括花旗和摩根士丹利在内的多家银行合作。知情人士称，该公司已开始试探一些战略和财务投资者的兴趣。正式的流程最早可能在今年启动。星巴克在日本拥有约2000家咖啡店，是该公司最大的市场之一。知情人士称，有关该业务的讨论仍在进行中，最终可能不会达成出售协议。星巴克发言人表示，公司会持续评估最适合顾客并为股东创造价值的组织架构。该发言人还表示，星巴克在日本拥有强劲的业务，已在日本经…",
+"published": 1795576557.0
+},
+{
+"source": "少数派",
+"title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
+"link": "https://sspai.com/post/118791",
+"summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+"published": 1795576061.0
+},
+{
+"source": "36氪",
+"title": "国家能源局：截至10月底，全国累计发电装机容量41.6亿千瓦，同比增长10.9%",
+"link": "https://36kr.com/newsflashes/4084596998891905?f=rss",
+"summary": "36氪获悉，国家能源局发布2026年1-10月份全国电力统计数据。截至10月底，全国累计发电装机容量41.6亿千瓦，同比增长10.9%。其中，太阳能发电装机容量13.3亿千瓦，同比增长16.3%；风电装机容量7.1亿千瓦，同���增长20.0%。1—10月份，全国发电设备累计平均利用2406小时，比上年同期降低214小时。",
+"published": 1795576016.0
+},
+{
+"source": "36氪",
+"title": "36氪新风向丨英伟达押注、黄仁勋看好，半导体赛道又爆出大热点",
+"link": "https://36kr.com/p/4084560902728326?f=rss",
+"summary": "图源/视觉中国 本文约4700字，建议阅读12分钟 作者丨欧雪 编辑丨袁斯来 很多投资人或许偶尔还会回想起，自己怎么错过那家估值几百亿的光芯片公司。 那是2023年，他们对面的那个年轻人已经见了上百个投资人，声音已经有些嘶哑。“我们很感兴趣，会推进的。”投资人们说着客套话，心里清楚知道自己不会出手。那是资本寒冬最冷的时候，这家公司身上没有任何“安全”的标签，比如院士团队、比如已经有商业化的可能。 三年后，这家光计算芯片公司估值破了200亿。 但必须承认，当百亿估值公司诞生在光…",
+"published": 1795573898.0
+},
+{
+"source": "36氪",
+"title": "36氪首发丨创始人师从“量子互联网之父”，量子计算企业获联想之星等超亿天使轮融资",
+"link": "https://36kr.com/p/4084553221630343?f=rss",
+"summary": "图源/企业 本文约3600字，建议阅读9分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，近日，中性原子量子计算企业原子芯光（上海）量子科技有限公司（以下简称“原子芯光”）宣布完成超亿元天使轮融资。本轮融资由联想之星、上海未来产业基金联合领投，北京中关村资本、徐汇资本、嘉铭浩春、硅港资本、金雨茂物、添宥资本等机构共同投资。资金将主要用于中性原子量子处理器（QPU）与光量子互联（QLink）技术迭代、量子计算一体机产品化推进及核心团队建设。 原子芯光2026年4月成立于上海，定位是“量…",
+"published": 1795573383.0
+},
+{
+"source": "36氪",
+"title": "全栈自研水下焊接技术，解决四大高壁垒场景痛点，「振海智能」完成数千万元Pre-A轮融资｜36氪首发",
+"link": "https://36kr.com/p/4084508820875909?f=rss",
+"summary": "水下焊接机器人即将下水作业 文 | 杨越欣 编辑 | 阿至 封面来源 | 企业供图 36氪获悉，水下机器人焊接及水下再制造整体解决方案供应商「振海智能」已完成数千万元Pre-A轮融资，由普洛斯隐山资本领投，南通投管、老股东普禾资本跟投，翊荣资本担任长期独家财务顾问。本轮资金将主要用于实验设备升级、团队扩张与高壁垒场景市场拓展。 振海智能于2023年成立，依托华南理工大学在高端水下焊接领域近50年的产学研用深厚积累，具备从底层的超高频水下焊接电源、局部干法工艺，到水下机械臂与整…",
+"published": 1795571133.0
+},
+{
+"source": "The Verge",
+"title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+"link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+"summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthoriz…",
+"published": 1795568400.0
+},
+{
+"source": "少数派",
+"title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
+"link": "https://sspai.com/post/119527",
+"summary": "豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。查看全文",
+"published": 1795566155.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨黄仁勋称英伟达不需要接班人计划 ；红果短剧上线“时间锁”，支持自定义观剧时长 ；豆包灰度测试“豆包购物”",
+"link": "https://36kr.com/p/4084431441488260?f=rss",
+"summary": "今日热点导览 美国民主党：将“动用全部权力”彻查特朗普政府、黄仁勋 SpaceX和特斯拉委派五名董事负责合并谈判 木头姐旗下ARK因担忧黄仁勋离职抛售英伟达股票，错失约1070万美元潜在收益 罗马仕被列为失信被执行人 罗永浩所持锤子科技713.95万元股权续冻 Neuralink临床演示：瘫痪受试者可凭意念游玩《GTA 6》 TOP3大新闻 黄仁勋复职后首开全员大会道歉，称英伟达不需要接班人计划 当地时间周二，复职后的黄仁勋召开英伟达全员大会，向员工道歉，坦言个人严重错误、违…",
+"published": 1795565927.0
+},
+{
+"source": "TechCrunch",
+"title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+"link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+"summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a grow…",
+"published": 1795565522.0
+},
+{
+"source": "TechCrunch",
+"title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+"link": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+"summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
+"published": 1795565427.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台",
+"link": "https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S · 神舟二十四号任务将开展一年期在轨驻留试验 · PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795565301.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Zoom’s conversations-to-completion strategy is starting to pay off",
+"link": "https://siliconangle.com/2026/11/24/zooms-conversations-to-completion-strategy-is-starting-to-pay-off/",
+"summary": "Zoom Communications Inc. has spent the better part of the past few years building products to become more than just the video company everyone used during the pandemic. Its fiscal third-quarter results, posted Monday, showed the strategy is…",
+"published": 1795581809.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
+"link": "https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/",
+"summary": "Rarely a day goes by that Anthropic PBC doesn’t announce some kind of new capability, feature or model, and today wasn’t any different. Today came the ability to use Claude to create fully functional desktop applications for Windows and Mac…",
+"published": 1795574205.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Rajiv Ramaswami to step down as Nutanix begins hunt for its next CEO",
+"link": "https://siliconangle.com/2026/11/24/rajiv-ramaswami-to-step-down-as-nutanix-begins-hunt-for-its-next-ceo/",
+"summary": "Rajiv Ramaswami is stepping down from his role as chief executive of Nutanix Inc., six years after he joined the hyperconverged cloud infrastructure company from its rival VMware Inc. In a letter to company employees, Ramaswami (pictured) s…",
+"published": 1795571645.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release",
+"link": "https://siliconangle.com/2026/11/24/staff-at-anthropic-and-open-ai-sound-alarm-on-advanced-models-too-powerful-to-release/",
+"summary": "Employees working at frontier artificial intelligence model companies Anthropic PBC and OpenAI Group PBC have been butting heads with executives over advanced models whose reasoning is such that the models pose to danger to humanity, accord…",
+"published": 1795570912.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Epochal launches with $100M to help developers train predictive AI models",
+"link": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+"summary": "Artificial intelligence tooling startup Epochal AI Inc. launched today with $100 million in funding. The capital was provided by Chief Executive Officer Guodong Zhang, a machine learning researcher who earlier co-founded xAI Corp. He establ…",
+"published": 1795570232.0
+}
+]
+}
+}

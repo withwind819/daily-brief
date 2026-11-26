@@ -1,0 +1,355 @@
+{
+"date": "2026-11-26",
+"total": 49,
+"categories": {
+"AI": [
+{
+"source": "InfoQ 中国",
+"title": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+"link": "https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795694400.0
+},
+{
+"source": "InfoQ 中国",
+"title": "AI写代码，谁来交付？",
+"link": "https://www.infoq.cn/video/zrq9NZI5eJVetI8kA5kW?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795692527.0
+},
+{
+"source": "InfoQ 中国",
+"title": "前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+"link": "https://www.infoq.cn/article/3rQ4aRqts2zywSBmeJvb?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795690808.0
+},
+{
+"source": "InfoQ 中国",
+"title": "开源数据库 DocumentDB 正式发布 1.0 版本",
+"link": "https://www.infoq.cn/article/k2Q7xBBucwOwxVoyq4LG?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795690800.0
+},
+{
+"source": "InfoQ 中国",
+"title": "当产品开始写代码、研发开始做需求，团队该怎么变？｜极客对谈",
+"link": "https://www.infoq.cn/article/ehSAx1Ze0UPN2p8WzhHf?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795689000.0
+},
+{
+"source": "InfoQ 中国",
+"title": "从语音基座到语音应用：讯飞语音大模型能力全解",
+"link": "https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795688997.0
+},
+{
+"source": "InfoQ 中国",
+"title": "谷歌云 Compute Engine API 改用不可变更的日期格式版本",
+"link": "https://www.infoq.cn/article/htamKOFm9ol5c0htycSK?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795687200.0
+},
+{
+"source": "InfoQ 中国",
+"title": "清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
+"link": "https://www.infoq.cn/article/xzQgJEw18ECxHGA7FFBx?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795687200.0
+},
+{
+"source": "InfoQ 中国",
+"title": "TypeScript 改用 Go，Angular 被迫拥抱 Rust：前端编译链越来越“多语言”",
+"link": "https://www.infoq.cn/article/7qFCpLgFvMpScsxyX2fF?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795680000.0
+},
+{
+"source": "量子位",
+"title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+"link": "https://www.qbitai.com/2026/11/512828.html",
+"summary": "叠满海淀最强AI Buff。",
+"published": 1795661594.0
+},
+{
+"source": "量子位",
+"title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+"link": "https://www.qbitai.com/2026/11/512819.html",
+"summary": "合着全让A➗揽了",
+"published": 1795653637.0
+}
+],
+"科技": [
+{
+"source": "36氪",
+"title": "19.98万元起，吉利银河M8开启全球预售",
+"link": "https://36kr.com/newsflashes/4086088661657986?f=rss",
+"summary": "36氪获悉，11月24日，吉利银河M8正式开启全球预售。吉利银河M8共推出3款车型：360两驱激光版、360两驱旗舰版、330三电机四驱旗舰+版，预售价分别为19.98万元、20.98万元、23.58万元。",
+"published": 1795667652.0
+},
+{
+"source": "爱范儿",
+"title": "荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类",
+"link": "https://www.ifanr.com/1695371?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "有诚意、有新意#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795667291.0
+},
+{
+"source": "36氪",
+"title": "传闻公司代理村田MLCC权限已中止或取消？ 力源信息：不属实",
+"link": "https://36kr.com/newsflashes/4086085395425926?f=rss",
+"summary": "36氪获悉，有投资者在互动平台向力源信息提问：市场传闻村田制作所已经中止或者直接取消了公司代理村田MLCC的权限，是否属实？力源信息回复称，不属实，公司是MURATA（村田）主要授权分销商，主要代理其MLCC、电感等元器件产品，主要客户覆盖在AI、汽车、通信、家电、机器人等行业。",
+"published": 1795667266.0
+},
+{
+"source": "36氪",
+"title": "鲸鸿动能在上海举办智慧文旅沙龙，系统介绍全链路文旅营销解决方案",
+"link": "https://36kr.com/newsflashes/4086087481207173?f=rss",
+"summary": "11月25日，鲸鸿动能在上海举办“AI 重构旅游：实现端到端目的地营销创新”智慧文旅沙龙，海外旅游局、航司及酒店集团代表参与。据介绍，依托鸿蒙生态设备规模与全场景入口，鲸鸿动能围绕行前、行中、行后链路，串联浏览器、元服务、小艺助手等系统级入口，为海外目的地提供从意图洞察到服务承接的文旅营销方案。截至11月，鸿蒙操作系统终端设备数已突破1亿，生态覆盖面持续扩大。",
+"published": 1795666987.0
+},
+{
+"source": "36氪",
+"title": "深圳华强：刘慧军辞任公司副总裁职务",
+"link": "https://36kr.com/newsflashes/4086084895451524?f=rss",
+"summary": "36氪获悉，深圳华强午间公告，刘慧军因个人原因辞去公司副总裁职务，11月24日起生效，刘慧军辞去公司副总裁职务后，将继续在公司担任其他职务。截至公告披露日，刘慧军未持有公司股票。",
+"published": 1795666830.0
+},
+{
+"source": "36氪",
+"title": "华菱线缆：重组相关事项将于12月2日上会",
+"link": "https://36kr.com/newsflashes/4086069618207364?f=rss",
+"summary": "36氪获悉，华菱线缆公告，公司拟发行可转换公司债券购买吴根红、江源持有的安徽三竹智能科技股份有限公司(现已变更为“安徽三竹智能科技有限公司”)35%股权，并向华菱津杉(天津)产业投资基金合伙企业(有限合伙)发行股份募集配套资金。根据《深圳证券交易所并购重组审核委员会2026年第23次审议会议公告》，深交所并购重组审核委员会定于2026年12月2日召开2026年第23次并购重组审核委员会审议会议，审核公司本次交易事项。公司本次交易尚需深交所审核通过以及中国证券监督管理委员会同意…",
+"published": 1795666429.0
+},
+{
+"source": "爱范儿",
+"title": "首款鸿蒙小折叠电脑正式发布，生态创新重新定义折叠电脑体验",
+"link": "https://www.ifanr.com/1695349?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "未来随着更多生态伙伴的加入，鸿蒙电脑还将持续解锁更多场景化创新，为用户带来兼顾便携与高效的桌面生产力新选择。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795665864.0
+},
+{
+"source": "36氪",
+"title": "恒达新材：公司尚未涉及视觉码包装等相关业务",
+"link": "https://36kr.com/newsflashes/4086068619782791?f=rss",
+"summary": "36氪获悉，恒达新材在互动平台表示，公司目前主营业务聚焦于医疗包装原纸及食品包装原纸等特种纸原纸领域，尚未涉及视觉码包装等相关业务。",
+"published": 1795665836.0
+},
+{
+"source": "爱范儿",
+"title": "OPPO Reno17 Pro 体验：在手机里装进一只猫，分几步？",
+"link": "https://www.ifanr.com/1691222?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "哈基米，浮出机面#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795665729.0
+},
+{
+"source": "36氪",
+"title": "恒指午间休盘涨1.86%，恒生科技指数涨2.63%",
+"link": "https://36kr.com/newsflashes/4086066548304256?f=rss",
+"summary": "36氪获悉，恒指午间休盘涨1.86%，恒生科技指数涨2.63%；有色金属、煤炭、石油石化板块领涨，紫金黄金国际涨超7%，兖煤澳大利亚涨超4%，中国海洋石油涨超3%；家庭用品、食品饮料板块下挫，德康农牧跌3%，毛戈平跌超1%；南向资金净卖出96亿港元。",
+"published": 1795665710.0
+},
+{
+"source": "36氪",
+"title": "半日主力资金加仓电子、有色金属板块，抛售传媒板块",
+"link": "https://36kr.com/newsflashes/4086057016339081?f=rss",
+"summary": "主力资金早间净流入电子、有色金属、基础化工、机械设备、农林牧渔等板块，净流出传媒、非银金融、美容护理、食品饮料、环保等板块。具体到个股来看，中际旭创、东方海洋、盛合晶微获净流入12.32亿元、11.76亿元、10.85亿元。净流出方面，北纬科技、天孚通信、中芯国际遭抛售7.12亿元、6.32亿元、3.85亿元。（第一财经）",
+"published": 1795665480.0
+},
+{
+"source": "36氪",
+"title": "英国央行官员称能源价格居高风险不容忽视，暗示为12月加息保留可能性",
+"link": "https://36kr.com/newsflashes/4086047395408256?f=rss",
+"summary": "英国央行三位政策制定者表示，不能忽视持续高企的能源价格对通胀的威胁，这为下个月进一步加息留下了空间。行长安德鲁·贝利、副行长Clare Lombardelli、以及外部货币政策委员会成员Catherine Mann告诉英国议会财政委员会，除非中东局势突然出现转机，导致能源成本下降，否则他们将不得不做出回应。随着下次政策决议临近，市场定价显示加息概率接近80%。英国央行货币政策委员会于11月5日一致投票决定加息，将利率上调0.25个百分点至4%，并提出了12月17日再次加息的可…",
+"published": 1795665250.0
+},
+{
+"source": "爱范儿",
+"title": "专访《影之刃零》梁其伟：我想让年轻人觉得，中国功夫很酷丨多样性公司",
+"link": "https://www.ifanr.com/1695256?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "中国功夫，也能很酷#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795664909.0
+},
+{
+"source": "36氪",
+"title": "通则康威：光通信业务主要是PON光猫等宽带接入终端，暂未与“易中天”合作",
+"link": "https://36kr.com/newsflashes/4086048675883656?f=rss",
+"summary": "36氪获悉，通则康威在互动平台表示，公司光通信业务主要是PON光猫等宽带接入终端，依托现有海外运营商客户拓展产品品类。CPO、FAU是光通信领域前沿技术，分属不同业务方向，公司保持行业研究与跟踪，目前暂无与“易中天”的合作。",
+"published": 1795664619.0
+},
+{
+"source": "36氪",
+"title": "《出口中国能力发展报告》国际研讨会在瑞士日内瓦成功举办",
+"link": "https://36kr.com/newsflashes/4086045879413381?f=rss",
+"summary": "36氪获悉，据商务部消息，当地时间11月25日上午，《出口中国能力发展报告》国际研讨会在日内瓦万国宫成功举办。中华人民共和国国际贸易谈判代表（正部长级）兼商务部副部长李成钢强调，《出口中国能力发展报告》为各国共享中国超大规模市场提供建议，有助于各国扩大对华出口，是中方为全球共享中国市场提供的重要公共产品。中方将始终坚持真正的多边主义，坚定维护以世贸组织为核心的多边贸易体制，推动全球经济治理体系改善完善，促进普惠包容的经济全球化，拓展国际经贸互利合作空间，让中国大市场更好惠及全…",
+"published": 1795664448.0
+},
+{
+"source": "36氪",
+"title": "紫金信托增资至40亿元，增幅约22%",
+"link": "https://36kr.com/newsflashes/4086039753288067?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，紫金信托有限责任公司发生工商变更，注册资本由约32.71亿元人民币增至约40亿元人民币，增幅约22%。该公司成立于1992年9月，法定代表人为高晓俊，经营范围包括资金信托、动产信托、不动产信托等。股东信息显示，该公司由南京紫金投资集团有限责任公司、江苏宁沪高速公路股份有限公司、三井住友信托银行股份有限公司、南京新工投资集团有限责任公司、三胞集团有限公司共同持股。",
+"published": 1795664427.0
+},
+{
+"source": "36氪",
+"title": "商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问",
+"link": "https://36kr.com/newsflashes/4086042284632448?f=rss",
+"summary": "36氪获悉，商务部新闻发言人表示，欧方解除对相关中国企业的制裁措施，中方对此表示欢迎，这有利于为双方企业正常合作营造良好环境。希望欧方继续将更多中国企业移出制裁清单。近期，中方已收到相关欧盟企业移出出口管制管控名单的书面申请，正进行评估，并履行移单审查程序。",
+"published": 1795664229.0
+},
+{
+"source": "36氪",
+"title": "A股三大指数午间休盘涨跌不一，贵金属板块领涨",
+"link": "https://36kr.com/newsflashes/4086037938694784?f=rss",
+"summary": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指跌0.03%，深成指涨0.15%，创业板指涨0.06%；贵金属、能源设备、煤炭板块领涨，盛达资源涨超8%，昊华能源涨超5%，中曼石油涨超4%；休闲用品、航空、软饮料板块跌幅居前，创源股份跌超12%，吉祥航空跌超3%，东鹏饮料跌超2%。",
+"published": 1795663964.0
+},
+{
+"source": "36氪",
+"title": "机构：中国高阶智驾进入规模化普及阶段，2030年L2+渗透率预计近七成",
+"link": "https://36kr.com/newsflashes/4086011427350914?f=rss",
+"summary": "CIC灼识近日发布《2026中国高阶智能驾驶行业蓝皮书》。报告指出，中国智能驾驶正由L0-L2级辅助驾驶向L2+级高阶智能驾驶加速演进。随着高速NOA技术及量产体系逐步成熟，城市NOA正向主流价格带渗透。报告预计，中国搭载城市NOA方案的车辆销量将从2025年的约270万辆增至2030年的约1960万辆，年复合增长率达49%。与此同时，中国L2+级智能驾驶解决方案市场规模预计将从2025年的847.8亿元增至2030年的2280.6亿元，渗透率由29.4%提升至69.4%。（…",
+"published": 1795663476.0
+},
+{
+"source": "36氪",
+"title": "我国牵头提出的基因组信息学数据通用要求国际标准成功立项",
+"link": "https://36kr.com/newsflashes/4086008978926217?f=rss",
+"summary": "据了解，由我国牵头提出的国际标准提案《基因组信息学 肽组学数据的数据元通用要求》近日在国际标准化组织（ISO）正式获批立项。中国、澳大利亚、日本、韩国、新加坡等国专家将联合开展标准研制工作。该标准拟规定肽组学数据的描述、存储、交换、共享的通用要求，重点对样本及实验信息、数据采集信息、肽段鉴定与定量信息、质量控制信息等进行规范。该标准将为不同来源、不同技术平台和不同应用场景下肽组学数据的一致性表达提供基础，有助于提升数据的可发现性、可访问性、互操作性和可复用性，支撑肽组学数据与…",
+"published": 1795662968.0
+},
+{
+"source": "少数派",
+"title": "我用AI做了一张两千年的中国历史地图",
+"link": "https://sspai.com/post/117510",
+"summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。查看全文",
+"published": 1795662833.0
+},
+{
+"source": "36氪",
+"title": "网易在杭州成立智衡科技公司，注册资本7500万",
+"link": "https://36kr.com/newsflashes/4086007416875399?f=rss",
+"summary": "36氪获悉，天眼查App显示，近日，杭州网易智衡科技有限公司成立，法定代表人为李大华，注册资本7500万元人民币，经营范围含软件开发、数据处理和存储支持服务、计算机软硬件及外围设备制造等。股东信息显示，该公司由网易（杭州）网络有限公司全资持股。",
+"published": 1795662454.0
+},
+{
+"source": "36氪",
+"title": "国家能源局：10月全国各电力交易机构完成交易电量6435亿千瓦时，同比增长14.1%",
+"link": "https://36kr.com/newsflashes/4086009455782276?f=rss",
+"summary": "36氪获悉，据国家能源局消息，2026年10月，全国各电力交易机构完成交易电量6435亿千瓦时，同比增长14.1%。从交易范围看，省内交易电量5184亿千瓦时，同比增长18.5%；跨省跨区交易电量1251亿千瓦时，同比增长0.3%。从交易品种看，中长期交易电量5631亿千瓦时，现货交易电量804亿千瓦时。绿电交易电量339亿千瓦时，同比增长19.8%。电网企业市场化代理购电电量578亿千瓦时。",
+"published": 1795662225.0
+},
+{
+"source": "36氪",
+"title": "中信证券：11月30日起融资保证金比例降至80%",
+"link": "https://36kr.com/newsflashes/4086001402030721?f=rss",
+"summary": "36氪获悉，中信证券公告，自11月30日起，对融资保证金比例为100%的投资者，新开立融资合约与尚未了结的融资合约，适用保证金比例统一调整为80%。",
+"published": 1795661734.0
+},
+{
+"source": "36氪",
+"title": "“听好科技”完成两轮共数千万元融资",
+"link": "https://36kr.com/newsflashes/4085992391830153?f=rss",
+"summary": "36氪获悉，“听好科技”近日完成两轮共数千万元融资，由博裕创投、璀璨资本、梅花创投、修远资本参与投资，涵盖财务投资机构与产业投资方（机构按拼音首字母排列）。向阳资本担任长期独家财务顾问。",
+"published": 1795661596.0
+},
+{
+"source": "36氪",
+"title": "36氪首发丨安克前高管创业做AI音频设备，获博裕创投等数千万元种子轮融资，产品即将众筹",
+"link": "https://36kr.com/p/4085971424995714?f=rss",
+"summary": "作者 | 乔钰杰 编辑 | 袁斯来 本文约4500字，建议阅读11分钟 硬氪获悉，AI声学感知公司「听好科技」（HearWell）近日完成两轮共数千万元融资，由博裕创投、璀璨资本、梅花创投、修远资本参与投资，涵盖财务投资机构与产业投资方（机构按拼音首字母排列）。向阳资本担任长期独家财务顾问。 HearWell创始人王志军曾任科大讯飞智能录音笔业务线负责人，后担任安克智能音频业务负责人，负责会议Speakerphone、音箱等音频产品的研发及全球化销售，曾带领业务实现3年累计营…",
+"published": 1795659952.0
+},
+{
+"source": "爱范儿",
+"title": "Robotaxi 即将开启无人运营、机器人脱稿演讲，小鹏科技日迎来了自己的「奇点时刻」",
+"link": "https://www.ifanr.com/1695212?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "技术实力的外溢。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795659924.0
+},
+{
+"source": "36氪",
+"title": "36氪首发丨牛津博士团队绕开光刻机用玻璃做高维光计算芯片，获英诺基金独家天使投资",
+"link": "https://36kr.com/p/4085953425877377?f=rss",
+"summary": "图源/企业 本文约2400字，建议阅读6分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，光计算芯片公司万相常数近期已完成数千万元天使轮融资，由英诺基金独家投资。本轮资金将主要用于光电融合验证板卡的样机开发、飞秒激光直写设备及光电实验室搭建，以及核心研发团队的扩充。泰合资本担任本轮融资财务顾问。 万相���数成立于2026年，致力于用玻璃打造下一代光学AI加速器。公司核心团队由几位牛津大学博士组成。其中，创始人韩启昊为牛津大学光电博士，本硕阶段一直从事模拟数字集成电路设计，博士阶段转…",
+"published": 1795658822.0
+},
+{
+"source": "36氪",
+"title": "36氪首发丨合肥产投领投量子计算企业超亿元，攻坚中性原子量子多机互联",
+"link": "https://36kr.com/p/4054916912600195?f=rss",
+"summary": "文 | 张卓倩 编辑 | 袁斯来 36氪获悉，中性原子量子计算企业「乾原量子」近日完成超 1 亿元天使轮融资，本轮融资将主要用于核心光学器件自研迭代、乾阵系列中性原子 QPU （量子处理单元）整机研发，以及 QAVEXUS （量子互联技术）多机互联接口的预研与工程调试，同时用于科研团队扩充、实验室建设等产业化配套投入。 本轮由合肥产投集团牵头，联合创谷资本、合肥高投、国元基金、山证投资、鼎兴量子等合计 12 家机构共同参与，是省、市、区三级国资与市场化机构联动投资的项目，中关…",
+"published": 1795657979.0
+},
+{
+"source": "爱范儿",
+"title": "A社曝光了一份AI整顿职场魔幻实录，请甩给你那位沉迷AI提效的老板",
+"link": "https://www.ifanr.com/1691748?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "你用公司的 AI 省下的时间是公司的#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795656510.0
+},
+{
+"source": "36氪",
+"title": "「华源智因」获过亿元天使轮融资，已有基于临床管线的药效预测合作落地｜36氪首发",
+"link": "https://36kr.com/p/4084622369516167?f=rss",
+"summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，近日，「华源智因」已完成过亿元天使轮融资。本轮由华盖资本领投，华方资本、华映资本、梅花资本、同新基金、讯飞创投、启赋资本跟投。募集资金将主要用于大规模人源扰动数据生产、联合实验室建设，以及加速药企订单执行和商业化落地。向阳资本为公司长期独家财务顾问。 华源智因是36氪持续报道的虚拟细胞公司。今年7月，我们曾介绍过华源智因自研的Wise-Perturb细胞药物扰动模型等技术进展，团队希望通过细胞多模态测序和患者给药前后样本，在临床前/临床阶…",
+"published": 1795654800.0
+},
+{
+"source": "36氪",
+"title": "8点1氪丨英伟达市值一夜蒸发近9800亿元；福布斯中国辟谣“8万元包上榜”；斗鱼及创始人陈少杰被执行1.9亿余元",
+"link": "https://36kr.com/p/4085847020153478?f=rss",
+"summary": "今日热点导览 特朗普：必要时愿意赦免黄仁勋 Anthropic上市次日，创始人兄妹套现5.6亿美元 星巴克据悉正与银行洽谈出售其日本业务事宜 黄仁勋复职不穿皮衣改穿棉夹克，迪奥同款售价28000元，官网多尺寸售罄 比特币基金即将创下史上最差单月表现，资金流出规模逼近50亿美元 野人先生创始人退股运营主体 TOP3大新闻 英伟达市值一夜蒸发近9800亿元 北京时间11月26日，美国三大股指收盘涨跌不一，道指涨0.33%，标普500指数跌0.25%，纳指跌0.62%。大型科技股多…",
+"published": 1795652319.0
+},
+{
+"source": "少数派",
+"title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+"link": "https://sspai.com/post/119560",
+"summary": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。查看全文",
+"published": 1795651687.0
+},
+{
+"source": "The Verge",
+"title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+"link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+"summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Ca…",
+"published": 1795651474.0
+},
+{
+"source": "爱范儿",
+"title": "早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」",
+"link": "https://www.ifanr.com/1695128?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "· Counterpoint：2027 年全球智能手机出货量预计再降 6%，2028 年反弹 6% · 理想汽车 2026 年 Q3 营收 288.34 亿元，经营与自由现金流转正 · 26.99 万元起，宝马首款国产新世代车型 iX3 上市并开始交付#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795651377.0
+}
+],
+"创投": [
+{
+"source": "SiliconANGLE",
+"title": "Your AI agents can be fully authorized and still do damage",
+"link": "https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-authorized-and-still-do-damage/",
+"summary": "For as long as we’ve had enterprise security, it’s been organized around one question: Who is allowed to do what? Identity, zero trust and least privilege all exist to answer that question. The internet and mobile disrupted the landscape by…",
+"published": 1795661546.0
+},
+{
+"source": "SiliconANGLE",
+"title": "New York bans AI toys amid concern after stuffed animals going rogue",
+"link": "https://siliconangle.com/2026/11/25/new-york-bans-ai-toys-amid-concern-after-stuffed-animals-going-rogue/",
+"summary": "New York Governor Kathy Hochul today signed legislation that will impose a five-year ban on children’s toys powered by artificial intelligence chatbots, amid fears that dolls, robots and stuffed animals might be leading children astray or d…",
+"published": 1795657572.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation",
+"link": "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
+"summary": "Artificial intelligence developer ElevenLabs Inc. is reportedly in early talks to raise capital at a $33 billion valuation. Bloomberg today cited sources as saying that the company plans to close the round in the first quarter of 2027. Acco…",
+"published": 1795657327.0
+}
+]
+}
+}

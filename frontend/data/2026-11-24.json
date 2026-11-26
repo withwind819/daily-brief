@@ -1,8 +1,15 @@
 {
 "date": "2026-11-24",
-"total": 147,
+"total": 149,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "Working with AI",
+"link": "https://www.anthropic.com/research/working-with-ai",
+"summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 88 # Comments: 76",
+"published": 1795554458.0
+},
 {
 "source": "HN AI 热门",
 "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -184,6 +191,13 @@
 "link": "https://www.infoq.cn/article/YMYl4DVNr1pRKD8ITfaW?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1795514400.0
+},
+{
+"source": "HN AI 热门",
+"title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+"link": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+"summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/ Comments URL: https://news.ycombinator.com/item?id=50625888 Points: 82 # Comments: 40",
+"published": 1795513190.0
 },
 {
 "source": "InfoQ 中国",

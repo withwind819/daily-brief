@@ -1,6 +1,6 @@
 {
 "date": "2026-11-22",
-"total": 57,
+"total": 58,
 "categories": {
 "AI": [
 {
@@ -37,6 +37,13 @@
 "link": "https://www.infoq.cn/video/Ly5HbhY4pNMCF04abkFo?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1795369108.0
+},
+{
+"source": "HN AI 热门",
+"title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+"link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+"summary": "Back in 2015, when I was still at Google, there was a small group of code-golf enthusiasts spending hours trying to save just one byte on their solutions for weekly code-golf problems. No matter how hard you tried, there always seemed to be…",
+"published": 1795365888.0
 },
 {
 "source": "The Decoder",

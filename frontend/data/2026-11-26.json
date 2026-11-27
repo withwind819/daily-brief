@@ -1,8 +1,99 @@
 {
 "date": "2026-11-26",
-"total": 49,
+"total": 105,
 "categories": {
 "AI": [
+{
+"source": "HN AI 热门",
+"title": "AI made self-hosting fun again",
+"link": "https://janlukas.blog/posts/ai-self-hosting",
+"summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 436 # Comments: 234",
+"published": 1795729665.0
+},
+{
+"source": "The Decoder",
+"title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+"link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+"summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening all life on …",
+"published": 1795721506.0
+},
+{
+"source": "The Decoder",
+"title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+"link": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+"summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. As an apology, subscribers get an extra reset, and business users get free Fast M…",
+"published": 1795714136.0
+},
+{
+"source": "HN AI 热门",
+"title": "Tracking Diseases Cured by AI",
+"link": "https://diseasescuredbyai.com/",
+"summary": "Article URL: https://diseasescuredbyai.com/ Comments URL: https://news.ycombinator.com/item?id=50657307 Points: 306 # Comments: 184",
+"published": 1795713401.0
+},
+{
+"source": "The Decoder",
+"title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+"link": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+"summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Go…",
+"published": 1795707908.0
+},
+{
+"source": "InfoQ 中国",
+"title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
+"link": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795707351.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+"link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795705006.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Snowflake CoWork ：从受治理业务洞察到主动式业务作业 ｜ 技术趋势",
+"link": "https://www.infoq.cn/article/o7KPsR1LxisdOA9aT2Eb?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795704320.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+"link": "https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795701600.0
+},
+{
+"source": "InfoQ 中国",
+"title": "不用自建后端，前端页面也能接入云端数据了：Pages Data SDK 正式上线",
+"link": "https://www.infoq.cn/article/WXXMTPHLTH0bKV3rc35g?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795700809.0
+},
+{
+"source": "The Decoder",
+"title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+"link": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+"summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040. Google and Bl…",
+"published": 1795700467.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+"link": "https://www.infoq.cn/article/bzWoHP0FGUBSTBuP5xVJ?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795698000.0
+},
+{
+"source": "量子位",
+"title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
+"link": "https://www.qbitai.com/2026/11/512981.html",
+"summary": "还得是科班尖子生",
+"published": 1795696748.0
+},
 {
 "source": "InfoQ 中国",
 "title": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
@@ -11,11 +102,25 @@
 "published": 1795694400.0
 },
 {
+"source": "The Decoder",
+"title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+"link": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+"summary": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human involvement. State-backed groups from China and North Korea, along w…",
+"published": 1795692606.0
+},
+{
 "source": "InfoQ 中国",
 "title": "AI写代码，谁来交付？",
 "link": "https://www.infoq.cn/video/zrq9NZI5eJVetI8kA5kW?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1795692527.0
+},
+{
+"source": "The Decoder",
+"title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+"link": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+"summary": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia. Following new US export controls targeting Chinese cloud access, dealers are already seeking buyers for thousands…",
+"published": 1795692076.0
 },
 {
 "source": "InfoQ 中国",
@@ -46,6 +151,13 @@
 "published": 1795688997.0
 },
 {
+"source": "量子位",
+"title": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守",
+"link": "https://www.qbitai.com/2026/11/512972.html",
+"summary": "全栈方案破解工业机器人连续作业难题",
+"published": 1795687675.0
+},
+{
 "source": "InfoQ 中国",
 "title": "谷歌云 Compute Engine API 改用不可变更的日期格式版本",
 "link": "https://www.infoq.cn/article/htamKOFm9ol5c0htycSK?utm_source=rss&utm_medium=article",
@@ -60,11 +172,32 @@
 "published": 1795687200.0
 },
 {
+"source": "HN AI 热门",
+"title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+"link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+"summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 283 # Comments: 238",
+"published": 1795686263.0
+},
+{
+"source": "量子位",
+"title": "极客公园创新大会 2027 全议程公布！",
+"link": "https://www.qbitai.com/2026/11/512952.html",
+"summary": "今天，IF 2027 全议程揭晓。",
+"published": 1795681160.0
+},
+{
 "source": "InfoQ 中国",
 "title": "TypeScript 改用 Go，Angular 被迫拥抱 Rust：前端编译链越来越“多语言”",
 "link": "https://www.infoq.cn/article/7qFCpLgFvMpScsxyX2fF?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1795680000.0
+},
+{
+"source": "HN AI 热门",
+"title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+"link": "https://twitter.com/thsottiaux/status/2125784147889393806",
+"summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806 Comments URL: https://news.ycombinator.com/item?id=50651117 Points: 473 # Comments: 263",
+"published": 1795664218.0
 },
 {
 "source": "量子位",
@@ -82,6 +215,251 @@
 }
 ],
 "科技": [
+{
+"source": "The Verge",
+"title": "Netflix’s coziest show has made a very quiet return",
+"link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+"summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, …",
+"published": 1795726800.0
+},
+{
+"source": "TechCrunch",
+"title": "Nvidia hits pause on chip shipments to Southeast Asia",
+"link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+"summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+"published": 1795723434.0
+},
+{
+"source": "TechCrunch",
+"title": "Is Alice Huang a spy or not?",
+"link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+"summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+"published": 1795723200.0
+},
+{
+"source": "TechCrunch",
+"title": "X finally gets parental controls after 20 years",
+"link": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+"summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+"published": 1795721510.0
+},
+{
+"source": "The Verge",
+"title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+"link": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+"summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. Whe…",
+"published": 1795719600.0
+},
+{
+"source": "The Verge",
+"title": "Android app developers will soon have to share their address publicly",
+"link": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+"summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union r…",
+"published": 1795712784.0
+},
+{
+"source": "TechCrunch",
+"title": "A month with the iPhone Duo has changed how I use my phone",
+"link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+"summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+"published": 1795712400.0
+},
+{
+"source": "The Verge",
+"title": "The best Black Friday deals we’ve already found",
+"link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+"summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, …",
+"published": 1795712100.0
+},
+{
+"source": "The Verge",
+"title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+"link": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+"summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. AB…",
+"published": 1795711080.0
+},
+{
+"source": "TechCrunch",
+"title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+"link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+"summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+"published": 1795708800.0
+},
+{
+"source": "The Verge",
+"title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+"link": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+"summary": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some streamers offering more t…",
+"published": 1795708800.0
+},
+{
+"source": "Solidot",
+"title": "今天的老年人相比上一代人记忆力衰退放缓",
+"link": "https://www.solidot.org/story?sid=86006",
+"summary": "今天的老年人相比上一代人认知衰退更慢记忆更好。一项针对 1910-1964 年间出生的 21.9 万人的研究发现，出生年份每向后推移十年，60 岁时的记忆力得分便会提高 10%。全世界很多国家的人口正在老龄化，患有痴呆症的人数也在上升。但过去四十年美国人任何年龄患痴呆症的个人风险下降了三分之二。研究人员推测，记忆力的提升可能得益于童年时期更好的教育、医疗保健和营养状况；而认知功能衰退速度的放缓，则可能受到人生后期多种因素的影响，例如心血管疾病和代谢性疾病治疗水平的改善。",
+"published": 1795708739.0
+},
+{
+"source": "The Verge",
+"title": "GTA VI developers vote against unionization",
+"link": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+"summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) …",
+"published": 1795708524.0
+},
+{
+"source": "Solidot",
+"title": "英国人性生活频率大幅下降",
+"link": "https://www.solidot.org/story?sid=86005",
+"summary": "根据发表在《柳叶刀》期刊上的一项研究，英国人性生活频率大幅下降，从 1990 年每月四次降至如今的每月两次；三分之一的 16–24 岁年轻人表示从未有过性行为，而 1990-2010 年间这一比例是五分之一；过去十年同性性行为的报告在增加；观看网络色情非常流行，一半年轻女性和近九成年轻男性表示过一年曾看过色情；无子女女性明确表示不打算生育的比例过去十年间翻了一番；等等。",
+"published": 1795707700.0
+},
+{
+"source": "Solidot",
+"title": "已故网络工程师 Dave Täht 获得 Jonathan B. Postel 服务奖",
+"link": "https://www.solidot.org/story?sid=86004",
+"summary": "2025 年 4 月 1 日去世的网络工程师 Dave Täht 获得了互联网协会颁发的 Jonathan B. Postel 服务奖。今年初路由器发行版 OpenWrt 曾为纪念他而以他的名字命名 v25.12.0。互联网协会称：在 Täht 看来，视频通话中断、网页加载缓慢、进度条冻结——这些现象统称为缓冲区膨胀（bufferbloat）——都是阻碍互联网连接的障碍。所谓缓冲区膨胀是指数据在负责转发流量的硬件设备中滞留的时间。Täht 致力于寻找并推广解决网络拥塞的方案，…",
+"published": 1795706653.0
+},
+{
+"source": "The Verge",
+"title": "Why GTA VI’s version of Florida feels so real",
+"link": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+"summary": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of place. The GTA series …",
+"published": 1795705200.0
+},
+{
+"source": "Solidot",
+"title": "基因编辑猪肾在人体内正常工作一年",
+"link": "https://www.solidot.org/story?sid=86003",
+"summary": "基因编辑猪肾在人体内正常工作一年。58 岁的美国新罕布什尔州居民 Molly Falco 迎来了接受猪肾移植一周年的重要时刻。去年 11 月 22 日，她在麻省总医院接受了基因编辑猪肾移植手术。过去一年里，猪肾持续承担清除体内毒素、产生尿液及调节体液平衡等功能，让长期饱受肾病困扰的她逐渐恢复正常生活。如今她重新开起了汽车，能够为家人做饭，甚至计划恢复滑雪。美国约 9 万人正在等待肾脏移植，而 2025 年实际完成的肾移植手术不足 2.6 万例。由于猪器官在大小和部分生理功能上…",
+"published": 1795704564.0
+},
+{
+"source": "Solidot",
+"title": "中国发现新古人类支系",
+"link": "https://www.solidot.org/story?sid=86002",
+"summary": "中科院研究人员针对在南宁隆安穿山洞和柳州鹿寨龙船洞两处地点获得的 4 颗人类牙齿化石（分别距今至少 10.1 万年和 10.5 万年—4.3 万年）开展了古蛋白质组学和形态学综合分析。研究人员将穿山洞和龙船洞发现的牙齿，与其他人属标本进行比较。结果显示，两个组合呈现出截然不同的表型特征。研究人员对龙船洞以及穿山洞样本进行了古蛋白质提取，发现龙船洞样本可能代表华南地区一支具有丹尼索瓦亲缘关系的谱系，而穿山洞牙齿可能属于华南地区一支不同于丹尼索瓦人的独立谱系。研究提示华南可能是古…",
+"published": 1795703292.0
+},
+{
+"source": "Solidot",
+"title": "地球连续六天气温比工业化前水平高 2C",
+"link": "https://www.solidot.org/story?sid=86001",
+"summary": "根据欧盟哥白尼气候变化服务中心(C3S)的数据，全球气温已连续六天比工业化前水平高 2C。本周一全球日地表气温比工业化前水平高 2.24C 创历史新高，预计未来至少几天内气温仍将维持这一高位。此前只有两次日气温升幅超过 2C 的记录，分别出现在 2023 年 11 月和 2024 年 2 月，那两次持续时间较短，升温幅度都不及这次。科学界担心全球暖化可能在加速。目前地球正处以一次超强厄尔尼诺事件中。上一次如此强度的厄尔尼诺现象发生在 1870 年代，曾引发大规模饥荒，导致 5…",
+"published": 1795701967.0
+},
+{
+"source": "The Verge",
+"title": "Here’s where you can save (a little) on the Ocarina of Time remake",
+"link": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+"summary": "A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical and digital versions …",
+"published": 1795701600.0
+},
+{
+"source": "爱范儿",
+"title": "2026 年，国产模型还能追上 Opus 5.5 吗",
+"link": "https://www.ifanr.com/1695555?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "这个九月就发布的模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795687355.0
+},
+{
+"source": "36氪",
+"title": "始于爆款，困于爆款，北极狐不想只当「卖包的」",
+"link": "https://36kr.com/p/4086378667600512?f=rss",
+"summary": "一只小狐狸蜷缩着，尾巴遮住大半身子，只探出一个头。 这是北极狐（Fjällräven）的商标，也像它在中国市场的长期处境： 它的一款单品太过耀眼：十几年前，旗下Kanken背包风靡街头，样式至今几乎没变，仍随处可见。你多半见过，甚至买过，却未必叫得对名字；整个品牌则不显山露水：它对外向来“低调”，不签明星代言人，也很少大规模投放广告——自媒体盘“小众户外品牌”时，常漏掉它，入行多年的从业者中，也有人对它“缺乏感知”。 进入中国18年，这个品牌依然没被真正看清。 图源：北极狐 …",
+"published": 1795687200.0
+},
+{
+"source": "36氪",
+"title": "一款AI心理产品，靠「挽回前任挑战」活了下来",
+"link": "https://36kr.com/p/4086400100706693?f=rss",
+"summary": "AI无法取代心理咨询师。 访谈 | 刘思洁、刘孜妍 文 | 刘思洁 编辑 | 张薇 封面来源 | Unsplash 2026年6月，Tess一年半前融到的天使轮的钱，快花完了。 “如果没办法再看到数据，我们也不确定能不能继续投。”资方对Tess这么说，态度显然很犹疑。有FA告诉Tess，去讲个关于AI心理+硬件的故事，这样好融钱。 24年，Tess做了AI心理软件Moor AI——一款聚焦焦虑型依恋、以情感支持为切口的AI产品。但她不是因为赛道热门好融钱，而是母亲患有双相情感…",
+"published": 1795686713.0
+},
+{
+"source": "爱范儿",
+"title": "ChatGPT即将到来的大更新，为何让老用户集体破防",
+"link": "https://www.ifanr.com/1695589?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "20 美元的会员费，养不起一个全天候工作的 AI#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795686712.0
+},
+{
+"source": "Solidot",
+"title": "艾滋病疫苗终于触手可及",
+"link": "https://www.solidot.org/story?sid=86000",
+"summary": "本世纪初，南非 KwaZulu-Natal 省的一名年轻女性感染了 HIV。她本可能成为统计数字的一部分，但通过参与 HIV 研究她却给数百万人带来了希望。她被发现能对 HIV 病毒产生极其强烈的免疫反应。她需要在药物的帮助下才能控制病毒，但她体内的抗体被认为至今发现的最强效 HIV 抗体之一。在科学文献里她被称为 CAP256。科学家现在认为，通过模拟她感染 HIV 过程中的部分关键元素，能训练其他人的免疫系统产生同样强效的抗体去阻断多种不同的 HIV 毒株，最终研发出一种…",
+"published": 1795686118.0
+},
+{
+"source": "少数派",
+"title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+"link": "https://sspai.com/post/116773",
+"summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。查看全文",
+"published": 1795685400.0
+},
+{
+"source": "Solidot",
+"title": "图库平台充斥着生成式 AI 图像",
+"link": "https://www.solidot.org/story?sid=85999",
+"summary": "根据发表在《The Quarterly Journal of Economics》期刊上的一项研究，今天的大型图库平台充斥着生成式 AI 图像。研究针对了一个在 2022 年 12 月允许创作者销售 GenAI 生成图像的大型图库。该图库要求 GenAI 图像必须标记，允许特定市场禁止 GenAI。研究人员分析了这一政策产生的影响。结果发现：图像产量增长了 136%，活跃创作者数量增加了 47%；但传统非 GenAI 图像的产量下降了 15%，非 GenAI 活跃创作者数量减…",
+"published": 1795683012.0
+},
+{
+"source": "Solidot",
+"title": "FCC 批准 SpaceX 发射 100 万颗轨道数据中心卫星",
+"link": "https://www.solidot.org/story?sid=85998",
+"summary": "FCC 批准了 SpaceX 发射 100 万颗轨道数据中心卫星 Starmind 的申请。SpaceX 发射申请遭到了亚马逊、Viasat、美国天文学会等的反对。亚马逊认为该计划不切实际，SpaceX 建成 Starmind 星座将需要数百年的时间。FCC 主席 Brendan Carr 则反驳说亚马逊的宽带卫星星座 Kuiper 的进度也并不顺利。根据批准要求，SpaceX 必须在 2033 年 11 月 25 日前将首批 Starmind 卫星送入轨道。",
+"published": 1795681907.0
+},
+{
+"source": "Solidot",
+"title": "System76 释出 Pop!_OS 26.04 LTS",
+"link": "https://www.solidot.org/story?sid=85997",
+"summary": "System76 释出了基于 Ubuntu 26.04 LTS 的 Pop!_OS 26.04 LTS。主要变化包括：支持绘图板；初始设置或通过设置 Settings > System & accounts > System & application 启用自动更新；新增原生应用 COSMIC Viewer 和 COSMIC System Monitor，完全重新设计 COSMIC Store；支持远程桌面，改进辅助功能，等等。Pop!_OS 24.04 LTS 用户将在 1…",
+"published": 1795680142.0
+},
+{
+"source": "Solidot",
+"title": "欧几里得望远镜发现最遥远类星体",
+"link": "https://www.solidot.org/story?sid=85996",
+"summary": "ESA 欧几里得空间望远镜发现迄今观测到的距离最远的类星体。这个遥远天体的中心黑洞质量约为太阳的 3.6 亿倍。它发出的光来自宇宙大爆炸后仅 6.3 亿年的时期，为研究宇宙早期超大质量黑洞的形成与演化提供了新线索。类星体是由超大质量黑洞驱动的星系核心。当星系核心附近的气体在引力作用下向黑洞聚集，并逐渐落入黑洞时，会释放出巨大能量，使星系核心发出极其明亮的光芒。这个新发现的类星体编号为 J1504+6252，红移值达到 8.13，是首个红移值超过 8 的类星体。红移值越大，通常…",
+"published": 1795679212.0
+},
+{
+"source": "Solidot",
+"title": "1Password 源代码以及部分客户数据泄漏",
+"link": "https://www.solidot.org/story?sid=85995",
+"summary": "密码管理器 1Password 披露了一起安全事件：2026 年 11 月 19 日黑客入侵了该公司一名员工的企业 GitHub 账户，访问了源代码，向后端服务推送恶意代码，下载了客户相关的管理数据。泄漏的数据包括了客户姓名和电子邮件地址；账户及用户标识符、账户创建时间和最后登录时间；公钥（本身就是公开的），Secure Remote Password 协议参数；邀请、配置及账户恢复邮件链接中的令牌，以及其它非机密账户元数据。1Password 称，黑客拷贝了私有库的源代码，…",
+"published": 1795677324.0
+},
+{
+"source": "36氪",
+"title": "科氪 | 全焦段 4K 超清 6 秒长实况，OPPO Reno17 系列拓展创作边界",
+"link": "https://36kr.com/p/4086256279972229?f=rss",
+"summary": "2026 年 11 月 16 日，中国·成都——OPPO 举办“OPPO Reno17 系列暨移动智能生态新品发布会”，正式推出全新一代潮流手机 OPPO Reno17 系列，并同步发布轻薄小方表 OPPO Watch 5、学习平板 OPPO Pad Air6 以及 OPPO Enco Clip2 新配色粉黛海。新品围绕年轻用户的个性表达与多元生活需求，以梦核潮流美学、实况影像创作、智慧体验与跨设备生态协同为核心，带来全面升级。从引领潮流美学到不断拓新实况影像边界，Reno …",
+"published": 1795677300.0
+},
+{
+"source": "少数派",
+"title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+"link": "https://sspai.com/post/119563",
+"summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。查看全文",
+"published": 1795676400.0
+},
+{
+"source": "36氪",
+"title": "OBSBOT寻影发布三款新品，加速AI影像自动化落地｜最前线",
+"link": "https://36kr.com/p/4086154043009413?f=rss",
+"summary": "作者｜黄楠 编辑｜袁斯来 11月25日，智能影像品牌OBSBOT寻影发布寻影Tail 2先锋版、Tail Air 2与Meet 3三款新品，分别面向专业远距离拍摄、轻量化节目制作与桌面视讯场景。 影像设备行业正在经历一轮叙事重心的转移。过去几年，主流产品的竞争集中在传感器尺寸、分辨率、帧率等硬指标上，参数表越来越长，但用户在实际拍摄中面临的核心问题——构图、跟拍、运镜、多机位调度——依然高度依赖人工操作。硬件能力的提升，并没有同步转化为拍摄效率的提升。 寻影此次发布的三款产品…",
+"published": 1795674856.0
+},
+{
+"source": "Solidot",
+"title": "纽约时报警告摄影师不要升级到内置 AI 功能的 Photoshop",
+"link": "https://www.solidot.org/story?sid=85994",
+"summary": "《纽约时报》要求自由摄影师不要升级到内置 AI 功能的最新版本 Adob​​e Photoshop，理由是 AI 可能会以用户难以察觉的方式改变照片。《时报》摄影部门负责人 Meaghan Looram 和 Josh Haner 在邮件里指出，结果就是根据照片的元数据照片可能会被标记为 AI 生成。Adobe 过去几年在 Photoshop 等应用中集成了越来越多的 AI 功能，11 月释出的最新版本提供了 AI Assisted Editor 视图，允许用户通过单一工具栏访…",
+"published": 1795674758.0
+},
 {
 "source": "36氪",
 "title": "19.98万元起，吉利银河M8开启全球预售",
@@ -329,6 +707,20 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Wireless networking chip startup Altair nabs $100M investment",
+"link": "https://siliconangle.com/2026/11/26/wireless-networking-chip-startup-altair-nabs-100m-investment/",
+"summary": "Altair Semiconductor Ltd., a supplier of wireless networking chips for connected devices, today announced that it has raised $100 million in funding. Maverick Silicon led the Series A round. It was reportedly joined by Pitango, which invest…",
+"published": 1795736299.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Report sheds light on China ties of some US-based Nvidia partners",
+"link": "https://siliconangle.com/2026/11/26/report-sheds-light-on-china-ties-of-some-us-based-nvidia-partners/",
+"summary": "An investigation has shed light on links between some Nvidia Corp. partners and companies that are based in China or are accused of breaching export controls. The analysis was carried out by C4ADS, a Washington, D.C.-based nonprofit, at the…",
+"published": 1795727603.0
+},
 {
 "source": "SiliconANGLE",
 "title": "Your AI agents can be fully authorized and still do damage",

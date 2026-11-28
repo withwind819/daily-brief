@@ -1,14 +1,126 @@
 {
 "date": "2026-11-27",
-"total": 41,
+"total": 105,
 "categories": {
 "AI": [
+{
+"source": "InfoQ 中国",
+"title": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+"link": "https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795809386.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+"link": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+"summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just two years ago, the two companies teamed up to bring ChatGPT t…",
+"published": 1795808317.0
+},
+{
+"source": "InfoQ 中国",
+"title": "“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？",
+"link": "https://www.infoq.cn/article/deKZOTSuqBy0T3VYMpTE?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795805598.0
+},
+{
+"source": "The Decoder",
+"title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+"link": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+"summary": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A serial number led Bloomberg to Taiwanese manufacturer Gigabyte. Exporting these chi…",
+"published": 1795804022.0
+},
+{
+"source": "InfoQ 中国",
+"title": "如何让Agent 记得住、查得准、改得对？",
+"link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795800302.0
+},
+{
+"source": "The Decoder",
+"title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+"link": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+"summary": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that captures cause and effect. Three new studies show progress in robot…",
+"published": 1795798736.0
+},
+{
+"source": "InfoQ 中国",
+"title": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+"link": "https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795796106.0
+},
+{
+"source": "The Decoder",
+"title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+"link": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+"summary": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder.",
+"published": 1795795603.0
+},
+{
+"source": "The Decoder",
+"title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+"link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+"summary": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized definitions for business metrics. The tool could also put OpenAI in direct…",
+"published": 1795795523.0
+},
+{
+"source": "The Decoder",
+"title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+"link": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+"summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so much that an…",
+"published": 1795793867.0
+},
+{
+"source": "InfoQ 中国",
+"title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+"link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795791600.0
+},
+{
+"source": "The Decoder",
+"title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+"link": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+"summary": "SAP is preparing to eliminate at least 10,000 positions as part of a sweeping AI restructuring, Bloomberg reports, citing people familiar with the matter. The article SAP plans to cut at least 10,000 jobs as it pivots to AI appeared first o…",
+"published": 1795791445.0
+},
+{
+"source": "量子位",
+"title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+"link": "https://www.qbitai.com/2026/11/513352.html",
+"summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+"published": 1795788453.0
+},
+{
+"source": "InfoQ 中国",
+"title": "Netflix Titus为容器增加单租户VM隔离",
+"link": "https://www.infoq.cn/article/QqEgs5GtC5gbwqcV5OSR?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795788000.0
+},
+{
+"source": "InfoQ 中国",
+"title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+"link": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795784400.0
+},
 {
 "source": "InfoQ 中国",
 "title": "PingCAP数据泄露事件暴露客户记录与源代码",
 "link": "https://www.infoq.cn/article/6UjMUVRIFFCoUUZzZuqW?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1795780800.0
+},
+{
+"source": "量子位",
+"title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+"link": "https://www.qbitai.com/2026/11/513346.html",
+"summary": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+"published": 1795778304.0
 },
 {
 "source": "InfoQ 中国",
@@ -37,6 +149,41 @@
 "link": "https://www.infoq.cn/article/dgyrhBUSBtDo85O5cXiU?utm_source=rss&utm_medium=article",
 "summary": "点击查看原文>",
 "published": 1795773600.0
+},
+{
+"source": "量子位",
+"title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+"link": "https://www.qbitai.com/2026/11/513320.html",
+"summary": "淡泊名利，实至名归🎉",
+"published": 1795765158.0
+},
+{
+"source": "量子位",
+"title": "DeepSeek APP突然更新账单，网友：要收费了？",
+"link": "https://www.qbitai.com/2026/11/513305.html",
+"summary": "网页App双端亮出聊天账单",
+"published": 1795764550.0
+},
+{
+"source": "量子位",
+"title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+"link": "https://www.qbitai.com/2026/11/513227.html",
+"summary": "地图能随时修，记忆能跨任务用",
+"published": 1795762880.0
+},
+{
+"source": "量子位",
+"title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+"link": "https://www.qbitai.com/2026/11/513194.html",
+"summary": "企业需要有用的 AI",
+"published": 1795752356.0
+},
+{
+"source": "量子位",
+"title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+"link": "https://www.qbitai.com/2026/11/513211.html",
+"summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+"published": 1795752318.0
 },
 {
 "source": "量子位",
@@ -86,9 +233,289 @@
 "link": "https://www.qbitai.com/2026/11/513075.html",
 "summary": "担心课题被AI抢先，该怎么办？",
 "published": 1795744990.0
+},
+{
+"source": "InfoQ 中国",
+"title": "把 MiniMax H3Image 塞进 1L 盒子：ThinkStation PGX 单机与双机原生 4K 生图实测",
+"link": "https://www.infoq.cn/article/NbtPgaZdwwaZ5uBiWWCM?utm_source=rss&utm_medium=article",
+"summary": "点击查看原文>",
+"published": 1795738860.0
 }
 ],
 "科技": [
+{
+"source": "The Verge",
+"title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+"link": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+"summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help offset the unfortunate pr…",
+"published": 1795823599.0
+},
+{
+"source": "The Verge",
+"title": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
+"link": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
+"summary": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale for up to 60 percen…",
+"published": 1795822337.0
+},
+{
+"source": "The Verge",
+"title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+"link": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+"summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier …",
+"published": 1795822320.0
+},
+{
+"source": "The Verge",
+"title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+"link": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+"summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it \"can't commit to…",
+"published": 1795822232.0
+},
+{
+"source": "The Verge",
+"title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
+"link": "https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale",
+"summary": "No shade to those who love their subscription services, but viewing physical movies is a time-honored tradition that shouldn’t go away. Watching them doesn’t feel all that different, but deciding which movie to watch feels less annoying; si…",
+"published": 1795822200.0
+},
+{
+"source": "The Verge",
+"title": "The new iPad Mini is getting its first major discount for Black Friday",
+"link": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+"summary": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazo…",
+"published": 1795818600.0
+},
+{
+"source": "爱范儿",
+"title": "24.99 万元起！宝马新世代 i3 正式上市，纯电续航高达 1028km丨广州车展",
+"link": "https://www.ifanr.com/1695987?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "新世代的宝马，依旧是「驾驶者之车」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795797697.0
+},
+{
+"source": "Solidot",
+"title": "Kimi 向科学家提供最高 2 万美元 API 免费额度",
+"link": "https://www.solidot.org/story?sid=86015",
+"summary": "Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入。月之暗面表示，“科学始终源于人类的好奇心、严谨的探索精神，以及对未知世界的不懈追求。一个有价值的科学假设，往往需要经过大量的文献调研、数据分析和反复验证。而一次意料之外的发现，也可能成为下一项重大突破的起点。然而受限于时间、算力与人力资源，许多值得深入探索的想法，始终未能获得应有的关注与投入。我们相信 AI 能加速科学研究，拓展探索与发现的边界，…",
+"published": 1795796088.0
+},
+{
+"source": "Solidot",
+"title": "Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上",
+"link": "https://www.solidot.org/story?sid=86014",
+"summary": "GTA 6 开发商 Rockstar 的母公司 Take-Two 与微软和索尼签署了独占协议，这款备受瞩目的大作目前只有主机版本，PC 版本发布时间未知。但在 AI 工具的帮助下 PC 玩家正以惊人的速度将 GTA 6 移植到 PC 上。Take-Two 已采取行动，试图遏制这一行为：他们通过 DMCA 通知从 GitHub 上删除了逾 3000 个相关库。但这并没有放缓 PC 版本的移植速度。移植者们已经能利用 AMD 中端显卡 9070XT 和 FSR 超分辨率技术在 L…",
+"published": 1795795157.0
+},
+{
+"source": "Solidot",
+"title": "文明的历史是小麦的历史",
+"link": "https://www.solidot.org/story?sid=86013",
+"summary": "根据苏美尔神话，世界之初即无耕种也无畜牧和纺织，原神们生活窘迫，为此他们创造了谷之女神 Ashnan 和羊之神 Lahar，将他们派去帮助人类。Ashnan 和 Lahar 合作为神祇们提供了面包、酒、奶和兽皮。但众神们又争执起了谁的贡献更大。智慧之神 Enki 裁定谷之女神 Ashnan 贡献更大，理由是无谷物就没有面包和酒。推而广之，也就不会有城市，更不会有苏美尔文明。古苏美尔人的认识至今仍然正确：人类的历史是小麦的历史。人类食用小麦的历史比城市、文字乃至车轮的出现都要久…",
+"published": 1795793843.0
+},
+{
+"source": "爱范儿",
+"title": "9.69 万元，奇瑞 QQ3 变身一辆可以开咖啡馆的「QQ 啡车」丨广州车展",
+"link": "https://www.ifanr.com/1695964?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "生活方式，可大可小。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795793374.0
+},
+{
+"source": "36氪",
+"title": "热门中概股美股盘前普涨，哔哩哔哩涨近8%",
+"link": "https://36kr.com/newsflashes/4088009622665860?f=rss",
+"summary": "36氪获悉，热门中概股美股盘前普涨，截至发稿，哔哩哔哩涨近8%，蔚来、爱奇艺、知乎涨超5%，阿里巴巴、小鹏集团涨超4%，京东、理想汽车涨超3%，拼多多、百度涨超2%。",
+"published": 1795784306.0
+},
+{
+"source": "爱范儿",
+"title": "从「中国特供」变全球旗舰，搭载 Momenta 智驾的本田冠道来了｜广州车展",
+"link": "https://www.ifanr.com/1695948?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "十年前为中国造大空间，十年后用中国场景定义全球车。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795782017.0
+},
+{
+"source": "爱范儿",
+"title": "启源 Q06 迎来大升级！长安发布天枢领航 Ultra 2.0，明年 1 月推车位到车位｜广州车展",
+"link": "https://www.ifanr.com/1695936?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "15 万级家用车车主，也在认真用高阶智驾了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795781792.0
+},
+{
+"source": "爱范儿",
+"title": "捷途纵横 R700 发布：华为乾崑智驾配大梁，家用硬派两手抓｜广州车展",
+"link": "https://www.ifanr.com/1695926?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "穿西装的方盒子。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795781620.0
+},
+{
+"source": "爱范儿",
+"title": "43.99 万元，只有一个配置，岚图泰山纯电版带来了三腔空悬｜广州车展",
+"link": "https://www.ifanr.com/1695915?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "一个配置打天下。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795781479.0
+},
+{
+"source": "爱范儿",
+"title": "限时 11.99 万元起，日产 NX7 标配宁德时代电池，还有Momenta 智驾｜广州车展",
+"link": "https://www.ifanr.com/1695904?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "辅助驾驶上大分。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795781354.0
+},
+{
+"source": "Solidot",
+"title": "欧盟委员会称浏览器竞争是 DMA 优先事项",
+"link": "https://www.solidot.org/story?sid=86012",
+"summary": "欧盟委员会回应了 Open Web Advocacy 的公开信，认可浏览器是互联网的入口，是内容出版商触达读者的主要方式，而浏览器竞争是 DMA（Digital Markets Act）的优先事项。欧盟委员会表示，目前正就相关事宜进行磋商，确保竞争对手的浏览器能在 iPhone 和 iPad 上与 Safari 展开有效竞争。苹果公司此前被指控通过合规的要求阻止竞争对手的浏览器使用自己的引擎，违反了 DMA 相关规定。",
+"published": 1795777797.0
+},
+{
+"source": "36氪",
+"title": "科氪 | 安顿两产品获第二类医疗器械注册证 研发与质量管理取得新进展",
+"link": "https://36kr.com/p/4087822319860353?f=rss",
+"summary": "近日，安顿旗下子公司北京雪扬科技有限公司的相关产品——腕式脉搏血氧仪、可穿戴式心电记录仪，经北京市药品监督管理局批准，正式取得第二类医疗器械注册证。两项产品于2026年11月21日获批，注册证编号分别为京械注准20262070457、京械注准20262070458。 此次双证获批，意味着安顿在脉搏血氧监测、心电数据采集方向的相关产品通过了医疗器械注册审评，也是其专业研发能力、产品工程化能力与质量控制能力建设的阶段性成果。 安顿相关产品取得的两项医疗器械注册证 严格审评，验证底…",
+"published": 1795773752.0
+},
+{
+"source": "爱范儿",
+"title": "Agent 上车元年，支付宝造了一个行动座舱",
+"link": "https://www.ifanr.com/1695888?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "智能座舱的下半场，正在从「对话智能」步入「行动智能」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795773695.0
+},
+{
+"source": "Solidot",
+"title": "一人户二人户占全国家庭构成的近六成",
+"link": "https://www.solidot.org/story?sid=86011",
+"summary": "一个时代的家庭模板，正在悄悄退场。曾经被视作社会基本单元的三口之家，如今占比不足两成；一人户、二人户相加，已经接近全部家庭的六成。最新的家庭结构抽样数据，展现了一个很直观的变化：一人户占比 26.4%，二人户占比 33.2%，两者相加，已经接近六成。而曾经代表主流的三口之家，占比仅 19%。四人户 12.1%，五人及以上大家庭只剩下 9.3%。家庭这个最小单元，正在变得越来越小。很多人会把一人户、二人户简单等同于单身和丁克，但现实比标签复杂。一人户里面，既有主动选择独居的年轻…",
+"published": 1795773271.0
+},
+{
+"source": "爱范儿",
+"title": "阿维塔 T09 中国首秀，这是一辆可以在四座和六座之间切换的旗舰 SUV丨广州车展",
+"link": "https://www.ifanr.com/1695875?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "阿维塔的旗舰 SUV 虽迟但到。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795771023.0
+},
+{
+"source": "爱范儿",
+"title": "Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？",
+"link": "https://www.ifanr.com/1695831?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "这可能是我们见过最离谱的 AI 生成 PPT。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795770379.0
+},
+{
+"source": "Solidot",
+"title": "IBM 停止签证担保，让 H-1B 持有者选择离职或离开美国",
+"link": "https://www.solidot.org/story?sid=86010",
+"summary": "蓝色巨人决定停止为其咨询部门员工提供美国工作签证及绿卡担保。该公司咨询部门有逾 15 万员工，受影响员工可选择到其他国家工作，或在 2026 年 12 月 31 日前离职。IBM 未披露具体有多少员工会受到影响，也未说明其中有多少人身处美国。员工有三周时间决定是否接受外派。对于不愿接受海外职位的员工，公司将提供相当于三个月的离职补偿金，将 2026 年 12 月 31 日定为他们的最后工作日。在匿名员工论坛 Blind 上，一位 IBM 员工说到印度工作可能意味着减薪 80%…",
+"published": 1795769750.0
+},
+{
+"source": "爱范儿",
+"title": "蔚来三大品牌首次同台亮相广州车展，ES8、乐道 L60 推出全新特别版车型丨广州车展",
+"link": "https://www.ifanr.com/1695848?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "萤火虫渡过了最困难的时期。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795769727.0
+},
+{
+"source": "爱范儿",
+"title": "限时 25.49 万元起！奔驰纯电 GLC「大件夹抵食」",
+"link": "https://www.ifanr.com/1695815?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "智能化，不再是新势力的独角戏。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795769356.0
+},
+{
+"source": "Solidot",
+"title": "旅行者 1 号发回无法解读的信息",
+"link": "https://www.solidot.org/story?sid=86009",
+"summary": "北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是一光日。但与此同时旅行者 1 号出现了技术故障，给这一里程碑时刻蒙上了一层阴影。11 月 14 日旅行者 1 号发回的信号缺乏帧同步信息，意味着 NASA 无法解读接收到的科学数据或工程数据。遥测数据的缺乏让任务控制人员无法监测其运行状态，也无法获取其在星际空间收集到的测量结果。导致此次故障的确切原因尚不明确。",
+"published": 1795768483.0
+},
+{
+"source": "少数派",
+"title": "本周看什么 | 最近值得一看的 8 部作品",
+"link": "https://sspai.com/post/119658",
+"summary": "☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ...查看全文",
+"published": 1795768366.0
+},
+{
+"source": "爱范儿",
+"title": "广汽丰田升级「厂家三担责」，不卡每年 3 万公里，磕碰起火也由厂家兜底｜广州车展",
+"link": "https://www.ifanr.com/1695800?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "不再有「小字免责」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795768282.0
+},
+{
+"source": "36氪",
+"title": "中泰聚能CTO彭小舟：一台机器人，两班倒价值 | 36氪 2026WISE商业之王大会",
+"link": "https://36kr.com/p/4087739263072896?f=rss",
+"summary": "机器人跨过演示、走向场景的这一年，落地的问题换了一副面孔：过去问「能不能做到」，现在问「敢不敢用、值不值、怎么合作」。11月26日，WISE2026商业之王大会「具身智能&文商旅」分会场在北京亦庄举行——商场、乐园、酒店的运营方与具身智能企业、投资机构、律所和银行代表坐进同一个会场，把技术趋势放进最具体的消费场景里讨论。 这场分会场的与众不同之处，在于它聊的不是技术有多强，而是生意怎么成：机器人进商场，是替人还是加岗；成本能不能扛住，出了问题谁负责；当规则与资金的服务体系先于…",
+"published": 1795768043.0
+},
+{
+"source": "爱范儿",
+"title": "10.28 万元起，800V、后驱、原厂改装，零跑 Lafa5 想做一辆有趣的电动车丨广州车展",
+"link": "https://www.ifanr.com/1695788?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "零跑 Lafa5 不是零跑卖得最好的车，但一定是零跑最有趣的车。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795767695.0
+},
+{
+"source": "36氪",
+"title": "问界入局换电，已立项换电版问界M6｜36氪独家",
+"link": "https://36kr.com/p/4087730299894153?f=rss",
+"summary": "36氪从多位产业人士处了解到，高端自主品牌问界将入局换电，已经立项了换电版问界M6。另有接近问界的行业人士表示，赛力斯的初步想法是，依托宁德时代的换电体系开发换电车型，双方正在洽谈更具体的合作模式。 问界是华为与赛力斯，依托鸿蒙智行模式打造的高端自主汽车品牌，也是鸿蒙智行品牌的销量支柱。如今它入局换电，可能产生多重影响。 通过换电，问界M6的起售价将大幅下探，从而有望冲击更高销量。 于宁德时代的换电业务主体——时代电服而言，换电版问界如果能大卖，将推动时代电服实现重要突破。 …",
+"published": 1795767309.0
+},
+{
+"source": "爱范儿",
+"title": "30.98 万元起！换装 800V 和三联屏的问界新 M7 亮相｜广州车展",
+"link": "https://www.ifanr.com/1695775?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "问界的拳头产品迎来换代。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795766501.0
+},
+{
+"source": "Solidot",
+"title": "物理学家使用重力发送无法屏蔽的信息",
+"link": "https://www.solidot.org/story?sid=86008",
+"summary": "昆士兰大学研究人员利用重力、电梯和一台高灵敏度重力仪成功穿墙传递信息。实验在大学的 Parnell 楼进行，研究人员让电梯在两个楼层之间往返移动，其中 1.8 公吨配重在 0 和 1 之间切换，相邻卫生间里的重力仪探测到了重力场的变化，将信号翻译为单词 Gravity（重力）。Charles Woffinden 博士表示，不同于电磁信号，重力信号无法通过在传播路径上放置普通物质屏蔽。虽然目前的系统还远未达到实用阶段，但它证明利用一种普通物理屏障无法阻挡的方式进行通信是可行的。…",
+"published": 1795765066.0
+},
+{
+"source": "爱范儿",
+"title": "30.98 万元起，领克 900L 想让大七座 SUV 重新成为主流丨广州车展",
+"link": "https://www.ifanr.com/1695759?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "大车就是要七座。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795764585.0
+},
+{
+"source": "36氪",
+"title": "希音的韧性底色",
+"link": "https://36kr.com/p/4087683903814274?f=rss",
+"summary": "作者 | 明茵 对于9月份刚敲钟上市的希音（SHEIN）而言，三季度的意义是特殊的。 这是它上市后第一份完整季度财报，也是外部政策冲击最为集中的一个季度。欧盟取消低价值包裹关税豁免的影响贯穿整个报告期，美国业务仍在关税后的修复过程中，全球消费则继续趋于谨慎。 希音的三季报，也为我们提供了一个观察全球化企业和跨境行业在应对外部条件变化中保持韧性的样本。 在这样的环境里，希音本季的成绩单表现出明显分化。2026年三季度，希音实现净收入102.71亿美元，同比下降5.9%，主要受欧…",
+"published": 1795764573.0
+},
+{
+"source": "爱范儿",
+"title": "华为全新一代巨鲸电池平台：电池安全，不能只看新车出厂的那一天",
+"link": "https://www.ifanr.com/1695738?utm_source=rss&utm_medium=rss&utm_campaign",
+"summary": "安全是个警钟长鸣的事情。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+"published": 1795763214.0
+},
+{
+"source": "Solidot",
+"title": "极端高温引发地表淡水急剧下降",
+"link": "https://www.solidot.org/story?sid=86007",
+"summary": "根据发表在《科学》期刊上的一项研究，2023 年和 2024 年的全球极端高温导致地球地表淡水资源出现前所未有的下降，河流流量以及湖泊和水库蓄水量急剧减少，即使在湿润地区也是如此。中科院研究人员分析了 1991 年至 2025 年间全球河流流量以及湖泊和水库蓄水量的变化，发现了三个截然不同的阶段：1991 年至 2006 年间的显著波动、2007 年至 2022 年间的相对稳定期，以及 2023 年至 2024 年间的突发性中断——在此期间，河流流量和地表水蓄水量均急剧下降。…",
+"published": 1795761162.0
+},
+{
+"source": "36氪",
+"title": "威云创达CEO何金：一家图像传感器龙头，为什么下场做AI算力？",
+"link": "https://36kr.com/p/4086249473534598?f=rss",
+"summary": "作者丨邱晓芬 编辑丨袁斯来 国产算力市场迎来了一位跨界玩家。 11月25日，国产CMOS图像传感器厂商思特威旗下全资子公司威云创达，在上海召开了成立以来的首场新品发布会，推出两款AI训推一体机1000Pro、1000Ultra，以及物理AI智能体工作站Station、AI影视创作工具“织影”。 其中，旗舰级产品1000Ultra最高拥有47.5 PFLOPS FP4算力、4.66TB显存，支持多种大模型单机全参数部署；桌面级产品Station则拥有最高680GB显存，能够接入…",
+"published": 1795759747.0
+},
 {
 "source": "36氪",
 "title": "蜜雪集团：拟回购最多近380万股H股，占已发行H股的2.52%",
@@ -165,6 +592,13 @@
 "link": "https://36kr.com/newsflashes/4087469471414913?f=rss",
 "summary": "主力资金早间净流入电子、计算机、通信、机械设备等板块，净流出银行、农林牧渔、交通运输等板块。具体到个股来看，中际旭创、华胜天成、拓维信息获净流入17.55亿元、12.31亿元、11.84亿元。净流出方面，招商银行、中国神华、东方海洋遭抛售3.75亿元、3.46亿元、2.91亿元。（第一财经）",
 "published": 1795751337.0
+},
+{
+"source": "少数派",
+"title": "「黑五」值得买：不容错过的 App 和服务优惠",
+"link": "https://sspai.com/post/119601",
+"summary": "先预祝大家买得愉快、用得舒心。查看全文",
+"published": 1795751297.0
 },
 {
 "source": "36氪",
@@ -287,6 +721,20 @@
 }
 ],
 "创投": [
+{
+"source": "SiliconANGLE",
+"title": "Hackers reportedly breach key US Air Force cloud platform",
+"link": "https://siliconangle.com/2026/11/27/hackers-reportedly-breach-key-us-air-force-cloud-platform/",
+"summary": "Hackers have reportedly breached Cloud One, a platform that the U.S. Air Force uses to power dozens of internal applications. Reuters broke the news today, citing three people familiar with the matter. The news agency reported that the cybe…",
+"published": 1795815133.0
+},
+{
+"source": "SiliconANGLE",
+"title": "Jensen Huang returns, but controversies keep growing around Nvidia",
+"link": "https://siliconangle.com/2026/11/27/jensen-huang-returns-but-controversies-keep-growing-around-nvidia/",
+"summary": "Jensen Huang’s back, and not everyone is happy with that. Nvidia’s board reversed the resignation of its former and current-again CEO Monday, apparently under pressure from the well-known business genius and lame-duck President Donald Trump…",
+"published": 1795791656.0
+},
 {
 "source": "SiliconANGLE",
 "title": "SAP reportedly plans to lay off 10,000+ employees amid AI push",
